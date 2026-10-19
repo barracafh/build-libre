@@ -1,0 +1,15 @@
+{
+  "nombre": "Track libre",
+  "frase": "Una herramienta más para la plataforma.",
+  "icono": "?",
+  "herramienta": "libre",
+  "equipo": "libre",
+  "url": "https://build.barraca.house/libre",
+  "fuentes": [
+    {
+      "nombre": "datos.gob.es",
+      "url": "https://datos.gob.es/"
+    }
+  ],
+  "datos": "simulados"
+}
