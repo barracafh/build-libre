@@ -100,6 +100,14 @@ This is a one-night hackathon project, not a production system: keep the process
 
 ## Decision records
 
+Add an entry only for a decision that changes the structure or the functionality of the repo.
+
+- **Add:** scope (what the product does or does not do), data (source, pipeline, what is shown),
+  stack and architecture (framework, folders, dependencies), and rules every contributor follows.
+- **Do not add:** copy, colours, spacing or naming already covered by `DESIGN.md`, refactors, bug
+  fixes, and anything a reader can recover from the code or a commit message.
+- **Unsure:** put it under `## Pendiente`.
+
 Every entry in `docs/DECISIONS.md` follows this shape, in Spanish:
 
 ```markdown
@@ -134,5 +142,7 @@ Every entry in `docs/DECISIONS.md` follows this shape, in Spanish:
   hackathon.
 - [barracafh/build-libre](https://github.com/barracafh/build-libre): where the solution is
   submitted.
-
-The data source and the reference project are linked under "Data".
+- [jorgegarcelan/escano-abierto](https://github.com/jorgegarcelan/escano-abierto): source of our
+  data (code MIT, data CC BY 4.0).
+- [samuelcorsan/reforma-digital](https://github.com/samuelcorsan/reforma-digital): reference
+  project; our data does not come from it.
