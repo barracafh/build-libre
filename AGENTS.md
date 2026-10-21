@@ -18,6 +18,13 @@ Read these first:
 
 The rules below apply them here.
 
+Project information follows progressive disclosure: this file holds only what every contributor
+must know. Specific or non-mandatory detail goes in its own file and is linked from here (as
+`DESIGN.md` and `docs/DECISIONS.md` are). Do not copy it back into this file.
+
+Code follows KISS: the simplest solution that works. No abstraction, dependency or option until a
+second use needs it.
+
 ## Development
 
 ### Repo map
@@ -47,28 +54,6 @@ This is a one-night hackathon project, not a production system: keep the process
 - Before every push to `main`: `bun install --frozen-lockfile`, `bun run lint`,
   `bun run typecheck`, `bun run test`, `bun run build`. If the build fails, nothing is published.
 
-### Code rules
-
-1. **Keys.** API keys live only on the server, never with the `NEXT_PUBLIC_` prefix, and never in
-   the repository, screenshots or chat (`.env.local` locally).
-2. **`ficha.json`** describes the tool: name, phrase, icon, sources and `datos` (`simulados`, or
-   `reales` for public data). Never change `equipo`: the base path `/libre` comes from it.
-3. **Base path.** `<Link>` and `router.push` add `/libre`; a raw `<a>` to an internal page, a
-   `fetch` or a file from `public/` goes through `ruta()` from `src/config/sitio.ts`.
-4. **Accessibility.** AA contrast, visible focus, keyboard navigation, native controls (`button`,
-   `select`, `input`, `label`), `prefers-reduced-motion`, no horizontal scroll at 320 px. Never
-   encode meaning with colour alone: vote positions always use the shared marks in
-   `src/components/vote-mark.tsx` (shape + text) and the `--vote-*` colours in
-   `src/app/globals.css`, never green for yes and red for no. Party colours only identify the
-   party.
-5. **Languages.** Every UI string comes from the locale dictionaries; never hard-code user-facing
-   text in components. Spanish is the source; a missing translation falls back to Spanish. Code and
-   comments in English.
-6. **Design.** Follow [DESIGN.md](DESIGN.md). Tokens come from Sol, the visual system of Reforma
-   Digital (`src/styles/tema.css`, origin in [AVISO.md](AVISO.md)): never change its values or add colours, fonts, radii or shadows; no dark mode, no new
-   gradients. One `sunset` button per screen. On a conflict between this file and `DESIGN.md`,
-   this file wins.
-
 ## Project rules
 
 1. **Neutrality.** The tool shows verifiable facts and each person draws their own conclusions; it
@@ -91,15 +76,9 @@ This is a one-night hackathon project, not a production system: keep the process
    seats per province) the official source (BOE, the administration). Prefer an official source
    whenever one exists; cite a third party (Escaño Abierto, a press article) only for what no
    official source publishes, and say so.
-3. **When in doubt**, say it cannot be confirmed and link the official site. Never invent amounts,
-   deadlines or requirements.
-4. **Personal data.** No real personal data: no DNI, case files or passwords; simulate them.
-   Nothing the citizen types is stored: no database and no logs with their text.
-5. **Every page keeps** the notice «Herramienta experimental. No es un servicio oficial.» and the
+3. **Every page keeps** the notice «Herramienta experimental. No es un servicio oficial.» and the
    «¿Algo está mal? Avísanos» button (`src/components/boton-aviso.tsx`).
-6. **Do not edit** `SETUP.md`, `docs/COMPETITION.md`, `comun/`, `datos/`, `contexto.md` or
-   `.buildnight/`: organizer material. Our data lives in `data/`.
-7. **Decisions.** Read `docs/DECISIONS.md` before proposing a change to scope, data or stack, and
+4. **Decisions.** Read `docs/DECISIONS.md` before proposing a change to scope, data or stack, and
    add an entry ("Decision records") when a new decision is taken.
 
 ## Data
