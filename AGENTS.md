@@ -79,14 +79,36 @@ SETUP.md, comun/, datos/, .buildnight/   organizer material, do not edit
     never change its values or add colours, fonts, radii or shadows; no dark mode, no new
     gradients. One `sunset` button per screen. On a conflict between this file and `DESIGN.md`,
     this file wins.
-13. **Publishing.** Every push to `main` is published, and branches get no preview: work on
-    `main` and run `git pull --rebase` before every push. Before every push: `bun install
-    --frozen-lockfile`, `bun run lint`, `bun run typecheck`, `bun run test`, `bun run build`. If
-    the build fails, nothing is published.
+13. **Publishing.** Every push to `main` is published, and branches get no preview: to see
+    something live it has to reach `main` (see "Team agreements"). Before every push to `dev` or
+    `main`: `bun install --frozen-lockfile`, `bun run lint`, `bun run typecheck`,
+    `bun run test`, `bun run build`. If the build fails, nothing is published.
 14. **Git.** Conventional Commits in English. Code and comments in English; site copy in the
-    locale dictionaries.
+    locale dictionaries. Branch flow in "Team agreements".
 15. **Decisions.** Read [docs/DECISIONS.md](docs/DECISIONS.md) before proposing a change to scope,
     data or stack, and add an entry following the contract below when a new decision is taken.
+
+## Team agreements
+
+Flow: personal branch → `dev` → `main`.
+
+1. **One branch per person and task**, always from an up-to-date `dev`:
+   `git switch dev && git pull`, then `git switch -c <name>/<task>` (e.g. `ana/vote-table`).
+   Keep branches short: merge within hours, not at the end.
+2. **Merge into `dev`:** `git pull --rebase origin dev` on your branch, the rule 13 checks green,
+   then merge. No PR required; tell the team chat when you merge.
+3. **`dev` always builds.** If you break it, fixing it comes before anything else.
+4. **`main` only receives merges from `dev`**, never direct commits, and every merge publishes.
+   One person at a time, announced first, with the checks green and the demo reviewed locally.
+5. **Freeze `main`** 30 minutes before the demo: only critical fixes. The team adjusts the time.
+6. **Split the files:** each person owns an area (screen, route, component). Announce in the chat
+   before touching shared files (`package.json`, `bun.lock`, `layout.tsx`, `ficha.json`,
+   `src/components/ui/`).
+7. **No `push --force`** and no history rewrites on `dev` or `main`.
+8. **Small commits**, one change each, Conventional Commits (`feat:`, `fix:`, `docs:`).
+9. **Secrets stay out of the repo:** keys only in `.env.local`, never in commits, screenshots or chat.
+10. **Conflicts** are resolved on your branch before merging, keeping both sides' work. If unsure,
+    ask whoever wrote the other change.
 
 ## Data
 
