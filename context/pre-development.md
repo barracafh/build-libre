@@ -1,4 +1,4 @@
-## Estructura de la app (descripción del estado actual)
+## Estructura de Reforma Digital (estado actual)
 
 Observado navegando reforma-digital.es/congreso. No verificado contra el código: revisar en github.com/samuelcorsan/reforma-digital (ahí probablemente estén la lista de tipos de votación y de tonos).
 
@@ -35,7 +35,11 @@ Pendiente de confirmar:
 - El texto original habla de 21 temas fijos; en la web se ven 9. Revisar si son todos o si el resto está oculto.
 - Por qué Iniciativas y Preguntas por tema muestran número sin listar elementos.
 
-## 1. Cuadrícula de posiciones por tema (PRINCIPAL)
+## Funcionalidades del track
+
+Siete funcionalidades al mismo nivel. La principal es la 1.
+
+### 1. Cuadrícula de posiciones por tema (PRINCIPAL)
 
 Funcionalidad principal. Vive en el apartado Temas, junto a las tarjetas de cada tema.
 
@@ -47,28 +51,28 @@ Funcionalidad principal. Vive en el apartado Temas, junto a las tarjetas de cada
   - Las declaraciones en el Congreso de diputados de ese grupo sobre el tema.
 - Es la pieza central del servicio: responde a "qué ha hecho cada partido sobre lo que me importa".
 
-## 2. Tarjeta por tema (vistazo)
+### 2. Tarjeta por tema (vistazo)
 
 - Una tarjeta por tema con 3 a 5 votaciones clave, en lenguaje claro.
 - Por cada votación, la posición de cada partido: a favor, en contra o abstención, con el porcentaje de la mayoría de sus diputados.
 - Partidos en orden alfabético. Lectura completa en móvil.
 - El voto nunca se indica solo con color: icono y texto.
 
-## 3. Vista completa del tema
+### 3. Vista completa del tema
 
 - Al pulsar la tarjeta se abren todas las votaciones del tema, con la posición de cada partido en cada una.
 - Fuente: enlace a la ficha de Reforma Digital de cada votación (voto de cada diputado), o la fuente directa.
 - Pendiente: si basta con esa lista o hace falta algo más.
 - Dato actual: en Temas, Reforma Digital muestra las votaciones con totales (síes, noes, abstenciones, no vota), pero no el voto por grupo. Solo se ve dentro de cada votación. Esto es lo que falta.
 
-## 4. Comparador
+### 4. Comparador
 
 - El usuario elige 2 o más partidos.
 - Por tema, un deslizador o indicador: votaron igual o distinto.
 - Si difieren, se indica en qué votación y qué votó cada uno.
 - Pendiente: cómo representar visualmente las diferencias.
 
-## 5. Coherencia promesas–votos
+### 5. Coherencia promesas–votos
 
 - Mide hasta qué punto un partido ha sido coherente con las promesas de su programa de la campaña anterior (2023), según las votaciones de la legislatura.
 - Para cada promesa: las votaciones relacionadas y la posición del partido en cada una (a favor, en contra, abstención).
@@ -77,14 +81,14 @@ Funcionalidad principal. Vive en el apartado Temas, junto a las tarjetas de cada
 - Punto de partida: promesas.py, ya existente pero no publicado en la web (ver sección de estructura).
 - Pendiente: confirmar si los datos son descargables; definir criterios de "coherente" e "incoherente" por promesa; decidir si se incluye el programa completo o solo las promesas extraídas.
 
-## 6. Voto de cada diputado por tema
+### 6. Voto de cada diputado por tema
 
 - Por tema, el sentido del voto de cada diputado en cada votación.
 - Resumen de la posición del diputado en el tema.
 - Si intervino el día de la votación, detalle de esa intervención y de sus matices.
 - Filtros por provincia y por partido.
 
-## 7. Calculador de alineamiento con un partido
+### 7. Calculador de alineamiento con un partido
 
 - Compara el voto del usuario con el voto de un partido en un conjunto acotado de votaciones del Congreso. No evalúa al usuario contra todos los partidos ni da una afinidad general.
 - Flujo:
@@ -98,12 +102,12 @@ Funcionalidad principal. Vive en el apartado Temas, junto a las tarjetas de cada
 - El voto del usuario se calcula en el navegador y no se guarda.
 - Pendiente: si se mantienen pesos por tema (solo tendrían sentido dentro de un conjunto acotado); qué hacer con votaciones de procedimiento o sin posición mayoritaria clara; cómo mostrar abstenciones del usuario frente a la posición del partido.
 
-## Reglas comunes a todas las features
+## Reglas generales
 
 - Cualquier listado de partidos se muestra en orden alfabético, sin priorizar ninguno. Aplica a la cuadrícula, a las tarjetas, al comparador, a los resultados y a cualquier otra lista.
 - Los resultados son consultivos.
 
-## Arquitectura y tecnología (propuesta)
+## Arquitectura y diseño de código
 
 Base: repo `build-libre` (plantilla del track). Todo el desarrollo sigue sus reglas, su estructura y su stack.
 
