@@ -16,13 +16,4 @@ reglas obligatorias.
 - **Riesgo abierto:** ninguna fuente está comprobada (`fuente: null`) y los colores salen de los
   datos; falta la fuente oficial de cada nombre antes de mostrarlos.
 
-## 2026-10-21 17:50 +02:00 · La web usa nuestros nombres de partido
-
-- **Estado:** vigente
-- **Contexto:** los nombres de los datos son los de 2023 y ya no coinciden con los actuales.
-- **Decisión:** `groupName` (`src/lib/parliament.ts`) usa el nombre de `src/config/partidos.json` y,
-  si no hay, el de los datos (Mixto, Gobierno…).
-- **Motivo:** un solo sitio donde cambiar un nombre; los títulos oficiales de las votaciones no se
-  tocan.
-
 ## Pendiente
