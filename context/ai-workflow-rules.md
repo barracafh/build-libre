@@ -6,17 +6,18 @@ Orden de lectura al empezar cualquier sesión:
 
 1. `context/project-overview.md`
 2. `context/architecture.md`
-3. `context/pre-development.md` (decisiones tomadas y preguntas abiertas)
-4. `context/progress-tracker.md`
-5. `AGENTS.md` (reglas de la plataforma)
-6. El spec de la unidad en curso, en `context/specs/NN-nombre.md`
+3. `context/ui-context.md` (paleta, tipografía, radios, patrones de página)
+4. `context/pre-development.md` (decisiones tomadas y preguntas abiertas)
+5. `context/progress-tracker.md`
+6. `AGENTS.md` (reglas de la plataforma)
+7. El spec de la unidad en curso, en `context/specs/NN-nombre.md`
 
 ## 1. Enfoque
 
 1. Trabaja con especificaciones. Antes de escribir código, existe un spec en `context/specs/` para esa unidad. Si no existe, escríbelo primero y pide confirmación.
 2. Trabaja de forma incremental. Cada unidad produce un resultado visible y verificable.
 3. Sigue el orden de `context/specs/00-build-plan.md`. No saltes unidades. No empieces una unidad si sus dependencias no están completas en `progress-tracker.md`.
-4. Usa como fuente de verdad, en este orden: los spec, `architecture.md`, `project-overview.md`, `pre-development.md`, `AGENTS.md`. Si dos fuentes se contradicen, para y pregunta.
+4. Usa como fuente de verdad, en este orden: los spec, `architecture.md`, `ui-context.md` (para todo lo visual), `project-overview.md`, `pre-development.md`, `AGENTS.md`. Si dos fuentes se contradicen, para y pregunta.
 5. Respeta la cadena crítica: contrato del volcado → T1 (datos) → vista de cruce. Las reglas de cálculo (T2) y la interfaz base (T3) pueden avanzar con fixtures que sigan el contrato.
 
 ## 2. Alcance
@@ -96,8 +97,8 @@ Ninguna unidad se da por terminada hasta que todos estos puntos se cumplan. Ejec
 7. [ ] Cada respuesta o página con datos incluye `<Fuentes />` con enlace a la página concreta.
 8. [ ] El aviso «Herramienta experimental. No es un servicio oficial.» y el botón «¿Algo está mal? Avísanos» siguen presentes.
 9. [ ] Ningún partido aparece ordenado por resultado. El orden es alfabético.
-10. [ ] Los votos se indican con icono y texto, nunca solo con color.
-11. [ ] Contraste AA, foco visible, `prefers-reduced-motion` respetado.
+10. [ ] Los votos se indican con icono y texto, nunca solo con color. Los colores, fuentes y radios usados son solo tokens de `context/ui-context.md`, con los textos y estados exactos de su sección 2.4.
+11. [ ] Contraste AA según la tabla de `ui-context.md`, sección 4.1. Foco visible, `prefers-reduced-motion` respetado.
 12. [ ] Sin scroll horizontal a 320 px. Revisado en móvil y en escritorio.
 13. [ ] Sin errores ni avisos en la consola del navegador.
 14. [ ] Ninguna clave en el código ni con prefijo `NEXT_PUBLIC_`.
