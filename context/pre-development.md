@@ -68,12 +68,14 @@ Funcionalidad principal. Vive en el apartado Temas, junto a las tarjetas de cada
 - Si difieren, se indica en qué votación y qué votó cada uno.
 - Pendiente: cómo representar visualmente las diferencias.
 
-## 5. Promesas vs votos
+## 5. Coherencia promesas–votos
 
-- Compara el último programa electoral con los votos emitidos durante la legislatura.
+- Mide hasta qué punto un partido ha sido coherente con las promesas de su programa de la campaña anterior (2023), según las votaciones de la legislatura.
+- Para cada promesa: las votaciones relacionadas y la posición del partido en cada una (a favor, en contra, abstención).
+- Estado por promesa: coherente, incoherente, sin votación relacionada o no evaluable. Cada estado enlaza a sus votaciones.
+- No mide si la promesa se cumplió en el Gobierno ni valora el programa; solo contrasta el voto del partido con lo que prometió.
 - Punto de partida: promesas.py, ya existente pero no publicado en la web (ver sección de estructura).
-- No mide si se cumplió la promesa, sino qué votó el partido sobre lo que prometió.
-- Pendiente: confirmar si los datos son descargables.
+- Pendiente: confirmar si los datos son descargables; definir criterios de "coherente" e "incoherente" por promesa; decidir si se incluye el programa completo o solo las promesas extraídas.
 
 ## 6. Voto de cada diputado por tema
 
@@ -82,24 +84,19 @@ Funcionalidad principal. Vive en el apartado Temas, junto a las tarjetas de cada
 - Si intervino el día de la votación, detalle de esa intervención y de sus matices.
 - Filtros por provincia y por partido.
 
-## 7. Voto propio del usuario y afinidad por partido
+## 7. Calculador de alineamiento en votaciones del Congreso
 
-Funcionalidad para el usuario. Orbita en torno a los temas y a la posición de cada grupo frente a ellos.
-
+- Compara el voto del usuario con el voto de un partido en un conjunto acotado de votaciones del Congreso. No evalúa al usuario contra todos los partidos ni da una afinidad general.
 - Flujo:
-  - El usuario elige los temas que más le importan.
-  - En las votaciones de cada tema seleccionado, marca su propio sentido del voto: a favor, en contra o abstención. Puede dejar votaciones sin marcar.
-  - Opcionalmente asigna un peso a cada tema (importancia relativa) para el cálculo final.
-  - La app calcula, por cada partido, el grado de afinidad: en cada tema y después en el total ponderado.
-- Posición de un partido: sentido mayoritario de sus diputados. Un diputado que vote distinto al resto (error o decisión propia) no cambia la posición del grupo. Se muestra el porcentaje de la mayoría (normalmente 99% o 100%).
-- Afinidad por tema: porcentaje de votaciones marcadas por el usuario en las que coincide con la posición mayoritaria del partido.
-- Afinidad total: media ponderada de los porcentajes por tema, con los pesos del usuario. Temas sin votaciones marcadas no entran en el cálculo ni en el peso total.
-- Ejemplo (dos temas, pesos 10% y 90%):
-  - Partido 1 coincide al 100% en el tema de peso 10% y al 0% en el de peso 90%. Afinidad total: 1,0 × 0,1 + 0,0 × 0,9 = 10%.
-  - Partido 2 coincide al 50% en el tema de peso 90% y al 50% en el de peso 10%. Afinidad total: 0,5 × 0,9 + 0,5 × 0,1 = 50%.
-  - Gana en afinidad el partido 2, aunque el partido 1 acierte del todo en un tema. El peso decide: un acierto total en un tema poco importante pesa poco.
-- Reglas: sin ganador, sin podio, sin "tu partido es…". El voto del usuario se calcula en el navegador y no se guarda. Cada coincidencia enlaza a la votación de referencia (ficha de Reforma Digital con el voto de cada diputado).
-- Pendiente: mostrar solo afinidad por tema o también un porcentaje total por partido (ver "Decisión abierta" en proposal.md); qué hacer con votaciones de procedimiento o sin posición mayoritaria clara.
+  - El usuario elige un conjunto de votaciones (p. ej. las de un tema, o una selección manual).
+  - Marca su sentido del voto en cada una: a favor, en contra o abstención. Puede dejar votaciones sin marcar.
+  - Elige uno o varios partidos. Se muestran en orden alfabético.
+- Posición de un partido en una votación: sentido mayoritario de sus diputados. Un diputado que vote distinto al resto no cambia la posición del grupo. Se muestra sentido del voto de la mayoría (normalmente 99% o 100%).
+- Resultado por partido: número y porcentaje de votaciones marcadas en las que el usuario coincide con la posición mayoritaria del partido, sobre el total de votaciones marcadas.
+- Cada coincidencia y cada discrepancia enlaza a la votación de referencia (ficha de Reforma Digital con el voto de cada diputado).
+- Reglas: sin ganador, sin ranking entre partidos, sin "tu partido es…", sin afinidad general. El resultado solo vale para el conjunto de votaciones elegido.
+- El voto del usuario se calcula en el navegador y no se guarda.
+- Pendiente: si se mantienen pesos por tema (solo tendrían sentido dentro de un conjunto acotado); qué hacer con votaciones de procedimiento o sin posición mayoritaria clara; cómo mostrar abstenciones del usuario frente a la posición del partido.
 
 ## Reglas comunes a todas las features
 
