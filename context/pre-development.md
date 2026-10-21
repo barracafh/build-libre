@@ -84,14 +84,14 @@ Funcionalidad principal. Vive en el apartado Temas, junto a las tarjetas de cada
 - Si intervino el día de la votación, detalle de esa intervención y de sus matices.
 - Filtros por provincia y por partido.
 
-## 7. Calculador de alineamiento en votaciones del Congreso
+## 7. Calculador de alineamiento con un partido
 
 - Compara el voto del usuario con el voto de un partido en un conjunto acotado de votaciones del Congreso. No evalúa al usuario contra todos los partidos ni da una afinidad general.
 - Flujo:
   - El usuario elige un conjunto de votaciones (p. ej. las de un tema, o una selección manual).
   - Marca su sentido del voto en cada una: a favor, en contra o abstención. Puede dejar votaciones sin marcar.
   - Elige uno o varios partidos. Se muestran en orden alfabético.
-- Posición de un partido en una votación: sentido mayoritario de sus diputados. Un diputado que vote distinto al resto no cambia la posición del grupo. Se muestra sentido del voto de la mayoría (normalmente 99% o 100%).
+- Posición de un partido en una votación: sentido mayoritario de sus diputados. Un diputado que vote distinto al resto no cambia la posición del grupo. Se muestra el porcentaje de la mayoría (normalmente 99% o 100%).
 - Resultado por partido: número y porcentaje de votaciones marcadas en las que el usuario coincide con la posición mayoritaria del partido, sobre el total de votaciones marcadas.
 - Cada coincidencia y cada discrepancia enlaza a la votación de referencia (ficha de Reforma Digital con el voto de cada diputado).
 - Reglas: sin ganador, sin ranking entre partidos, sin "tu partido es…", sin afinidad general. El resultado solo vale para el conjunto de votaciones elegido.
@@ -102,3 +102,72 @@ Funcionalidad principal. Vive en el apartado Temas, junto a las tarjetas de cada
 
 - Cualquier listado de partidos se muestra en orden alfabético, sin priorizar ninguno. Aplica a la cuadrícula, a las tarjetas, al comparador, a los resultados y a cualquier otra lista.
 - Los resultados son consultivos.
+
+## Arquitectura y tecnología (propuesta)
+
+Base: repo `build-libre` (plantilla del track). Todo el desarrollo sigue sus reglas, su estructura y su stack.
+
+### Stack
+
+- Next.js 16.4 (App Router), React 19.3, TypeScript, Tailwind 4.3, Bun. Node 22 o superior.
+- Publicación: cada push a `main` se publica en `https://build.barraca.house/libre`. `bun run build` tiene que pasar o no se publica.
+- Ruta base `/libre` (`basePath`). Para `fetch` propios e imágenes de `public/`, usar `ruta()` de `src/config/sitio.ts`.
+- Instalar con `bun install --frozen-lockfile`. Componentes nuevos solo con `bunx shadcn@4.22.1 add <componente>`. No usar `--overwrite` ni `shadcn init`.
+- Python no forma parte de este proyecto. El recolector de Reforma Digital (Python, Postgres, Vercel Blob) no se porta.
+
+### Frontend y backend
+
+- Frontend: React con Server Components por defecto y Client Components donde haga falta interacción (cuadrícula, filtros, calculador).
+- Backend: solo Route Handlers en `src/app/api/` y lógica de servidor en `src/lib/`. Ninguna clave con prefijo `NEXT_PUBLIC_`.
+- Cálculos (alineamiento, coherencia, cuadrícula): funciones puras en `src/lib/`, testeables sin interfaz.
+
+### Base de datos
+
+- Ninguna. Solo se leen datos públicos ya publicados por Reforma Digital.
+- Motivo: la plantilla prohíbe guardar texto del ciudadano (ni BD ni logs). Como no hay escritura, no hay necesidad de BD.
+- El voto propio del usuario (feature 7) vive solo en memoria, en el estado de React. No se guarda en servidor ni en `localStorage`.
+
+### Componentes y diseño
+
+- Componentes de `src/components/ui/` copiados (no importados) de `packages/design/ui/` de Reforma Digital, shadcn/ui con Base UI. Origen en `AVISO.md` (MIT, commit `8ca1935`).
+- Tokens en `src/styles/tema.css`. No cambiar valores ni añadir colores, fuentes, radios o sombras.
+- Sin logotipos ni nombre de Reforma Digital ni de la Administración.
+- Votos siempre con icono y texto, nunca solo color. Contraste AA, foco visible, `prefers-reduced-motion`.
+- Sin scroll horizontal a 320 px.
+
+### Datos de Reforma Digital
+
+Endpoints públicos de lectura (CORS, sin clave):
+
+- `GET /api/congreso/datasets/<ruta>.json`: conjuntos publicados completos.
+- `GET /api/congreso/votaciones/<id>`: votación con el voto de cada diputado (`votos`: diputado, grupo, voto).
+- `GET /api/congreso/votaciones?legislatura=XV&pagina&limite&q&desde&hasta`: listado. Máximo 100 por página. No filtra por tema.
+- `GET /api/congreso/sesiones` y `GET /api/congreso/sesiones/<DSCD-id>`: sesión con intervenciones (orador, grupo, tono, temas, cita, resumen).
+- `GET /api/congreso/descarga`: tar.gz completo.
+
+Campos y reglas útiles:
+
+- Temas: campo `tm` en votaciones, leyes e intervenciones. Son 21 temas por palabras clave (vivienda, sanidad, educación, pensiones, empleo, impuestos, energía, clima, campo, igualdad, inmigración, seguridad, justicia, defensa, política exterior, territorio, transporte, cultura, derechos sociales, tecnología, democracia). La web muestra 9; el código tiene 21. Usar `tm` directamente, sin clasificar de nuevo.
+- Tono de las intervenciones: lo genera una IA (`ia.provider`, `ia.model`). No hay lista cerrada en el código. Mostrar siempre que es un análisis automático y no verificado.
+- Encuestas: el endpoint responde 451 durante la veda. No las usamos.
+- Caché: la API responde con cabeceras de caché de 5 a 60 segundos según la ruta.
+
+### Origen de los datos (decisión pendiente)
+
+- A. Fetch en build (Server Components). Datos frescos, pero si la API cae el build falla y no se publica.
+- B. Snapshot JSON en `src/datos/`, con script de refresco. Build estable, datos con fecha. Recomendado.
+- C. Fetch en cliente. Sin dependencia en build, pero más carga y dependencia en tiempo de uso.
+- Antes de decidir: medir el tamaño de los conjuntos que se necesiten.
+
+### Atribución y fuentes
+
+- Escaño Abierto: CC BY 4.0. Reforma Digital: MIT. Citar ambos en cada página que use los datos.
+- Cada respuesta lleva `<Fuentes />` con enlace a la votación o sesión concreta (congreso.es o ficha de Reforma Digital).
+- `ficha.json`: `datos` pasa de `simulados` a `reales`. Actualizar `fuentes` con Reforma Digital, Escaño Abierto y congreso.es.
+- Aviso «Herramienta experimental. No es un servicio oficial.» y botón «¿Algo está mal? Avísanos» en todas las páginas.
+
+### Límites conocidos
+
+- La API en vivo no se ha podido probar desde la sesión de desarrollo (bloqueo de red). Confirmar rutas y tamaños antes de implementar.
+- Los datos de promesas (`promesas.py`) no son descargables todavía. Confirmar.
+- Track: todo lo anterior vale solo si el alcance pasa la revisión de la organización (ver sección de features 5 y 7).
