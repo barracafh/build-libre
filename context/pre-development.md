@@ -3,21 +3,26 @@
 - Stack: Next.js (App Router), React, TypeScript, Bun. Lo fija el repo base.
 - Base de datos: ninguna por defecto. Permitida si hace falta; sin uso definido.
 - Datos: volcado JSON versionado en el repo, generado por script TypeScript (Bun), no Python. Ubicación: `src/datos/` (no `datos/`, que es material de la organización). La app no llama a la API en vivo.
-- Alcance: features 1-8 en el plan; la 8, más adelante. Se construyen una a una, hasta donde se llegue, con arquitectura pensada para el alcance completo.
+- Alcance: features 1-8 en el plan; la 5 y la 8, fuera del hackatón. Se construyen una a una, hasta donde se llegue, con arquitectura pensada para el alcance completo.
 - Features 5 y 7: dentro del plan. Su conflicto con las normas (`AGENTS.md`, revisión de la organización) se resuelve más adelante con la organización. Mientras, se tratan como incluidas.
 - Prioridad del hackatón: lo demostrable el jueves 22 sin romper el build.
+- Tests: se testea todo lo relevante. El detalle de los tests se define más adelante, al avanzar en el desarrollo (decidido).
+- Repo original: `C:\Users\adrik\Projects\reforma-digital`, monorepo. Reforma Digital en `apps/web` y el pipeline en `apps/ingestion/escano`.
+- Feature 5 (promesas–votos): fuera del hackatón. Verificado con el repo local `reforma-digital`: existe `apps/ingestion/escano/promesas.py` (pipeline v1, programas del 23J), pero el resultado no está en el repo ni se publica (sin referencias en web ni API). Necesita los PDFs de programas 2023 y la IA (NaN) para extraer y juzgar. Se reabre si se consiguen esos insumos.
+- Actualización del volcado: script TypeScript en el repo, ejecutable a mano cuando haga falta. Primera generación congelada para el hackatón. Automatizarlo con GitHub Action queda para después. La fecha del volcado se muestra en la interfaz (decidido).
+- Autenticación y acceso: sin cuentas ni login. Datos públicos de lectura. Analítica: ninguna. Sin seguimiento de ningún tipo (decidido).
 - Orden de trabajo: en paralelo cuando se pueda, por personas distintas. Si es en serie: B (cuadrícula con volcado de prueba), luego A (pipeline de datos), luego C (reglas de cálculo con tests). Nota: B necesita al menos una muestra real de la API, que se obtiene en el primer paso de A.
 - Pleno y Comisión: se incluyen ambos. Cada votación lleva una etiqueta que indica el órgano (Pleno o Comisión). Decidido.
-- Comisión: mismo umbral del 90% que en Pleno, por ahora. Pendiente de tratar más adelante: votaciones de comisión con pocos votantes, donde un voto discordante marca el partido como dividido.
+- Comisión: mismo umbral del 80% que en Pleno, por ahora. Pendiente de tratar más adelante: votaciones de comisión con pocos votantes, donde un voto discordante marca el partido como dividido.
 - Flujo de entrada: cuadrícula directa, sin navegación previa ni filtros. Todos los temas visibles (decidido).
 - Flujo de celda: pulsar un cruce partido × tema abre la vista de cruce (ver feature 1).
-- Citas: selección por IA (decidido). Literal de la transcripción, nunca inventada ni interpretada. Supuesto del equipo: ninguna cita del orador contradice la postura del partido; como mucho puede ser menos representativa. Vigilar en la demo.
-- Relevancia de votación para tema: criterio de Temas de Reforma Digital (campo `tm`). Verificar su asignación en github.com/samuelcorsan/reforma-digital.
+- Citas: selección por IA (decidido). Literal de la transcripción, nunca inventada ni interpretada. Supuesto del equipo: ninguna cita del orador contradice la postura del partido; como mucho puede ser menos representativa. Vigilar en la demo. Verificado en el repo: `apps/ingestion/escano/analisis.py` (`cita_verificada`) descarta toda cita que no aparezca literalmente en el Diario de Sesiones.
+- Relevancia de votación para tema: criterio de Temas de Reforma Digital (campo `tm`). Resuelto: `temas.py`, por palabras clave, sin IA.
 - Legislatura: solo la última (XV), sobreentendida. Los datos de Reforma Digital ya se limitan a ella.
 - Grupo Mixto: fuera de la cuadrícula y de la calculadora por ahora.
 - Posición de un partido en una votación: sentido mayoritario entre sus diputados que votan. Ausencias no cuentan. Tres sentidos (a favor, en contra, abstención), con las mismas reglas para los tres.
-- Umbral del 90%, justificado por tamaño mínimo: los partidos tienen al menos 15 escaños (fuera del grupo mixto). Con 15 escaños, 2 votos discordantes dan 86,7% → dividido; 1 discordante da 93,3% → posición. El umbral es proporcional: en grupos grandes hacen falta muchos más discordantes para bajar del 90%.
-- Umbral único: 90%. Si el sentido mayoritario es 90% o más, es la posición del partido, con su porcentaje. Si es menos de 90%, el cruce se marca como "dividido (mayoritariamente a favor / en contra / abstención)".
+- Umbral del 80%: alineado con Reforma Digital (`votaciones.py`, `posicion_grupo`), para que las celdas coincidan con su fuente. Decidido. El argumento anterior de los 15 escaños (90%) queda descartado.
+- Umbral único: 80%. Si el sentido mayoritario es 80% o más, es la posición del partido, con su porcentaje. Si es menos de 80%, el cruce se marca como "dividido (mayoritariamente a favor / en contra / abstención)". Nota visible en la interfaz: el umbral coincide con Reforma Digital.
 - Calculadora (feature 7), votos divididos: por ahora cuenta el sentido mayoritario del partido. El resultado indica que el usuario está alineado con la mayoría de los votos que emitió ese partido. Pendiente de revisar: estado especial "alineamiento no definible" para estos casos.
 - Feature 8 (candidaturas): más adelante, no se desarrolla en el hackatón. Con diputados actuales no tiene sentido: la feature 6 ya muestra su posición individual. Tras el 28 de octubre será una copia de la 6 con candidaturas reales.
 - Intervenciones: asociadas a sesión, no a votación. La vista de cruce muestra intervenciones de sesiones donde se votó una votación relevante para el tema.
@@ -26,16 +31,39 @@
 
 - MVP del jueves: pendiente de confirmar (propuesta A: features 1 y 3).
 - Filtro de temas: descartado (cuadrícula sin filtros, todos los temas visibles).
-- Relevancia: verificar en el repo de Reforma Digital cómo asigna `tm` en Temas. ¿Se filtran también las intervenciones por `tm`? Pendiente.
+- Selección de cita: resuelto. La IA selecciona, la verificación literal ya existe en el pipeline. Supuesto aceptado: las intervenciones están alineadas con la votación del partido. Comprobación con el campo `posicion`: aplazada, no se gestiona en esta fase.
+- Relevancia: resuelto. `tm` lo asigna `temas.py` por palabras clave, sin IA, a votaciones, leyes y puntos del orden del día. Pendiente: las intervenciones llevan `temas` del análisis de IA (`construir.py`), no `tm`. ¿Filtramos por ese campo o solo por sesión?
 - Grupo Mixto: fuera por ahora (decidido).
-- División interna: umbral único 90% (decidido). Por debajo, "dividido (mayoritariamente X)". Mínimo de diputados: 15 (decidido; el grupo mixto queda aparte).
+- División interna: umbral único 80% (decidido). Por debajo, "dividido (mayoritariamente X)". Mínimo de diputados: sin efecto con el umbral del 80%.
 - Calculadora (feature 7), votos divididos: cuenta la mayoría por ahora. Pendiente de revisar: estado especial "alineamiento no definible".
-- Pleno y Comisión: ambas, con etiqueta de órgano (decidido). Umbral: el mismo 90% por ahora. Pendiente de tratar más adelante: votaciones de comisión con pocos votantes (1 a 5 por partido), donde un voto discordante marca dividido. Comprobar si la API da el órgano de cada votación.
+- Umbral: resuelto. Se usa el 80% de Reforma Digital (decidido). Pendiente: revisar los tests de la función de umbral al cambiarlo.
+- Pleno y Comisión: ambas, con etiqueta de órgano (decidido). Umbral: el mismo 80% por ahora. Pendiente de tratar más adelante: votaciones de comisión con pocos votantes (1 a 5 por partido), donde un voto discordante marca dividido. Verificado: `votaciones.py` solo trae votaciones del Pleno (datos abiertos del Pleno). Con este dataset no hay votaciones de Comisión, así que la etiqueta de órgano no tiene datos que mostrar. Revisar la decisión C.
 - Feature 7, pesos por tema: pendiente (`proposal.md` dice que el usuario los elige; este documento lo deja abierto).
 - Feature 7, porcentaje global por partido: pendiente (`proposal.md` lo deja abierto; propuesta: solo por tema).
 - Candidaturas (feature 8): más adelante, no en el hackatón. Tras el 28/10 será copia de la 6. Pendiente: confirmar provincia de cada diputado en la API.
 - Tono de intervenciones generado por IA: revisión o etiquetado antes de publicar.
 - Verificar la API en vivo: primera tarea técnica, antes del volcado.
+
+## Plan de trabajo (paralelo)
+
+Primer paso común, antes de separarse: acordar el contrato del volcado. Esquema JSON de votaciones (voto por diputado, grupo, órgano, `tm`), sesiones e intervenciones. Sin contrato, los tracks no avanzan en paralelo. Estimación: 1 hora.
+
+Tracks en paralelo:
+
+- **T1 Datos (crítico)**: probar la API en vivo; script TypeScript que genera `src/datos/` con fecha; primera generación congelada. Sin dependencias. Entrega: volcado + fecha.
+- **T2 Reglas de cálculo**: funciones puras en `src/lib/` (posición con 80%, mayoría, división, alineamiento, solo Pleno), con tests. Sin dependencias: se desarrollan con fixtures que siguen el contrato. Entrega: funciones + tests.
+- **T3 Interfaz base**: cuadrícula (feature 1) y tarjetas (feature 2) con fixture. Depende del contrato. Se conecta a T1 al entregar el volcado.
+- **T4 Transversal**: aviso «Herramienta experimental», `<Fuentes />` en cada respuesta, `ficha.json`, atribución (Escaño Abierto CC BY 4.0; Reforma Digital MIT), fecha del volcado visible. Sin dependencias.
+
+En serie (dependen de T1, T2 y T3):
+
+- Vista de cruce (detalle de la feature 1) y vista completa de tema (feature 3): T1 (sesión → votaciones relevantes por `tm`, intervenciones) + T3.
+- Comparador (4) y calculadora (7): T2 + T3.
+- Votos por diputado (6): T1. Medir antes el tamaño del volcado de votos por diputado.
+
+Cadena crítica: contrato → T1 → vista de cruce.
+
+Reparto por personas: pendiente, lo decide el equipo. No se toca `datos/` ni `comun/`.
 
 ## Estructura de Reforma Digital (estado actual)
 
@@ -120,7 +148,7 @@ Funcionalidad principal. Vive en el apartado Temas, junto a las tarjetas de cada
 - Si difieren, se indica en qué votación y qué votó cada uno.
 - Pendiente: cómo representar visualmente las diferencias.
 
-### 5. Coherencia promesas–votos
+### 5. Coherencia promesas–votos (fuera del hackatón)
 
 - Mide hasta qué punto un partido ha sido coherente con las promesas de su programa de la campaña anterior (2023), según las votaciones de la legislatura.
 - Para cada promesa: las votaciones relacionadas y la posición del partido en cada una (a favor, en contra, abstención).
@@ -143,7 +171,7 @@ Funcionalidad principal. Vive en el apartado Temas, junto a las tarjetas de cada
   - El usuario elige un conjunto de votaciones (p. ej. las de un tema, o una selección manual).
   - Marca su sentido del voto en cada una: a favor, en contra o abstención. Puede dejar votaciones sin marcar.
   - Elige uno o varios partidos. Se muestran en orden alfabético.
-- Posición de un partido en una votación: sentido mayoritario de sus diputados. Un diputado que vote distinto no cambia la posición del grupo mientras la mayoría sea 90% o más. Se muestra el porcentaje de la mayoría.
+- Posición de un partido en una votación: sentido mayoritario de sus diputados. Un diputado que vote distinto no cambia la posición del grupo mientras la mayoría sea 80% o más. Se muestra el porcentaje de la mayoría.
 - Resultado por partido: número y porcentaje de votaciones marcadas en las que el usuario coincide con la posición mayoritaria del partido, sobre el total de votaciones marcadas.
 - Cada coincidencia y cada discrepancia enlaza a la votación de referencia (ficha de Reforma Digital con el voto de cada diputado).
 - Reglas: sin ganador, sin ranking entre partidos, sin "tu partido es…", sin afinidad general. El resultado solo vale para el conjunto de votaciones elegido.
@@ -206,6 +234,16 @@ Endpoints públicos de lectura (CORS, sin clave):
 - `GET /api/congreso/sesiones` y `GET /api/congreso/sesiones/<DSCD-id>`: sesión con intervenciones (orador, grupo, tono, temas, cita, resumen).
 - `GET /api/congreso/descarga`: tar.gz completo.
 
+Verificado en el repo local (`apps/web/app/api/congreso/[[...path]]/route.ts` y `apps/web/lib/congreso/schema.ts`):
+
+- Raíz `GET /api/congreso`: devuelve `conjuntos` (path, sha256, updated_at), `publicacion` y `endpoints`. Es el punto de partida. Los nombres de los conjuntos viven en base de datos, no en el repo.
+- `datasets/indice.json`: índice común (grupos, diputados, meses disponibles).
+- `datasets/AAAA-MM.json`: un fichero por mes, con `sesiones`, `votaciones` e `intervenciones` (esquema `monthSchema`). Es el candidato natural para el volcado de la XV: se recorre la lista de meses del índice.
+- Otros conjuntos con esquema propio: `leyes.json`, `preguntas.json`, `organigrama.json`, `semanas.json`, `geografia/territorios.json`, `elecciones/*`. Los `encuestas/*` no se usan.
+- Paginación en `votaciones`, `preguntas` y `sesiones`: `pagina` (máx. 10000) y `limite` (por defecto 24, máx. 100). Filtros: `legislatura`, `desde`, `hasta`, `q`, `estado`. No hay filtro por `tm`.
+- Contrato: `schema.ts` ya define `voteSchema`, `sessionSchema`, `interventionSchema` y `monthSchema`. El volcado valida contra esos esquemas, no los redefine.
+- Pendiente: confirmar en la API en vivo los nombres de conjuntos y los meses de la XV. El repo no contiene datos.
+
 Campos y reglas útiles:
 
 - Temas: campo `tm` en votaciones, leyes e intervenciones. Son 21 temas por palabras clave (vivienda, sanidad, educación, pensiones, empleo, impuestos, energía, clima, campo, igualdad, inmigración, seguridad, justicia, defensa, política exterior, territorio, transporte, cultura, derechos sociales, tecnología, democracia). La web muestra 9; el código tiene 21. Usar `tm` directamente, sin clasificar de nuevo.
@@ -223,6 +261,17 @@ Opciones evaluadas (referencia):
 - B. Snapshot JSON en `src/datos/`, con script de refresco. Build estable, datos con fecha. Recomendado.
 - C. Fetch en cliente. Sin dependencia en build, pero más carga y dependencia en tiempo de uso.
 - Pendiente: medir el tamaño de los conjuntos antes de generar el volcado.
+
+### Publicación (verificado en los repos)
+
+- `build.barraca.house` es un dominio compartido. Cada equipo sirve su app bajo `/<equipo>` (aquí `/libre`). El enrutado entre apps lo hace la plataforma BARRACA, fuera de ambos repos. En `reforma-digital` no hay configuración de despliegue que lo haga.
+- `next.config.ts` fija `basePath` = `/libre`. Todo enlace, asset y fetch lleva ese prefijo. Por eso existen `<Link>` y `ruta()`.
+- Publicación: cada push a `main` se publica si `bun run build` pasa (`AGENTS.md`). `vercel.json` declara Next.js, `bun install --frozen-lockfile` y `bun run build`. El dominio es el de la plataforma; confirmar qué hosting lo sirve.
+- `reforma-digital` es otra app, con su propia base de datos y su dominio (reforma-digital.es). Nuestra app no la sirve ni la sustituye: solo consume su API pública.
+- Pendiente de confirmar con la organización:
+  - Cómo enruta la plataforma `/libre`.
+  - El host base de la API de Reforma Digital para el volcado. El documento no lo define; probablemente `https://reforma-digital.es`.
+  - Que el build no hace llamadas de red. El volcado sí las hace, y se ejecuta fuera del build.
 
 ### Atribución y fuentes
 
