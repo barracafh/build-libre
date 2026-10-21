@@ -1,10 +1,49 @@
+## Decisiones tomadas (sesión de definición, 21/10)
+
+- Stack: Next.js (App Router), React, TypeScript, Bun. Lo fija el repo base.
+- Base de datos: ninguna por defecto. Permitida si hace falta; sin uso definido.
+- Datos: volcado JSON versionado en el repo, generado por script TypeScript (Bun), no Python. Ubicación: `src/datos/` (no `datos/`, que es material de la organización). La app no llama a la API en vivo.
+- Alcance: features 1-8 en el plan; la 8, más adelante. Se construyen una a una, hasta donde se llegue, con arquitectura pensada para el alcance completo.
+- Features 5 y 7: dentro del plan. Su conflicto con las normas (`AGENTS.md`, revisión de la organización) se resuelve más adelante con la organización. Mientras, se tratan como incluidas.
+- Prioridad del hackatón: lo demostrable el jueves 22 sin romper el build.
+- Orden de trabajo: en paralelo cuando se pueda, por personas distintas. Si es en serie: B (cuadrícula con volcado de prueba), luego A (pipeline de datos), luego C (reglas de cálculo con tests). Nota: B necesita al menos una muestra real de la API, que se obtiene en el primer paso de A.
+- Pleno y Comisión: se incluyen ambos. Cada votación lleva una etiqueta que indica el órgano (Pleno o Comisión). Decidido.
+- Comisión: mismo umbral del 90% que en Pleno, por ahora. Pendiente de tratar más adelante: votaciones de comisión con pocos votantes, donde un voto discordante marca el partido como dividido.
+- Flujo de entrada: cuadrícula directa, sin navegación previa ni filtros. Todos los temas visibles (decidido).
+- Flujo de celda: pulsar un cruce partido × tema abre la vista de cruce (ver feature 1).
+- Citas: selección por IA (decidido). Literal de la transcripción, nunca inventada ni interpretada. Supuesto del equipo: ninguna cita del orador contradice la postura del partido; como mucho puede ser menos representativa. Vigilar en la demo.
+- Relevancia de votación para tema: criterio de Temas de Reforma Digital (campo `tm`). Verificar su asignación en github.com/samuelcorsan/reforma-digital.
+- Legislatura: solo la última (XV), sobreentendida. Los datos de Reforma Digital ya se limitan a ella.
+- Grupo Mixto: fuera de la cuadrícula y de la calculadora por ahora.
+- Posición de un partido en una votación: sentido mayoritario entre sus diputados que votan. Ausencias no cuentan. Tres sentidos (a favor, en contra, abstención), con las mismas reglas para los tres.
+- Umbral del 90%, justificado por tamaño mínimo: los partidos tienen al menos 15 escaños (fuera del grupo mixto). Con 15 escaños, 2 votos discordantes dan 86,7% → dividido; 1 discordante da 93,3% → posición. El umbral es proporcional: en grupos grandes hacen falta muchos más discordantes para bajar del 90%.
+- Umbral único: 90%. Si el sentido mayoritario es 90% o más, es la posición del partido, con su porcentaje. Si es menos de 90%, el cruce se marca como "dividido (mayoritariamente a favor / en contra / abstención)".
+- Calculadora (feature 7), votos divididos: por ahora cuenta el sentido mayoritario del partido. El resultado indica que el usuario está alineado con la mayoría de los votos que emitió ese partido. Pendiente de revisar: estado especial "alineamiento no definible" para estos casos.
+- Feature 8 (candidaturas): más adelante, no se desarrolla en el hackatón. Con diputados actuales no tiene sentido: la feature 6 ya muestra su posición individual. Tras el 28 de octubre será una copia de la 6 con candidaturas reales.
+- Intervenciones: asociadas a sesión, no a votación. La vista de cruce muestra intervenciones de sesiones donde se votó una votación relevante para el tema.
+
+## Preguntas abiertas
+
+- MVP del jueves: pendiente de confirmar (propuesta A: features 1 y 3).
+- Filtro de temas: descartado (cuadrícula sin filtros, todos los temas visibles).
+- Relevancia: verificar en el repo de Reforma Digital cómo asigna `tm` en Temas. ¿Se filtran también las intervenciones por `tm`? Pendiente.
+- Grupo Mixto: fuera por ahora (decidido).
+- División interna: umbral único 90% (decidido). Por debajo, "dividido (mayoritariamente X)". Mínimo de diputados: 15 (decidido; el grupo mixto queda aparte).
+- Calculadora (feature 7), votos divididos: cuenta la mayoría por ahora. Pendiente de revisar: estado especial "alineamiento no definible".
+- Pleno y Comisión: ambas, con etiqueta de órgano (decidido). Umbral: el mismo 90% por ahora. Pendiente de tratar más adelante: votaciones de comisión con pocos votantes (1 a 5 por partido), donde un voto discordante marca dividido. Comprobar si la API da el órgano de cada votación.
+- Feature 7, pesos por tema: pendiente (`proposal.md` dice que el usuario los elige; este documento lo deja abierto).
+- Feature 7, porcentaje global por partido: pendiente (`proposal.md` lo deja abierto; propuesta: solo por tema).
+- Candidaturas (feature 8): más adelante, no en el hackatón. Tras el 28/10 será copia de la 6. Pendiente: confirmar provincia de cada diputado en la API.
+- Tono de intervenciones generado por IA: revisión o etiquetado antes de publicar.
+- Verificar la API en vivo: primera tarea técnica, antes del volcado.
+
 ## Estructura de Reforma Digital (estado actual)
 
 Observado navegando reforma-digital.es/congreso. No verificado contra el código: revisar en github.com/samuelcorsan/reforma-digital (ahí probablemente estén la lista de tipos de votación y de tonos).
 
 Entidades básicas:
 
-- **Sesiones**: son las sesiones del Congreso, divididas en Pleno y Comisión. Diferencia entre ambos: por confirmar. Dentro de cada sesión hay:
+- **Sesiones**: son las sesiones del Congreso, divididas en Pleno y Comisión. Diferencia entre ambos: Pleno (350 diputados) y Comisión (subconjunto por materia). Dentro de cada sesión hay:
   - Votaciones.
   - Transcripción del orden del día y transcripción completa del debate.
   - "Qué se dijo": cards con el resumen de cada intervención destacada (ver más abajo).
@@ -31,13 +70,12 @@ Entidades básicas:
 Pendiente de confirmar:
 
 - Lista completa de tipos de votación y de tonos (buscar en el código).
-- Diferencia real entre Pleno y Comisión.
 - El texto original habla de 21 temas fijos; en la web se ven 9. Revisar si son todos o si el resto está oculto.
 - Por qué Iniciativas y Preguntas por tema muestran número sin listar elementos.
 
 ## Funcionalidades del track
 
-Siete funcionalidades al mismo nivel. La principal es la 1.
+Ocho funcionalidades al mismo nivel (la 8 se añade al final de la lista). La principal es la 1.
 
 ### 1. Cuadrícula de posiciones por tema (PRINCIPAL)
 
@@ -50,6 +88,16 @@ Funcionalidad principal. Vive en el apartado Temas, junto a las tarjetas de cada
   - Las votaciones del tema: la posición de cada partido es el sentido mayoritario de sus diputados (ver regla de posición más abajo).
   - Las declaraciones en el Congreso de diputados de ese grupo sobre el tema.
 - Es la pieza central del servicio: responde a "qué ha hecho cada partido sobre lo que me importa".
+
+#### Vista de cruce (celda partido × tema)
+
+- Se abre al pulsar una celda de la cuadrícula.
+- Muestra todas las votaciones del tema en la legislatura XV (única legislatura incluida) y la posición del partido en cada una: a favor, en contra o abstención, con el porcentaje de mayoría.
+- Cada votación indica si es de Pleno o de Comisión.
+- Debajo: intervenciones de diputados del partido en las sesiones donde se votó alguna votación relevante del tema, con cita textual y resumen. Cada intervención enlaza a su sesión.
+- Si una votación no tiene intervenciones asociadas: "Sin intervenciones registradas". No se rellena.
+- Citas: selección por IA (decidido). Literal de la transcripción, verificado por coincidencia exacta. Nunca inventadas ni interpretadas.
+- Vínculo: intervención → sesión → votaciones de esa sesión. Las intervenciones están asociadas a sesión, no a votación. Relevancia: criterio de Temas de Reforma Digital (campo `tm`).
 
 ### 2. Tarjeta por tema (vistazo)
 
@@ -95,12 +143,21 @@ Funcionalidad principal. Vive en el apartado Temas, junto a las tarjetas de cada
   - El usuario elige un conjunto de votaciones (p. ej. las de un tema, o una selección manual).
   - Marca su sentido del voto en cada una: a favor, en contra o abstención. Puede dejar votaciones sin marcar.
   - Elige uno o varios partidos. Se muestran en orden alfabético.
-- Posición de un partido en una votación: sentido mayoritario de sus diputados. Un diputado que vote distinto al resto no cambia la posición del grupo. Se muestra el porcentaje de la mayoría (normalmente 99% o 100%).
+- Posición de un partido en una votación: sentido mayoritario de sus diputados. Un diputado que vote distinto no cambia la posición del grupo mientras la mayoría sea 90% o más. Se muestra el porcentaje de la mayoría.
 - Resultado por partido: número y porcentaje de votaciones marcadas en las que el usuario coincide con la posición mayoritaria del partido, sobre el total de votaciones marcadas.
 - Cada coincidencia y cada discrepancia enlaza a la votación de referencia (ficha de Reforma Digital con el voto de cada diputado).
 - Reglas: sin ganador, sin ranking entre partidos, sin "tu partido es…", sin afinidad general. El resultado solo vale para el conjunto de votaciones elegido.
 - El voto del usuario se calcula en el navegador y no se guarda.
+- Votos divididos: se compara con el sentido mayoritario del partido, y el resultado se indica como alineamiento con la mayoría de sus votos emitidos. Pendiente de revisar: estado especial "alineamiento no definible".
 - Pendiente: si se mantienen pesos por tema (solo tendrían sentido dentro de un conjunto acotado); qué hacer con votaciones de procedimiento o sin posición mayoritaria clara; cómo mostrar abstenciones del usuario frente a la posición del partido.
+
+### 8. Candidaturas: tu provincia y España (más adelante)
+
+- Muestra candidaturas por provincia y a nivel nacional, con su relación con votaciones de la legislatura.
+- No se desarrolla en el hackatón. Con diputados actuales no tiene sentido: la feature 6 ya muestra su posición individual.
+- Tras la publicación de candidaturas (28 de octubre): copia de la feature 6 con candidaturas reales. Pendiente: fuente y formato de las listas.
+- Pendiente: confirmar que la API da la provincia de cada diputado.
+- Pendiente: qué se muestra por candidato (quién repite y cómo votó, según `proposal.md`).
 
 ## Reglas generales
 
@@ -127,7 +184,7 @@ Base: repo `build-libre` (plantilla del track). Todo el desarrollo sigue sus reg
 
 ### Base de datos
 
-- Ninguna. Solo se leen datos públicos ya publicados por Reforma Digital.
+- Ninguna por defecto. Permitida si hace falta (sin uso definido). Solo se leen datos públicos de Reforma Digital, volcados en el repo.
 - Motivo: la plantilla prohíbe guardar texto del ciudadano (ni BD ni logs). Como no hay escritura, no hay necesidad de BD.
 - El voto propio del usuario (feature 7) vive solo en memoria, en el estado de React. No se guarda en servidor ni en `localStorage`.
 
@@ -156,12 +213,16 @@ Campos y reglas útiles:
 - Encuestas: el endpoint responde 451 durante la veda. No las usamos.
 - Caché: la API responde con cabeceras de caché de 5 a 60 segundos según la ruta.
 
-### Origen de los datos (decisión pendiente)
+### Origen de los datos (decidido: B, volcado en repo)
+
+Decidido: volcado JSON versionado en `src/datos/`, generado por script TypeScript (Bun). La app no llama a la API en vivo. Pendiente: medir tamaños antes de generar.
+
+Opciones evaluadas (referencia):
 
 - A. Fetch en build (Server Components). Datos frescos, pero si la API cae el build falla y no se publica.
 - B. Snapshot JSON en `src/datos/`, con script de refresco. Build estable, datos con fecha. Recomendado.
 - C. Fetch en cliente. Sin dependencia en build, pero más carga y dependencia en tiempo de uso.
-- Antes de decidir: medir el tamaño de los conjuntos que se necesiten.
+- Pendiente: medir el tamaño de los conjuntos antes de generar el volcado.
 
 ### Atribución y fuentes
 
@@ -172,6 +233,6 @@ Campos y reglas útiles:
 
 ### Límites conocidos
 
-- La API en vivo no se ha podido probar desde la sesión de desarrollo (bloqueo de red). Confirmar rutas y tamaños antes de implementar.
+- La API en vivo no se ha podido probar desde la sesión de desarrollo (bloqueo de red). Confirmar rutas y tamaños antes de implementar. Primera tarea técnica: probarla antes del volcado.
 - Los datos de promesas (`promesas.py`) no son descargables todavía. Confirmar.
 - Track: todo lo anterior vale solo si el alcance pasa la revisión de la organización (ver sección de features 5 y 7).
