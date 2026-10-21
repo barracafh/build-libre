@@ -8,7 +8,7 @@ Orden de lectura al empezar cualquier sesión:
 2. `context/architecture.md`
 3. `context/ui-context.md` (paleta, tipografía, radios, patrones de página)
 4. `context/pre-development.md` (decisiones tomadas y preguntas abiertas)
-5. `context/progress-tracker.md`
+5. `docs/decisions.md`
 6. `AGENTS.md` (reglas de la plataforma)
 7. El spec de la unidad en curso, en `context/specs/NN-nombre.md`
 
@@ -16,7 +16,7 @@ Orden de lectura al empezar cualquier sesión:
 
 1. Trabaja con especificaciones. Antes de escribir código, existe un spec en `context/specs/` para esa unidad. Si no existe, escríbelo primero y pide confirmación.
 2. Trabaja de forma incremental. Cada unidad produce un resultado visible y verificable.
-3. Sigue el orden de `context/specs/00-build-plan.md`. No saltes unidades. No empieces una unidad si sus dependencias no están completas en `progress-tracker.md`.
+3. Sigue el orden de `context/specs/00-build-plan.md`. No saltes unidades. No empieces una unidad si sus dependencias no están completas en `docs/decisions.md`.
 4. Usa como fuente de verdad, en este orden: los spec, `architecture.md`, `ui-context.md` (para todo lo visual), `project-overview.md`, `pre-development.md`, `AGENTS.md`. Si dos fuentes se contradicen, para y pregunta.
 5. Respeta la cadena crítica: contrato del volcado → T1 (datos) → vista de cruce. Las reglas de cálculo (T2) y la interfaz base (T3) pueden avanzar con fixtures que sigan el contrato.
 
@@ -24,7 +24,7 @@ Orden de lectura al empezar cualquier sesión:
 
 1. Implementa solo lo que dice el spec de la unidad en curso. Nada más.
 2. No añadas funciones, campos, rutas, componentes, opciones de configuración ni dependencias «por si acaso».
-3. No hagas refactors fuera de la unidad. Si ves algo que mejorar en otra parte, anótalo en `progress-tracker.md` bajo «Open Questions» y sigue.
+3. No hagas refactors fuera de la unidad. Si ves algo que mejorar en otra parte, anótalo en `docs/decisions.md` bajo «Open Questions» y sigue.
 4. No mezcles en una misma sesión cambios de dos fronteras del sistema (por ejemplo, datos y componentes de interfaz). Si el spec lo requiere, sepáralo en dos commits.
 5. No implementes features fuera de alcance: feature 5 (promesas–votos), feature 8 (candidaturas), Grupo Mixto, legislaturas distintas de la XV, encuestas, Comisión, base de datos, cuentas, analítica. Lista completa en `project-overview.md`.
 6. No instales ninguna dependencia antes de la unidad que la necesita. Cada spec lista sus dependencias en su sección «Dependencies». Si necesitas algo no listado, para y pregunta.
@@ -39,16 +39,16 @@ Divide la unidad en pasos más pequeños cuando ocurra cualquiera de estas condi
 4. El cambio supera unas 300 líneas netas, o toca más de 10 ficheros.
 5. Un paso no puede verificarse por sí solo.
 
-Cuando dividas, escribe los sub-pasos en `progress-tracker.md` y completa uno antes de empezar el siguiente.
+Cuando dividas, escribe los sub-pasos en `docs/decisions.md` y completa uno antes de empezar el siguiente.
 
 Divide siempre que tengas que escribir la interfaz y los datos a la vez: primero la interfaz con fixture, luego la conexión al volcado real.
 
 ## 4. Requisitos ausentes o ambiguos
 
 1. No inventes requisitos. Nunca completes en silencio un hueco del spec.
-2. Si la respuesta está en `pre-development.md`, `project-overview.md` o `architecture.md`, aplícala y cita el fichero y la línea en el commit o en `progress-tracker.md`.
+2. Si la respuesta está en `pre-development.md`, `project-overview.md` o `architecture.md`, aplícala y cita el fichero y la línea en el commit o en `docs/decisions.md`.
 3. Si la respuesta no está en esos ficheros:
-   - Si la decisión puede revertirse con poco coste (nombres de componentes, estructura interna de una función), toma la opción más conservadora. Anótala en `progress-tracker.md` bajo «Architecture Decisions» con la fecha.
+   - Si la decisión puede revertirse con poco coste (nombres de componentes, estructura interna de una función), toma la opción más conservadora. Anótala en `docs/decisions.md` bajo «Architecture Decisions» con la fecha.
    - Si la decisión afecta al producto, a los datos mostrados, al umbral del 80 %, a la calculadora, a la atribución, a la privacidad o a la publicación, **para**. Añade la pregunta a «Open Questions» y pregunta al usuario. No implementes ninguna de las opciones.
 4. Las preguntas abiertas que hoy existen en `pre-development.md` no se resuelven por tu cuenta. Entre ellas: MVP del jueves, porcentaje global por partido, pesos por tema, estado «alineamiento no definible», tratamiento de Comisión, filtro de intervenciones por `temas` o por sesión, revisión del tono de IA, host de la API, enrutado de `/libre`.
 5. Si el spec contradice un invariante de `architecture.md`, el invariante gana. Para y pregunta.
@@ -76,11 +76,11 @@ Lo que sí puedes editar en cada unidad: `src/app/`, `src/lib/` (excepto `ia.ts`
 
 ## 6. Mantén la documentación sincronizada
 
-1. Después de cada cambio significativo, actualiza `context/progress-tracker.md`: fase actual, unidad en curso, unidades completadas, preguntas abiertas, decisiones de arquitectura y notas de sesión.
+1. Después de cada cambio significativo, actualiza `docs/decisions.md`: fase actual, unidad en curso, unidades completadas, preguntas abiertas, decisiones de arquitectura y notas de sesión.
 2. Si la implementación cambia la arquitectura (fronteras, almacenamiento, invariantes, stack), actualiza `context/architecture.md` en el mismo commit.
-3. Si la implementación cambia el alcance o los criterios de éxito, actualiza `context/project-overview.md` en el mismo commit y anota el motivo en `progress-tracker.md`.
+3. Si la implementación cambia el alcance o los criterios de éxito, actualiza `context/project-overview.md` en el mismo commit y anota el motivo en `docs/decisions.md`.
 4. Si cambia una decisión de `pre-development.md`, no la borres: añade la nueva decisión con la fecha y marca la anterior como sustituida.
-5. Si cambia una regla de trabajo, actualiza este fichero y dilo en `progress-tracker.md`.
+5. Si cambia una regla de trabajo, actualiza este fichero y dilo en `docs/decisions.md`.
 6. Marca como «(planificado)» en `architecture.md` lo que aún no exista, y quita la marca cuando exista.
 7. Nunca dejes en la documentación una afirmación que el código no cumple. Si no puedes actualizarla, añade una nota con la discrepancia en «Open Questions».
 
@@ -103,7 +103,7 @@ Ninguna unidad se da por terminada hasta que todos estos puntos se cumplan. Ejec
 13. [ ] Sin errores ni avisos en la consola del navegador.
 14. [ ] Ninguna clave en el código ni con prefijo `NEXT_PUBLIC_`.
 15. [ ] Ningún dato del ciudadano se escribe en disco, base de datos, `localStorage` ni cookies.
-16. [ ] `context/progress-tracker.md` actualizado.
+16. [ ] `docs/decisions.md` actualizado.
 17. [ ] Documentación afectada actualizada (sección 6).
 18. [ ] Cambios sincronizados con `main` con `git pull --rebase` antes del push. Push solo si el build pasa.
 
@@ -121,7 +121,7 @@ Si un punto falla, no avances. Corrige solo ese punto y vuelve a verificar. No c
 
 1. Si el mismo error aparece tres veces seguidas, para. Describe el error y lo que intentaste. Pregunta antes de seguir.
 2. Si una corrección rompe algo que antes funcionaba, revierte la corrección y vuelve al estado anterior.
-3. Si la verificación falla por causas fuera de la unidad (red, API caída, build de otra parte), para. Anota la causa en `progress-tracker.md` y pregunta.
+3. Si la verificación falla por causas fuera de la unidad (red, API caída, build de otra parte), para. Anota la causa en `docs/decisions.md` y pregunta.
 4. Nunca cambies un test para que pase. Si un test falla, el código está mal o el test está mal según el spec. Decide con el spec delante y, si tienes dudas, pregunta.
 
 ## 10. Lo que el agente no decide

@@ -83,7 +83,7 @@ No se escriben gradientes nuevos con colores en bruto. Los dos gradientes que tr
 Reglas de este bloque:
 - Los votos no usan rojo ni verde. Un hue por voto daría una lectura de «bueno» o «malo» y destacaría a partidos.
 - El rojo de marca no se usa para «en contra».
-- Los nombres de icono se verifican contra `lucide-react` 1.59.0 antes de usarlos. Si uno no existe, se usa otro del mismo significado y se anota en `progress-tracker.md`.
+- Los nombres de icono se verifican contra `lucide-react` 1.59.0 antes de usarlos. Si uno no existe, se usa otro del mismo significado y se anota en `docs/decisions.md`.
 - Los iconos de estado llevan `aria-hidden="true"`: el texto ya lo dice.
 
 ## 3. Tipografía
