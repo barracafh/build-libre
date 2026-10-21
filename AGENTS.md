@@ -16,9 +16,11 @@ Read these first:
   export, stack, scope).
 - [DESIGN.md](DESIGN.md): visual and interaction rules.
 
-The project rules below apply them here.
+The rules below apply them here.
 
-## Repo map
+## Development
+
+### Repo map
 
 ```text
 src/        the site: pages, components, logic, UI strings
@@ -29,6 +31,43 @@ public/     static files
 ficha.json  tool description
 SETUP.md, comun/, datos/, .buildnight/   organizer material, do not edit
 ```
+
+### Workflow
+
+This is a one-night hackathon project, not a production system: keep the process light.
+
+- Work on your own branch from `dev` (`<name>/<task>`) and merge into `dev` when it builds. No PR
+  or announcement needed; `git pull --rebase origin dev` before merging.
+- `dev` goes into `main` when there is something worth showing. Every push to `main` is published
+  and branches get no preview, so run the checks below first.
+- Commit small and often, Conventional Commits in English (`feat:`, `fix:`, `docs:`). No
+  `push --force` on `dev` or `main`.
+- Resolve conflicts on your branch, keeping both sides' work. If unsure, ask who wrote the other
+  change. Say it in the chat before touching `package.json`, `bun.lock` or `ficha.json`.
+- Before every push to `main`: `bun install --frozen-lockfile`, `bun run lint`,
+  `bun run typecheck`, `bun run test`, `bun run build`. If the build fails, nothing is published.
+
+### Code rules
+
+1. **Keys.** API keys live only on the server, never with the `NEXT_PUBLIC_` prefix, and never in
+   the repository, screenshots or chat (`.env.local` locally).
+2. **`ficha.json`** describes the tool: name, phrase, icon, sources and `datos` (`simulados`, or
+   `reales` for public data). Never change `equipo`: the base path `/libre` comes from it.
+3. **Base path.** `<Link>` and `router.push` add `/libre`; a raw `<a>` to an internal page, a
+   `fetch` or a file from `public/` goes through `ruta()` from `src/config/sitio.ts`.
+4. **Accessibility.** AA contrast, visible focus, keyboard navigation, native controls (`button`,
+   `select`, `input`, `label`), `prefers-reduced-motion`, no horizontal scroll at 320 px. Never
+   encode meaning with colour alone: vote positions always use the shared marks in
+   `src/components/vote-mark.tsx` (shape + text) and the `--vote-*` colours in
+   `src/app/globals.css`, never green for yes and red for no. Party colours only identify the
+   party.
+5. **Languages.** Every UI string comes from the locale dictionaries; never hard-code user-facing
+   text in components. Spanish is the source; a missing translation falls back to Spanish. Code and
+   comments in English.
+6. **Design.** Follow [DESIGN.md](DESIGN.md). Tokens come from Sol, the visual system of Reforma
+   Digital (`src/styles/tema.css`, origin in [AVISO.md](AVISO.md)): never change its values or add colours, fonts, radii or shadows; no dark mode, no new
+   gradients. One `sunset` button per screen. On a conflict between this file and `DESIGN.md`,
+   this file wins.
 
 ## Project rules
 
@@ -56,59 +95,12 @@ SETUP.md, comun/, datos/, .buildnight/   organizer material, do not edit
    deadlines or requirements.
 4. **Personal data.** No real personal data: no DNI, case files or passwords; simulate them.
    Nothing the citizen types is stored: no database and no logs with their text.
-5. **Keys.** API keys live only on the server, never with the `NEXT_PUBLIC_` prefix, and never in
-   the repository (`.env.local` locally).
-6. **Every page keeps** the notice «Herramienta experimental. No es un servicio oficial.» and the
+5. **Every page keeps** the notice «Herramienta experimental. No es un servicio oficial.» and the
    «¿Algo está mal? Avísanos» button (`src/components/boton-aviso.tsx`).
-7. **`ficha.json`** describes the tool: name, phrase, icon, sources and `datos` (`simulados`, or
-   `reales` for public data). Never change `equipo`: the base path `/libre` comes from it.
-8. **Base path.** `<Link>` and `router.push` add `/libre`; a raw `<a>` to an internal page, a
-   `fetch` or a file from `public/` goes through `ruta()` from `src/config/sitio.ts`.
-9. **Do not edit** `SETUP.md`, `docs/COMPETITION.md`, `comun/`, `datos/`, `contexto.md` or
+6. **Do not edit** `SETUP.md`, `docs/COMPETITION.md`, `comun/`, `datos/`, `contexto.md` or
    `.buildnight/`: organizer material. Our data lives in `data/`.
-10. **Accessibility.** AA contrast, visible focus, keyboard navigation, native controls (`button`,
-    `select`, `input`, `label`), `prefers-reduced-motion`, no horizontal scroll at 320 px. Never
-    encode meaning with colour alone: vote positions always use the shared marks in
-    `src/components/vote-mark.tsx` (shape + text) and the `--vote-*` colours in
-    `src/app/globals.css`, never green for yes and red for no. Party colours only identify the
-    party.
-11. **Languages.** Every UI string comes from the locale dictionaries; never hard-code user-facing
-    text in components. Spanish is the source; a missing translation falls back to Spanish.
-12. **Design.** Visual and interaction rules live in [DESIGN.md](DESIGN.md). Tokens come from Sol,
-    the visual system of Reforma Digital (`src/styles/tema.css`, origin in [AVISO.md](AVISO.md)):
-    never change its values or add colours, fonts, radii or shadows; no dark mode, no new
-    gradients. One `sunset` button per screen. On a conflict between this file and `DESIGN.md`,
-    this file wins.
-13. **Publishing.** Every push to `main` is published, and branches get no preview: to see
-    something live it has to reach `main` (see "Team agreements"). Before every push to `dev` or
-    `main`: `bun install --frozen-lockfile`, `bun run lint`, `bun run typecheck`,
-    `bun run test`, `bun run build`. If the build fails, nothing is published.
-14. **Git.** Conventional Commits in English. Code and comments in English; site copy in the
-    locale dictionaries. Branch flow in "Team agreements".
-15. **Decisions.** Read [docs/DECISIONS.md](docs/DECISIONS.md) before proposing a change to scope,
-    data or stack, and add an entry following the contract below when a new decision is taken.
-
-## Team agreements
-
-Flow: personal branch → `dev` → `main`.
-
-1. **One branch per person and task**, always from an up-to-date `dev`:
-   `git switch dev && git pull`, then `git switch -c <name>/<task>` (e.g. `ana/vote-table`).
-   Keep branches short: merge within hours, not at the end.
-2. **Merge into `dev`:** `git pull --rebase origin dev` on your branch, the rule 13 checks green,
-   then merge. No PR required; tell the team chat when you merge.
-3. **`dev` always builds.** If you break it, fixing it comes before anything else.
-4. **`main` only receives merges from `dev`**, never direct commits, and every merge publishes.
-   One person at a time, announced first, with the checks green and the demo reviewed locally.
-5. **Freeze `main`** 30 minutes before the demo: only critical fixes. The team adjusts the time.
-6. **Split the files:** each person owns an area (screen, route, component). Announce in the chat
-   before touching shared files (`package.json`, `bun.lock`, `layout.tsx`, `ficha.json`,
-   `src/components/ui/`).
-7. **No `push --force`** and no history rewrites on `dev` or `main`.
-8. **Small commits**, one change each, Conventional Commits (`feat:`, `fix:`, `docs:`).
-9. **Secrets stay out of the repo:** keys only in `.env.local`, never in commits, screenshots or chat.
-10. **Conflicts** are resolved on your branch before merging, keeping both sides' work. If unsure,
-    ask whoever wrote the other change.
+7. **Decisions.** Read `docs/DECISIONS.md` before proposing a change to scope, data or stack, and
+   add an entry ("Decision records") when a new decision is taken.
 
 ## Data
 
@@ -117,7 +109,7 @@ Flow: personal branch → `dev` → `main`.
   [Reforma Digital](https://github.com/samuelcorsan/reforma-digital) as reference (our data does
   not come from it).
 - `data/` is generated by `scripts/fetch-data.ts` (`bun run data:fetch`) and committed. Never
-  hand-edit it. The organizer's `datos/` is a different folder and is not ours to edit.
+  hand-edit it.
 - Text generated by a language model upstream (reasons per group, session summaries, tone or
   position of interventions) is always labelled as generated, shown next to the official record,
   and never used as a filter or facet.
@@ -125,8 +117,7 @@ Flow: personal branch → `dev` → `main`.
   its current name, former names (`anteriores`), swatch colour and `fuente` (official URL, or `null`
   while unchecked). Add an entry for every new party group; `bun run test` fails if one is missing.
   Names change over time, so use it for names and swatches, not the data's names. No candidates
-  and no entry for the Grupo Mixto (not a party). The colour only identifies the party, as a small
-  swatch next to its name (`DESIGN.md`).
+  and no entry for the Grupo Mixto (not a party).
 
 ## Decision records
 
@@ -143,10 +134,9 @@ Every entry in `docs/DECISIONS.md` follows this shape, in Spanish:
 - **Riesgo abierto:** <optional: what is still unresolved and who decides it>
 ```
 
-- **Two lines per field at most**, wrapped at 100 characters, no sub-bullets. The entry says what
-  was decided; the detail (rules, counts, layouts) lives in the code, `/metodo/` or `DESIGN.md`,
-  and the entry links to it.
-
+- **Short.** Two lines per field at most, wrapped at 100 characters, no sub-bullets. The entry says
+  what was decided; the detail (rules, counts, layouts) lives in the code, `/metodo/` or
+  `DESIGN.md`, and the entry links to it instead of copying it.
 - **Timestamp:** `YYYY-MM-DD HH:MM ±HH:MM` in `Europe/Madrid` when the decision is taken, with the
   offset that applies on that date (`+02:00` in summer time, `+01:00` in winter; summer time ends
   on 25 October 2026). Get it with `TZ=Europe/Madrid date '+%Y-%m-%d %H:%M %:z'`; never type it
@@ -155,7 +145,7 @@ Every entry in `docs/DECISIONS.md` follows this shape, in Spanish:
 - **Order:** oldest first. A new entry goes at the end, just above `## Pendiente`.
 - **Append-only:** never rewrite an existing entry. Any change, however small, is a new entry, and
   the old one only changes its Estado. Typos and broken links can be fixed.
-- **One decision per entry.** Link details (`DESIGN.md`, code paths) instead of copying them.
+- **One decision per entry.**
 - **Open questions** go under `## Pendiente` as `- <pregunta>. Propuesta: <respuesta propuesta>.`
   and become an entry once decided.
 
@@ -165,7 +155,5 @@ Every entry in `docs/DECISIONS.md` follows this shape, in Spanish:
   hackathon.
 - [barracafh/build-libre](https://github.com/barracafh/build-libre): where the solution is
   submitted.
-- [samuelcorsan/reforma-digital](https://github.com/samuelcorsan/reforma-digital): reference
-  project; our data does not come from it.
-- [jorgegarcelan/escano-abierto](https://github.com/jorgegarcelan/escano-abierto): source of our
-  data (code MIT, data CC BY 4.0).
+
+The data source and the reference project are linked under "Data".
