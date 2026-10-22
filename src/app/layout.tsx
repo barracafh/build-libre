@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
 import type { ReactNode } from "react";
+import { SiteFooter } from "@/components/site-footer";
+import { SiteHeader } from "@/components/site-header";
 import ficha from "../../ficha.json";
 import "./globals.css";
 
@@ -13,7 +15,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: ficha.nombre,
+  title: { default: ficha.nombre, template: `%s · ${ficha.nombre}` },
   description: ficha.frase,
   // Experimental: que no aparezca en buscadores como si fuera un servicio oficial.
   robots: { index: false, follow: false },
@@ -31,11 +33,19 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         </a>
         <p
           role="note"
-          className="bg-muted px-(--page-gutter) py-2 text-center text-sm text-(--text-secondary)"
+          className="bg-muted px-4 py-2 text-center text-sm text-(--text-secondary)"
         >
           Herramienta experimental. No es un servicio oficial.
         </p>
-        {children}
+        <SiteHeader />
+        <main
+          id="contenido"
+          tabIndex={-1}
+          className="mx-auto w-full max-w-6xl px-4 py-6 outline-none sm:px-6 lg:py-10"
+        >
+          {children}
+        </main>
+        <SiteFooter />
       </body>
     </html>
   );
