@@ -14,6 +14,8 @@
 // - `motivos` are written by a language model upstream: show them labelled as generated, next to
 //   the official vote, and never filter by them. Each one links its Diario de Sesiones when known.
 // - Candidacies and parties come in alphabetical order, never by result.
+// - Topic pages group votes into initiatives (`datosTemas`): amendment votes apart, an initiative
+//   under every topic of its votes. Never a summary of a party's votes across initiatives.
 
 import { readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
@@ -108,6 +110,38 @@ export type ResumenVotacion = Pick<Votacion, "id" | "fecha" | "tipo" | "titulo" 
   partidos: Record<string, Posicion>;
 };
 
+export type Sesion = { id: string; fecha: string; organo: string; diario: string | null };
+
+// One initiative: every vote on the same expediente, or, without one, on the same day and text.
+export type Iniciativa = {
+  clave: string; // the expediente, or the id of its first vote
+  tipo: string;
+  titulo: string; // of its first main vote, without the trailing "(punto N)"-style suffix
+  texto: string;
+  proponente: string | null;
+  fecha: string; // of its last vote
+  temas: string[]; // union of the topics of all its votes
+  votaciones: Votacion[]; // main votes, oldest first
+  enmiendas: Pick<Votacion, "id" | "fecha" | "titulo" | "fuente">[]; // shown folded
+  sesiones: Sesion[]; // sessions whose agenda holds any of its votes
+};
+
+export type Tema = {
+  slug: string;
+  nombre: string;
+  recuento: { iniciativas: number; votaciones: number; enmiendas: number };
+  iniciativas: string[]; // claves, most recent first
+};
+
+// Everything the topic pages need, written to data/temas.json by scripts/fetch-data.ts.
+export type DatosTemas = {
+  instantanea: { commit: string; fecha: string };
+  partidos: Partido[];
+  temas: Tema[];
+  iniciativas: Record<string, Iniciativa>;
+  sinTema: { iniciativas: number; votaciones: number };
+};
+
 export type VotoDiputado = {
   nombre: string;
   grupo: string; // group code at the time of the vote, may be MIXTO
@@ -149,6 +183,13 @@ type VotacionOrigen = {
   v: string;
   cg?: Record<string, string>;
   tm?: string[];
+};
+type SesionOrigen = {
+  id: string;
+  fecha: string;
+  organo: string;
+  ds: string | null;
+  puntos: { votos?: string[] }[];
 };
 // [name, group, constituency, party, alta, x, y, seat code, baja]
 type FilaDiputado = [string, string, string, string, string, number, number, number | "", string];
@@ -225,7 +266,14 @@ function cargar() {
   const codigos = partidos.map((p) => p.codigo);
 
   const diarios: Record<string, string | null> = {};
-  for (const s of mensuales<{ id: string; ds: string | null }>("sesiones")) diarios[s.id] = s.ds;
+  const sesionesDe = new Map<string, Sesion[]>();
+  for (const s of mensuales<SesionOrigen>("sesiones")) {
+    diarios[s.id] = s.ds;
+    const sesion = { id: s.id, fecha: s.fecha, organo: s.organo, diario: s.ds };
+    for (const id of new Set(s.puntos.flatMap((p) => p.votos ?? []))) {
+      sesionesDe.set(id, [...(sesionesDe.get(id) ?? []), sesion]);
+    }
+  }
 
   const origen = mensuales<VotacionOrigen>("votaciones").sort((a, b) => a.fecha.localeCompare(b.fecha));
   const votaciones = origen.map((v) => limpiarVotacion(v, codigos, diarios));
@@ -239,6 +287,7 @@ function cargar() {
     partidos,
     votaciones,
     origen: new Map(origen.map((v) => [v.id, v])),
+    sesionesDe,
     porId: new Map(votaciones.map((v) => [v.id, v])),
     filas: leer("data", "indice.json").diputados as FilaDiputado[],
     provincias,
@@ -299,6 +348,71 @@ export function resultados2023(codigo: string): Resultados2023 | undefined {
 
 // Seats the province elects on 29 November 2026 (Real Decreto 806/2026).
 export const escanos2026 = (codigo: string): number | undefined => datos().escanos[codigo];
+
+// Votes on amendments are titled "… (enmienda 12)", "(resto de las enmiendas)", "(votación en bloque
+// de las enmiendas)". Amendments to the whole text ("enmienda a la totalidad") are main votes.
+export const esEnmienda = (titulo: string) =>
+  /\((resto de (las )?|votación en bloque de las )?enmienda/i.test(titulo);
+
+const sinSufijo = (titulo: string) => titulo.replace(/\s*\((punto|votación|voto|enmienda|resto).*\)\s*$/i, "");
+
+// Groups every vote into initiatives and files each initiative under every topic of its votes.
+// Initiatives without a topic are left out and only counted.
+export function datosTemas(): DatosTemas {
+  const grupos = new Map<string, Votacion[]>();
+  for (const v of votaciones()) {
+    const k = v.exp ?? `${v.fecha}|${v.texto}`;
+    grupos.set(k, [...(grupos.get(k) ?? []), v]);
+  }
+
+  const todas: Iniciativa[] = [...grupos.values()].map((vs) => {
+    const principales = vs.filter((v) => !esEnmienda(v.titulo));
+    const primera = principales[0] ?? vs[0];
+    const sesiones = new Map(vs.flatMap((v) => datos().sesionesDe.get(v.id) ?? []).map((s) => [s.id, s]));
+    return {
+      clave: vs[0].exp ?? vs[0].id,
+      tipo: primera.tipo,
+      titulo: sinSufijo(primera.titulo),
+      texto: primera.texto,
+      proponente: vs.find((v) => v.proponente)?.proponente ?? null,
+      fecha: vs.at(-1)!.fecha,
+      temas: temasDe(vs.flatMap((v) => v.temas)),
+      votaciones: principales,
+      enmiendas: vs
+        .filter((v) => esEnmienda(v.titulo))
+        .map(({ id, fecha, titulo, fuente }) => ({ id, fecha, titulo, fuente })),
+      sesiones: [...sesiones.values()].sort((a, b) => a.fecha.localeCompare(b.fecha) || a.id.localeCompare(b.id)),
+    };
+  });
+  const recientes = todas
+    .filter((i) => i.temas.length)
+    .sort((a, b) => b.fecha.localeCompare(a.fecha) || a.clave.localeCompare(b.clave));
+  const sinTema = todas.filter((i) => !i.temas.length);
+
+  const { commit, fetched } = datos().fuente;
+  return {
+    instantanea: { commit, fecha: fetched },
+    partidos: partidos(),
+    temas: Object.entries(TEMAS).map(([slug, nombre]) => {
+      const de = recientes.filter((i) => i.temas.includes(slug));
+      return {
+        slug,
+        nombre,
+        recuento: {
+          iniciativas: de.length,
+          votaciones: de.reduce((n, i) => n + i.votaciones.length, 0),
+          enmiendas: de.reduce((n, i) => n + i.enmiendas.length, 0),
+        },
+        iniciativas: de.map((i) => i.clave),
+      };
+    }),
+    iniciativas: Object.fromEntries(recientes.map((i) => [i.clave, i])),
+    sinTema: {
+      iniciativas: sinTema.length,
+      votaciones: sinTema.reduce((n, i) => n + i.votaciones.length + i.enmiendas.length, 0),
+    },
+  };
+}
 
 // Pinned upstream commit and the date it was fetched, to show next to the data.
 export const instantanea = () => {

@@ -1,8 +1,11 @@
 import assert from "node:assert/strict";
+import { readFileSync } from "node:fs";
 import { describe, it } from "node:test";
 
 import {
+  datosTemas,
   decodificarVotos,
+  esEnmienda,
   partidos,
   posicionPartido,
   provincias,
@@ -36,6 +39,16 @@ describe("posicionPartido", () => {
 describe("temasDe", () => {
   it("folds defensa into exteriores and drops tags outside TEMAS", () => {
     assert.deepEqual(temasDe(["defensa", "exteriores", "cultura", "vivienda"]), ["exteriores", "vivienda"]);
+  });
+});
+
+describe("esEnmienda", () => {
+  it("tells amendment votes from main votes, amendments to the whole text included as main", () => {
+    assert.ok(esEnmienda("Movilidad Sostenible (enmiendas 77, 85 y 137)"));
+    assert.ok(esEnmienda("Ley X (resto de las enmiendas)"));
+    assert.ok(esEnmienda("Ley X (votación en bloque de las enmiendas)"));
+    assert.ok(!esEnmienda("Vivienda (punto 3)"));
+    assert.ok(!esEnmienda("Votación conjunta de las enmiendas a la totalidad de devolución al Proyecto"));
   });
 });
 
@@ -85,6 +98,36 @@ describe("snapshot", () => {
 
   it("gives the client a summary for every vote", () => {
     assert.equal(resumenes().length, votaciones().length);
+  });
+
+  it("groups a topic's votes into initiatives, amendments apart", () => {
+    const d = datosTemas();
+    const movilidad = d.iniciativas["121/000009"];
+    assert.equal(movilidad.votaciones.length + movilidad.enmiendas.length, 141);
+    assert.ok(movilidad.votaciones.every((v) => !esEnmienda(v.titulo)));
+    // Same motion voted by points, no expediente: one initiative.
+    assert.deepEqual(d.iniciativas["132-16"].votaciones.map((v) => v.id), ["132-16", "132-17", "132-18", "132-19"]);
+    const vivienda = d.temas.find((t) => t.slug === "vivienda")!;
+    assert.deepEqual(vivienda.recuento, { iniciativas: 29, votaciones: 86, enmiendas: 0 });
+  });
+
+  it("files every vote with a topic under that topic, once", () => {
+    const d = datosTemas();
+    const vistas = new Map<string, string[]>();
+    for (const t of d.temas)
+      for (const clave of t.iniciativas) {
+        const i = d.iniciativas[clave];
+        for (const v of [...i.votaciones, ...i.enmiendas]) vistas.set(v.id, [...(vistas.get(v.id) ?? []), t.slug]);
+      }
+    for (const v of votaciones())
+      for (const t of v.temas) assert.equal(vistas.get(v.id)?.filter((s) => s === t).length, 1, `${v.id} ${t}`);
+    const conTema = new Set([...vistas.keys()]).size;
+    assert.equal(conTema + d.sinTema.votaciones, votaciones().length);
+  });
+
+  it("matches the committed data/temas.json (regenerate with node scripts/temas.ts)", () => {
+    const enDisco = JSON.parse(readFileSync("data/temas.json", "utf8"));
+    assert.deepEqual(enDisco, JSON.parse(JSON.stringify(datosTemas())));
   });
 
   it("adds up to 350 seats in 2023, candidacies in alphabetical order", () => {

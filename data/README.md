@@ -19,6 +19,7 @@ pinned in `source.json`; never edit these files by hand.
 | `elecciones/resultados-2023.json` | 2023 general election (23 July 2023) results per province. See [Elections](#elections). |
 | `elecciones/escanos-2026.json` | Seats each province elects on 29 November 2026. See [Elections](#elections). |
 | `elecciones/territorios.json` | Upstream `data/geografia/territorios.json`, unchanged: names and INE codes of provinces and autonomous communities. |
+| `temas.json` | Derived, not upstream: for each of the fixed topics, its votes grouped into initiatives (same `exp`, or same day and `texto`), with main votes, amendment votes apart, sessions and Diario links. Written by `scripts/temas.ts` from `datosTemas()` in `src/lib/datos.ts`; types there. Initiatives without a topic are only counted (`sinTema`). |
 | `source.json` | Repository, pinned commit, fetch date, licences, missing months, and every file with its upstream path and record count. |
 
 Everything is limited to the XV legislature (constituted on 17 August 2023): `pnpm data:fetch` fails
