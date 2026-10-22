@@ -1,23 +1,13 @@
-import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 
 import { Fuentes } from "@/components/fuentes";
-import { VistaTema } from "@/components/tema/vista-tema";
 import { fecha } from "@/components/tema/comun";
-import { TEMAS, temas } from "@/lib/datos";
+import { SelectorTema } from "@/components/tema/selector-tema";
+import { VistaTema } from "@/components/tema/vista-tema";
+import { temas } from "@/lib/datos";
 
-export const dynamicParams = false;
-
-export const generateStaticParams = () => Object.keys(TEMAS).map((slug) => ({ slug }));
-
-type Props = { params: Promise<{ slug: string }> };
-
-export async function generateMetadata({ params }: Props): Promise<Metadata> {
-  return { title: TEMAS[(await params).slug] };
-}
-
-export default async function Tema({ params }: Props) {
-  const { slug } = await params;
+// Shared by /iniciativas (default topic) and /iniciativas/[slug].
+export function PaginaTema({ slug }: { slug: string }) {
   const d = temas();
   const tema = d.temas.find((t) => t.slug === slug);
   if (!tema) notFound();
@@ -36,6 +26,11 @@ export default async function Tema({ params }: Props) {
           {fechas.length > 0 && `, del ${fecha(fechas[0])} al ${fecha(fechas.at(-1)!)}`}.
           {tema.recuento.enmiendas > 0 && ` Las ${tema.recuento.enmiendas} votaciones de enmiendas se enlazan en el detalle.`}
         </p>
+        <p className="max-w-[72ch] text-sm text-muted-foreground">
+          Los temas los asigna Escaño Abierto por palabras clave, sin IA. {d.sinTema.iniciativas} iniciativas no
+          tienen tema y no aparecen aquí.
+        </p>
+        <SelectorTema actual={slug} temas={d.temas.map(({ slug, nombre }) => ({ slug, nombre }))} />
       </div>
       <VistaTema iniciativas={iniciativas} partidos={d.partidos} />
       <Fuentes
