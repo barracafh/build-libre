@@ -1,0 +1,15 @@
+{
+  "PSOE": { "nombre": "Grupo Socialista", "anteriores": [], "color": "#D8342B", "fuente": null },
+  "PP": { "nombre": "Grupo Popular", "anteriores": [], "color": "#2C7BC4", "fuente": null },
+  "VOX": { "nombre": "Grupo VOX", "anteriores": [], "color": "#5BA83A", "fuente": null },
+  "SUMAR": {
+    "nombre": "Frente Abierto",
+    "anteriores": ["Plurinacional SUMAR"],
+    "color": "#C92F72",
+    "fuente": null
+  },
+  "ERC": { "nombre": "Grupo Republicano", "anteriores": [], "color": "#E0A410", "fuente": null },
+  "JUNTS": { "nombre": "Junts per Catalunya", "anteriores": [], "color": "#1FA8A0", "fuente": null },
+  "BILDU": { "nombre": "EH Bildu", "anteriores": [], "color": "#86A832", "fuente": null },
+  "PNV": { "nombre": "Grupo Vasco (EAJ-PNV)", "anteriores": [], "color": "#2F7A4A", "fuente": null }
+}

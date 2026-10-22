@@ -1,28 +1,32 @@
-import ficha from "../../ficha.json";
-import { BotonAviso } from "@/components/BotonAviso";
-import { Badge } from "@/components/ui/badge";
-import { PanelEstadisticas } from "@/components/estadisticas/PanelEstadisticas";
+import { CardLink } from "@/components/card-link";
+import { Fuentes } from "@/components/fuentes";
+import { vistas } from "@/config/vistas";
+
+const fuentes = [
+  { nombre: "Datos abiertos del Congreso de los Diputados", url: "https://www.congreso.es/es/datos-abiertos" },
+  { nombre: "Escaño Abierto (reelaboración de los datos del Congreso)", url: "https://github.com/jorgegarcelan/escano-abierto" },
+];
 
 export default function Home() {
   return (
-    <div className="mx-auto flex min-h-[calc(100svh-40px)] max-w-(--container-content) flex-col px-(--page-gutter)">
-      <header className="flex flex-wrap items-center justify-between gap-4 border-b py-6">
-        <span className="inline-flex items-center gap-3 text-lg font-semibold">
-          <span aria-hidden="true" className="grid size-9 place-items-center rounded-lg bg-brand font-mono text-xl text-white">{ficha.icono}</span>
-          {ficha.nombre}
-        </span>
-        <Badge variant="outline">Prototipo · Datos simulados</Badge>
-      </header>
-      <main id="contenido" tabIndex={-1} className="min-w-0 flex-1 pt-10 pb-16 outline-none md:pt-14">
-        <p className="font-mono text-xs tracking-wider text-(--text-secondary) uppercase">Panel de información</p>
-        <h1 className="mt-3 text-4xl leading-tight md:text-5xl">Los datos, de un vistazo.</h1>
-        <p className="mt-4 max-w-2xl text-lg text-(--text-secondary)">Consulta los indicadores, su evolución y el detalle en un mismo lugar.</p>
-        <PanelEstadisticas />
-      </main>
-      <footer className="flex flex-wrap items-center justify-between gap-6 border-t py-6">
-        <p className="font-mono text-xs tracking-wider text-(--text-secondary) uppercase">Squad {ficha.equipo} · Build night</p>
-        <BotonAviso />
-      </footer>
-    </div>
+    <main className="mx-auto flex max-w-6xl flex-col gap-10 px-4 py-6 sm:px-6 lg:py-10">
+      <div className="flex flex-col gap-3">
+        <h1 className="text-[28px] leading-tight lg:text-4xl">Lo que votó cada partido en el Congreso</h1>
+        <p className="text-(--text-secondary)">
+          Las votaciones del Pleno en la XV legislatura, con el enlace a cada votación oficial. La
+          herramienta muestra hechos; las conclusiones son tuyas.
+        </p>
+      </div>
+      <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+        {vistas.map((v) => (
+          <li key={v.ruta}>
+            <CardLink href={v.ruta} titulo={v.nombre}>
+              {v.descripcion}
+            </CardLink>
+          </li>
+        ))}
+      </ul>
+      <Fuentes fuentes={fuentes} />
+    </main>
   );
 }
