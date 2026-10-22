@@ -1,5 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import { House } from "lucide-react";
 import Link from "next/link";
 import type { ReactNode } from "react";
 import ficha from "../../ficha.json";
@@ -40,8 +41,12 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         </Alert>
         <header className="border-b">
           <div className="mx-auto flex h-[57px] max-w-6xl items-center gap-4 px-4 sm:px-6">
-            <Link href="/" className="shrink-0 text-[15px] font-semibold">
-              {ficha.nombre}
+            <Link
+              href="/"
+              aria-label={`Inicio · ${ficha.nombre}`}
+              className="inline-flex size-11 shrink-0 items-center justify-center hover:bg-muted"
+            >
+              <House aria-hidden className="size-5" />
             </Link>
             <SiteNav />
           </div>

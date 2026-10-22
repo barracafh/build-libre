@@ -84,8 +84,8 @@ describe("snapshot", () => {
     }
   });
 
-  it("lists parties and provinces alphabetically", () => {
-    const nombres = partidos().map((p) => p.nombre);
+  it("lists parties by the short name the columns show, and provinces alphabetically", () => {
+    const nombres = partidos().map((p) => p.nombre.replace(/^Grupo /, ""));
     assert.deepEqual(nombres, [...nombres].sort((a, b) => a.localeCompare(b, "es")));
     assert.equal(provincias().length, 52);
   });

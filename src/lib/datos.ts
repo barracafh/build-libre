@@ -251,13 +251,18 @@ const mensuales = <T>(carpeta: string): T[] =>
 const porNombre = (a: { nombre: string }, b: { nombre: string }) =>
   a.nombre.localeCompare(b.nombre, "es");
 
+// Parties in alphabetical order of the short name the columns show, without «Grupo »
+// (`nombreCorto` in src/components/partido.tsx; DESIGN.md · Party order).
+const porNombreCorto = (a: { nombre: string }, b: { nombre: string }) =>
+  a.nombre.replace(/^Grupo /, "").localeCompare(b.nombre.replace(/^Grupo /, ""), "es");
+
 let cache: ReturnType<typeof cargar> | undefined;
 
 function cargar() {
   const mapa = leer("src", "config", "partidos.json") as Record<string, Omit<Partido, "codigo">>;
   const partidos = Object.entries(mapa)
     .map(([codigo, p]) => ({ codigo, ...p }))
-    .sort(porNombre);
+    .sort(porNombreCorto);
   const codigos = partidos.map((p) => p.codigo);
 
   const diarios: Record<string, string | null> = {};
