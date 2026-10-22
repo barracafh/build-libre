@@ -6,6 +6,11 @@ export const vistas = [
     descripcion: "Cómo votó cada grupo en el Congreso en cada tema, votación a votación.",
   },
   {
+    ruta: "/posiciones",
+    nombre: "Posiciones",
+    descripcion: "Posiciones por grupo y tema, con síntesis generadas por IA y el detalle de las votaciones.",
+  },
+  {
     ruta: "/estadisticas",
     nombre: "Estadísticas",
     descripcion: "Prototipo de interfaz con datos simulados; no representa votaciones reales.",

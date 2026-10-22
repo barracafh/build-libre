@@ -127,6 +127,16 @@ reglas obligatorias.
 - **Riesgo abierto:** se conservan las divergencias declaradas en el PR #12 (resúmenes de
   programas con IA, colores de voto, orden por brecha y carga completa del conjunto de datos).
 
+## 2026-10-22 21:33 +02:00 · Posiciones como sección propia
+
+- **Estado:** vigente
+- **Contexto:** el usuario solicita incorporar la vista `/posiciones` de `origin/dev-adri`.
+- **Decisión:** añadir Posiciones al registro de vistas, con su tabla, detalle y síntesis existentes;
+  usar el encabezado y pie comunes y conservar el generador de la rama de origen.
+- **Motivo:** acceder desde la navegación principal y volver al listado desde cada detalle.
+- **Riesgo abierto:** se conserva el contenido generado por IA de la vista original, etiquetado
+  como tal; no es texto oficial.
+
 ## Pendiente
 
 - Origen de los ficheros copiados a mano de upstream `data/` (commit `39a7426`): `data:fetch` borra
