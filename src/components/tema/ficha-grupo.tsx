@@ -42,7 +42,7 @@ export function FichaGrupo({ iniciativas, partidos, codigo, elegir, filtrar, abr
 
   const tabla = (titulo: string, filas: Fila[], campo: Filtro["campo"]) => (
     <section className="flex min-w-0 flex-col gap-2 rounded-lg border bg-card p-4">
-      <h3 className="text-[17px] font-semibold">{titulo}</h3>
+      <h3 className="text-h3">{titulo}</h3>
       <div className="overflow-x-auto">
         <table className="w-full text-sm">
           <thead>
@@ -54,7 +54,14 @@ export function FichaGrupo({ iniciativas, partidos, codigo, elegir, filtrar, abr
                 <th key={m} scope="col" className="px-1 py-2 text-right font-semibold">
                   <span className="inline-flex items-center gap-1">
                     <VoteMark voto={m} className="size-2.5" />
-                    {CORTA[m] ?? ETIQUETA[m]}
+                    {CORTA[m] ? (
+                      <>
+                        <span aria-hidden="true">{CORTA[m]}</span>
+                        <span className="sr-only">{ETIQUETA[m]}</span>
+                      </>
+                    ) : (
+                      ETIQUETA[m]
+                    )}
                   </span>
                 </th>
               ))}
@@ -85,7 +92,7 @@ export function FichaGrupo({ iniciativas, partidos, codigo, elegir, filtrar, abr
                               }`,
                             })
                           }
-                          className="min-h-11 min-w-11 rounded px-1 underline underline-offset-2 hover:bg-muted focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none"
+                          className="min-h-11 min-w-11 rounded px-1 underline underline-offset-2 hover:bg-muted"
                         >
                           {n}
                         </button>
@@ -112,7 +119,7 @@ export function FichaGrupo({ iniciativas, partidos, codigo, elegir, filtrar, abr
             type="button"
             aria-pressed={p.codigo === codigo}
             onClick={() => elegir(p.codigo)}
-            className="inline-flex min-h-11 items-center gap-2 rounded-full border border-(--muted-foreground) px-4 text-sm hover:bg-muted focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none aria-pressed:border-primary aria-pressed:bg-primary aria-pressed:text-primary-foreground"
+            className="inline-flex min-h-11 items-center gap-2 rounded-full border border-(--muted-foreground) px-4 text-sm hover:bg-muted aria-pressed:border-primary aria-pressed:bg-primary aria-pressed:text-primary-foreground"
           >
             <Muestra color={p.color} />
             {p.nombre}
@@ -127,7 +134,7 @@ export function FichaGrupo({ iniciativas, partidos, codigo, elegir, filtrar, abr
         {tabla("Por tipo de iniciativa", porTipo, "tipo")}
         {tabla("Por quién la propuso", porProponente, "proponente")}
         <section className="flex flex-col gap-2 rounded-lg border bg-card p-4 text-sm">
-          <h3 className="text-[17px] font-semibold">Iniciativas que propuso: {propias.length}</h3>
+          <h3 className="text-h3">Iniciativas que propuso: {propias.length}</h3>
           {propias.length ? (
             <ul className="flex flex-col gap-2">
               {propias.map((i) => (
@@ -136,7 +143,7 @@ export function FichaGrupo({ iniciativas, partidos, codigo, elegir, filtrar, abr
                   <button
                     type="button"
                     onClick={() => abrir(i.clave)}
-                    className="text-left underline underline-offset-2 focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none"
+                    className="min-h-11 py-2 text-left underline underline-offset-2"
                   >
                     {tituloCompleto(i.titulo, i.texto)}
                   </button>

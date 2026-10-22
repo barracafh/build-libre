@@ -1,6 +1,7 @@
 import type { ReactNode } from "react";
 
 import { nombreCorto } from "@/components/partido";
+import { ScrollTable } from "@/components/scroll-table";
 import { ETIQUETA, type Marca } from "@/components/vote-mark";
 import type { Iniciativa, Partido } from "@/lib/datos";
 import { fecha, marcaDe, nombreProponente, tituloCompleto } from "./comun";
@@ -53,7 +54,7 @@ export function Tiras({
   const anios = votos.flatMap(({ v }, k) => (k === 0 || votos[k - 1].v.fecha.slice(0, 4) !== v.fecha.slice(0, 4) ? [[k, v.fecha.slice(0, 4)] as const] : []));
 
   return (
-    <div className="overflow-x-auto">
+    <ScrollTable label="Gráfico de todas las votaciones del tema">
       <svg
         width={ancho}
         height={alto}
@@ -85,6 +86,7 @@ export function Tiras({
               {votos.map(({ i, v }, k) => {
                 const m = marcaDe(v, p.codigo);
                 const x = ETIQUETAS + k * PASO + PASO / 2 - 1;
+                // Mouse shortcut only: the keyboard opens the same initiative from its row in the table.
                 return (
                   <g key={v.id} onClick={() => abrir(i.clave)} className="cursor-pointer">
                     <title>{`${p.nombre}: ${ETIQUETA[m]}\n${fecha(v.fecha)} · ${tituloCompleto(v.titulo, v.texto)}\nPropone ${nombreProponente(i.proponente, partidos)}`}</title>
@@ -97,6 +99,6 @@ export function Tiras({
           );
         })}
       </svg>
-    </div>
+    </ScrollTable>
   );
 }

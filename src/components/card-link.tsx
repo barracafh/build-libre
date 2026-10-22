@@ -6,7 +6,7 @@ export function CardLink({ href, titulo, children }: { href: string; titulo: str
   return (
     <Link
       href={href}
-      className="flex min-h-11 items-center justify-between gap-4 rounded-xl border bg-card px-5 py-4 transition-colors hover:border-(--muted-foreground) focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none"
+      className="flex min-h-11 items-center justify-between gap-4 rounded-xl border bg-card px-5 py-4 transition-colors hover:border-(--muted-foreground)"
     >
       <span className="flex min-w-0 flex-col gap-1">
         <span className="font-semibold">{titulo}</span>
