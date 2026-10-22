@@ -22,21 +22,6 @@ pinned in `source.json`; never edit these files by hand.
 | `temas.json` | Derived, not upstream: for each of the fixed topics, its votes grouped into initiatives (same `exp`, or same day and `texto`), with main votes, amendment votes apart, sessions and Diario links. Written by `scripts/temas.ts` from `datosTemas()` in `src/lib/datos.ts`; types there. Initiatives without a topic are only counted (`sinTema`). |
 | `source.json` | Repository, pinned commit, fetch date, licences, missing months, and every file with its upstream path and record count. |
 
-### Files copied by hand from upstream `data/`
-
-Commit `39a7426` («Full data update») added files from upstream's `data/` folder at the same pinned
-commit; `scripts/fetch-data.ts` does not download them and they are not listed in `source.json`.
-Their fields are in [data-schema.md](data-schema.md).
-
-- `votaciones/YYYY-MM-DD.json` (one file per Pleno day, per-deputy votes) and
-  `sesiones/<session id>.json` (one file per session) sit in the same folders as the monthly files.
-  `src/lib/datos.ts` reads only `YYYY-MM.json`. **`bun run data:fetch` empties both folders before
-  writing, so it deletes these files.**
-- `agenda.json`, `boe.json`, `comisiones.json`, `estado.json`, `intereses.json`, `leyes.json`,
-  `mvp.json`, `preguntas.json`, `encuestas/`, `geografia/`, `normalizacion/`, `promesas/` and the
-  extra files in `elecciones/`. `encuestas/` holds polls and prediction markets, which the site must
-  never show (neutrality rules in `AGENTS.md`).
-
 Everything is limited to the XV legislature (constituted on 17 August 2023): `pnpm data:fetch` fails
 if a session is dated earlier or an intervention points to a session outside its month. In this
 snapshot: 2,185 votes (2023-09-19 to 2026-10-02), 832 sessions (2023-08-17 to 2026-10-02; 235 of
