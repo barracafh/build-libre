@@ -16,4 +16,17 @@ reglas obligatorias.
 - **Riesgo abierto:** ninguna fuente está comprobada (`fuente: null`) y los colores salen de los
   datos; falta la fuente oficial de cada nombre antes de mostrarlos.
 
+## 2026-10-22 18:36 +02:00 · Capa de datos para la web
+
+- **Estado:** vigente
+- **Contexto:** `data/` copia Escaño Abierto tal cual; la web necesita votaciones, posiciones por
+  partido y resultados por provincia limpios, con tipos y sin texto de IA mezclado.
+- **Decisión:** `src/lib/datos.ts` lee `data/` en el build y da datos limpios; no se genera otra
+  copia. Las reglas de limpieza están en su cabecera.
+- **Motivo:** una sola fuente de datos y la limpieza probada en `src/lib/datos.test.ts`; los temas
+  (`tm`) salen de palabras clave sin IA (`escano/temas.py`), así que sirven de filtro.
+- **Alternativas:** un script que escriba JSON limpios en el repo; duplica datos y añade un paso
+  que puede quedar desfasado.
+- **Riesgo abierto:** sesiones e intervenciones (casi todo IA) no se exponen todavía.
+
 ## Pendiente
