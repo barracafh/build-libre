@@ -16,6 +16,7 @@ export function PaginaTema({ slug }: { slug: string }) {
 
   return (
     <main className="mx-auto flex max-w-6xl flex-col gap-8 px-4 py-6 sm:px-6 lg:py-10">
+      <SelectorTema actual={slug} temas={d.temas.map(({ slug, nombre }) => ({ slug, nombre }))} />
       <div className="flex flex-col gap-3">
         <p className="font-mono text-xs tracking-[0.06em] text-muted-foreground uppercase">
           Tema · Pleno del Congreso · XV legislatura
@@ -30,7 +31,6 @@ export function PaginaTema({ slug }: { slug: string }) {
           Los temas los asigna Escaño Abierto por palabras clave, sin IA. {d.sinTema.iniciativas} iniciativas no
           tienen tema y no aparecen aquí.
         </p>
-        <SelectorTema actual={slug} temas={d.temas.map(({ slug, nombre }) => ({ slug, nombre }))} />
       </div>
       <VistaTema iniciativas={iniciativas} partidos={d.partidos} />
       <Fuentes
