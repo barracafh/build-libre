@@ -206,6 +206,9 @@ async function main(): Promise<void> {
     return `${n} ${key}`;
   });
   console.log(`Wrote ${months.length} months (${totals.join(", ")}) and elections, commit ${COMMIT}`);
+
+  // Derived from the files above, so it runs once they are written.
+  await import("./temas.ts");
 }
 
 function missingMonths(months: readonly string[]): string[] {
