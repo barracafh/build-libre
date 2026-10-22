@@ -248,8 +248,11 @@ export function decodificarVotos(v: Pick<VotacionOrigen, "v" | "cg">, filas: Fil
 const leer = (...ruta: string[]) =>
   JSON.parse(readFileSync(join(process.cwd(), ...ruta), "utf8"));
 
+// Only the monthly files (YYYY-MM.json): the folders also hold upstream's per-day votes and
+// per-session files, which have another shape.
 const mensuales = <T>(carpeta: string): T[] =>
   readdirSync(join(process.cwd(), "data", carpeta))
+    .filter((f) => /^\d{4}-\d{2}\.json$/.test(f))
     .sort()
     .flatMap((f) => leer("data", carpeta, f) as T[]);
 

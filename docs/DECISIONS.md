@@ -62,3 +62,10 @@ reglas obligatorias.
 - **Alternativas:** totales Sí/No por tema; mezclan propuestas de sentido opuesto.
 
 ## Pendiente
+
+- Origen de los ficheros copiados a mano de upstream `data/` (commit `39a7426`): `data:fetch` borra
+  los de `votaciones/` y `sesiones/`. Propuesta: que `fetch-data.ts` descargue solo los que use la
+  web, en carpetas propias, y quitar el resto.
+- ¿Se quedan en el repo las encuestas (`data/encuestas/`)? Propuesta: quitarlas; la web nunca puede
+  mostrarlas.
+- Votaciones sin tema. Propuesta: fuera de las vistas por tema, con su recuento en `/metodo/`.
