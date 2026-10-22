@@ -3,6 +3,7 @@ import Link from "next/link";
 import { Fuentes } from "@/components/Fuentes";
 import { MapaPosturas } from "@/components/mapa-posturas";
 import { posturasDeTema } from "@/lib/posturas";
+import { frasePartido } from "@/lib/resumen";
 import { FormularioTemas } from "@/components/formulario-temas";
 import { TarjetaPartido, resumenApoyo } from "@/components/tarjeta-partido";
 import { FUENTES, partidos } from "@/lib/datos";
@@ -165,14 +166,21 @@ export default async function Comparar({ searchParams }: Props) {
                 <h2 id={`g-${p.codigo}-titulo`} className="text-xl lg:text-2xl">
                   {p.nombre}
                 </h2>
-                {datosTema.map((t) => (
-                  <span
-                    key={t.slug}
-                    className="mt-1 block text-base text-(--text-secondary) tabular-nums"
-                  >
-                    {t.nombre}: {resumenApoyo(t.apoyo[p.codigo], true)}
-                  </span>
-                ))}
+                {datosTema.map((t) => {
+                  const frase = frasePartido(t.posturas, p.codigo);
+                  return (
+                    <span key={t.slug} className="mt-1 block">
+                      <span className="block text-base text-(--text-secondary) tabular-nums">
+                        {t.nombre}: {resumenApoyo(t.apoyo[p.codigo], true)}
+                      </span>
+                      {frase && (
+                        <span className="mt-0.5 block text-sm text-(--text-secondary)">
+                          Posturas: {frase}
+                        </span>
+                      )}
+                    </span>
+                  );
+                })}
               </span>
             </summary>
             <div className="grid gap-3 border-t p-3 sm:p-4">

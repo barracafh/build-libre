@@ -9,7 +9,9 @@ import { propuestasDeTema } from "@/lib/propuestas";
 import { TarjetaPartido } from "@/components/tarjeta-partido";
 import { VoteMark } from "@/components/vote-mark";
 import { MapaPosturas } from "@/components/mapa-posturas";
+import { ResumenTema } from "@/components/resumen-tema";
 import { posturasDeTema } from "@/lib/posturas";
+import { fraseMedida } from "@/lib/resumen";
 
 type Props = { params: Promise<{ tema: string }> };
 
@@ -169,7 +171,12 @@ export default async function PaginaTema({ params }: Props) {
   const propuestas = propuestasDeTema(slug);
   const posturas = posturasDeTema(slug);
   const enlaces = [
-    ...(posturas.length ? [{ href: "#posturas", texto: "Posturas" }] : []),
+    ...(posturas.length
+      ? [
+          { href: "#resumen", texto: "Resumen" },
+          { href: "#posturas", texto: "Posturas" },
+        ]
+      : []),
     { href: "#por-grupo", texto: "Por grupo" },
     { href: "#por-cuestion", texto: "Por cuestión" },
   ];
@@ -190,6 +197,36 @@ export default async function PaginaTema({ params }: Props) {
         el grupo tomó esa posición; «Dividido» es que ninguna opción llegó al 80 % de los votos
         emitidos del grupo. Grupos en orden alfabético.
       </p>
+
+      {posturas.length > 0 && (
+        <section id="resumen" aria-labelledby="resumen-titulo" className="mt-6 scroll-mt-4">
+          <h2 id="resumen-titulo" className="text-xl lg:text-2xl">
+            En resumen
+          </h2>
+          <ol className="mt-3 grid max-w-[72ch] list-decimal gap-3 pl-6 text-base marker:font-mono marker:text-brand">
+            {posturas.map((f) => (
+              <li key={f.enunciado.slug} className="pl-1">
+                <strong className="font-semibold">{f.enunciado.texto}</strong> — {fraseMedida(f)}{" "}
+                <a
+                  href={`#medida-${f.enunciado.slug}`}
+                  className="hidden text-sm whitespace-nowrap underline underline-offset-2 hover:decoration-2 lg:inline"
+                >
+                  ver votaciones
+                  <span className="sr-only"> de «{f.enunciado.texto}»</span>
+                </a>
+                <a
+                  href={`#medida-${f.enunciado.slug}-movil`}
+                  className="text-sm whitespace-nowrap underline underline-offset-2 hover:decoration-2 lg:hidden"
+                >
+                  ver votaciones
+                  <span className="sr-only"> de «{f.enunciado.texto}»</span>
+                </a>
+              </li>
+            ))}
+          </ol>
+          <ResumenTema slug={slug} />
+        </section>
+      )}
 
       <nav aria-label="En esta página" className="mt-4">
         <ul className="flex flex-wrap gap-x-6">

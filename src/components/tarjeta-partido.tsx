@@ -11,6 +11,8 @@ import {
   type Apoyo,
   type Iniciativa,
 } from "@/lib/iniciativas";
+import { posturasDeTema } from "@/lib/posturas";
+import { frasePartido } from "@/lib/resumen";
 
 const numero = new Intl.NumberFormat("es-ES", { useGrouping: "always" });
 const fechaCorta = new Intl.DateTimeFormat("es-ES", {
@@ -169,6 +171,8 @@ export function TarjetaPartido({
     apoyo.noVota.length && `No votó en ${numero.format(apoyo.noVota.length)}`,
   ].filter(Boolean);
 
+  const posturas = frasePartido(posturasDeTema(temaSlug), partido.codigo);
+
   const top = [...lineas].sort((a, b) => b.n - a.n).slice(0, compacta ? 2 : 3);
 
   const titulo = (
@@ -179,6 +183,11 @@ export function TarjetaPartido({
 
   const cuerpo = (
     <>
+      {posturas && !plegable && (
+        <p className="mt-3">
+          <span className="font-semibold">Posturas:</span> {posturas}
+        </p>
+      )}
       <Sub className="mt-4 text-base font-semibold">En resumen</Sub>
       {frases.length ? (
         <div className="mt-1 grid gap-2">
@@ -279,6 +288,11 @@ export function TarjetaPartido({
             <span className="mt-1 block text-base text-(--text-secondary) tabular-nums">
               {resumenApoyo(apoyo)}
             </span>
+            {posturas && (
+              <span className="mt-1 block text-sm text-(--text-secondary)">
+                Posturas: {posturas}
+              </span>
+            )}
           </span>
         </summary>
         <div className="border-t px-4 pb-5 sm:px-6">{cuerpo}</div>

@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import Link from "next/link";
 import { Fuentes } from "@/components/Fuentes";
 import { FUENTES, instantanea, votaciones } from "@/lib/datos";
 
@@ -110,6 +111,21 @@ export default function Metodo() {
           y «Se abstuvo» si solo se abstuvo. La asignación se guarda en{" "}
           <span className="font-mono text-sm">src/datos/posturas/&lt;tema&gt;.json</span> y se puede
           revisar; la postura sale de contar esos votos, sin inteligencia artificial.
+        </p>
+        <h3 className="mt-5 text-base font-semibold">Promesas de 2023</h3>
+        <p className="mt-2">
+          Las promesas son citas literales extraídas de los programas electorales en PDF de 2023
+          con el mismo proceso de Reforma Digital, con las mismas instrucciones para el modelo. Cada
+          una indica su página y enlaza a{" "}
+          <Link href="/programas" className={enlace}>
+            nuestra copia del programa
+          </Link>{" "}
+          y a la fuente original. Qué promesa corresponde a qué medida se guarda
+          en <span className="font-mono text-sm">src/datos/promesas-posturas/&lt;tema&gt;.json</span>{" "}
+          y se revisa a mano. La etiqueta («Vota como prometió», «Vota distinto de lo que
+          prometió»…) es una regla, no un juicio de un modelo: compara si la promesa va a favor o en
+          contra de la medida con la postura que sale de sus votos. Los grupos cuyo programa aún no
+          se ha procesado muestran «Programa no analizado».
         </p>
       </section>
 

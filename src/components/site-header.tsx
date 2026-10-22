@@ -12,6 +12,7 @@ import ficha from "../../ficha.json";
 // which get aria-current="true" (the section's own page gets "page").
 const SECCIONES = [
   { href: "/", nombre: "Temas", dentro: ["/tema/"] },
+  { href: "/programas", nombre: "Programas", dentro: ["/programas/"] },
   { href: "/metodo", nombre: "Método", dentro: ["/metodo/"] },
 ] as const;
 
