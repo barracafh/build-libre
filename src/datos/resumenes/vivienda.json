@@ -1,0 +1,38 @@
+{
+  "tema": "vivienda",
+  "generado": "2026-10-22T19:23:27.060Z",
+  "modelo": "glm5.3-flash",
+  "frases": [
+    {
+      "texto": "Se votó la convalidación de un real decreto-ley del Gobierno con medidas para proteger la función social de la vivienda y ampliar la oferta de vivienda asequible, y no salió adelante.",
+      "iniciativas": [
+        "130/000055"
+      ]
+    },
+    {
+      "texto": "Se votó la convalidación de un real decreto-ley del Gobierno para reforzar la estabilidad de los contratos de alquiler de vivienda habitual, y no salió adelante.",
+      "iniciativas": [
+        "130/000056"
+      ]
+    },
+    {
+      "texto": "Se votó la convalidación de un real decreto-ley del Gobierno que prorrogaba la suspensión de los desalojos de la vivienda habitual de colectivos vulnerables, y salió adelante.",
+      "iniciativas": [
+        "130/000004"
+      ]
+    },
+    {
+      "texto": "Se tomó en consideración una proposición de ley orgánica contra la ocupación ilegal de inmuebles y para la convivencia vecinal, y salió adelante.",
+      "iniciativas": [
+        "122/000254"
+      ]
+    },
+    {
+      "texto": "Se votó una moción sobre la política del Gobierno en materia de vivienda, y salió adelante.",
+      "iniciativas": [
+        "173/000186"
+      ]
+    }
+  ],
+  "descartadas": 0
+}

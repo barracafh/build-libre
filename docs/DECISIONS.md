@@ -137,6 +137,16 @@ reglas obligatorias.
 - **Riesgo abierto:** se conserva el contenido generado por IA de la vista original, etiquetado
   como tal; no es texto oficial.
 
+## 2026-10-22 21:40 +02:00 · Posturas sustituye la pestaña Estadísticas
+
+- **Estado:** vigente
+- **Contexto:** el usuario pide retirar la pestaña Estadísticas e incorporar la vista del PR #14.
+- **Decisión:** registrar Posturas en `/posturas`, con sus rutas de temas, comparación, votaciones,
+  programas y método bajo ese prefijo; reutilizar el shell y la capa de datos actuales.
+- **Motivo:** integrar el contenido del PR sin colisiones con `/tema` ni sustituir otras vistas.
+- **Riesgo abierto:** se mantienen las interpretaciones y síntesis de IA del PR, identificadas
+  en su interfaz. El prototipo de estadísticas queda fuera del menú y de la portada.
+
 ## Pendiente
 
 - Origen de los ficheros copiados a mano de upstream `data/` (commit `39a7426`): `data:fetch` borra

@@ -11,9 +11,9 @@ export const vistas = [
     descripcion: "Posiciones por grupo y tema, con síntesis generadas por IA y el detalle de las votaciones.",
   },
   {
-    ruta: "/estadisticas",
-    nombre: "Estadísticas",
-    descripcion: "Prototipo de interfaz con datos simulados; no representa votaciones reales.",
+    ruta: "/posturas",
+    nombre: "Posturas",
+    descripcion: "Qué prometió y qué votó cada grupo, con comparaciones por tema y medida.",
   },
   {
     ruta: "/escaner",

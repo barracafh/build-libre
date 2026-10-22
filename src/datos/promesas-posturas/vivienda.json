@@ -1,0 +1,39 @@
+{
+  "tema": "vivienda",
+  "asignaciones": [
+    { "promesa": "PP-034-0131", "enunciado": "regular-alquiler", "postura": "C", "nota": "Promete derogar la Ley por el derecho a la vivienda, que regula los precios del alquiler" },
+    { "promesa": "BILDU-004-0015", "enunciado": "regular-alquiler", "postura": "F", "nota": "Promete recuperar la prórroga automática e indefinida de los contratos de alquiler con la misma renta" },
+    { "promesa": "PSOE-130-0903", "enunciado": "parque-publico", "postura": "F", "nota": "Promete llevar el parque público de vivienda al 20 %" },
+    { "promesa": "PSOE-131-0908", "enunciado": "parque-publico", "postura": "F", "nota": "Promete construir 183.000 viviendas públicas de alquiler" },
+    { "promesa": "PSOE-223-1551", "enunciado": "parque-publico", "postura": "F", "nota": "Promete impedir la descalificación y la venta a fondos de la vivienda de uso social" },
+    { "promesa": "PSOE-226-1581", "enunciado": "parque-publico", "postura": "F", "nota": "Promete comprar suelo para construir vivienda de alquiler social" },
+    { "promesa": "PSOE-223-1552", "enunciado": "parque-publico", "postura": "F", "nota": "Promete destinar al menos la mitad de las reservas de suelo de VPO a alquiler social y asequible", "revisar": true },
+    { "promesa": "PP-034-0134", "enunciado": "parque-publico", "postura": "F", "nota": "Promete movilizar suelo público para promover alquiler asequible; no dice si la vivienda resultante será pública", "revisar": true },
+    { "promesa": "PP-034-0133", "enunciado": "incentivos-oferta", "postura": "F", "nota": "Promete una ley de seguridad jurídica en urbanismo, como la que el PP llevó al Congreso" },
+    { "promesa": "PSOE-225-1565", "enunciado": "incentivos-oferta", "postura": "F", "nota": "Promete normas que permitan cambiar el uso de edificios vacíos para hacer vivienda", "revisar": true },
+    { "promesa": "PP-082-0370", "enunciado": "ocupacion", "postura": "F", "nota": "Promete un paquete «anti-okupación» con desalojos en 24 horas" },
+    { "promesa": "PP-082-0371", "enunciado": "ocupacion", "postura": "F", "nota": "Promete desalojos en un plazo máximo de 24 horas" },
+    { "promesa": "PP-082-0374", "enunciado": "ocupacion", "postura": "F", "nota": "Promete legitimar a las comunidades de propietarios para actuar contra la ocupación" },
+    { "promesa": "PP-082-0375", "enunciado": "ocupacion", "postura": "F", "nota": "Promete anular el empadronamiento de ocupantes ilegales" }
+  ],
+  "sinEnunciado": [
+    { "promesa": "PP-034-0132", "nota": "Avales hipotecarios para jóvenes: ayuda a la compra, sin medida equivalente votada" },
+    { "promesa": "PP-061-0268", "nota": "Obras de accesibilidad en la Ley de Propiedad Horizontal, sin medida equivalente votada" },
+    { "promesa": "PSOE-032-0107", "nota": "Umbral de renta para el alivio hipotecario, sin medida equivalente votada" },
+    { "promesa": "PSOE-095-0620", "nota": "Plan de vivienda rural, sin medida equivalente votada" },
+    { "promesa": "PSOE-130-0902", "nota": "Avales ICO para hipotecas de jóvenes: ayuda a la compra, sin medida equivalente votada" },
+    { "promesa": "PSOE-131-0904", "nota": "Reserva de vivienda asequible para jóvenes: reparto, no ampliación del parque" },
+    { "promesa": "PSOE-131-0905", "nota": "Bono Joven de Alquiler: ayuda al inquilino, sin medida equivalente votada" },
+    { "promesa": "PSOE-131-0907", "nota": "Ayudas a cooperativas y cohousing, sin medida equivalente votada" },
+    { "promesa": "PSOE-184-1284", "nota": "Ayudas de accesibilidad y eficiencia energética de viviendas, sin medida equivalente votada" },
+    { "promesa": "PSOE-225-1568", "nota": "Rehabilitación de viviendas, sin medida equivalente votada" },
+    { "promesa": "PSOE-225-1572", "nota": "Regulación de cohousing y otras modalidades residenciales, sin medida equivalente votada" },
+    { "promesa": "PSOE-226-1575", "nota": "Bono Alquiler Joven: ayuda al inquilino, sin medida equivalente votada" },
+    { "promesa": "PSOE-226-1577", "nota": "Avales ICO para hipotecas de jóvenes (repetida en el programa), sin medida equivalente votada" },
+    { "promesa": "PSOE-226-1578", "nota": "Reserva de vivienda asequible para jóvenes (repetida en el programa): reparto, no ampliación del parque" },
+    { "promesa": "PSOE-226-1580", "nota": "Ayudas a cooperativas y cohousing (repetida en el programa), sin medida equivalente votada" },
+    { "promesa": "PSOE-226-1582", "nota": "Cuenta de ahorro exenta de IRPF para comprar: incentivo a la demanda, no a construir" },
+    { "promesa": "BILDU-004-0016", "nota": "Congelación de cuotas hipotecarias, sin medida equivalente votada" },
+    { "promesa": "BILDU-004-0017", "nota": "Código de Buenas Prácticas hipotecario obligatorio, sin medida equivalente votada" }
+  ]
+}
