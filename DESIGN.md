@@ -1,7 +1,7 @@
 # DESIGN.md
 
-Visual and interaction rules for the site. [docs/COMPETITION.md](docs/COMPETITION.md) (section
-«Diseño») and [AGENTS.md](AGENTS.md) win on any conflict. Tokens live in
+Visual and interaction rules for the site. [AGENTS.md](AGENTS.md), then
+[docs/COMPETITION.md](docs/COMPETITION.md) (section «Diseño»), win on any conflict. Tokens live in
 [src/app/globals.css](src/app/globals.css) and [src/styles/tema.css](src/styles/tema.css); this
 file says what they mean and when to use them.
 
@@ -135,13 +135,15 @@ only helps.
 
 ### Party colours
 
-The competition forbids adding colours, so party colours are an exception that the organizers have
-not approved yet: until they do, no swatch is shown (`src/config/partidos.json` keeps the values).
-If approved:
+Visualizations use party colours (`color` in `src/config/partidos.json`), an exception to the
+competition's rule against adding colours (see [docs/DECISIONS.md](docs/DECISIONS.md)).
 
-- Identify the party only: a small swatch (≤ 12 px) or a 3 px left border next to the party name.
-- Never fill a bar, chart or number with a party colour; results use the vote tones.
-- The party name is always visible next to the swatch; the swatch is decoration (`aria-hidden`).
+- Colour identifies the party (a row, a series, a swatch), never the vote: votes keep their neutral
+  marks and labels above.
+- The party name is always visible next to its colour; the colour alone never tells parties apart.
+- Every mark filled with a party colour has a 1 px `--foreground` edge, for all parties alike. Four
+  colours are below the 3:1 graphics contrast on white (ERC 2.21, EH Bildu 2.74, Junts 2.93,
+  VOX 2.95); the edge gives the contrast without changing the colours.
 
 ## Typography
 

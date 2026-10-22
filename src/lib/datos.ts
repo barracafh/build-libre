@@ -21,15 +21,7 @@ import { readdirSync, readFileSync } from "node:fs";
 import { join } from "node:path";
 
 export type Voto = "S" | "N" | "A" | "X";
-export type Posicion = Voto | "D";
-
-export const ETIQUETA: Record<Posicion, string> = {
-  S: "Sí",
-  N: "No",
-  A: "Abstención",
-  X: "No vota",
-  D: "Dividido",
-};
+export type Posicion = Voto | "D"; // labels and marks: src/components/vote-mark.tsx
 
 // The fixed list of topics the site offers. Slugs are upstream `tm` tags (escano/temas.py),
 // assigned by keywords, no AI. Upstream `cultura` and `tecnologia` are left out.
@@ -422,3 +414,9 @@ export const instantanea = () => {
   const { commit, fetched } = datos().fuente;
   return { commit, fecha: fetched, ultimaVotacion: datos().votaciones.at(-1)?.fecha };
 };
+
+let cacheTemas: DatosTemas | undefined;
+
+// What the topic pages read: the committed data/temas.json, so the build does not regroup every
+// vote for each page. A test keeps it equal to datosTemas().
+export const temas = (): DatosTemas => (cacheTemas ??= leer("data", "temas.json"));

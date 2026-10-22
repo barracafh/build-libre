@@ -41,3 +41,11 @@
     }
   }
 }
+
+/* Vote tones (DESIGN.md · Vote tones and marks): Sol's neutral greys, never a hue. */
+:root {
+  --vote-yes: var(--foreground);
+  --vote-no: var(--muted-foreground);
+  --vote-abst: var(--text-secondary);
+  --vote-none: var(--muted-foreground);
+}

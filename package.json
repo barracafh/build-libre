@@ -10,7 +10,7 @@
     "dev": "next dev",
     "build": "next build --webpack",
     "typecheck": "tsc --noEmit",
-    "test": "node --test src/lib/*.test.ts",
+    "test": "bun test",
     "data:fetch": "node scripts/fetch-data.ts"
   },
   "dependencies": {
