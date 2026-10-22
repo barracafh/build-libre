@@ -5,7 +5,8 @@ import { Badge } from "@/components/ui/badge";
 import { Fuentes } from "@/components/Fuentes";
 import { ETIQUETA, FUENTES, partidos, type Partido, type Posicion } from "@/lib/datos";
 import { conteoPorPartido, cuestionesDeTema, tema, temas, type Cuestion } from "@/lib/cuestiones";
-import { PROPUESTAS_AVISO, propuestasDeTema, type Linea } from "@/lib/propuestas";
+import { propuestasDeTema } from "@/lib/propuestas";
+import { TarjetaPartido } from "@/components/tarjeta-partido";
 import { VoteMark } from "@/components/vote-mark";
 
 type Props = { params: Promise<{ tema: string }> };
@@ -67,7 +68,11 @@ function TablaCuestion({ cuestion, lista }: { cuestion: Cuestion; lista: Partido
               Grupo
             </th>
             {COLUMNAS.map((c) => (
-              <th key={c.posicion} scope="col" className="px-2 py-2 text-right align-bottom font-medium">
+              <th
+                key={c.posicion}
+                scope="col"
+                className="px-2 py-2 text-right align-bottom font-medium"
+              >
                 <span className="inline-flex items-center justify-end gap-1.5">
                   <VoteMark voto={c.posicion} />
                   {c.titulo}
@@ -138,49 +143,6 @@ function ListaVotaciones({ cuestion, lista }: { cuestion: Cuestion; lista: Parti
   );
 }
 
-function LineasPartido({ lineas }: { lineas: Linea[] | undefined }) {
-  const top = [...(lineas ?? [])].sort((a, b) => b.n - a.n).slice(0, 3);
-  if (!top.length)
-    return (
-      <p className="mt-2 text-base text-(--text-secondary)">
-        Sin intervenciones registradas en este tema
-      </p>
-    );
-  return (
-    <ul className="mt-2 grid gap-4">
-      {top.map((l) => {
-        const cita = l.citas[0];
-        return (
-          <li key={l.titulo}>
-            <p className="font-medium">
-              {l.titulo}{" "}
-              <span className="text-sm font-normal text-(--text-secondary) tabular-nums">
-                ({plural(l.n, "intervención", "intervenciones")})
-              </span>
-            </p>
-            {cita && (
-              <blockquote className="mt-1 border-l-2 pl-3">
-                <p>«{cita.texto}»</p>
-                <footer className="mt-1 text-sm text-(--text-secondary)">
-                  {cita.orador} · {formatoFecha(cita.fecha)}
-                  {cita.diario && (
-                    <>
-                      {" · "}
-                      <a href={cita.diario} className="underline underline-offset-2 hover:decoration-2">
-                        Diario de Sesiones
-                      </a>
-                    </>
-                  )}
-                </footer>
-              </blockquote>
-            )}
-          </li>
-        );
-      })}
-    </ul>
-  );
-}
-
 const fuentes = [
   {
     nombre: "Votaciones del Pleno · Congreso de los Diputados",
@@ -215,42 +177,78 @@ export default async function PaginaTema({ params }: Props) {
         ¿Qué ha votado cada partido sobre {t.nombre.charAt(0).toLowerCase() + t.nombre.slice(1)}?
       </h1>
       <p className="mt-3 max-w-[72ch] text-base text-(--text-secondary)">
-        {plural(t.votaciones, "votación", "votaciones")} del Pleno en la XV legislatura,
-        agrupadas en {plural(t.cuestiones, "cuestión", "cuestiones")}. Cada cifra cuenta en
-        cuántas votaciones el grupo tomó esa posición; «Dividido» es que ninguna opción llegó al
-        80 % de los votos emitidos del grupo. Grupos en orden alfabético.
+        {plural(t.votaciones, "votación", "votaciones")} del Pleno en la XV legislatura, agrupadas
+        en {plural(t.cuestiones, "cuestión", "cuestiones")}. Cada cifra cuenta en cuántas votaciones
+        el grupo tomó esa posición; «Dividido» es que ninguna opción llegó al 80 % de los votos
+        emitidos del grupo. Grupos en orden alfabético.
       </p>
 
-      {cuestiones.map((c) => (
-        <section key={c.slug} aria-labelledby={`c-${c.slug}`} className="mt-10">
-          <h2 id={`c-${c.slug}`} className="text-xl lg:text-2xl">
-            {c.nombre}{" "}
-            <span className="font-sans text-base text-(--text-secondary) tabular-nums">
-              · {plural(c.votaciones.length, "votación", "votaciones")}
-            </span>
-          </h2>
-          <TablaCuestion cuestion={c} lista={lista} />
-          <ListaVotaciones cuestion={c} lista={lista} />
-        </section>
-      ))}
+      <nav aria-label="En esta página" className="mt-6">
+        <ul className="flex flex-wrap gap-x-6">
+          <li>
+            <a
+              href="#por-grupo"
+              className="inline-flex min-h-11 items-center underline underline-offset-2 hover:decoration-2"
+            >
+              Por grupo
+            </a>
+          </li>
+          <li>
+            <a
+              href="#por-cuestion"
+              className="inline-flex min-h-11 items-center underline underline-offset-2 hover:decoration-2"
+            >
+              Por cuestión
+            </a>
+          </li>
+        </ul>
+      </nav>
 
-      <section aria-labelledby="defendido" className="mt-10">
-        <h2 id="defendido" className="text-xl lg:text-2xl">
-          Lo que ha defendido cada grupo en el pleno
+      <section id="por-grupo" aria-labelledby="por-grupo-titulo" className="mt-8 scroll-mt-4">
+        <h2 id="por-grupo-titulo" className="text-xl lg:text-2xl">
+          Por grupo
         </h2>
-        <p role="note" className="mt-3 max-w-[72ch] rounded-lg bg-muted px-4 py-3 text-base">
-          {PROPUESTAS_AVISO}
+        <p className="mt-3 text-base text-(--text-secondary)">
+          Las votaciones sobre una misma iniciativa cuentan juntas. Grupos en orden alfabético.
         </p>
-        <div className="mt-6 grid gap-8 lg:grid-cols-2">
+        <p className="mt-3 font-mono text-sm text-(--text-secondary)">
+          Pulsa un grupo para ver sus votaciones. Todos aparecen cerrados; orden alfabético.
+        </p>
+        <div className="mt-4 grid gap-3">
           {lista.map((p) => (
-            <section key={p.codigo} aria-labelledby={`p-${p.codigo}`}>
-              <h3 id={`p-${p.codigo}`} className="text-[17px] font-semibold">
-                {p.nombre}
-              </h3>
-              <LineasPartido lineas={propuestas[p.codigo]} />
-            </section>
+            <TarjetaPartido
+              plegable
+              key={p.codigo}
+              partido={p}
+              temaSlug={slug}
+              temaNombre={t.nombre}
+              cuestiones={cuestiones}
+              lineas={propuestas[p.codigo] ?? []}
+            />
           ))}
         </div>
+      </section>
+
+      <section
+        id="por-cuestion"
+        aria-labelledby="por-cuestion-titulo"
+        className="mt-12 scroll-mt-4"
+      >
+        <h2 id="por-cuestion-titulo" className="text-xl lg:text-2xl">
+          Por cuestión
+        </h2>
+        {cuestiones.map((c) => (
+          <section key={c.slug} aria-labelledby={`c-${c.slug}`} className="mt-8">
+            <h3 id={`c-${c.slug}`} className="text-[17px] font-semibold">
+              {c.nombre}{" "}
+              <span className="text-base font-normal text-(--text-secondary) tabular-nums">
+                · {plural(c.votaciones.length, "votación", "votaciones")}
+              </span>
+            </h3>
+            <TablaCuestion cuestion={c} lista={lista} />
+            <ListaVotaciones cuestion={c} lista={lista} />
+          </section>
+        ))}
       </section>
 
       <div className="mt-10">

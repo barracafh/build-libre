@@ -1,6 +1,7 @@
 import Link from "next/link";
 import { Card } from "@/components/ui/card";
 import { Fuentes } from "@/components/Fuentes";
+import { FormularioTemas } from "@/components/formulario-temas";
 import { FUENTES, instantanea, resumenes, votaciones } from "@/lib/datos";
 
 import { temas } from "@/lib/cuestiones";
@@ -67,6 +68,13 @@ export default function Inicio() {
           </dd>
         </Card>
       </dl>
+
+      <section aria-labelledby="elige-temas" className="mt-10">
+        <h2 id="elige-temas" className="scroll-mt-4 text-xl lg:text-2xl">
+          Elige los temas que te importan
+        </h2>
+        <FormularioTemas />
+      </section>
 
       <section aria-labelledby="temas" className="mt-10">
         <h2 id="temas" className="text-xl lg:text-2xl">
