@@ -41,4 +41,18 @@ reglas obligatorias.
 - **Riesgo abierto:** incorporar los PDF de 2023 exige otro pipeline y decidirlo con la
   organización.
 
+## 2026-10-22 19:57 +02:00 · Vista por grupo sobre iniciativas y entrada por temas de interés
+
+- **Estado:** vigente
+- **Contexto:** votación a votación no se entiende qué ha votado cada grupo: las mociones se votan
+  por puntos con el mismo título, y el ciudadano quiere ver en minutos su línea en sus temas.
+- **Decisión:** votaciones agrupadas en iniciativas con su proponente; cada tema lista por grupo
+  «A favor de / En contra de / Se abstuvo en» con frases de plantilla (sin IA). Ver `/comparar`.
+- **Motivo:** la iniciativa y su proponente dicen la línea sin que la herramienta la interprete; el
+  selector es de temas, no de opiniones: no es test de afinidad ni orienta el voto.
+- **Alternativas:** índice de cumplimiento o % de apoyo (presupone una dirección correcta;
+  prohibido); resumen por grupo con IA (no verificable).
+- **Riesgo abierto:** revisar que ninguna frase de plantilla califique («apoya», «rechaza») y
+  decidir si el pie de `/comparar` necesita avisar de que no recomienda voto.
+
 ## Pendiente
