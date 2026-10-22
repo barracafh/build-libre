@@ -57,7 +57,12 @@ export function Matriz({ iniciativas, partidos, abiertas, alternar }: Props) {
                     </p>
                   </th>
                   {partidos.map((p) => (
-                    <td key={p.codigo} className="px-2 py-3">
+                    // Light tint: identifies the column's party while vote marks keep >= 3:1 on it.
+                    <td
+                      key={p.codigo}
+                      style={{ backgroundColor: `color-mix(in srgb, ${p.color} 12%, transparent)` }}
+                      className="px-2 py-3"
+                    >
                       <Celda iniciativa={i} partido={p} />
                     </td>
                   ))}
