@@ -34,7 +34,7 @@ export default async function Tema({ params }: Props) {
         <p className="max-w-[72ch] text-(--text-secondary)">
           {tema.recuento.iniciativas} iniciativas y {tema.recuento.votaciones} votaciones
           {fechas.length > 0 && `, del ${fecha(fechas[0])} al ${fecha(fechas.at(-1)!)}`}.
-          {tema.recuento.enmiendas > 0 && ` No se muestran las ${tema.recuento.enmiendas} votaciones de enmiendas.`}
+          {tema.recuento.enmiendas > 0 && ` Las ${tema.recuento.enmiendas} votaciones de enmiendas se enlazan en el detalle.`}
         </p>
       </div>
       <VistaTema iniciativas={iniciativas} partidos={d.partidos} />

@@ -117,7 +117,7 @@ function Detalle({ iniciativa: i, partidos }: { iniciativa: Iniciativa; partidos
       <p className="text-sm text-muted-foreground">
         {i.tipo} · propone {nombreProponente(i.proponente, partidos)}
         {i.clave.includes("/") && ` · expediente ${i.clave}`}
-        {i.enmiendas.length > 0 && ` · ${i.enmiendas.length} votaciones de enmiendas no mostradas`}
+        {i.enmiendas.length > 0 && ` · ${i.enmiendas.length} votaciones de enmiendas`}
       </p>
       {i.sesiones.length > 0 && (
         <p className="text-sm">
@@ -171,32 +171,54 @@ function Detalle({ iniciativa: i, partidos }: { iniciativa: Iniciativa; partidos
           </tbody>
         </table>
       </ScrollTable>
+      {i.enmiendas.length > 0 && (
+        <details>
+          <summary className="min-h-11 cursor-pointer py-3 text-sm font-semibold">
+            Votaciones de enmiendas ({i.enmiendas.length})
+          </summary>
+          <ul className="flex flex-col gap-2 text-sm">
+            {i.enmiendas.map((v) => (
+              <li key={v.id}>
+                <a href={v.fuente} className="inline-block min-h-11 py-2 underline">
+                  {fecha(v.fecha)} · {v.titulo} · Votación oficial ↗
+                </a>
+              </li>
+            ))}
+          </ul>
+        </details>
+      )}
       <h3 className="text-[17px] font-semibold">Motivos de cada grupo</h3>
       <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
         {partidos.map((p) => {
-          const m = i.votaciones.find((v) => v.motivos[p.codigo])?.motivos[p.codigo];
+          const conMotivo = i.votaciones.filter((v) => v.motivos[p.codigo]);
           return (
             <li key={p.codigo} className="flex flex-col gap-1 rounded-lg border bg-card p-3 text-sm">
               <NombrePartido partido={p} className="font-semibold" />
-              {m ? (
-                <>
-                  <span className="font-mono text-[11px] tracking-[0.06em] text-muted-foreground uppercase">
-                    Resumen generado por IA
-                  </span>
-                  <p>{m.texto}</p>
-                  <p className="text-xs text-muted-foreground">
-                    {m.orador} · {fecha(m.fecha)}
-                    {m.diario && (
-                      <>
-                        {" · "}
-                        <a className="underline" href={m.diario}>
-                          Diario de Sesiones ↗
-                        </a>
-                      </>
-                    )}
-                  </p>
-                </>
-              ) : (
+              {conMotivo.length ? conMotivo.map((v) => {
+                const m = v.motivos[p.codigo];
+                return (
+                  <div key={v.id} className="flex flex-col gap-1 border-t pt-2">
+                    <a href={v.fuente} className="inline-block min-h-11 py-2 underline">
+                      Votación del {fecha(v.fecha)} · {v.id} ↗
+                    </a>
+                    <span className="font-mono text-[11px] tracking-[0.06em] text-muted-foreground uppercase">
+                      Resumen generado por IA
+                    </span>
+                    <p>{m.texto}</p>
+                    <p className="text-xs text-muted-foreground">
+                      {m.orador} · {fecha(m.fecha)}
+                      {m.diario && (
+                        <>
+                          {" · "}
+                          <a className="underline" href={m.diario}>
+                            Diario de Sesiones ↗
+                          </a>
+                        </>
+                      )}
+                    </p>
+                  </div>
+                );
+              }) : (
                 <p className="text-muted-foreground">Sin intervención registrada en los datos.</p>
               )}
             </li>

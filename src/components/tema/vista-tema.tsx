@@ -41,7 +41,7 @@ export function VistaTema({ iniciativas, partidos }: { iniciativas: Iniciativa[]
     irA("matriz");
   };
 
-  const visibles = iniciativas.filter((i) => i.votaciones.some((v) => cumpleFiltro(filtro, i, v)));
+  const visibles = iniciativas.filter((i) => !filtro || i.votaciones.some((v) => cumpleFiltro(filtro, i, v)));
 
   return (
     <div className="flex flex-col gap-10">
