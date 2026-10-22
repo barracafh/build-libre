@@ -5,4 +5,9 @@ export const vistas = [
     nombre: "Temas",
     descripcion: "Cómo votó cada grupo en el Congreso en cada tema, votación a votación.",
   },
+  {
+    ruta: "/escaner",
+    nombre: "Escáner",
+    descripcion: "Los programas de 2023 de PP, PSOE, Sumar y Vox frente a lo que votaron después en el Pleno.",
+  },
 ] as const;
