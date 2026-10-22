@@ -1,6 +1,6 @@
 "use client";
 
-import { useState } from "react";
+import { useState, type ReactNode } from "react";
 
 import { ETIQUETA, VoteMark, type Marca } from "@/components/vote-mark";
 import type { Iniciativa, Partido } from "@/lib/datos";
@@ -10,7 +10,15 @@ import { Matriz } from "./matriz";
 import { Tiras } from "./tiras";
 
 // The three views of a topic share the open rows and the filter set from the party sheet.
-export function VistaTema({ iniciativas, partidos }: { iniciativas: Iniciativa[]; partidos: Partido[] }) {
+export function VistaTema({
+  iniciativas,
+  partidos,
+  fuentes,
+}: {
+  iniciativas: Iniciativa[];
+  partidos: Partido[];
+  fuentes?: ReactNode; // rendered between the chart and the tables
+}) {
   const [abiertas, setAbiertas] = useState<Set<string>>(new Set());
   const [filtro, setFiltro] = useState<Filtro | null>(null);
   const [grupo, setGrupo] = useState(partidos[0].codigo);
@@ -54,6 +62,34 @@ export function VistaTema({ iniciativas, partidos }: { iniciativas: Iniciativa[]
         ))}
       </ul>
 
+      <section aria-labelledby="h-tiras" className="flex flex-col gap-3">
+        <h2 id="h-tiras" className="text-h2">
+          Iniciativas de cada grupo, en el tiempo
+        </h2>
+        <p className="max-w-[72ch] text-(--text-secondary)">
+          Cada fila recoge las votaciones de las iniciativas que propuso ese grupo, con su voto, en la fecha
+          en que se votaron; las de un mismo día se apilan. Pasa por encima para ver cuál es y pulsa para
+          abrirla en la tabla. Si no cabe, el gráfico se desplaza en horizontal.
+        </p>
+        <Tiras iniciativas={iniciativas} partidos={partidos} abrir={abrir} />
+      </section>
+
+      {fuentes}
+
+      <section aria-labelledby="h-ficha" className="flex flex-col gap-3">
+        <h2 id="h-ficha" className="text-h2">
+          Los votos de un grupo, contados
+        </h2>
+        <FichaGrupo
+          iniciativas={iniciativas}
+          partidos={partidos}
+          codigo={grupo}
+          elegir={setGrupo}
+          filtrar={filtrar}
+          abrir={abrir}
+        />
+      </section>
+
       <section id="matriz" aria-labelledby="h-matriz" className="flex scroll-mt-4 flex-col gap-3">
         <h2 id="h-matriz" tabIndex={-1} className="text-h2">
           Cómo votó cada grupo en cada iniciativa
@@ -86,32 +122,6 @@ export function VistaTema({ iniciativas, partidos }: { iniciativas: Iniciativa[]
           )}
         </div>
         <Matriz iniciativas={visibles} partidos={partidos} abiertas={abiertas} alternar={alternar} />
-      </section>
-
-      <section aria-labelledby="h-ficha" className="flex flex-col gap-3">
-        <h2 id="h-ficha" className="text-h2">
-          Los votos de un grupo, contados
-        </h2>
-        <FichaGrupo
-          iniciativas={iniciativas}
-          partidos={partidos}
-          codigo={grupo}
-          elegir={setGrupo}
-          filtrar={filtrar}
-          abrir={abrir}
-        />
-      </section>
-
-      <section aria-labelledby="h-tiras" className="flex flex-col gap-3">
-        <h2 id="h-tiras" className="text-h2">
-          Iniciativas de cada grupo, en el tiempo
-        </h2>
-        <p className="max-w-[72ch] text-(--text-secondary)">
-          Cada fila recoge las votaciones de las iniciativas que propuso ese grupo, con su voto, en la fecha
-          en que se votaron; las de un mismo día se apilan. Pasa por encima para ver cuál es y pulsa para
-          abrirla en la tabla. Si no cabe, el gráfico se desplaza en horizontal.
-        </p>
-        <Tiras iniciativas={iniciativas} partidos={partidos} abrir={abrir} />
       </section>
     </div>
   );

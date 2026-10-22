@@ -112,7 +112,7 @@ export function Tiras({
           height={alto}
           viewBox={`0 0 ${ancho} ${alto}`}
           role="img"
-          aria-label="Voto de cada grupo en las votaciones de las iniciativas que propuso, a escala de tiempo. La tabla de arriba tiene los mismos datos."
+          aria-label="Voto de cada grupo en las votaciones de las iniciativas que propuso, a escala de tiempo. La tabla de abajo tiene los mismos datos."
           className="block"
         >
           {cortes.map(({ m, x, etiqueta, anio }) => (
