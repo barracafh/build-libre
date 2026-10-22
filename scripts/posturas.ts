@@ -13,11 +13,53 @@ import { writeFileSync, mkdirSync } from "node:fs";
 import { join } from "node:path";
 
 import { TEMAS, votacion } from "../src/lib/datos.ts";
-import { completar, type Mensaje } from "../src/lib/ia.ts";
+import type { Mensaje } from "../src/lib/ia.ts";
 import { iniciativasDeTema, type Iniciativa } from "../src/lib/iniciativas.ts";
 import type { Asignacion, Enunciado, FicheroPosturas, SinEnunciado } from "../src/lib/posturas.ts";
 
 const LOTE = 10;
+let llamadas = 0;
+
+// Como completar() de src/lib/ia.ts, pero en streaming: el modelo razona antes de responder y,
+// sin streaming, la pasarela corta a los ~2 minutos con un 408.
+async function completar(messages: Mensaje[]): Promise<string> {
+  const { HELMCODE_API_KEY, HELMCODE_BASE_URL, HELMCODE_MODEL } = process.env;
+  if (!HELMCODE_API_KEY || !HELMCODE_MODEL) throw new Error("Faltan HELMCODE_API_KEY o HELMCODE_MODEL en .env.local");
+  for (let intento = 0; ; intento++) {
+    llamadas++;
+    const res = await fetch(`${HELMCODE_BASE_URL ?? "https://api.helmcode.com/v1"}/chat/completions`, {
+      method: "POST",
+      headers: { authorization: `Bearer ${HELMCODE_API_KEY}`, "content-type": "application/json" },
+      body: JSON.stringify({ model: HELMCODE_MODEL, messages, stream: true }),
+    });
+    if (res.status === 429 && intento < 3) {
+      const espera = Number(res.headers.get("retry-after")) || 2 ** intento;
+      await new Promise((r) => setTimeout(r, Math.min(espera, 10) * 1000));
+      continue;
+    }
+    if (!res.ok || !res.body) throw new Error(`HelmCode respondió ${res.status}`);
+    let texto = "";
+    let resto = "";
+    const decoder = new TextDecoder();
+    for await (const trozo of res.body as unknown as AsyncIterable<Uint8Array>) {
+      resto += decoder.decode(trozo, { stream: true });
+      const lineas = resto.split("\n");
+      resto = lineas.pop() ?? "";
+      for (const l of lineas) {
+        const d = l.trim();
+        if (!d.startsWith("data:")) continue;
+        const json = d.slice(5).trim();
+        if (json === "[DONE]") continue;
+        try {
+          texto += JSON.parse(json).choices?.[0]?.delta?.content ?? "";
+        } catch {
+          // línea incompleta o de control: se ignora
+        }
+      }
+    }
+    return texto;
+  }
+}
 const MAX_TEXTO = 600;
 
 const REGLAS = `Reglas:
@@ -170,7 +212,7 @@ async function main() {
   const destino = join(carpeta, `${tema}.propuesto.json`);
   writeFileSync(destino, `${JSON.stringify(propuesta, null, 2)}\n`);
   console.log(
-    `Escrito ${destino}: ${enunciados.length} enunciados, ${propuesta.asignaciones.length} asignaciones, ${propuesta.sinEnunciado.length} sin enunciado. Revísalo antes de copiarlo a ${tema}.json.`,
+    `Escrito ${destino}: ${enunciados.length} enunciados, ${propuesta.asignaciones.length} asignaciones, ${propuesta.sinEnunciado.length} sin enunciado, ${llamadas} llamadas a la IA. Revísalo antes de copiarlo a ${tema}.json.`,
   );
 }
 

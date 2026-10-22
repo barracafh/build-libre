@@ -1,0 +1,33 @@
+{
+  "tema": "educacion",
+  "enunciados": [
+    { "slug": "educacion-sexual", "texto": "Impulsar la educación afectivo-sexual en los centros educativos" },
+    { "slug": "educacion-especial", "texto": "Mantener los centros de educación especial a elección de las familias" },
+    { "slug": "practicas-universitarias", "texto": "Prohibir que las universidades paguen a empresas por plazas de prácticas" },
+    { "slug": "gasto-militar-educacion", "texto": "Pasar fondos del gasto militar a la educación pública" },
+    { "slug": "politica-gobierno", "texto": "Respaldar la política educativa del Gobierno" }
+  ],
+  "asignaciones": [
+    { "iniciativa": "162/000796", "enunciado": "educacion-sexual", "direccion": 1, "nota": "PNL del PSOE, en transaccional con SUMAR y ERC, para impulsar la educación afectivo-sexual y emocional" },
+    { "iniciativa": "162/000597", "enunciado": "educacion-sexual", "direccion": 1, "nota": "PNL de Podemos (Grupo Mixto), en transaccional con ERC, para aplicar la educación sexual integral de la Ley Orgánica 1/2023" },
+    { "iniciativa": "122/000189", "enunciado": "educacion-especial", "direccion": 1, "nota": "Ley orgánica del PP para mantener la educación especial y que las familias elijan centro, frente a la LOMLOE" },
+    { "iniciativa": "122/000186", "enunciado": "practicas-universitarias", "direccion": 1, "nota": "Reforma de la Ley del Sistema Universitario del PSOE que impide pagar a empresas para conseguir plazas de prácticas", "revisar": true },
+    { "iniciativa": "173/000103", "enunciado": "gasto-militar-educacion", "direccion": 1, "nota": "Moción de Podemos (Grupo Mixto), con una enmienda de Bildu, para destinar los fondos del plan de rearme a la educación pública" },
+    { "iniciativa": "173/000193", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción del PP, votada por puntos, que censura la política educativa del Gobierno y reprueba a la ministra: Sí es estar en contra" },
+    { "iniciativa": "173/000192", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción de VOX sobre los resultados del sistema educativo, contra la LOMLOE: Sí es estar en contra" },
+    { "iniciativa": "173/000177", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción de VOX con su propio paquete de medidas educativas, crítica con el Gobierno: Sí es estar en contra", "revisar": true },
+    { "iniciativa": "173/000049", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción de VOX, votada por puntos, sobre la política educativa del Gobierno y la inmersión lingüística: Sí es estar en contra" }
+  ],
+  "sinEnunciado": [
+    { "iniciativa": "votacion-180-6", "nota": "Moción de Podemos sobre la política educativa del Gobierno, votada en una transaccional con PSOE; los datos no dicen qué pedía" },
+    { "iniciativa": "121/000092", "nota": "Avocación al Pleno de la reforma de la LOE (ratios y condiciones docentes): trámite" },
+    { "iniciativa": "110/000078", "nota": "Acuerdo con la UNESCO para un centro de categoría 2 en la Fundación Tres Culturas; no es una medida educativa" },
+    { "iniciativa": "110/000065", "nota": "Acuerdo con la UNESCO sobre el IV Foro Global contra el Racismo; no es una medida educativa" },
+    { "iniciativa": "110/000033", "nota": "Acuerdo con la UNESCO sobre la Conferencia del Decenio de los Océanos; no es una medida educativa" },
+    { "iniciativa": "173/000016", "nota": "Moción de ERC sobre el acoso laboral en organismos del Ministerio de Ciencia; no trata de educación" },
+    { "iniciativa": "173/000191", "nota": "Moción sobre el Estatuto Marco del personal sanitario; no trata de educación" },
+    { "iniciativa": "173/000053", "nota": "Moción del BNG sobre el rescate de la autopista AP-9; no trata de educación" },
+    { "iniciativa": "158/000005", "nota": "Creación de la subcomisión del Estatuto del Deportista: trámite" },
+    { "iniciativa": "154/000005", "nota": "Prórroga de la subcomisión del Estatuto del Deportista: trámite" }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "tema": "pensiones",
+  "enunciados": [
+    { "slug": "revalorizar", "texto": "Subir las pensiones conforme al IPC" },
+    { "slug": "jubilacion-anticipada", "texto": "Permitir jubilarse antes sin recortar la pensión" },
+    { "slug": "compatibilidad-trabajo", "texto": "Permitir cobrar la pensión mientras se trabaja" },
+    { "slug": "permiso-nacimiento", "texto": "Ampliar el permiso de nacimiento y cuidado" },
+    { "slug": "convenios", "texto": "Firmar convenios de Seguridad Social con otros países" }
+  ],
+  "asignaciones": [
+    { "iniciativa": "130/000033", "enunciado": "revalorizar", "direccion": 1, "nota": "RDL 3/2026 que revaloriza las pensiones públicas; incluye otras medidas sociales, como la protección frente a desahucios" },
+    { "iniciativa": "130/000034", "enunciado": "revalorizar", "direccion": 1, "nota": "Tramitar como ley el RDL 3/2026 de revalorización de las pensiones" },
+    { "iniciativa": "130/000015", "enunciado": "revalorizar", "direccion": 1, "nota": "RDL 1/2025 con la subida de las pensiones, ayudas al transporte y a los afectados por la dana; incluye la votación de tramitarlo como ley", "revisar": true },
+    { "iniciativa": "122/000105", "enunciado": "jubilacion-anticipada", "direccion": 1, "nota": "Ley del Grupo Mixto para jubilarse sin penalización con largas carreras de cotización" },
+    { "iniciativa": "votacion-146-60", "enunciado": "jubilacion-anticipada", "direccion": 1, "nota": "Moción de Podemos (Grupo Mixto) para jubilarse sin penalización con más de 40 años cotizados" },
+    { "iniciativa": "173/000001", "enunciado": "jubilacion-anticipada", "direccion": 1, "nota": "Moción del BNG (Grupo Mixto) para aplicar coeficientes reductores de la edad de jubilación en el sector de la piedra y reconocer la silicosis", "revisar": true },
+    { "iniciativa": "130/000050", "enunciado": "jubilacion-anticipada", "direccion": 1, "nota": "RDL 19/2026 que recupera la jubilación parcial anticipada del personal laboral público; incluye el complemento de insularidad de Baleares", "revisar": true },
+    { "iniciativa": "130/000014", "enunciado": "compatibilidad-trabajo", "direccion": 1, "nota": "Tramitar como ley el RDL 11/2024, que mejora la compatibilidad de la pensión de jubilación con el trabajo" },
+    { "iniciativa": "130/000012", "enunciado": "compatibilidad-trabajo", "direccion": 1, "nota": "Convalidación del RDL 11/2024 sobre compatibilidad de pensión y trabajo; los datos agrupan aquí también la votación del RDL 9/2024, un decreto ómnibus distinto", "revisar": true },
+    { "iniciativa": "votacion-129-3", "enunciado": "permiso-nacimiento", "direccion": 1, "nota": "RDL 9/2025 que amplía el permiso de nacimiento y cuidado" },
+    { "iniciativa": "votacion-129-4", "enunciado": "permiso-nacimiento", "direccion": 1, "nota": "Tramitar como ley el RDL 9/2025 que amplía el permiso de nacimiento y cuidado" },
+    { "iniciativa": "110/000035", "enunciado": "convenios", "direccion": 1, "nota": "Convenio de Seguridad Social con Estados Unidos: Sí es autorizar su ratificación" },
+    { "iniciativa": "110/000002", "enunciado": "convenios", "direccion": 1, "nota": "Convenio de Seguridad Social con Moldavia: Sí es autorizar su ratificación" }
+  ],
+  "sinEnunciado": [
+    { "iniciativa": "122/000143", "nota": "Ley de la pasarela de los mutualistas al RETA: agrupa 28 votaciones (enmiendas, dictamen, Senado) y todos los grupos votan distinto según el punto" },
+    { "iniciativa": "162/000105", "nota": "PNL del PP sobre la jubilación de abogados y procuradores mutualistas; sin el resto de la ley de mutualistas no da una postura comparable" },
+    { "iniciativa": "votacion-156-1", "nota": "RDL 16/2025 que mezcla medidas de vulnerabilidad social, tributarias y de Seguridad Social; los datos no dicen si incluía la subida de pensiones" },
+    { "iniciativa": "173/000176", "nota": "Moción del PP sobre la ministra de Inclusión, Seguridad Social y Migraciones, votada por puntos; se asigna en inmigración" },
+    { "iniciativa": "121/000033", "nota": "Enmienda de devolución de VOX a la ley de incapacidad permanente; no corresponde a ningún enunciado" },
+    { "iniciativa": "122/000134", "nota": "Ley del PP para recuperar la bonificación de cuotas empresariales en Ceuta y Melilla; no corresponde a ningún enunciado" },
+    { "iniciativa": "162/000242", "nota": "PNL del PP votada por puntos sobre salario y jubilación anticipada de Policía Nacional y Guardia Civil; mezcla medidas" },
+    { "iniciativa": "162/000203", "nota": "PNL de VOX sobre la caja única de la Seguridad Social, a raíz de la gestión autonómica del IMV; no corresponde a ningún enunciado" },
+    { "iniciativa": "122/000056", "nota": "Ley de VOX que elimina un subsidio a menores extranjeros internados; no trata de pensiones" },
+    { "iniciativa": "173/000021", "nota": "Moción de CC para hacer compatible la pensión no contributiva con la Renta Canaria; no corresponde a ningún enunciado" },
+    { "iniciativa": "130/000004", "nota": "RDL 1/2024 de suspensión de desahucios: es de vivienda, no de pensiones" },
+    { "iniciativa": "110/000012", "nota": "Suspensión del Tratado sobre Fuerzas Armadas Convencionales en Europa: es de defensa, no de pensiones" },
+    { "iniciativa": "155/000002", "nota": "Creación de la comisión de seguimiento del Pacto de Toledo: trámite" }
+  ]
+}
