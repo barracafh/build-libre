@@ -29,4 +29,36 @@ reglas obligatorias.
   que puede quedar desfasado.
 - **Riesgo abierto:** sesiones e intervenciones (casi todo IA) no se exponen todavía.
 
+## 2026-10-22 18:37 +02:00 · Posición del partido por tema
+
+- **Estado:** vigente
+- **Contexto:** el objetivo pasa de consultar votos a mostrar la posición de cada partido en temas
+  predefinidos, con los hechos que la confirman.
+- **Decisión:** la posición es la lista de votos y sesiones del partido en ese tema, sin etiqueta
+  resumen; cualquier cifra es un recuento. Los temas son una lista fija.
+- **Motivo:** una etiqueta («a favor», «en contra») sería una inferencia y rompería la regla de
+  neutralidad; la lista deja que cada persona saque su conclusión.
+- **Alternativas:** una etiqueta calculada por tema; se descarta por la misma razón.
+
+## 2026-10-22 18:50 +02:00 · Lista fija de temas
+
+- **Estado:** vigente
+- **Contexto:** hace falta una lista cerrada de temas de interés ciudadano, de 20 como máximo.
+- **Decisión:** 18 temas, todos etiquetas `tm` de Escaño Abierto (`TEMAS` en `src/lib/datos.ts`);
+  `defensa` se une a `exteriores` y se quitan `cultura` y `tecnologia`.
+- **Motivo:** las etiquetas salen de palabras clave sin IA y ya están en los datos; no añadimos
+  ningún criterio editorial propio.
+- **Alternativas:** temas nuevos con palabras clave propias (corrupción, dependencia); se
+  descartan para no meter un criterio editorial.
+
+## 2026-10-22 19:21 +02:00 · Vista por tema: matriz, ficha y tiras
+
+- **Estado:** vigente
+- **Contexto:** hay que enseñar la posición de cada grupo en un tema sin etiqueta resumen.
+- **Decisión:** `/tema/[slug]/` con matriz iniciativa × grupo, ficha de recuentos por tipo y por
+  proponente, y tiras temporales; votaciones agrupadas por iniciativa, enmiendas aparte.
+- **Motivo:** cada fila fija el sentido de lo votado, así que se compara sin interpretar; los
+  recuentos usan solo campos oficiales. Detalle en `docs/2026-10-22-1921-spec-vista-tema.md`.
+- **Alternativas:** totales Sí/No por tema; mezclan propuestas de sentido opuesto.
+
 ## Pendiente
