@@ -9,6 +9,7 @@
 // - Each party's position is recomputed from its count with the upstream rule (escano/votaciones.py,
 //   `posicion_grupo`): the most voted option if it reaches 80 % of the votes cast, otherwise
 //   divided, keeping the majority option. A party where nobody voted is "X", never "?".
+// - Topics are limited to TEMAS; `defensa` is folded into `exteriores`.
 // - Upstream "?" and "" become null; the list of dissenting deputies is not exposed.
 // - `motivos` are written by a language model upstream: show them labelled as generated, next to
 //   the official vote, and never filter by them. Each one links its Diario de Sesiones when known.
@@ -28,30 +29,35 @@ export const ETIQUETA: Record<Posicion, string> = {
   D: "Dividido",
 };
 
-// Topic slugs of `tm` and their names, from upstream escano/temas.py. Assigned by keywords, no AI.
+// The fixed list of topics the site offers. Slugs are upstream `tm` tags (escano/temas.py),
+// assigned by keywords, no AI. Upstream `cultura` and `tecnologia` are left out.
 export const TEMAS: Record<string, string> = {
   campo: "Campo, pesca y alimentación",
   clima: "Clima y medio ambiente",
-  cultura: "Cultura, deporte y medios",
-  defensa: "Defensa",
   democracia: "Democracia e instituciones",
   educacion: "Educación",
-  empleo: "Empleo y trabajo",
-  energia: "Energía",
-  exteriores: "Política exterior y UE",
+  empleo: "Empleo y salarios",
+  energia: "Energía y factura de la luz",
+  exteriores: "Exteriores y defensa",
   igualdad: "Igualdad y violencia de género",
-  impuestos: "Economía e impuestos",
+  impuestos: "Impuestos y economía",
   inmigracion: "Inmigración",
   justicia: "Justicia",
-  pensiones: "Pensiones y Seguridad Social",
+  pensiones: "Pensiones",
   sanidad: "Sanidad",
-  seguridad: "Seguridad e Interior",
-  social: "Derechos sociales y consumo",
-  tecnologia: "Tecnología y ciencia",
-  territorial: "Comunidades y territorio",
-  transporte: "Transporte e infraestructuras",
+  seguridad: "Seguridad ciudadana",
+  social: "Consumo y derechos sociales",
+  territorial: "Comunidades autónomas y financiación",
+  transporte: "Transporte",
   vivienda: "Vivienda",
 };
+
+// Upstream tags folded into one of TEMAS.
+const ALIAS_TEMA: Record<string, string> = { defensa: "exteriores" };
+
+export const temasDe = (tm: string[] = []) => [
+  ...new Set(tm.map((t) => ALIAS_TEMA[t] ?? t).filter((t) => t in TEMAS)),
+];
 
 export const FUENTES = {
   resultados2023:
@@ -181,7 +187,7 @@ export function limpiarVotacion(
     exp: nulo(v.exp),
     proponente: nulo(v.proponente),
     totales: { si: v.si, no: v.no, abstencion: v.abst, noVota: v.novota },
-    temas: v.tm ?? [],
+    temas: temasDe(v.tm),
     partidos,
     motivos,
     fuente: v.json,

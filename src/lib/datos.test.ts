@@ -9,6 +9,7 @@ import {
   resultados2023,
   resumenes,
   TEMAS,
+  temasDe,
   votacion,
   votaciones,
   votosDiputados,
@@ -29,6 +30,12 @@ describe("posicionPartido", () => {
 
   it("is X when nobody voted, so absences never count as a position", () => {
     assert.deepEqual(posicionPartido({ X: 5 }).posicion, "X");
+  });
+});
+
+describe("temasDe", () => {
+  it("folds defensa into exteriores and drops tags outside TEMAS", () => {
+    assert.deepEqual(temasDe(["defensa", "exteriores", "cultura", "vivienda"]), ["exteriores", "vivienda"]);
   });
 });
 
