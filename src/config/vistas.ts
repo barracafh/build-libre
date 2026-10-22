@@ -10,4 +10,9 @@ export const vistas = [
     nombre: "Estadísticas",
     descripcion: "Prototipo de interfaz con datos simulados; no representa votaciones reales.",
   },
+  {
+    ruta: "/escaner",
+    nombre: "Escáner",
+    descripcion: "Los programas de 2023 de PP, PSOE, Sumar y Vox frente a lo que votaron después en el Pleno.",
+  },
 ] as const;

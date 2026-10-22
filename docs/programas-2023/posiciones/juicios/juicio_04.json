@@ -1,0 +1,3166 @@
+[
+ {
+  "key": "P04-000",
+  "relaciones": [
+   {
+    "id": "141-3",
+    "relacion": "avanza",
+    "motivo": "Según el título, consolida como personal fijo a trabajadores temporales de la administración."
+   },
+   {
+    "id": "146-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "129-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-001",
+  "relaciones": [
+   {
+    "id": "15-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "129-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "130-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-13",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-002",
+  "relaciones": [
+   {
+    "id": "146-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "129-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-79",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-003",
+  "relaciones": [
+   {
+    "id": "46-20",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-004",
+  "relaciones": [
+   {
+    "id": "15-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-9",
+    "relacion": "avanza",
+    "motivo": "Punto 1: reducción drástica de cargas burocráticas y supresión de regulaciones; no fija regla tres por una."
+   },
+   {
+    "id": "49-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-005",
+  "relaciones": [
+   {
+    "id": "159-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: cotización por ingresos reales y progresiva, sin exención bajo el SMI."
+   },
+   {
+    "id": "159-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-19",
+    "relacion": "relacionada",
+    "motivo": "Punto 11: cuota reducida en pluriactividad, no exención bajo SMI."
+   },
+   {
+    "id": "159-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-15",
+    "relacion": "avanza",
+    "motivo": "Punto 7: cuota cero en enfermedad grave, parte de la bonificación en bajas."
+   }
+  ]
+ },
+ {
+  "key": "P04-006",
+  "relaciones": [
+   {
+    "id": "146-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-16",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-007",
+  "relaciones": [
+   {
+    "id": "49-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-008",
+  "relaciones": [
+   {
+    "id": "13-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "130-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "137-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "129-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "141-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-009",
+  "relaciones": [
+   {
+    "id": "33-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "129-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-17",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-010",
+  "relaciones": [
+   {
+    "id": "146-61",
+    "relacion": "relacionada",
+    "motivo": "Puntos 8 y 10: FP Dual e inserción laboral juvenil, sin tocar el contrato de formación."
+   },
+   {
+    "id": "129-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-56",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-011",
+  "relaciones": [
+   {
+    "id": "141-3",
+    "relacion": "avanza",
+    "motivo": "Según el título, consolida como fijo al personal temporal de la administración."
+   },
+   {
+    "id": "15-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "129-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-012",
+  "relaciones": [
+   {
+    "id": "162-1",
+    "relacion": "avanza",
+    "motivo": "Ley de garantías laborales en deslocalizaciones; no consta prohibición expresa de despidos colectivos."
+   },
+   {
+    "id": "88-56",
+    "relacion": "relacionada",
+    "motivo": "Aumenta indemnización por despido improcedente, no aborda deslocalizaciones."
+   },
+   {
+    "id": "132-3",
+    "relacion": "relacionada",
+    "motivo": "Despido disuasorio por ley, sin referencia a deslocalizaciones."
+   },
+   {
+    "id": "13-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-19",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-013",
+  "relaciones": [
+   {
+    "id": "146-61",
+    "relacion": "relacionada",
+    "motivo": "Punto 12: combinar prestaciones con formación, sin libertad de elección."
+   },
+   {
+    "id": "129-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-014",
+  "relaciones": [
+   {
+    "id": "130-10",
+    "relacion": "relacionada",
+    "motivo": "Devolución de ley de jornada con registro horario; no regula precio de horas extra."
+   },
+   {
+    "id": "137-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "141-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "69-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-015",
+  "relaciones": [
+   {
+    "id": "29-49",
+    "relacion": "relacionada",
+    "motivo": "Punto 16: reducir consumo de agua turístico; no PERTE ni Plan Renove."
+   },
+   {
+    "id": "29-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-42",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-016",
+  "relaciones": [
+   {
+    "id": "169-52",
+    "relacion": "relacionada",
+    "motivo": "Pide evitar dependencia de renovables; no regula áreas idóneas."
+   },
+   {
+    "id": "118-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: regular proyectos agrivoltaicos, ordenación de renovables."
+   },
+   {
+    "id": "118-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: informes de impacto de renovables sobre actividad agraria."
+   },
+   {
+    "id": "118-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: preservar suelo agrícola frente a macroplantas."
+   },
+   {
+    "id": "118-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: revertir sobredimensionamiento renovable, no áreas idóneas."
+   },
+   {
+    "id": "118-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-66",
+    "relacion": "relacionada",
+    "motivo": "Punto 2e: reservar suelo agrícola frente a fotovoltaica, sin beneficios locales."
+   },
+   {
+    "id": "19-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-017",
+  "relaciones": [
+   {
+    "id": "202-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-75",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de medidas sociales y energéticas; el texto no detalla bonos sociales."
+   },
+   {
+    "id": "115-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-76",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como ley de prórroga de medidas energéticas y sociales."
+   },
+   {
+    "id": "115-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-018",
+  "relaciones": [
+   {
+    "id": "77-1",
+    "relacion": "relacionada",
+    "motivo": "Obligaciones informativas de comercializadoras sobre litigios, no productos estandarizados."
+   },
+   {
+    "id": "106-21",
+    "relacion": "relacionada",
+    "motivo": "Avocación de ley sobre información de comercializadoras, no productos estandarizados."
+   },
+   {
+    "id": "202-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-66",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "109-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-019",
+  "relaciones": [
+   {
+    "id": "119-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "109-8",
+    "relacion": "avanza",
+    "motivo": "Almacenamiento, hibridación y más hidrógeno bajo en carbono en la estrategia."
+   },
+   {
+    "id": "98-9",
+    "relacion": "avanza",
+    "motivo": "Punto 2d: fomentar almacenamiento hidráulico por bombeo."
+   },
+   {
+    "id": "118-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-020",
+  "relaciones": [
+   {
+    "id": "79-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "19-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "109-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-17",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-021",
+  "relaciones": [
+   {
+    "id": "111-5",
+    "relacion": "cumple",
+    "motivo": "Punto 4: derogar Ley 7/2021 para explorar y explotar recursos y minerales."
+   },
+   {
+    "id": "77-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "89-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-9",
+    "relacion": "avanza",
+    "motivo": "Punto 2b: aprovechamiento óptimo de recursos energéticos nacionales."
+   },
+   {
+    "id": "118-9",
+    "relacion": "avanza",
+    "motivo": "Punto 2: aprovechar todas las fuentes sin veto ideológico."
+   },
+   {
+    "id": "118-8",
+    "relacion": "cumple",
+    "motivo": "Punto 1c: derogar Ley 7/2021 por obstaculizar aprovechar recursos naturales."
+   },
+   {
+    "id": "118-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-022",
+  "relaciones": [
+   {
+    "id": "111-5",
+    "relacion": "avanza",
+    "motivo": "Punto 5e: reserva de emplazamientos nucleares y rehabilitación; no menciona minirreactores."
+   },
+   {
+    "id": "169-52",
+    "relacion": "avanza",
+    "motivo": "Punto 1G: reserva de emplazamientos para nuevas centrales nucleares."
+   },
+   {
+    "id": "98-9",
+    "relacion": "avanza",
+    "motivo": "Punto 3b: reserva de emplazamientos nucleares y rehabilitación."
+   },
+   {
+    "id": "119-1",
+    "relacion": "relacionada",
+    "motivo": "Ley sobre aportación nuclear; no consta instalación de minirreactores."
+   },
+   {
+    "id": "91-1",
+    "relacion": "relacionada",
+    "motivo": "Sobre cierre programado nuclear; solo título."
+   },
+   {
+    "id": "60-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-66",
+    "relacion": "avanza",
+    "motivo": "Punto 4d: reserva de emplazamientos para nuevas centrales nucleares."
+   },
+   {
+    "id": "109-8",
+    "relacion": "relacionada",
+    "motivo": "Reconsiderar el cierre nuclear, sin nuevos reactores."
+   }
+  ]
+ },
+ {
+  "key": "P04-023",
+  "relaciones": [
+   {
+    "id": "118-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: plan para electrointensiva y supresión del mercado de CO2, sin compensación."
+   },
+   {
+    "id": "118-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-52",
+    "relacion": "relacionada",
+    "motivo": "Precios competitivos para electrointensiva y suprimir mercado de CO2, sin compensación."
+   },
+   {
+    "id": "118-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-024",
+  "relaciones": [
+   {
+    "id": "169-52",
+    "relacion": "cumple",
+    "motivo": "Punto 1F: suspender calendario de cierre y extender vida operativa nuclear."
+   },
+   {
+    "id": "111-5",
+    "relacion": "cumple",
+    "motivo": "Punto 5d: paralizar cierres nucleares y extender su vida útil."
+   },
+   {
+    "id": "91-1",
+    "relacion": "relacionada",
+    "motivo": "Sobre cierre programado nuclear; solo título."
+   },
+   {
+    "id": "98-9",
+    "relacion": "cumple",
+    "motivo": "Punto 3a: extender vida útil nuclear y fomentar rehabilitación."
+   },
+   {
+    "id": "60-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "119-1",
+    "relacion": "avanza",
+    "motivo": "Ley para garantizar la aportación nuclear frente al cierre programado."
+   },
+   {
+    "id": "109-8",
+    "relacion": "avanza",
+    "motivo": "Reconsiderar cierre nuclear para extender operación, con titulares y CSN."
+   },
+   {
+    "id": "202-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-025",
+  "relaciones": [
+   {
+    "id": "202-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "77-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-52",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-026",
+  "relaciones": [
+   {
+    "id": "77-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "89-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "119-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-027",
+  "relaciones": [
+   {
+    "id": "98-9",
+    "relacion": "avanza",
+    "motivo": "Punto 4c: IVA eléctrico al 4% general, sin tarifa progresiva ni social."
+   },
+   {
+    "id": "169-52",
+    "relacion": "avanza",
+    "motivo": "Punto 4A: IVA eléctrico al 4%, sin progresividad ni tarifa social."
+   },
+   {
+    "id": "109-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-76",
+    "relacion": "relacionada",
+    "motivo": "Tramitación de medidas fiscales y energéticas; texto no detalla IVA."
+   },
+   {
+    "id": "56-75",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de medidas fiscales y energéticas; texto no detalla IVA."
+   }
+  ]
+ },
+ {
+  "key": "P04-028",
+  "relaciones": [
+   {
+    "id": "109-8",
+    "relacion": "relacionada",
+    "motivo": "Estrategia de transición justa sin medidas para territorios afectados."
+   },
+   {
+    "id": "111-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-52",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "91-1",
+    "relacion": "relacionada",
+    "motivo": "Sobre cierre programado nuclear; solo título."
+   },
+   {
+    "id": "89-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-17",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-029",
+  "relaciones": [
+   {
+    "id": "118-6",
+    "relacion": "avanza",
+    "motivo": "Punto 5: agrivoltaica para coexistencia con la actividad agraria."
+   },
+   {
+    "id": "118-5",
+    "relacion": "avanza",
+    "motivo": "Punto 4: evaluar compatibilidad de renovables con actividades agrarias."
+   },
+   {
+    "id": "118-4",
+    "relacion": "cumple",
+    "motivo": "Punto 3: preservar terreno agrícola frente a macroplantas renovables."
+   },
+   {
+    "id": "118-3",
+    "relacion": "avanza",
+    "motivo": "Punto 2: revertir sobredimensionamiento de renovables."
+   },
+   {
+    "id": "118-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: proteger el olivar, sin referencia directa a renovables."
+   },
+   {
+    "id": "169-52",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "109-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-66",
+    "relacion": "avanza",
+    "motivo": "Punto 2e: reservar suelo agrícola para que no compita con fotovoltaica."
+   }
+  ]
+ },
+ {
+  "key": "P04-030",
+  "relaciones": [
+   {
+    "id": "77-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "109-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "19-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "115-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-6",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-031",
+  "relaciones": [
+   {
+    "id": "109-8",
+    "relacion": "contradice",
+    "motivo": "Pide mayor ambición en producción de hidrógeno, contrario a revisarlo a la baja."
+   },
+   {
+    "id": "128-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "119-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-032",
+  "relaciones": [
+   {
+    "id": "111-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: agrivoltaica compatible con agricultura."
+   },
+   {
+    "id": "118-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: informes de impacto de renovables."
+   },
+   {
+    "id": "118-4",
+    "relacion": "contradice",
+    "motivo": "Punto 3: frena macroplantas renovables y anula trámites simplificados."
+   },
+   {
+    "id": "118-3",
+    "relacion": "contradice",
+    "motivo": "Punto 2: revertir el sobredimensionamiento renovable."
+   },
+   {
+    "id": "118-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "109-8",
+    "relacion": "relacionada",
+    "motivo": "Despliegue renovable junto a extensión nuclear y neutralidad tecnológica."
+   },
+   {
+    "id": "169-52",
+    "relacion": "contradice",
+    "motivo": "Evitar dependencia de renovables y anteponer estabilidad a descarbonización."
+   }
+  ]
+ },
+ {
+  "key": "P04-033",
+  "relaciones": [
+   {
+    "id": "98-9",
+    "relacion": "contradice",
+    "motivo": "Punto 3: extender vida útil nuclear y nuevas centrales."
+   },
+   {
+    "id": "169-52",
+    "relacion": "contradice",
+    "motivo": "Punto 1F: suspender calendario de cierre nuclear."
+   },
+   {
+    "id": "111-5",
+    "relacion": "contradice",
+    "motivo": "Punto 5d: paralizar calendario de cierres nucleares."
+   },
+   {
+    "id": "109-8",
+    "relacion": "contradice",
+    "motivo": "Reconsiderar cierre programado para extender operación nuclear."
+   },
+   {
+    "id": "91-1",
+    "relacion": "relacionada",
+    "motivo": "Sobre cierre programado nuclear; solo título."
+   },
+   {
+    "id": "119-1",
+    "relacion": "contradice",
+    "motivo": "Ley para garantizar aportación nuclear frente al cierre programado."
+   },
+   {
+    "id": "60-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-6",
+    "relacion": "relacionada",
+    "motivo": "Punto segundo: estrategia contemplando efectos de un cese nuclear."
+   }
+  ]
+ },
+ {
+  "key": "P04-034",
+  "relaciones": [
+   {
+    "id": "118-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: más informes de impacto para renovables."
+   },
+   {
+    "id": "118-4",
+    "relacion": "contradice",
+    "motivo": "Punto 3: dejar sin efecto trámites ambientales simplificados de renovables."
+   },
+   {
+    "id": "118-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: revertir sobredimensionamiento renovable."
+   },
+   {
+    "id": "118-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-66",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-52",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "109-8",
+    "relacion": "avanza",
+    "motivo": "Delimitar zonas de acceso acelerado, sin tasa por hito."
+   }
+  ]
+ },
+ {
+  "key": "P04-035",
+  "relaciones": [
+   {
+    "id": "202-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "77-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-036",
+  "relaciones": [
+   {
+    "id": "111-5",
+    "relacion": "cumple",
+    "motivo": "Punto 5g: fomentar bombeo en instalaciones hidroeléctricas existentes."
+   },
+   {
+    "id": "98-9",
+    "relacion": "cumple",
+    "motivo": "Punto 2d: almacenamiento por bombeo en hidroeléctricas existentes."
+   },
+   {
+    "id": "88-66",
+    "relacion": "relacionada",
+    "motivo": "Punto 1b: nuevos embalses con uso energético, sin bombeo."
+   },
+   {
+    "id": "119-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-4",
+    "relacion": "relacionada",
+    "motivo": "Empresa pública hidroeléctrica, sin bombeos."
+   },
+   {
+    "id": "169-52",
+    "relacion": "cumple",
+    "motivo": "Punto 1I: centrales hidráulicas por bombeo en instalaciones existentes."
+   },
+   {
+    "id": "109-8",
+    "relacion": "relacionada",
+    "motivo": "Almacenamiento genérico, sin bombeo hidráulico."
+   },
+   {
+    "id": "119-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-037",
+  "relaciones": [
+   {
+    "id": "202-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-52",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-038",
+  "relaciones": [
+   {
+    "id": "77-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-52",
+    "relacion": "relacionada",
+    "motivo": "Punto 1J: reducir volatilidad del precio para industria, sin reformar el marginalista."
+   },
+   {
+    "id": "202-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-59",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-039",
+  "relaciones": [
+   {
+    "id": "169-52",
+    "relacion": "contradice",
+    "motivo": "Punto 1F: suspender cierre y nuevas centrales nucleares."
+   },
+   {
+    "id": "98-9",
+    "relacion": "contradice",
+    "motivo": "Punto 3: extender vida nuclear y nuevas centrales."
+   },
+   {
+    "id": "111-5",
+    "relacion": "contradice",
+    "motivo": "Punto 5d-e: paralizar cierres y nuevos emplazamientos nucleares."
+   },
+   {
+    "id": "91-1",
+    "relacion": "relacionada",
+    "motivo": "Sobre cierre programado nuclear; solo título."
+   },
+   {
+    "id": "119-1",
+    "relacion": "contradice",
+    "motivo": "Ley para garantizar aportación nuclear frente al cierre."
+   },
+   {
+    "id": "109-8",
+    "relacion": "contradice",
+    "motivo": "Reconsiderar el cierre programado para extender operación."
+   },
+   {
+    "id": "60-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-6",
+    "relacion": "relacionada",
+    "motivo": "Punto segundo: considerar efectos de un cese nuclear."
+   }
+  ]
+ },
+ {
+  "key": "P04-040",
+  "relaciones": [
+   {
+    "id": "111-5",
+    "relacion": "cumple",
+    "motivo": "Punto 5d: extender la vida útil de las centrales nucleares."
+   },
+   {
+    "id": "169-52",
+    "relacion": "cumple",
+    "motivo": "Punto 1F: extensión de vida operativa nuclear."
+   },
+   {
+    "id": "98-9",
+    "relacion": "cumple",
+    "motivo": "Punto 3a: extensión de vida útil nuclear."
+   },
+   {
+    "id": "91-1",
+    "relacion": "relacionada",
+    "motivo": "Sobre cierre programado nuclear; solo título."
+   },
+   {
+    "id": "109-8",
+    "relacion": "cumple",
+    "motivo": "Extender operación nuclear con informe favorable del CSN."
+   },
+   {
+    "id": "119-1",
+    "relacion": "avanza",
+    "motivo": "Ley para garantizar aportación nuclear frente al cierre."
+   },
+   {
+    "id": "60-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-6",
+    "relacion": "relacionada",
+    "motivo": "Punto segundo: considerar efectos de un cese nuclear."
+   }
+  ]
+ },
+ {
+  "key": "P04-041",
+  "relaciones": [
+   {
+    "id": "169-52",
+    "relacion": "avanza",
+    "motivo": "Mix con nuclear e hidráulica, pero evitando depender de renovables."
+   },
+   {
+    "id": "111-5",
+    "relacion": "avanza",
+    "motivo": "Punto 3 y 5: mix diversificado con nuclear y bombeo."
+   },
+   {
+    "id": "118-9",
+    "relacion": "avanza",
+    "motivo": "Punto 2: mix diversificado con nuclear y almacenamiento hidráulico."
+   },
+   {
+    "id": "118-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: repotenciar eólica frente a nuevos parques."
+   },
+   {
+    "id": "118-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-9",
+    "relacion": "avanza",
+    "motivo": "Punto 3a: nuclear esencial en el mix."
+   },
+   {
+    "id": "119-1",
+    "relacion": "avanza",
+    "motivo": "Ley sobre aportación nuclear a la descarbonización."
+   }
+  ]
+ },
+ {
+  "key": "P04-042",
+  "relaciones": [
+   {
+    "id": "169-52",
+    "relacion": "avanza",
+    "motivo": "Punto 4: suprimir impuestos especiales eléctricos e IVA al 4%."
+   },
+   {
+    "id": "111-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "77-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "109-8",
+    "relacion": "relacionada",
+    "motivo": "Punto cuarto: no crear nuevas figuras impositivas energéticas."
+   }
+  ]
+ },
+ {
+  "key": "P04-043",
+  "relaciones": [
+   {
+    "id": "119-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "109-8",
+    "relacion": "avanza",
+    "motivo": "Estatuto de consumidores hiperintensivos y descarbonización competitiva industrial."
+   },
+   {
+    "id": "118-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-8",
+    "relacion": "avanza",
+    "motivo": "Punto 1h: plan específico para la industria electrointensiva."
+   },
+   {
+    "id": "118-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-10",
+    "relacion": "avanza",
+    "motivo": "Punto 3: abaratar la energía de industrias con rebajas fiscales."
+   },
+   {
+    "id": "202-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-044",
+  "relaciones": [
+   {
+    "id": "146-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-66",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-52",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-045",
+  "relaciones": [
+   {
+    "id": "77-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-52",
+    "relacion": "relacionada",
+    "motivo": "Punto 9D: suprimir mercado europeo de CO2, no reforma del mercado eléctrico."
+   },
+   {
+    "id": "106-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "19-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 1c: eliminar mercado europeo de emisiones, no mercado eléctrico."
+   },
+   {
+    "id": "159-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "115-6",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-046",
+  "relaciones": [
+   {
+    "id": "60-4",
+    "relacion": "cumple",
+    "motivo": "Entidad pública que asume concesiones hidroeléctricas finalizadas."
+   },
+   {
+    "id": "111-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-5",
+    "relacion": "avanza",
+    "motivo": "Punto 3: empresa pública de generación, sin referencia a concesiones hidroeléctricas."
+   },
+   {
+    "id": "202-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-52",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "119-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-047",
+  "relaciones": [
+   {
+    "id": "169-52",
+    "relacion": "relacionada",
+    "motivo": "Punto 1J: reducir volatilidad del mercado, sin reformar el marginalista."
+   },
+   {
+    "id": "118-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-17",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-048",
+  "relaciones": [
+   {
+    "id": "202-2",
+    "relacion": "avanza",
+    "motivo": "Contribución europea sobre beneficios extraordinarios de energéticas; sin bancos."
+   },
+   {
+    "id": "202-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-3",
+    "relacion": "avanza",
+    "motivo": "Punto 1: impuesto permanente a beneficios extraordinarios de energéticas; sin bancos."
+   },
+   {
+    "id": "89-2",
+    "relacion": "avanza",
+    "motivo": "Gravamen temporal energético para 2025; no incluye bancos."
+   },
+   {
+    "id": "169-52",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-049",
+  "relaciones": [
+   {
+    "id": "109-8",
+    "relacion": "cumple",
+    "motivo": "Aumentar producción de biometano, biomasa y ecocombustibles."
+   },
+   {
+    "id": "119-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-52",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-050",
+  "relaciones": [
+   {
+    "id": "19-4",
+    "relacion": "relacionada",
+    "motivo": "Cadena de valor del vehículo eléctrico y red para renovables."
+   },
+   {
+    "id": "118-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-051",
+  "relaciones": [
+   {
+    "id": "109-8",
+    "relacion": "avanza",
+    "motivo": "Mayor ambición en hidrógeno bajo en carbono, no específicamente verde."
+   },
+   {
+    "id": "111-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "119-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-52",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-052",
+  "relaciones": [
+   {
+    "id": "98-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "89-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-053",
+  "relaciones": [
+   {
+    "id": "26-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-2",
+    "relacion": "avanza",
+    "motivo": "Defender y reforzar la cooperación al desarrollo, sin meta del 0,7%."
+   }
+  ]
+ },
+ {
+  "key": "P04-054",
+  "relaciones": [
+   {
+    "id": "142-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-2",
+    "relacion": "relacionada",
+    "motivo": "Pertenencia irrevocable a la UE y reforma de Tratados."
+   }
+  ]
+ },
+ {
+  "key": "P04-055",
+  "relaciones": [
+   {
+    "id": "101-5",
+    "relacion": "avanza",
+    "motivo": "Apoyo a integridad territorial de Ucrania; no menciona adhesión."
+   },
+   {
+    "id": "33-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-8",
+    "relacion": "avanza",
+    "motivo": "Punto 4: condena a Rusia y ayuda militar a Ucrania."
+   },
+   {
+    "id": "40-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-056",
+  "relaciones": [
+   {
+    "id": "111-7",
+    "relacion": "relacionada",
+    "motivo": "Autoriza acuerdo UE-Chile, no Mercosur."
+   },
+   {
+    "id": "124-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "112-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-6",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-057",
+  "relaciones": [
+   {
+    "id": "166-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-058",
+  "relaciones": [
+   {
+    "id": "103-2",
+    "relacion": "avanza",
+    "motivo": "Reforzar cooperación al desarrollo, sin porcentajes."
+   },
+   {
+    "id": "141-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-059",
+  "relaciones": [
+   {
+    "id": "26-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-2",
+    "relacion": "relacionada",
+    "motivo": "Defensa de la cooperación, sin crear instituto ni reformar AECID."
+   }
+  ]
+ },
+ {
+  "key": "P04-060",
+  "relaciones": [
+   {
+    "id": "40-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: publicar posición negociadora sobre Gibraltar."
+   },
+   {
+    "id": "40-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-061",
+  "relaciones": [
+   {
+    "id": "111-7",
+    "relacion": "avanza",
+    "motivo": "Autoriza el Acuerdo Marco Avanzado UE-Chile."
+   },
+   {
+    "id": "124-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-062",
+  "relaciones": [
+   {
+    "id": "202-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "112-2",
+    "relacion": "avanza",
+    "motivo": "Introduce el embargo de armas en la ley de comercio de defensa."
+   },
+   {
+    "id": "202-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-9",
+    "relacion": "avanza",
+    "motivo": "Punto 5: embargo europeo de armas a Israel."
+   },
+   {
+    "id": "26-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-6",
+    "relacion": "avanza",
+    "motivo": "Punto 2: suspender comercio de armas con Israel."
+   }
+  ]
+ },
+ {
+  "key": "P04-063",
+  "relaciones": [
+   {
+    "id": "40-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-12",
+    "relacion": "cumple",
+    "motivo": "Punto 8: reafirmar la solución de dos Estados."
+   },
+   {
+    "id": "40-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-064",
+  "relaciones": [
+   {
+    "id": "40-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: publicar posición negociadora sobre Gibraltar."
+   },
+   {
+    "id": "40-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-065",
+  "relaciones": [
+   {
+    "id": "49-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: cooperación con campamentos saharauis."
+   },
+   {
+    "id": "49-6",
+    "relacion": "avanza",
+    "motivo": "Punto 6: apoyar a MINURSO y al enviado de la ONU."
+   },
+   {
+    "id": "49-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: espacio aéreo y marítimo del Sáhara."
+   },
+   {
+    "id": "49-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: recuperar neutralidad activa sobre el Sáhara."
+   },
+   {
+    "id": "49-1",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: comunicar a Marruecos la posición del Congreso."
+   },
+   {
+    "id": "94-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-066",
+  "relaciones": [
+   {
+    "id": "103-2",
+    "relacion": "relacionada",
+    "motivo": "Defiende la cooperación al desarrollo en general."
+   },
+   {
+    "id": "142-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-17",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-067",
+  "relaciones": [
+   {
+    "id": "183-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-068",
+  "relaciones": [
+   {
+    "id": "26-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-069",
+  "relaciones": [
+   {
+    "id": "101-5",
+    "relacion": "cumple",
+    "motivo": "Vínculo transatlántico y cumplir compromisos con la Alianza Atlántica."
+   },
+   {
+    "id": "198-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-7",
+    "relacion": "avanza",
+    "motivo": "Punto 3: alcanzar el 2% del PIB en defensa comprometido con la OTAN."
+   },
+   {
+    "id": "40-6",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-070",
+  "relaciones": [
+   {
+    "id": "26-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: medidas frente a Israel, sin reconocer Estado palestino."
+   },
+   {
+    "id": "26-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: medidas frente a Israel, sin reconocer Estado palestino."
+   },
+   {
+    "id": "26-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: medidas frente a Israel, sin reconocer Estado palestino."
+   },
+   {
+    "id": "26-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: medidas frente a Israel, sin reconocer Estado palestino."
+   },
+   {
+    "id": "26-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: medidas frente a Israel, sin reconocer Estado palestino."
+   },
+   {
+    "id": "26-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: medidas frente a Israel, sin reconocer Estado palestino."
+   },
+   {
+    "id": "26-10",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: medidas frente a Israel, sin reconocer Estado palestino."
+   },
+   {
+    "id": "136-106",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: medidas frente a Israel, sin reconocer Estado palestino."
+   }
+  ]
+ },
+ {
+  "key": "P04-071",
+  "relaciones": [
+   {
+    "id": "40-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-072",
+  "relaciones": [
+   {
+    "id": "183-2",
+    "relacion": "relacionada",
+    "motivo": "Declara irrevocable la pertenencia a la UE."
+   },
+   {
+    "id": "166-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "94-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-26",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-073",
+  "relaciones": [
+   {
+    "id": "40-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: posición negociadora sobre Gibraltar."
+   },
+   {
+    "id": "40-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-074",
+  "relaciones": [
+   {
+    "id": "26-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: medidas frente a Israel, sin negociación de paz."
+   },
+   {
+    "id": "26-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: medidas frente a Israel, sin negociación de paz."
+   },
+   {
+    "id": "26-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: medidas frente a Israel, sin negociación de paz."
+   },
+   {
+    "id": "26-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: medidas frente a Israel, sin negociación de paz."
+   },
+   {
+    "id": "26-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: medidas frente a Israel, sin negociación de paz."
+   },
+   {
+    "id": "26-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: medidas frente a Israel, sin negociación de paz."
+   },
+   {
+    "id": "26-10",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: medidas frente a Israel, sin negociación de paz."
+   },
+   {
+    "id": "40-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-075",
+  "relaciones": [
+   {
+    "id": "49-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: cooperación con campamentos saharauis."
+   },
+   {
+    "id": "49-6",
+    "relacion": "avanza",
+    "motivo": "Punto 6: apoyar a MINURSO y al enviado de la ONU."
+   },
+   {
+    "id": "49-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: espacio aéreo y marítimo del Sáhara."
+   },
+   {
+    "id": "49-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: recuperar neutralidad activa sobre el Sáhara."
+   },
+   {
+    "id": "49-1",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: comunicar a Marruecos la posición del Congreso."
+   },
+   {
+    "id": "40-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-076",
+  "relaciones": [
+   {
+    "id": "85-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: informe sobre la embajada en Venezuela."
+   },
+   {
+    "id": "85-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: respaldar informes de la ONU sobre Venezuela."
+   },
+   {
+    "id": "85-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: orden de arresto contra Maduro en el TPI."
+   },
+   {
+    "id": "85-2",
+    "relacion": "avanza",
+    "motivo": "Punto 1: exige liberar presos políticos en Venezuela."
+   },
+   {
+    "id": "58-1",
+    "relacion": "avanza",
+    "motivo": "Punto 3: liberación de presos políticos en Venezuela."
+   },
+   {
+    "id": "40-9",
+    "relacion": "avanza",
+    "motivo": "Punto 5: condena dictaduras de Cuba, Venezuela y Nicaragua."
+   },
+   {
+    "id": "40-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-077",
+  "relaciones": [
+   {
+    "id": "148-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-078",
+  "relaciones": [
+   {
+    "id": "58-1",
+    "relacion": "avanza",
+    "motivo": "Punto 9: apoyar a las fuerzas democráticas venezolanas."
+   },
+   {
+    "id": "40-9",
+    "relacion": "avanza",
+    "motivo": "Punto 5: condena dictaduras de Cuba, Venezuela y Nicaragua."
+   },
+   {
+    "id": "40-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-079",
+  "relaciones": [
+   {
+    "id": "142-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-2",
+    "relacion": "contradice",
+    "motivo": "Punto 4: reforma de Tratados para fortalecer la soberanía europea."
+   },
+   {
+    "id": "101-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-080",
+  "relaciones": [
+   {
+    "id": "188-26",
+    "relacion": "relacionada",
+    "motivo": "Asistencia judicial con Egipto, no reforma de la euroorden."
+   },
+   {
+    "id": "103-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P04-081",
+  "relaciones": [
+   {
+    "id": "103-2",
+    "relacion": "relacionada",
+    "motivo": "Defiende la cooperación sin condicionarla a migración."
+   },
+   {
+    "id": "166-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: condiciona cooperación a libertad religiosa, no a migración."
+   },
+   {
+    "id": "198-1",
+    "relacion": "relacionada",
+    "motivo": "Cumplir acuerdo migratorio con Marruecos, sin ayuda al desarrollo."
+   },
+   {
+    "id": "159-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "141-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ }
+]

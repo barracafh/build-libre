@@ -1,0 +1,3145 @@
+[
+ {
+  "key": "P08-000",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-59",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-001",
+  "relaciones": [
+   {
+    "id": "183-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-002",
+  "relaciones": [
+   {
+    "id": "151-11",
+    "relacion": "avanza",
+    "motivo": "Punto 9: reforzar despliegue de la Guardia Civil y cuarteles en el medio rural"
+   },
+   {
+    "id": "124-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-003",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: medidas contra la ocupación de inmuebles, no sobre legítima defensa"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "119-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-004",
+  "relaciones": [
+   {
+    "id": "68-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: jubilación anticipada de policías y guardias civiles, no salarios"
+   },
+   {
+    "id": "68-3",
+    "relacion": "avanza",
+    "motivo": "Punto 3: ley de retribuciones de FCSE para evitar nuevas desigualdades"
+   },
+   {
+    "id": "68-2",
+    "relacion": "avanza",
+    "motivo": "Punto 2: reconocer la equiparación a agentes en segunda actividad o reserva"
+   },
+   {
+    "id": "68-1",
+    "relacion": "avanza",
+    "motivo": "Punto 1: informe de cantidades pendientes hasta la equiparación total"
+   },
+   {
+    "id": "151-11",
+    "relacion": "cumple",
+    "motivo": "Punto 1: culminar la equiparación salarial de Policía Nacional y Guardia Civil"
+   },
+   {
+    "id": "183-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-005",
+  "relaciones": [
+   {
+    "id": "183-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-006",
+  "relaciones": [
+   {
+    "id": "183-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-007",
+  "relaciones": [
+   {
+    "id": "77-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-39",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-38",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-008",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "contradice",
+    "motivo": "Punto 6: endurecer penas de usurpación hasta tres años de cárcel"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: reformar hurto y estafa contra la multirreincidencia, sin detallar penas"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "119-2",
+    "relacion": "relacionada",
+    "motivo": "Tipifica como delito el petaqueo; amplía el ámbito penal"
+   },
+   {
+    "id": "151-11",
+    "relacion": "contradice",
+    "motivo": "Puntos 5 y 10: aumentar penas por atentado y por hurto multirreincidente"
+   }
+  ]
+ },
+ {
+  "key": "P08-009",
+  "relaciones": [
+   {
+    "id": "79-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-52",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-010",
+  "relaciones": [
+   {
+    "id": "68-4",
+    "relacion": "avanza",
+    "motivo": "Punto 4: jubilación voluntaria anticipada, sin reconocer profesión de riesgo"
+   },
+   {
+    "id": "68-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-11",
+    "relacion": "cumple",
+    "motivo": "Punto 2: reconocer profesión de riesgo a Policía Nacional y Guardia Civil"
+   },
+   {
+    "id": "183-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-011",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: protocolo de armas no letales en medios marítimos de la Guardia Civil"
+   }
+  ]
+ },
+ {
+  "key": "P08-012",
+  "relaciones": [
+   {
+    "id": "79-59",
+    "relacion": "relacionada",
+    "motivo": "Punto 14 de moción sobre gestión de la emergencia DANA; texto no visible"
+   },
+   {
+    "id": "79-58",
+    "relacion": "relacionada",
+    "motivo": "Punto 13 de moción sobre gestión de la emergencia DANA; texto no visible"
+   },
+   {
+    "id": "79-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-56",
+    "relacion": "relacionada",
+    "motivo": "Punto 11: actuaciones en cauces y defensa ante avenidas"
+   },
+   {
+    "id": "79-55",
+    "relacion": "relacionada",
+    "motivo": "Punto 10: ayudas para gastos de emergencia de las CCAA tras la DANA"
+   },
+   {
+    "id": "79-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-52",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-013",
+  "relaciones": [
+   {
+    "id": "79-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-52",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-014",
+  "relaciones": [
+   {
+    "id": "183-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-015",
+  "relaciones": [
+   {
+    "id": "119-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "121-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "121-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "121-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "71-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-016",
+  "relaciones": [
+   {
+    "id": "26-12",
+    "relacion": "relacionada",
+    "motivo": "Medidas contra el enaltecimiento de ETA, no sobre beneficios penitenciarios"
+   },
+   {
+    "id": "77-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-017",
+  "relaciones": [
+   {
+    "id": "26-12",
+    "relacion": "relacionada",
+    "motivo": "Apoyo a víctimas de ETA y fin de homenajes, no investigación de crímenes"
+   },
+   {
+    "id": "70-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "141-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "11-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-17",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-018",
+  "relaciones": [
+   {
+    "id": "183-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: recursos materiales para FCSE contra el narcotráfico"
+   },
+   {
+    "id": "183-6",
+    "relacion": "avanza",
+    "motivo": "Punto 4: aumentar plantillas en zonas afectadas por el narcotráfico"
+   },
+   {
+    "id": "183-5",
+    "relacion": "avanza",
+    "motivo": "Punto 3: restablecer OCON-Sur y reforzar plan del Campo de Gibraltar"
+   },
+   {
+    "id": "183-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 1 de moción sobre FCSE y narcotráfico; texto no visible"
+   },
+   {
+    "id": "68-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-019",
+  "relaciones": [
+   {
+    "id": "183-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-020",
+  "relaciones": [
+   {
+    "id": "93-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-021",
+  "relaciones": [
+   {
+    "id": "200-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "137-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "15-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-47",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-022",
+  "relaciones": [
+   {
+    "id": "199-1",
+    "relacion": "relacionada",
+    "motivo": "Reforma de procesos de familia con menores, sin fijar custodia compartida"
+   },
+   {
+    "id": "106-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "181-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-023",
+  "relaciones": [
+   {
+    "id": "139-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-17",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-024",
+  "relaciones": [
+   {
+    "id": "93-1",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: IVA del 4 % en luz, gas y agua, no prohíbe cortes"
+   },
+   {
+    "id": "77-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-107",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: intervenir y limitar precios de electricidad y carburantes"
+   },
+   {
+    "id": "202-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-025",
+  "relaciones": [
+   {
+    "id": "177-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-2",
+    "relacion": "relacionada",
+    "motivo": "Aprobar Ley de Familias; no crea Ministerio de Familia"
+   },
+   {
+    "id": "154-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-026",
+  "relaciones": [
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-49",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   },
+   {
+    "id": "198-46",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   },
+   {
+    "id": "198-42",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   }
+  ]
+ },
+ {
+  "key": "P08-027",
+  "relaciones": [
+   {
+    "id": "93-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "137-2",
+    "relacion": "relacionada",
+    "motivo": "Proposición de ley de conciliación y corresponsabilidad familiar"
+   },
+   {
+    "id": "15-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "161-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-028",
+  "relaciones": [
+   {
+    "id": "198-49",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley de accesibilidad universal y discapacidad"
+   },
+   {
+    "id": "198-46",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley de accesibilidad universal y discapacidad"
+   },
+   {
+    "id": "198-42",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley de accesibilidad universal y discapacidad"
+   },
+   {
+    "id": "198-40",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley de accesibilidad universal y discapacidad"
+   },
+   {
+    "id": "198-36",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley de accesibilidad universal y discapacidad"
+   },
+   {
+    "id": "198-31",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley de accesibilidad universal y discapacidad"
+   },
+   {
+    "id": "198-26",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley de accesibilidad universal y discapacidad"
+   },
+   {
+    "id": "198-22",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley de accesibilidad universal y discapacidad"
+   }
+  ]
+ },
+ {
+  "key": "P08-029",
+  "relaciones": [
+   {
+    "id": "88-107",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "160-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "11-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-49",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-030",
+  "relaciones": [
+   {
+    "id": "88-107",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "121-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-47",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-031",
+  "relaciones": [
+   {
+    "id": "88-107",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "181-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "121-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-49",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley de derechos de personas con discapacidad"
+   }
+  ]
+ },
+ {
+  "key": "P08-032",
+  "relaciones": [
+   {
+    "id": "88-107",
+    "relacion": "relacionada",
+    "motivo": "Subcomisión para un pacto contra la pobreza infantil"
+   },
+   {
+    "id": "191-30",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de subcomisión sobre pobreza infantil"
+   },
+   {
+    "id": "154-30",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de subcomisión sobre pobreza infantil"
+   },
+   {
+    "id": "121-10",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de subcomisión sobre pobreza infantil"
+   },
+   {
+    "id": "181-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-1",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: rebaja de IRPF por hijo a cargo, no prestación"
+   },
+   {
+    "id": "106-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-16",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-033",
+  "relaciones": [
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-1",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: IVA superreducido para teleasistencia y ayuda a domicilio"
+   },
+   {
+    "id": "198-49",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   },
+   {
+    "id": "198-46",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   },
+   {
+    "id": "198-42",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   },
+   {
+    "id": "198-40",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   },
+   {
+    "id": "198-36",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   },
+   {
+    "id": "198-31",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   }
+  ]
+ },
+ {
+  "key": "P08-034",
+  "relaciones": [
+   {
+    "id": "129-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-107",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "121-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-48",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-035",
+  "relaciones": [
+   {
+    "id": "146-56",
+    "relacion": "cumple",
+    "motivo": "Votación del proyecto de ley de servicios de atención a la clientela"
+   },
+   {
+    "id": "146-55",
+    "relacion": "cumple",
+    "motivo": "Votación del proyecto de ley de servicios de atención a la clientela"
+   },
+   {
+    "id": "146-54",
+    "relacion": "cumple",
+    "motivo": "Votación del proyecto de ley de servicios de atención a la clientela"
+   },
+   {
+    "id": "146-53",
+    "relacion": "cumple",
+    "motivo": "Votación del proyecto de ley de servicios de atención a la clientela"
+   },
+   {
+    "id": "146-9",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas al proyecto de ley de atención a la clientela; texto no visible"
+   },
+   {
+    "id": "146-8",
+    "relacion": "relacionada",
+    "motivo": "Enmienda al proyecto de ley de atención a la clientela; texto no visible"
+   },
+   {
+    "id": "146-7",
+    "relacion": "relacionada",
+    "motivo": "Enmienda al proyecto de ley de atención a la clientela; texto no visible"
+   },
+   {
+    "id": "146-6",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas al proyecto de ley de atención a la clientela; texto no visible"
+   }
+  ]
+ },
+ {
+  "key": "P08-036",
+  "relaciones": [
+   {
+    "id": "88-107",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "121-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-48",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-037",
+  "relaciones": [
+   {
+    "id": "161-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "181-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-038",
+  "relaciones": [
+   {
+    "id": "161-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-42",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-039",
+  "relaciones": [
+   {
+    "id": "129-3",
+    "relacion": "avanza",
+    "motivo": "RDL que amplía el permiso de nacimiento y cuidado"
+   },
+   {
+    "id": "129-4",
+    "relacion": "relacionada",
+    "motivo": "Tramitar como proyecto de ley el RDL de ampliación del permiso"
+   },
+   {
+    "id": "15-3",
+    "relacion": "relacionada",
+    "motivo": "RDL de conciliación con permiso parental y lactancia"
+   },
+   {
+    "id": "137-2",
+    "relacion": "relacionada",
+    "motivo": "Proposición de ley de conciliación y corresponsabilidad familiar"
+   },
+   {
+    "id": "49-20",
+    "relacion": "relacionada",
+    "motivo": "Tramitar RDL de conciliación y desempleo como proyecto de ley"
+   },
+   {
+    "id": "49-19",
+    "relacion": "relacionada",
+    "motivo": "RDL de desempleo y transposición de directiva de conciliación"
+   },
+   {
+    "id": "200-2",
+    "relacion": "relacionada",
+    "motivo": "Aprobar Ley de Familias con garantía del derecho a la conciliación"
+   },
+   {
+    "id": "70-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-040",
+  "relaciones": [
+   {
+    "id": "88-107",
+    "relacion": "relacionada",
+    "motivo": "Subcomisión para un pacto contra la pobreza infantil"
+   },
+   {
+    "id": "191-30",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de subcomisión sobre pobreza infantil"
+   },
+   {
+    "id": "154-30",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de subcomisión sobre pobreza infantil"
+   },
+   {
+    "id": "121-10",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de subcomisión sobre pobreza infantil"
+   },
+   {
+    "id": "181-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-041",
+  "relaciones": [
+   {
+    "id": "198-49",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   },
+   {
+    "id": "198-46",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   },
+   {
+    "id": "198-42",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   },
+   {
+    "id": "198-40",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   },
+   {
+    "id": "198-36",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   },
+   {
+    "id": "198-31",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   },
+   {
+    "id": "198-26",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   },
+   {
+    "id": "198-22",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que reforma la Ley de Dependencia"
+   }
+  ]
+ },
+ {
+  "key": "P08-042",
+  "relaciones": [
+   {
+    "id": "34-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "137-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-043",
+  "relaciones": [
+   {
+    "id": "64-1",
+    "relacion": "relacionada",
+    "motivo": "Proposición de modificación de la Ley de Dependencia; texto no visible"
+   },
+   {
+    "id": "198-49",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que modifica la Ley de Dependencia"
+   },
+   {
+    "id": "198-46",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que modifica la Ley de Dependencia"
+   },
+   {
+    "id": "198-42",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que modifica la Ley de Dependencia"
+   },
+   {
+    "id": "198-40",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que modifica la Ley de Dependencia"
+   },
+   {
+    "id": "198-36",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que modifica la Ley de Dependencia"
+   },
+   {
+    "id": "198-31",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que modifica la Ley de Dependencia"
+   },
+   {
+    "id": "198-26",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley que modifica la Ley de Dependencia"
+   }
+  ]
+ },
+ {
+  "key": "P08-044",
+  "relaciones": [
+   {
+    "id": "200-2",
+    "relacion": "avanza",
+    "motivo": "Aprobar Ley de Familias que reconoce la diversidad familiar"
+   },
+   {
+    "id": "15-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "137-2",
+    "relacion": "relacionada",
+    "motivo": "Proposición de ley de conciliación y corresponsabilidad familiar"
+   },
+   {
+    "id": "154-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-045",
+  "relaciones": [
+   {
+    "id": "177-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-47",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-046",
+  "relaciones": [
+   {
+    "id": "154-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-53",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-047",
+  "relaciones": [
+   {
+    "id": "129-2",
+    "relacion": "relacionada",
+    "motivo": "Inclusión laboral de personas con discapacidad mediante cuota de reserva"
+   },
+   {
+    "id": "198-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-26",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-048",
+  "relaciones": [
+   {
+    "id": "70-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "64-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-107",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-049",
+  "relaciones": [
+   {
+    "id": "88-107",
+    "relacion": "relacionada",
+    "motivo": "Subcomisión para un pacto contra la pobreza infantil"
+   },
+   {
+    "id": "191-30",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de subcomisión sobre pobreza infantil"
+   },
+   {
+    "id": "154-30",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de subcomisión sobre pobreza infantil"
+   },
+   {
+    "id": "121-10",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de subcomisión sobre pobreza infantil"
+   },
+   {
+    "id": "93-1",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: rebaja de IRPF por hijo a cargo, no prestación"
+   },
+   {
+    "id": "181-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "161-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-050",
+  "relaciones": [
+   {
+    "id": "129-3",
+    "relacion": "avanza",
+    "motivo": "RDL que amplía el permiso de nacimiento y cuidado"
+   },
+   {
+    "id": "129-4",
+    "relacion": "relacionada",
+    "motivo": "Tramitar como proyecto de ley el RDL de ampliación del permiso"
+   },
+   {
+    "id": "15-3",
+    "relacion": "relacionada",
+    "motivo": "RDL de conciliación con permiso parental y lactancia"
+   },
+   {
+    "id": "137-2",
+    "relacion": "relacionada",
+    "motivo": "Proposición de ley de conciliación y corresponsabilidad familiar"
+   },
+   {
+    "id": "49-20",
+    "relacion": "relacionada",
+    "motivo": "Tramitar RDL de conciliación y desempleo como proyecto de ley"
+   },
+   {
+    "id": "49-19",
+    "relacion": "relacionada",
+    "motivo": "RDL de desempleo y transposición de directiva de conciliación"
+   },
+   {
+    "id": "200-2",
+    "relacion": "relacionada",
+    "motivo": "Aprobar Ley de Familias con garantía del derecho a la conciliación"
+   },
+   {
+    "id": "70-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-051",
+  "relaciones": [
+   {
+    "id": "93-1",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: rebaja de IRPF por hijo a cargo, no prestación"
+   },
+   {
+    "id": "34-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-49",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: duplicar mínimos por descendientes en el IRPF"
+   },
+   {
+    "id": "169-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-052",
+  "relaciones": [
+   {
+    "id": "137-2",
+    "relacion": "relacionada",
+    "motivo": "Proposición de ley de conciliación y corresponsabilidad familiar"
+   },
+   {
+    "id": "129-3",
+    "relacion": "relacionada",
+    "motivo": "RDL que amplía el permiso de nacimiento y cuidado"
+   },
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "129-4",
+    "relacion": "relacionada",
+    "motivo": "Tramitar como proyecto de ley el RDL de permiso de cuidado"
+   },
+   {
+    "id": "15-3",
+    "relacion": "relacionada",
+    "motivo": "RDL de conciliación de progenitores y cuidadores"
+   },
+   {
+    "id": "200-2",
+    "relacion": "relacionada",
+    "motivo": "Aprobar Ley de Familias con garantía del derecho a la conciliación"
+   },
+   {
+    "id": "177-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-053",
+  "relaciones": [
+   {
+    "id": "70-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-2",
+    "relacion": "relacionada",
+    "motivo": "Aprobar Ley de Familias, sin detalle sobre familia numerosa"
+   }
+  ]
+ },
+ {
+  "key": "P08-054",
+  "relaciones": [
+   {
+    "id": "200-2",
+    "relacion": "contradice",
+    "motivo": "Insta a aprobar de inmediato el Proyecto de Ley de Familias"
+   },
+   {
+    "id": "15-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-055",
+  "relaciones": [
+   {
+    "id": "200-2",
+    "relacion": "cumple",
+    "motivo": "Insta a aprobar la Ley de Familias que reconoce la diversidad familiar"
+   },
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "15-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-20",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-056",
+  "relaciones": [
+   {
+    "id": "181-1",
+    "relacion": "avanza",
+    "motivo": "Toma en consideración de ley de alimentos saludables y publicidad a menores"
+   },
+   {
+    "id": "154-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "161-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-107",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "121-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-057",
+  "relaciones": [
+   {
+    "id": "198-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-22",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-058",
+  "relaciones": [
+   {
+    "id": "88-107",
+    "relacion": "relacionada",
+    "motivo": "Subcomisión para un pacto contra la pobreza infantil"
+   },
+   {
+    "id": "191-30",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de subcomisión sobre pobreza infantil"
+   },
+   {
+    "id": "154-30",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de subcomisión sobre pobreza infantil"
+   },
+   {
+    "id": "121-10",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de subcomisión sobre pobreza infantil"
+   },
+   {
+    "id": "106-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "181-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-059",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-060",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: sistemas de denuncia y moderación de contenido inapropiado"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-061",
+  "relaciones": [
+   {
+    "id": "88-84",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-83",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-82",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-81",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-80",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-062",
+  "relaciones": [
+   {
+    "id": "151-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-063",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: marcos regulatorios de derechos fundamentales de menores en entorno digital"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-064",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-065",
+  "relaciones": [
+   {
+    "id": "46-16",
+    "relacion": "cumple",
+    "motivo": "Punto 2: avanzar en la puesta en marcha de la Agencia de Supervisión de la IA"
+   },
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-066",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-067",
+  "relaciones": [
+   {
+    "id": "33-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "110-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-18",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-068",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-069",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-070",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-071",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-072",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-073",
+  "relaciones": [
+   {
+    "id": "130-9",
+    "relacion": "contradice",
+    "motivo": "Enmienda de devolución al proyecto de ley de menores en entornos digitales"
+   },
+   {
+    "id": "46-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 9: campañas educativas sobre riesgos de internet"
+   },
+   {
+    "id": "46-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: evaluar la situación de menores en el entorno digital"
+   },
+   {
+    "id": "46-7",
+    "relacion": "avanza",
+    "motivo": "Punto 7: colaboración con plataformas para controlar el acceso de menores"
+   },
+   {
+    "id": "46-6",
+    "relacion": "avanza",
+    "motivo": "Punto 6: marcos regulatorios para proteger a menores en el entorno digital"
+   },
+   {
+    "id": "46-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: sistemas de denuncia y moderación de contenidos"
+   },
+   {
+    "id": "46-4",
+    "relacion": "avanza",
+    "motivo": "Punto 4: exigir verificación de edad eficaz"
+   },
+   {
+    "id": "46-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: más recursos para la CNMC como supervisor digital"
+   }
+  ]
+ },
+ {
+  "key": "P08-074",
+  "relaciones": [
+   {
+    "id": "46-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-075",
+  "relaciones": [
+   {
+    "id": "46-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-17",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-076",
+  "relaciones": [
+   {
+    "id": "33-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-84",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-83",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-82",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-81",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-077",
+  "relaciones": [
+   {
+    "id": "151-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: evaluar impacto territorial de la digitalización de exámenes"
+   },
+   {
+    "id": "151-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-4",
+    "relacion": "avanza",
+    "motivo": "Punto 1: mantener centros de examen presenciales y evitar obstáculos de la digitalización"
+   },
+   {
+    "id": "88-84",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-83",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-82",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-078",
+  "relaciones": [
+   {
+    "id": "46-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "171-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-079",
+  "relaciones": [
+   {
+    "id": "154-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: evitar discriminación de personas con discapacidad en algoritmos de IA"
+   },
+   {
+    "id": "46-16",
+    "relacion": "relacionada",
+    "motivo": "Puntos 2 y 4: supervisión de algoritmos por agencias de IA"
+   },
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-080",
+  "relaciones": [
+   {
+    "id": "130-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P08-081",
+  "relaciones": [
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "171-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ }
+]

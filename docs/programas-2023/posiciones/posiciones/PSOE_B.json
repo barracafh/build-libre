@@ -1,0 +1,1492 @@
+{
+ "party": "PSOE",
+ "temas": [
+  {
+   "tema": "vivienda",
+   "sin_contenido": false,
+   "posicion_general": "Propone desarrollar la Ley de Vivienda para contener precios, ampliar el parque público de alquiler social hasta el 20%, blindar la vivienda protegida frente a su venta, movilizar viviendas vacías, rehabilitar más de 500.000 viviendas y reforzar ayudas a jóvenes. Plantea además reformar la ley para desalojar a ocupantes ilegales en 48 horas.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-vivienda-01",
+     "subtema": "contención de precios",
+     "cita": "Desarrollaremos las medidas contempladas para la contención de los precios de la vivienda.",
+     "pagina": 221,
+     "postura": "Aplicar los instrumentos de la Ley de Vivienda para contener los precios.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ley de vivienda",
+      "precio alquiler",
+      "contención de precios",
+      "zonas tensionadas",
+      "alquiler"
+     ]
+    },
+    {
+     "id": "PSOE-vivienda-02",
+     "subtema": "vivienda pública",
+     "cita": "El objetivo será alcanzar el 20% de vivienda pública en régimen de alquiler en los próximos años, situándonos en la media de viviendas que disponen países de la Unión Europea",
+     "pagina": 222,
+     "postura": "Ampliar el parque público de alquiler hasta el 20% del total.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "vivienda pública",
+      "alquiler social",
+      "parque público",
+      "Sepes",
+      "inversión pública"
+     ]
+    },
+    {
+     "id": "PSOE-vivienda-03",
+     "subtema": "contratos de arrendamiento",
+     "cita": "Regularemos y diversificaremos los contratos de arrendamientos para recoger las peculiaridades de cada situación, de manera que se atienda al arrendador/a y al arrendatario/a",
+     "pagina": 222,
+     "postura": "Regular nuevos tipos de contrato de alquiler, incluido el temporal como primera vivienda.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "arrendamientos urbanos",
+      "alquiler temporal",
+      "contrato de alquiler",
+      "inquilinos",
+      "LAU"
+     ]
+    },
+    {
+     "id": "PSOE-vivienda-04",
+     "subtema": "Sareb",
+     "cita": "50.000 viviendas procedentes de la Sareb: o 15.000 que posibilitarán la conformación de alquileres sociales. o 15.000 que se construirán en suelo de la entidad.",
+     "pagina": 223,
+     "postura": "Destinar 50.000 viviendas y suelos de la Sareb a alquiler social.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Sareb",
+      "alquiler social",
+      "vivienda pública",
+      "banco malo",
+      "suelo"
+     ]
+    },
+    {
+     "id": "PSOE-vivienda-05",
+     "subtema": "protección vivienda social",
+     "cita": "Impediremos cualquier posibilidad de incorporarse al mercado libre mediante procesos de descalificación y/o privatización de vivienda para un uso social, garantizando que no pueda venderse a ningún fondo de inversión.",
+     "pagina": 223,
+     "postura": "Prohibir la descalificación y la venta de vivienda social a fondos de inversión.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "vivienda protegida",
+      "descalificación",
+      "fondos de inversión",
+      "privatización",
+      "vivienda social"
+     ]
+    },
+    {
+     "id": "PSOE-vivienda-06",
+     "subtema": "viviendas vacías",
+     "cita": "Estableceremos mecanismos ágiles y modelos de acuerdo entre entidades bancarias y administraciones (estatal, autonómicas y locales) para movilizar las viviendas vacías y destinarlas a uso social.",
+     "pagina": 223,
+     "postura": "Movilizar viviendas vacías de la banca hacia uso social.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "viviendas vacías",
+      "entidades bancarias",
+      "uso social",
+      "movilización",
+      "vivienda"
+     ]
+    },
+    {
+     "id": "PSOE-vivienda-07",
+     "subtema": "sinhogarismo",
+     "cita": "Daremos una atención especial a las personas sin hogar: una realidad extrema y que representa una de las expresiones más agudizadas de exclusión social.",
+     "pagina": 224,
+     "postura": "Crear una red de viviendas para personas sin hogar con modelos housing first.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "sinhogarismo",
+      "personas sin hogar",
+      "housing first",
+      "exclusión social",
+      "vivienda"
+     ]
+    },
+    {
+     "id": "PSOE-vivienda-08",
+     "subtema": "rehabilitación",
+     "cita": "El objetivo es poder rehabilitar más de 500.000 viviendas en esta legislatura.",
+     "pagina": 225,
+     "postura": "Rehabilitar más de 500.000 viviendas en la legislatura.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "rehabilitación",
+      "eficiencia energética",
+      "accesibilidad",
+      "edificación",
+      "viviendas"
+     ]
+    },
+    {
+     "id": "PSOE-vivienda-09",
+     "subtema": "ayudas a jóvenes",
+     "cita": "Desarrollaremos y aplicaremos la nueva línea de avales del Instituto de Crédito Oficial (ICO) de 2.500 millones de euros para ayudar a los jóvenes menores de 35 años.",
+     "pagina": 226,
+     "postura": "Avales ICO de 2.500 millones para la compra de primera vivienda por jóvenes.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "avales ICO",
+      "jóvenes",
+      "hipoteca",
+      "primera vivienda",
+      "Bono Alquiler Joven"
+     ]
+    },
+    {
+     "id": "PSOE-vivienda-10",
+     "subtema": "ocupación ilegal",
+     "cita": "se impulsará la reforma Legislativa normativa para garantizar el desalojo de los ocupas ilegales en un plazo máximo de 48 horas.",
+     "pagina": 251,
+     "postura": "Reformar la ley para desalojar a ocupantes ilegales en un máximo de 48 horas.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "okupación",
+      "ocupación ilegal",
+      "desalojo",
+      "48 horas",
+      "propiedad privada",
+      "allanamiento"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "igualdad",
+   "sin_contenido": false,
+   "posicion_general": "Propone aprobar una ley de paridad en órganos de decisión, eliminar la brecha salarial, renovar el Pacto de Estado contra la violencia de género, abolir la prostitución y perseguir la gestación subrogada. Defiende garantizar el aborto en todas las comunidades y tipificar como delito las terapias de conversión.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-igualdad-01",
+     "subtema": "brecha salarial",
+     "cita": "Seguiremos avanzando en políticas que permitan eliminar la brecha salarial, profundizando en materia de transparencia salarial, potenciando las inspecciones de trabajo y e incrementando el régimen sancionador",
+     "pagina": 140,
+     "postura": "Eliminar la brecha salarial con transparencia, inspecciones y más sanciones.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "brecha salarial",
+      "transparencia salarial",
+      "inspección de trabajo",
+      "igualdad retributiva",
+      "mujeres"
+     ]
+    },
+    {
+     "id": "PSOE-igualdad-02",
+     "subtema": "paridad",
+     "cita": "Impulsaremos la aprobación de la Ley Orgánica de Representación Paritaria de Mujeres y Hombres en los Órganos de Decisión, que garantizará la igualdad efectiva en la toma de decisiones política, de la administración y de las empresas.",
+     "pagina": 146,
+     "postura": "Aprobar la ley de paridad en política, administración y consejos de empresas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "paridad",
+      "representación paritaria",
+      "listas cremallera",
+      "consejos de administración",
+      "cuotas"
+     ]
+    },
+    {
+     "id": "PSOE-igualdad-03",
+     "subtema": "Pacto contra violencia de género",
+     "cita": "Es imprescindible culminar cuanto antes los trabajos de renovación del Pacto. o Evaluaremos la aplicación del Pacto y continuaremos implementando las medidas pendientes.",
+     "pagina": 152,
+     "postura": "Culminar la renovación del Pacto de Estado contra la Violencia de Género.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "violencia de género",
+      "Pacto de Estado",
+      "violencia machista",
+      "víctimas",
+      "renovación"
+     ]
+    },
+    {
+     "id": "PSOE-igualdad-04",
+     "subtema": "juzgados especializados",
+     "cita": "Creación de las Unidades de Valoración Forense y de Juzgados especializados en Violencia contra la Mujer en todo el territorio nacional",
+     "pagina": 152,
+     "postura": "Crear juzgados especializados en violencia contra la mujer en todo el territorio.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "juzgados violencia sobre la mujer",
+      "valoración forense",
+      "violencia de género",
+      "justicia"
+     ]
+    },
+    {
+     "id": "PSOE-igualdad-05",
+     "subtema": "violencia sexual",
+     "cita": "Garantizaremos los recursos para el desarrollo de la Ley de Libertad Sexual",
+     "pagina": 155,
+     "postura": "Garantizar recursos para aplicar la Ley de Libertad Sexual.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "libertad sexual",
+      "solo sí es sí",
+      "violencia sexual",
+      "consentimiento",
+      "víctimas"
+     ]
+    },
+    {
+     "id": "PSOE-igualdad-06",
+     "subtema": "prostitución",
+     "cita": "Aboliremos la prostitución. Desarrollaremos una ley para prohibir el proxenetismo en todas sus formas, que incluya el castigo de la tercería locativa y la sanción a los proxenetas.",
+     "pagina": 158,
+     "postura": "Abolir la prostitución y castigar el proxenetismo y la tercería locativa.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "prostitución",
+      "abolicionismo",
+      "proxenetismo",
+      "tercería locativa",
+      "trata"
+     ]
+    },
+    {
+     "id": "PSOE-igualdad-07",
+     "subtema": "gestación subrogada",
+     "cita": "Actuaremos contra las agencias que promocionan y hacen negocio con la gestación subrogada, promoviendo las medidas legislativas necesarias.",
+     "pagina": 159,
+     "postura": "Actuar legislativamente contra agencias de gestación subrogada.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "gestación subrogada",
+      "vientres de alquiler",
+      "agencias",
+      "maternidad subrogada"
+     ]
+    },
+    {
+     "id": "PSOE-igualdad-08",
+     "subtema": "aborto",
+     "cita": "Debemos garantizar la IVE en igualdad de condiciones en todas las Comunidades así como la información y garantía de la elección y la disponibilidad de acceder a los dos métodos",
+     "pagina": 160,
+     "postura": "Garantizar el aborto en igualdad en todas las comunidades autónomas.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "aborto",
+      "interrupción voluntaria del embarazo",
+      "IVE",
+      "salud sexual y reproductiva",
+      "derechos reproductivos"
+     ]
+    },
+    {
+     "id": "PSOE-igualdad-09",
+     "subtema": "terapias de conversión",
+     "cita": "incluiremos las terapias de conversión como un delito tipificado en el código penal",
+     "pagina": 215,
+     "postura": "Tipificar como delito las terapias de conversión.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "terapias de conversión",
+      "LGTBI",
+      "código penal",
+      "LGTBIfobia",
+      "delito"
+     ]
+    },
+    {
+     "id": "PSOE-igualdad-10",
+     "subtema": "permisos de cuidados",
+     "cita": "Avanzaremos en la implantación de permisos retribuidos para los cuidados, considerando la perspectiva del ciclo de la vida, siempre en el marco del diálogo social, y desde la perspectiva de género.",
+     "pagina": 143,
+     "postura": "Implantar permisos retribuidos para cuidados.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "permisos retribuidos",
+      "cuidados",
+      "conciliación",
+      "corresponsabilidad",
+      "permiso parental"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "seguridad",
+   "sin_contenido": false,
+   "posicion_general": "Propone seguir aumentando los efectivos de Policía Nacional y Guardia Civil, reforzar su presencia en el medio rural, combatir las mafias de la ocupación y el crimen organizado, actualizar la regulación de la seguridad privada y reforzar la protección frente a la violencia de género y los delitos de odio.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-seguridad-01",
+     "subtema": "efectivos policiales",
+     "cita": "Vamos a seguir desplegando agentes y reforzando las plantillas de las Fuerzas y Cuerpos de Seguridad del Estado en cada comarca y pueblo de España.",
+     "pagina": 237,
+     "postura": "Aumentar las plantillas de Policía Nacional y Guardia Civil en todo el territorio.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Policía Nacional",
+      "Guardia Civil",
+      "efectivos",
+      "plantillas",
+      "Fuerzas y Cuerpos de Seguridad"
+     ]
+    },
+    {
+     "id": "PSOE-seguridad-02",
+     "subtema": "Guardia Civil rural",
+     "cita": "Extenderemos las especialidades de la Guardia Civil para que la ciberseguridad o la lucha contra la Violencia de Género no sean servicios exclusivos de las zonas urbanas.",
+     "pagina": 237,
+     "postura": "Extender especialidades de la Guardia Civil al medio rural.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Guardia Civil",
+      "medio rural",
+      "ciberseguridad",
+      "seguridad rural"
+     ]
+    },
+    {
+     "id": "PSOE-seguridad-03",
+     "subtema": "mafias de ocupación",
+     "cita": "Combatiremos las estructuras mafiosas que delinquen con las ocupaciones de vivienda y alteran la vida de las comunidades.",
+     "pagina": 238,
+     "postura": "Combatir las mafias de la ocupación de viviendas.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "okupación",
+      "mafias",
+      "ocupación ilegal",
+      "vivienda",
+      "delincuencia"
+     ]
+    },
+    {
+     "id": "PSOE-seguridad-04",
+     "subtema": "política penitenciaria",
+     "cita": "Fortaleceremos las políticas resocializadoras de nuestro sistema penitenciario para evitar la reincidencia, fomentando en los internos la revisión crítica del pasado y el reconocimiento del daño causado.",
+     "pagina": 238,
+     "postura": "Reforzar la reinserción en prisiones para evitar la reincidencia.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "sistema penitenciario",
+      "reinserción",
+      "reincidencia",
+      "prisiones",
+      "presos"
+     ]
+    },
+    {
+     "id": "PSOE-seguridad-05",
+     "subtema": "seguridad privada",
+     "cita": "Actualizaremos la regulación vigente en nuestro país para modernizarla y adecuarla a los avances que se han producido en los últimos años",
+     "pagina": 238,
+     "postura": "Actualizar la ley de seguridad privada.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "seguridad privada",
+      "regulación",
+      "vigilantes",
+      "ley de seguridad privada"
+     ]
+    },
+    {
+     "id": "PSOE-seguridad-06",
+     "subtema": "protección civil",
+     "cita": "Seguiremos potenciando el Sistema Nacional de Protección Civil para mejorar nuestra capacidad de respuesta frente a emergencias y catástrofes.",
+     "pagina": 238,
+     "postura": "Reforzar el Sistema Nacional de Protección Civil.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "protección civil",
+      "emergencias",
+      "catástrofes",
+      "incendios",
+      "UME"
+     ]
+    },
+    {
+     "id": "PSOE-seguridad-07",
+     "subtema": "violencia de género",
+     "cita": "Vamos a destinar más agentes y medios para la lucha contra la violencia de género, y vamos a potenciar y a dotar de más instrumentos al sistema VioGén.",
+     "pagina": 239,
+     "postura": "Más agentes y medios contra la violencia de género y refuerzo de VioGén.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "VioGén",
+      "violencia de género",
+      "agentes",
+      "protección víctimas"
+     ]
+    },
+    {
+     "id": "PSOE-seguridad-08",
+     "subtema": "delitos de odio",
+     "cita": "Vamos a mejorar los mecanismos de protección de las víctimas de los delitos de odio.",
+     "pagina": 239,
+     "postura": "Mejorar la protección de víctimas de delitos de odio.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "delitos de odio",
+      "víctimas",
+      "discriminación",
+      "protección"
+     ]
+    },
+    {
+     "id": "PSOE-seguridad-09",
+     "subtema": "seguridad vial",
+     "cita": "Reforzaremos las medidas para reducir la mortalidad en carretera, hasta alcanzar las cero víctimas mortales.",
+     "pagina": 239,
+     "postura": "Reducir la mortalidad en carretera hasta cero víctimas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "seguridad vial",
+      "siniestralidad",
+      "tráfico",
+      "DGT",
+      "carreteras"
+     ]
+    },
+    {
+     "id": "PSOE-seguridad-10",
+     "subtema": "crimen organizado",
+     "cita": "Mejoraremos los medios para luchar contra el crimen organizado y transnacional.",
+     "pagina": 251,
+     "postura": "Más medios contra el crimen organizado y transnacional.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "crimen organizado",
+      "narcotráfico",
+      "delincuencia transnacional",
+      "cooperación policial"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "inmigracion",
+   "sin_contenido": false,
+   "posicion_general": "Defiende una migración regular, segura y ordenada, con más vías legales y migración circular, un sistema de acogida reforzado y gestionado públicamente, una nueva ley de nacionalidad y la lucha contra el racismo. Propone reducir las llegadas irregulares desmantelando las mafias y apoyar un Pacto Europeo de Migración y Asilo.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-inmigracion-01",
+     "subtema": "sistema de acogida",
+     "cita": "Incrementaremos las capacidades del sistema de acogida y reforzaremos la gestión pública y estable de las mismas",
+     "pagina": 255,
+     "postura": "Ampliar el sistema de acogida con gestión pública y estable.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "sistema de acogida",
+      "asilo",
+      "protección internacional",
+      "refugiados",
+      "acogida"
+     ]
+    },
+    {
+     "id": "PSOE-inmigracion-02",
+     "subtema": "modelo migratorio",
+     "cita": "abogamos por una migración regular, segura y ordenada que garantice la plena inclusión social y laboral de las personas migrantes, como han demostrado las dos reformas del reglamento de la ley de extranjería",
+     "pagina": 255,
+     "postura": "Migración regular y ordenada con inclusión laboral, siguiendo la reforma del reglamento de extranjería.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "reglamento de extranjería",
+      "migración regular",
+      "arraigo",
+      "inmigrantes",
+      "integración"
+     ]
+    },
+    {
+     "id": "PSOE-inmigracion-03",
+     "subtema": "vías legales",
+     "cita": "Habilitaremos mejores vías para la migración regular y ordenada que permitan una mejor inserción social y laboral de las personas migrantes, fomentando convenios de migración circular exitosos como los que ya funcionan.",
+     "pagina": 256,
+     "postura": "Ampliar vías legales y convenios de migración circular.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "migración circular",
+      "vías legales",
+      "migración laboral",
+      "contratación en origen",
+      "extranjería"
+     ]
+    },
+    {
+     "id": "PSOE-inmigracion-04",
+     "subtema": "gestión administrativa",
+     "cita": "Mejoraremos el sistema de gestión de la política migratoria, simplificando los procedimientos y acelerando el cambio de modelo de las oficinas de extranjería.",
+     "pagina": 256,
+     "postura": "Simplificar trámites y reformar las oficinas de extranjería.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "oficinas de extranjería",
+      "procedimientos",
+      "permisos de residencia",
+      "gestión migratoria"
+     ]
+    },
+    {
+     "id": "PSOE-inmigracion-05",
+     "subtema": "nacionalidad",
+     "cita": "A través de una Ley de nacionalidad, que se plantea también como una propuesta para abordar en lo que atañe a las y los españoles y españolas en el exterior, debe adecuarse el acceso a la nacionalidad por residencia",
+     "pagina": 256,
+     "postura": "Nueva ley de nacionalidad que adecúe el acceso por residencia.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "nacionalidad",
+      "ley de nacionalidad",
+      "residencia",
+      "españoles en el exterior",
+      "ciudadanía"
+     ]
+    },
+    {
+     "id": "PSOE-inmigracion-06",
+     "subtema": "inserción laboral",
+     "cita": "Seguiremos trabajando en la facilitación de la incorporación al mercado laboral de las personas que ya se encuentran en España, fomentando la compatibilidad de formación y trabajo",
+     "pagina": 256,
+     "postura": "Facilitar el acceso al empleo de migrantes ya presentes en España.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "inmigrantes",
+      "mercado laboral",
+      "estudiantes extranjeros",
+      "permiso de trabajo",
+      "integración laboral"
+     ]
+    },
+    {
+     "id": "PSOE-inmigracion-07",
+     "subtema": "racismo",
+     "cita": "Reforzaremos la lucha contra el racismo y la xenofobia aunando políticas públicas e iniciativas no gubernamentales, con especial incidencia en las acciones relativas a materia educativa y políticas de comunicación y sensibilización",
+     "pagina": 257,
+     "postura": "Reforzar la lucha contra el racismo y la xenofobia.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "racismo",
+      "xenofobia",
+      "discriminación",
+      "sensibilización",
+      "antirracismo"
+     ]
+    },
+    {
+     "id": "PSOE-inmigracion-08",
+     "subtema": "inmigración irregular",
+     "cita": "Aplicaremos una política migratoria que reduzca llegadas irregulares y que salve vidas.",
+     "pagina": 239,
+     "postura": "Reducir las llegadas irregulares salvando vidas.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "inmigración irregular",
+      "llegadas",
+      "pateras",
+      "salvamento marítimo",
+      "control fronterizo"
+     ]
+    },
+    {
+     "id": "PSOE-inmigracion-09",
+     "subtema": "mafias",
+     "cita": "Potenciaremos una estrategia que desmantele las mafias que trafican con seres humanos en los países de origen.",
+     "pagina": 239,
+     "postura": "Desmantelar las mafias de tráfico de personas en origen.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "mafias",
+      "tráfico de personas",
+      "trata",
+      "países de origen",
+      "cooperación"
+     ]
+    },
+    {
+     "id": "PSOE-inmigracion-10",
+     "subtema": "Pacto Europeo",
+     "cita": "Trabajaremos para conseguir a nivel europeo la adopción de un nuevo Pacto de Migración y Asilo, que esté en línea con los valores de dignidad humana y solidaridad establecidos en nuestros tratados.",
+     "pagina": 260,
+     "postura": "Apoyar un nuevo Pacto Europeo de Migración y Asilo.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Pacto de Migración y Asilo",
+      "Unión Europea",
+      "solidaridad",
+      "asilo",
+      "fronteras"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "pensiones",
+   "sin_contenido": false,
+   "posicion_general": "Propone blindar en la Constitución la revalorización de las pensiones con el IPC, seguir subiendo las mínimas y no contributivas, ampliar el complemento de brecha de género, nuevas fórmulas de jubilación parcial y anticipada, y reforzar los ingresos del sistema y el Fondo de Reserva hasta más de 20.000 millones en 2027.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-pensiones-01",
+     "subtema": "revalorización IPC",
+     "cita": "Blindaremos el poder adquisitivo de las pensiones con un cambio constitucional. Garantizaremos ante cualquier circunstancia el poder adquisitivo de todas las pensiones con arreglo al IPC.",
+     "pagina": 170,
+     "postura": "Incluir en la Constitución la revalorización de las pensiones con el IPC.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "revalorización",
+      "IPC",
+      "poder adquisitivo",
+      "reforma constitucional",
+      "pensiones"
+     ]
+    },
+    {
+     "id": "PSOE-pensiones-02",
+     "subtema": "pensiones mínimas",
+     "cita": "Seguiremos revalorizando las pensiones mínimas y no contributivas durante la próxima legislatura, para reforzar su efectividad en la reducción de la pobreza.",
+     "pagina": 170,
+     "postura": "Seguir subiendo pensiones mínimas y no contributivas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "pensiones mínimas",
+      "pensiones no contributivas",
+      "revalorización",
+      "pobreza",
+      "jubilados"
+     ]
+    },
+    {
+     "id": "PSOE-pensiones-03",
+     "subtema": "brecha de género",
+     "cita": "Seguiremos profundizando en la ambiciosa agenda de reducción de la brecha de género de las pensiones, con una subida del complemento contra la brecha de género del IPC +10% adicional en 2026-2027.",
+     "pagina": 171,
+     "postura": "Subir el complemento de brecha de género un 10% adicional en 2026-2027.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "complemento brecha de género",
+      "pensiones mujeres",
+      "maternidad",
+      "lagunas de cotización"
+     ]
+    },
+    {
+     "id": "PSOE-pensiones-04",
+     "subtema": "jubilación parcial",
+     "cita": "Aprobaremos una nueva fórmula de jubilación parcial anticipada que preserve la calidad del empleo de los relevistas a través de contratos indefinidos",
+     "pagina": 171,
+     "postura": "Nueva jubilación parcial anticipada con relevistas indefinidos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "jubilación parcial",
+      "contrato de relevo",
+      "jubilación activa",
+      "edad de jubilación"
+     ]
+    },
+    {
+     "id": "PSOE-pensiones-05",
+     "subtema": "jubilación anticipada",
+     "cita": "Culminaremos la regulación de la jubilación anticipada para actividades profesionales especialmente duras o penosas, con una especial atención a la dimensión de género.",
+     "pagina": 171,
+     "postura": "Regular la jubilación anticipada para trabajos penosos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "jubilación anticipada",
+      "coeficientes reductores",
+      "profesiones penosas",
+      "edad de jubilación"
+     ]
+    },
+    {
+     "id": "PSOE-pensiones-06",
+     "subtema": "cotización por hijo",
+     "cita": "Por el nacimiento o adopción de cada hijo reconoceremos a cada uno de los progenitores un periodo de cotización de un año, que redundará en su futura pensión.",
+     "pagina": 171,
+     "postura": "Reconocer un año cotizado por hijo a cada progenitor.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "cotización",
+      "hijos",
+      "maternidad",
+      "paternidad",
+      "periodo cotizado"
+     ]
+    },
+    {
+     "id": "PSOE-pensiones-07",
+     "subtema": "viudedad y orfandad",
+     "cita": "vamos a reformar las pensiones de muerte y supervivencia con el objeto dignificar las pensiones de orfandad y mejorar las pensiones de viudedad de aquellas viudas en situación de vulnerabilidad.",
+     "pagina": 171,
+     "postura": "Mejorar pensiones de orfandad y de viudedad vulnerables.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "viudedad",
+      "orfandad",
+      "supervivencia",
+      "Pacto de Toledo"
+     ]
+    },
+    {
+     "id": "PSOE-pensiones-08",
+     "subtema": "financiación del sistema",
+     "cita": "culminar el proceso que iniciamos en 2021 de separación de fuentes de financiación con la asunción por el Estado de todos los gastos impropios, de naturaleza no contributiva",
+     "pagina": 172,
+     "postura": "Que el Estado asuma todos los gastos impropios de la Seguridad Social.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "gastos impropios",
+      "separación de fuentes",
+      "Seguridad Social",
+      "mecanismo de equidad intergeneracional",
+      "cotizaciones"
+     ]
+    },
+    {
+     "id": "PSOE-pensiones-09",
+     "subtema": "Fondo de Reserva",
+     "cita": "Rellenaremos la hucha de las pensiones. El Fondo de Reserva de la Seguridad Social estará dotado con más de 20.000 millones de euros en 2027.",
+     "pagina": 172,
+     "postura": "Dotar el Fondo de Reserva con más de 20.000 millones en 2027.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Fondo de Reserva",
+      "hucha de las pensiones",
+      "sostenibilidad",
+      "Seguridad Social"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "sanidad",
+   "sin_contenido": false,
+   "posicion_general": "Defiende una sanidad pública, gratuita y universal: aprobar la Ley de Equidad que impida nuevos copagos, fijar por ley tiempos máximos de espera, crear la Agencia Estatal de Salud Pública, reforzar salud mental y bucodental, reformar el copago farmacéutico y aumentar las plazas de Medicina. Defiende mantener la ley de eutanasia.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-sanidad-01",
+     "subtema": "universalidad y copagos",
+     "cita": "Este proyecto de Ley pretende ampliar el acceso universal al SNS, recuperar la cartera común de servicios del SNS, y establecer las garantías necesarias para que no puedan introducirse nuevos copagos sanitarios.",
+     "pagina": 200,
+     "postura": "Aprobar la Ley de Equidad: universalidad y prohibición de nuevos copagos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ley de Equidad",
+      "universalidad",
+      "copagos",
+      "Sistema Nacional de Salud",
+      "sanidad pública"
+     ]
+    },
+    {
+     "id": "PSOE-sanidad-02",
+     "subtema": "listas de espera",
+     "cita": "Acabaremos con las listas de espera, estableciendo por ley unos tiempos máximos de espera en el SNS de 120 días para intervenciones quirúrgicas, 60 días para consultas externas especializadas, y 30 días para pruebas complementarias",
+     "pagina": 201,
+     "postura": "Fijar por ley tiempos máximos de espera de 120, 60 y 30 días.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "listas de espera",
+      "tiempos máximos",
+      "cirugía",
+      "consultas",
+      "SNS"
+     ]
+    },
+    {
+     "id": "PSOE-sanidad-03",
+     "subtema": "salud pública",
+     "cita": "Continuaremos impulsando la creación de la Agencia Estatal de Salud Pública, que concentrará los recursos técnicos y científicos y las capacidades del Estado",
+     "pagina": 200,
+     "postura": "Crear la Agencia Estatal de Salud Pública.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Agencia Estatal de Salud Pública",
+      "salud pública",
+      "pandemias",
+      "vigilancia epidemiológica"
+     ]
+    },
+    {
+     "id": "PSOE-sanidad-04",
+     "subtema": "salud mental",
+     "cita": "Estableceremos garantías de tiempo máximo de espera en la asistencia la salud mental que incluya un máximo de 15 días para menores de 21 años.",
+     "pagina": 203,
+     "postura": "Garantizar atención en salud mental en 15 días para menores de 21 años.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "salud mental",
+      "psicólogos",
+      "tiempo de espera",
+      "jóvenes",
+      "024"
+     ]
+    },
+    {
+     "id": "PSOE-sanidad-05",
+     "subtema": "profesionales sanitarios",
+     "cita": "un estudio de necesidades de personal sanitario que permita diseñar un incremento de hasta un 15% de las plazas ofertadas en el grado de Medicina.",
+     "pagina": 202,
+     "postura": "Aumentar hasta un 15% las plazas del grado de Medicina.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "plazas de Medicina",
+      "médicos",
+      "personal sanitario",
+      "MIR",
+      "universidad"
+     ]
+    },
+    {
+     "id": "PSOE-sanidad-06",
+     "subtema": "copago farmacéutico",
+     "cita": "Revisión de copagos farmacéuticos: reformaremos la aportación del usuario al pago de medicamentos para beneficiar a las rentas menores de 18.000 euros, y mantendremos la gratuidad para grupos vulnerables.",
+     "pagina": 204,
+     "postura": "Reducir el copago farmacéutico para rentas menores de 18.000 euros.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "copago farmacéutico",
+      "medicamentos",
+      "rentas bajas",
+      "pensionistas"
+     ]
+    },
+    {
+     "id": "PSOE-sanidad-07",
+     "subtema": "salud bucodental",
+     "cita": "Salud Bucodental: promoveremos la incorporación progresiva de servicios como las obturaciones (empastes) o los implantes dentales a más colectivos, comenzando por personas mayores de 75 años.",
+     "pagina": 204,
+     "postura": "Incorporar empastes e implantes a la cartera pública, empezando por mayores de 75.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "salud bucodental",
+      "dentista",
+      "cartera de servicios",
+      "implantes",
+      "mayores"
+     ]
+    },
+    {
+     "id": "PSOE-sanidad-08",
+     "subtema": "cannabis terapéutico",
+     "cita": "Promoveremos el uso terapéutico del Cánnabis, desarrollando un sistema de atención farmacológica que permita el acceso terapéutico a cannabinoides a los pacientes con patologías que así lo indiquen.",
+     "pagina": 204,
+     "postura": "Regular el uso terapéutico del cannabis.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "cannabis medicinal",
+      "cannabinoides",
+      "uso terapéutico",
+      "regulación"
+     ]
+    },
+    {
+     "id": "PSOE-sanidad-09",
+     "subtema": "eutanasia",
+     "cita": "Ante una derecha que quiere derogar esta ley, su defensa está garantizada por nosotras y nosotros, contando además con el aval del Tribunal Constitucional.",
+     "pagina": 197,
+     "postura": "Mantener la ley de eutanasia frente a su derogación.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "eutanasia",
+      "ayuda para morir",
+      "muerte digna",
+      "Tribunal Constitucional"
+     ]
+    },
+    {
+     "id": "PSOE-sanidad-10",
+     "subtema": "financiación sanitaria",
+     "cita": "que la inversión del conjunto de Administraciones Públicas en Sanidad sea como mínimo del 7% del PIB, en Educación del 5% y en Servicios Sociales del 2%.",
+     "pagina": 234,
+     "postura": "Garantizar una inversión sanitaria pública mínima del 7% del PIB.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "gasto sanitario",
+      "PIB",
+      "financiación autonómica",
+      "inversión pública",
+      "sanidad"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "energia",
+   "sin_contenido": false,
+   "posicion_general": "Propone seguir expandiendo las renovables con una ley de zonas idóneas, impulsar almacenamiento, hidrógeno renovable, autoconsumo y comunidades energéticas, reformar el mercado eléctrico europeo y desmantelar progresivamente las centrales nucleares. Plantea reforzar los bonos sociales contra la pobreza energética y apoyar la transición justa.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-energia-01",
+     "subtema": "renovables",
+     "cita": "Aprobaremos una ley para identificar, junto a las comunidades autónomas y las entidades locales, las áreas idóneas para el desarrollo de renovables y facilitar el acceso de los beneficios a las comunidades locales",
+     "pagina": 74,
+     "postura": "Ley de áreas idóneas para renovables con beneficios locales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "energías renovables",
+      "zonificación",
+      "fotovoltaica",
+      "eólica",
+      "comunidades locales"
+     ]
+    },
+    {
+     "id": "PSOE-energia-02",
+     "subtema": "almacenamiento e hidrógeno",
+     "cita": "Impulsaremos la innovación en el sector energético a través del fomento de las nuevas tecnologías necesarias para la descarbonización de la energía, como el almacenamiento energético, la gestión de la demanda, así como el hidrógeno renovable",
+     "pagina": 74,
+     "postura": "Fomentar almacenamiento, gestión de la demanda e hidrógeno renovable.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "hidrógeno verde",
+      "almacenamiento",
+      "baterías",
+      "descarbonización",
+      "gases renovables"
+     ]
+    },
+    {
+     "id": "PSOE-energia-03",
+     "subtema": "mercado eléctrico",
+     "cita": "Fomentaremos, en el seno de la Unión Europea, las reformas del mercado eléctrico necesarias para poder trasladar el beneficio de las energías renovables a los consumidores",
+     "pagina": 74,
+     "postura": "Reformar el mercado eléctrico europeo para abaratar la factura.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "mercado eléctrico",
+      "precio de la luz",
+      "excepción ibérica",
+      "tope del gas",
+      "factura eléctrica"
+     ]
+    },
+    {
+     "id": "PSOE-energia-04",
+     "subtema": "autoconsumo",
+     "cita": "Consolidaremos el impulso de una energía social y participativa a través de las comunidades energéticas y facilitando el desarrollo del autoconsumo, con una especial apuesta por el autoconsumo colectivo.",
+     "pagina": 74,
+     "postura": "Impulsar comunidades energéticas y autoconsumo colectivo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "autoconsumo",
+      "comunidades energéticas",
+      "placas solares",
+      "autoconsumo colectivo"
+     ]
+    },
+    {
+     "id": "PSOE-energia-05",
+     "subtema": "energía nuclear",
+     "cita": "Aprobaremos el 7º Plan General de Residuos Radioactivos. Este nuevo plan integrará las necesidades para la gestión de residuos radioactivos y las futuras",
+     "pagina": 74,
+     "postura": "Aprobar el 7º Plan de Residuos con el desmantelamiento progresivo de las nucleares.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "energía nuclear",
+      "centrales nucleares",
+      "residuos radiactivos",
+      "cierre nuclear",
+      "desmantelamiento"
+     ]
+    },
+    {
+     "id": "PSOE-energia-06",
+     "subtema": "pobreza energética",
+     "cita": "Desplegaremos las medidas incluidas en la Estrategia contra la Pobreza Energética. Reforzaremos los bonos sociales térmico y eléctrico",
+     "pagina": 75,
+     "postura": "Reforzar los bonos sociales eléctrico y térmico.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "bono social",
+      "pobreza energética",
+      "consumidores vulnerables",
+      "bono térmico"
+     ]
+    },
+    {
+     "id": "PSOE-energia-07",
+     "subtema": "industria verde",
+     "cita": "Impulsaremos una política industrial verde para la fabricación de bienes de equipo, de la cadena de valor y servicios asociados a las energías renovables",
+     "pagina": 75,
+     "postura": "Política industrial verde ligada a la cadena de valor renovable.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "industria verde",
+      "reindustrialización",
+      "renovables",
+      "PERTE",
+      "empleo verde"
+     ]
+    },
+    {
+     "id": "PSOE-energia-08",
+     "subtema": "industria electrointensiva",
+     "cita": "vamos a apoyar a los sectores intensivos en energía, para que puedan reducir el coste de la electricidad y el gas.",
+     "pagina": 49,
+     "postura": "Apoyar a la industria electrointensiva para reducir sus costes energéticos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "industria electrointensiva",
+      "coste de la electricidad",
+      "gas",
+      "competitividad",
+      "descarbonización industrial"
+     ]
+    },
+    {
+     "id": "PSOE-energia-09",
+     "subtema": "transición justa",
+     "cita": "Continuaremos con el apoyo y acompañamiento a las personas y territorios vinculados a la transición energética para la diversificación y reactivación de sus economías locales",
+     "pagina": 76,
+     "postura": "Apoyar a territorios afectados por cierres energéticos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "transición justa",
+      "cierre de centrales",
+      "carbón",
+      "comarcas mineras",
+      "convenios"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "educacion",
+   "sin_contenido": false,
+   "posicion_general": "Defiende reforzar la educación pública e inclusiva: universalizar la escolarización de 0 a 18 años con plazas públicas gratuitas, bajar ratios, aprobar el Estatuto del Docente, ampliar becas y gratuidad de libros, matrícula universitaria gratuita para quien apruebe a la primera y expandir la Formación Profesional.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-educacion-01",
+     "subtema": "educación 0-3",
+     "cita": "universalizando la escolarización de 0 a 18 años, no mediante la obligatoriedad sino promoviendo de forma gradual una oferta suficiente de plazas públicas gratuitas, tanto de escuelas infantiles para niños de 0 a 3 años",
+     "pagina": 103,
+     "postura": "Universalizar la escolarización 0-18 con plazas públicas gratuitas, incluida 0-3.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "educación infantil",
+      "0 a 3 años",
+      "escuelas infantiles",
+      "gratuidad",
+      "escolarización"
+     ]
+    },
+    {
+     "id": "PSOE-educacion-02",
+     "subtema": "ratios",
+     "cita": "Impulsaremos una bajada de ratio en aquellos centros que presenten un proyecto de mejora.",
+     "pagina": 105,
+     "postura": "Bajar ratios en centros con proyecto de mejora.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "ratio",
+      "alumnos por aula",
+      "calidad educativa",
+      "profesorado"
+     ]
+    },
+    {
+     "id": "PSOE-educacion-03",
+     "subtema": "educación especial",
+     "cita": "respetando siempre la decisión familiar cuando consideren que es mejor la opción de un centro de educación especial.",
+     "pagina": 105,
+     "postura": "Educación inclusiva en centros ordinarios respetando la opción de educación especial.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "educación especial",
+      "educación inclusiva",
+      "discapacidad",
+      "LOMLOE",
+      "necesidades educativas"
+     ]
+    },
+    {
+     "id": "PSOE-educacion-04",
+     "subtema": "concertada y segregación",
+     "cita": "Combatiremos la segregación escolar mediante la actualización de los módulos y de otros costes de funcionamiento de los centros concertados sostenidos con fondos públicos para asegurar que su oferta es accesible a todas las familias sin peajes ocultos",
+     "pagina": 107,
+     "postura": "Actualizar módulos de la concertada y eliminar cuotas encubiertas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "escuela concertada",
+      "segregación escolar",
+      "cuotas",
+      "conciertos educativos",
+      "admisión"
+     ]
+    },
+    {
+     "id": "PSOE-educacion-05",
+     "subtema": "profesorado",
+     "cita": "diseñaremos e implementaremos, en coordinación con las CCAA, la nueva carrera docente y aprobaremos el Estatuto del Docente.",
+     "pagina": 107,
+     "postura": "Aprobar el Estatuto del Docente y una nueva carrera docente.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Estatuto del Docente",
+      "carrera docente",
+      "profesorado",
+      "docentes"
+     ]
+    },
+    {
+     "id": "PSOE-educacion-06",
+     "subtema": "libros de texto",
+     "cita": "Impulsaremos el Programa de gratuidad de libros de texto y ayudas para material escolar para apoyar la inversión de las familias, en colaboración con las CCAA.",
+     "pagina": 109,
+     "postura": "Gratuidad de libros de texto y ayudas para material escolar.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "libros de texto",
+      "gratuidad",
+      "material escolar",
+      "familias"
+     ]
+    },
+    {
+     "id": "PSOE-educacion-07",
+     "subtema": "becas",
+     "cita": "Seguiremos reforzando el sistema de becas para que ningún alumno o alumna se vea forzado a renunciar por falta de medios económicos.",
+     "pagina": 109,
+     "postura": "Ampliar el sistema de becas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "becas",
+      "ayudas al estudio",
+      "igualdad de oportunidades",
+      "estudiantes"
+     ]
+    },
+    {
+     "id": "PSOE-educacion-08",
+     "subtema": "matrícula universitaria",
+     "cita": "Incrementaremos la dotación del sistema de becas y ayudas al estudio e impulsaremos la reducción de tasas universitarias para asegurar la igualdad de oportunidades en el acceso a la universidad.",
+     "pagina": 116,
+     "postura": "Reducir tasas universitarias y gratuidad para créditos aprobados a la primera.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "tasas universitarias",
+      "matrícula gratuita",
+      "universidad pública",
+      "becas"
+     ]
+    },
+    {
+     "id": "PSOE-educacion-09",
+     "subtema": "Formación Profesional",
+     "cita": "Formación para 3 millones de personas en formación profesional cada año, de los cuales 1.400.000 serán jóvenes matriculados en formación profesional del sistema educativo",
+     "pagina": 113,
+     "postura": "Formar a 3 millones de personas en FP cada año y aumentar plazas públicas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Formación Profesional",
+      "FP dual",
+      "plazas públicas",
+      "cualificación"
+     ]
+    },
+    {
+     "id": "PSOE-educacion-10",
+     "subtema": "acoso escolar",
+     "cita": "Reforzaremos el Observatorio Estatal para la Convivencia con protocolos y medidas destinadas a prevenir y solventar los problemas de acoso escolar en cualquiera de sus manifestaciones",
+     "pagina": 104,
+     "postura": "Reforzar protocolos contra el acoso escolar.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "acoso escolar",
+      "bullying",
+      "convivencia escolar",
+      "protocolos"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "defensa",
+   "sin_contenido": false,
+   "posicion_general": "Propone reforzar el presupuesto de Defensa según los compromisos internacionales, impulsar la industria de defensa y los grandes programas de armamento, mantener el apoyo a Ucrania y las misiones internacionales, reforzar la defensa europea y la OTAN, y mejorar las condiciones del personal militar de tropa y marinería.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-defensa-01",
+     "subtema": "presupuesto",
+     "cita": "Reforzaremos el presupuesto específico de Defensa que permita desarrollar los proyectos de planeamiento y programas del Ministerio, así como el cumplimiento del incremento de las inversiones de Defensa en el marco de los compromisos internacionales asumidos por España.",
+     "pagina": 270,
+     "postura": "Aumentar el presupuesto de Defensa según los compromisos internacionales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "gasto en defensa",
+      "presupuesto de Defensa",
+      "OTAN",
+      "compromisos internacionales",
+      "2% PIB"
+     ]
+    },
+    {
+     "id": "PSOE-defensa-02",
+     "subtema": "industria de defensa",
+     "cita": "Lideraremos una política industrial de defensa que asegure nuestra autonomía estratégica mediante el fomento de la competitividad, el desarrollo tecnológico y el empleo.",
+     "pagina": 270,
+     "postura": "Política industrial de defensa para la autonomía estratégica.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "industria de defensa",
+      "autonomía estratégica",
+      "I+D+i",
+      "empleo"
+     ]
+    },
+    {
+     "id": "PSOE-defensa-03",
+     "subtema": "programas de armamento",
+     "cita": "Mantendremos el impulso dado en la anterior legislatura a los programas de los vehículos VCR 8X8, fragatas F-110, submarinos S-80, sistema FCAS/NGWS, cazas Halcon y drones Euromale.",
+     "pagina": 270,
+     "postura": "Mantener los grandes programas de armamento.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "programas especiales de armamento",
+      "fragatas F-110",
+      "submarino S-80",
+      "FCAS",
+      "Eurofighter"
+     ]
+    },
+    {
+     "id": "PSOE-defensa-04",
+     "subtema": "Ucrania",
+     "cita": "Mantendremos el apoyo solidario de España a los aliados afectados por el conflicto en Ucrania",
+     "pagina": 269,
+     "postura": "Mantener el apoyo a Ucrania y a los aliados.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Ucrania",
+      "Rusia",
+      "ayuda militar",
+      "aliados",
+      "guerra"
+     ]
+    },
+    {
+     "id": "PSOE-defensa-05",
+     "subtema": "misiones internacionales",
+     "cita": "mantendremos el compromiso con las diferentes misiones en las que España participa activamente con Naciones Unidas o con otros organismos internacionales de los que somos parte, como la misión en el Líbano",
+     "pagina": 269,
+     "postura": "Mantener la participación en misiones internacionales.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "misiones internacionales",
+      "Líbano",
+      "Naciones Unidas",
+      "Fuerzas Armadas en el exterior"
+     ]
+    },
+    {
+     "id": "PSOE-defensa-06",
+     "subtema": "defensa europea",
+     "cita": "Contribuiremos al reforzamiento de las capacidades propias de la Unión Europea en materia de defensa y reforzaremos la participación española en los proyectos PESCO.",
+     "pagina": 269,
+     "postura": "Reforzar la defensa europea y la participación en PESCO.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Europa de la Defensa",
+      "PESCO",
+      "Unión Europea",
+      "defensa común"
+     ]
+    },
+    {
+     "id": "PSOE-defensa-07",
+     "subtema": "OTAN",
+     "cita": "Daremos a España el lugar que le corresponde en la consolidación e impulso del Concepto Estratégico aprobado en la Cumbre de Madrid de 2022",
+     "pagina": 269,
+     "postura": "Impulsar el Concepto Estratégico de la OTAN con atención al flanco sur.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "OTAN",
+      "Concepto Estratégico",
+      "Cumbre de Madrid",
+      "flanco sur"
+     ]
+    },
+    {
+     "id": "PSOE-defensa-08",
+     "subtema": "tropa y marinería",
+     "cita": "Continuaremos con la ejecución de las medidas aprobadas por la Subcomisión para el estudio del régimen profesional de los militares de tropa y marinería",
+     "pagina": 271,
+     "postura": "Aplicar medidas de la Subcomisión sobre tropa y marinería.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "tropa y marinería",
+      "militares",
+      "carrera militar",
+      "salidas profesionales"
+     ]
+    },
+    {
+     "id": "PSOE-defensa-09",
+     "subtema": "implantación territorial",
+     "cita": "Construiremos la Base Logística del Ejército de Tierra en Córdoba, que creará 1.600 puestos de trabajo.",
+     "pagina": 271,
+     "postura": "Construir la Base Logística del Ejército en Córdoba y desconcentrar unidades.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "base logística",
+      "Córdoba",
+      "Ejército de Tierra",
+      "reto demográfico",
+      "instalaciones militares"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "cultura",
+   "sin_contenido": false,
+   "posicion_general": "Propone un Pacto de Estado por la Cultura y una ley general de cultura, mantener el Bono Cultural Joven, completar el Estatuto del Artista, modernizar el mecenazgo, crear una Oficina de Derechos de Autor, reformar la Ley del cine y reforzar el apoyo al audiovisual. En deporte, desarrollar la nueva Ley del Deporte y un Estatuto del Deportista.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-cultura-01",
+     "subtema": "Pacto de Estado",
+     "cita": "Trabajaremos para alcanzar un Pacto de Estado por la Cultura con el resto de las fuerzas políticas, gobiernos autonómicos y la Federación Española de Municipios y Provincias.",
+     "pagina": 123,
+     "postura": "Alcanzar un Pacto de Estado por la Cultura.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Pacto de Estado por la Cultura",
+      "cultura",
+      "consenso",
+      "política cultural"
+     ]
+    },
+    {
+     "id": "PSOE-cultura-02",
+     "subtema": "ley de cultura",
+     "cita": "Avanzaremos hacia la construcción de un marco legislativo específico y general de la cultura que nos permita avanzar en sus garantías y en su desarrollo",
+     "pagina": 123,
+     "postura": "Aprobar un marco legislativo general de cultura.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ley de cultura",
+      "derechos culturales",
+      "legislación cultural",
+      "política cultural"
+     ]
+    },
+    {
+     "id": "PSOE-cultura-03",
+     "subtema": "Bono Cultural Joven",
+     "cita": "Facilitaremos la entrada a la mayoría de edad y la formación de nuevos públicos de la mano de la cultura manteniendo el programa del Bono Cultural Joven.",
+     "pagina": 124,
+     "postura": "Mantener el Bono Cultural Joven.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "Bono Cultural Joven",
+      "jóvenes",
+      "consumo cultural",
+      "ayudas"
+     ]
+    },
+    {
+     "id": "PSOE-cultura-04",
+     "subtema": "Estatuto del Artista",
+     "cita": "Nos comprometemos a completar el desarrollo del Estatuto del Artista",
+     "pagina": 124,
+     "postura": "Completar el desarrollo del Estatuto del Artista.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Estatuto del Artista",
+      "artistas",
+      "intermitencia",
+      "Seguridad Social",
+      "creadores"
+     ]
+    },
+    {
+     "id": "PSOE-cultura-05",
+     "subtema": "mecenazgo",
+     "cita": "Revisaremos y modernizaremos los sistemas y leyes de apoyo a la cultura ya existentes como son, entre otros, el mecenazgo o los esquemas de subvenciones",
+     "pagina": 125,
+     "postura": "Modernizar la ley de mecenazgo y las subvenciones culturales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "mecenazgo",
+      "subvenciones",
+      "financiación cultural",
+      "incentivos fiscales"
+     ]
+    },
+    {
+     "id": "PSOE-cultura-06",
+     "subtema": "deducciones fiscales",
+     "cita": "Equipararemos las deducciones a las artes escénicas y la música con las que actualmente se han aprobado para el cine y las series.",
+     "pagina": 125,
+     "postura": "Equiparar deducciones de artes escénicas y música a las del cine.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "deducciones fiscales",
+      "artes escénicas",
+      "música",
+      "cine",
+      "incentivos"
+     ]
+    },
+    {
+     "id": "PSOE-cultura-07",
+     "subtema": "derechos de autor",
+     "cita": "Enviaremos de nuevo al Congreso de los Diputados la ley que crea una Oficina de Derechos de Autor encargada de velar por la protección de la propiedad intelectual",
+     "pagina": 126,
+     "postura": "Crear una Oficina de Derechos de Autor.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "propiedad intelectual",
+      "derechos de autor",
+      "entidades de gestión",
+      "SGAE"
+     ]
+    },
+    {
+     "id": "PSOE-cultura-08",
+     "subtema": "cine",
+     "cita": "Volveremos a tramitar la reforma de la Ley del cine para actualizar el marco legislativo para consolidar un sector audiovisual y cinematográfico sólido, diverso y resiliente.",
+     "pagina": 127,
+     "postura": "Tramitar de nuevo la reforma de la Ley del cine.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ley del cine",
+      "audiovisual",
+      "cinematografía",
+      "ICAA"
+     ]
+    },
+    {
+     "id": "PSOE-cultura-09",
+     "subtema": "cine para mayores",
+     "cita": "Seguiremos apoyando la vuelta al cine a los mayores de 65 años con la bonificación del precio de las entradas a 2€",
+     "pagina": 127,
+     "postura": "Mantener entradas de cine a 2 euros para mayores de 65.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "cine",
+      "mayores",
+      "entradas",
+      "salas de cine"
+     ]
+    },
+    {
+     "id": "PSOE-cultura-10",
+     "subtema": "deporte",
+     "cita": "Desarrollaremos reglamentariamente la nueva Ley del Deporte, con el objetivo de afianzar los principios rectores a partir de los cuales se ha aprobado esta normativa",
+     "pagina": 220,
+     "postura": "Desarrollar reglamentariamente la nueva Ley del Deporte.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ley del Deporte",
+      "deporte",
+      "deporte femenino",
+      "federaciones"
+     ]
+    }
+   ]
+  }
+ ]
+}

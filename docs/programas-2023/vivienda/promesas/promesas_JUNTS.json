@@ -1,0 +1,365 @@
+{
+  "party": "JUNTS",
+  "promesas": [
+    {
+      "id": "JUNTS-01",
+      "cita": "A curt termini, augmentar la capacitat dels recursos transferits a la Generalitat per a polítiques d’habitatge",
+      "pagina": 97,
+      "resumen": "Aumentar a corto plazo los recursos estatales transferidos a la Generalitat para políticas de vivienda.",
+      "objeto": "Transferencias estatales de vivienda a Cataluña",
+      "tipo": "presupuestaria",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "transferencias vivienda",
+        "Generalitat",
+        "presupuestos generales",
+        "plan estatal vivienda",
+        "ayudas alquiler"
+      ]
+    },
+    {
+      "id": "JUNTS-02",
+      "cita": "A mitjà termini, augmentar, progressivament, els fons estatals destinats a polítiques d’habitatge per situar-los en la mitjana europea, del 0,6 % del PIB.",
+      "pagina": 98,
+      "resumen": "Elevar progresivamente el gasto estatal en vivienda hasta el 0,6% del PIB.",
+      "objeto": "Gasto estatal en vivienda (0,6% PIB)",
+      "tipo": "presupuestaria",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "gasto vivienda",
+        "presupuestos generales",
+        "vivienda social",
+        "parque público alquiler",
+        "PIB"
+      ]
+    },
+    {
+      "id": "JUNTS-03",
+      "cita": "Els recursos del Pla d’habitatge han de ser transferits a la Generalitat per produir habitatges de lloguer a preu assequible.",
+      "pagina": 98,
+      "resumen": "Transferir a la Generalitat los recursos del Plan de vivienda para producir alquiler asequible.",
+      "objeto": "Recursos del Plan Estatal de Vivienda",
+      "tipo": "ejecutiva",
+      "direccion": "crear_ampliar",
+      "competencia": "indirecta",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "plan estatal vivienda",
+        "Generalitat",
+        "alquiler asequible",
+        "transferencias",
+        "vivienda"
+      ]
+    },
+    {
+      "id": "JUNTS-04",
+      "cita": "Exigir la transmissió a la Generalitat i als ajuntaments del 30 % dels pisos buits que la SAREB té a Catalunya",
+      "pagina": 98,
+      "resumen": "Transferir a la Generalitat y ayuntamientos el 30% de los pisos vacíos de la SAREB en Cataluña.",
+      "objeto": "Pisos vacíos de la SAREB en Cataluña",
+      "tipo": "ejecutiva",
+      "direccion": "crear_ampliar",
+      "competencia": "indirecta",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "SAREB",
+        "pisos vacíos",
+        "vivienda social",
+        "Generalitat",
+        "ayuntamientos"
+      ]
+    },
+    {
+      "id": "JUNTS-05",
+      "cita": "Donar suport econòmic perquè la Generalitat i les administracions locals puguin ampliar les seves possibilitats de fer efectiu el dret de tanteig i retracte en cas d’execucions hipotecàries,",
+      "pagina": 98,
+      "resumen": "Financiar a Generalitat y entes locales el ejercicio del tanteo y retracto en ejecuciones hipotecarias.",
+      "objeto": "Financiación de tanteo y retracto",
+      "tipo": "presupuestaria",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "tanteo y retracto",
+        "ejecuciones hipotecarias",
+        "parque público",
+        "vivienda social",
+        "financiación"
+      ]
+    },
+    {
+      "id": "JUNTS-06",
+      "cita": "Revisar la fiscalitat de les societats anònimes cotitzades d’inversió en el mercat immobiliari amb l’objectiu de vincular-les a la promoció d’habitatges de lloguer assequible",
+      "pagina": 98,
+      "resumen": "Revisar la fiscalidad de las SOCIMI para vincularla a la promoción de alquiler asequible.",
+      "objeto": "Régimen fiscal de las SOCIMI",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "SOCIMI",
+        "fiscalidad",
+        "alquiler asequible",
+        "impuesto de sociedades",
+        "vivienda"
+      ]
+    },
+    {
+      "id": "JUNTS-07",
+      "cita": "perquè hagin de retornar la subvenció i els interessos corresponents en cas de posar-se a la venda o llogar-se a un preu superior al fixat per als habitatges de protecció oficial.",
+      "pagina": 98,
+      "resumen": "Obligar a devolver la subvención de una VPO descalificada si se vende o alquila por encima del precio protegido.",
+      "objeto": "Devolución de ayudas de VPO descalificadas",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "vivienda protección oficial",
+        "VPO",
+        "descalificación",
+        "subvenciones",
+        "vivienda protegida"
+      ]
+    },
+    {
+      "id": "JUNTS-08",
+      "cita": "Modificar la fiscalitat de l’IVA corresponent a la promoció d’habitatges de lloguer en sòls cedits en dret de superfície.",
+      "pagina": 98,
+      "resumen": "Modificar el IVA aplicable a la promoción de alquiler en suelos cedidos en derecho de superficie.",
+      "objeto": "IVA de promoción de alquiler en derecho de superficie",
+      "tipo": "legislativa",
+      "direccion": "reducir_suprimir",
+      "competencia": "directa",
+      "verificabilidad": "baja",
+      "palabras_clave": [
+        "IVA vivienda",
+        "derecho de superficie",
+        "alquiler",
+        "promoción vivienda",
+        "fiscalidad"
+      ]
+    },
+    {
+      "id": "JUNTS-09",
+      "cita": "Limitar les reduccions dels rendiments del lloguer a l’IRPF quan els lloguers es trobin per sota de l'índex de referència de preus del lloguer",
+      "pagina": 98,
+      "resumen": "Vincular las reducciones del IRPF por rendimientos del alquiler al índice de referencia de precios de la Generalitat.",
+      "objeto": "Reducciones IRPF de rendimientos del alquiler",
+      "tipo": "legislativa",
+      "direccion": "reducir_suprimir",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "reducción rendimientos alquiler",
+        "IRPF",
+        "índice de referencia",
+        "arrendadores",
+        "alquiler"
+      ]
+    },
+    {
+      "id": "JUNTS-10",
+      "cita": "Impulsar modificacions de l’impost de societats que tendeixin a bonificar fiscalment els rendiments obtinguts per societats a partir de lloguers que es trobin per sota de l’índex de referència de preus del lloguer",
+      "pagina": 98,
+      "resumen": "Bonificar en el Impuesto de Sociedades los alquileres por debajo del índice de referencia.",
+      "objeto": "Impuesto de Sociedades y alquileres asequibles",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "impuesto de sociedades",
+        "bonificación",
+        "alquiler",
+        "índice de referencia",
+        "fiscalidad"
+      ]
+    },
+    {
+      "id": "JUNTS-11",
+      "cita": "Facilitar que les administracions locals puguin impulsar mesures de fiscalitat que incloguin bonificacions en l’IBI i en altres impostos i taxes",
+      "pagina": 98,
+      "resumen": "Permitir a los ayuntamientos bonificar el IBI y otros tributos a propietarios que alquilen bajo el índice de referencia.",
+      "objeto": "Bonificaciones municipales del IBI por alquiler",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "IBI",
+        "bonificaciones",
+        "haciendas locales",
+        "alquiler",
+        "índice de referencia"
+      ]
+    },
+    {
+      "id": "JUNTS-12",
+      "cita": "Crear un fons estatal territorialitzat per atendre l’especial situació de les persones sense llar,",
+      "pagina": 99,
+      "resumen": "Crear un fondo estatal territorializado para personas sin hogar.",
+      "objeto": "Fondo estatal para personas sin hogar",
+      "tipo": "presupuestaria",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "sinhogarismo",
+        "personas sin hogar",
+        "fondo estatal",
+        "presupuestos generales",
+        "exclusión residencial"
+      ]
+    },
+    {
+      "id": "JUNTS-13",
+      "cita": "Impulsar un canvi profund de la Llei d’arrendaments urbans (LAU) per superar les mesures del Reial decret llei 7/2019 de mesures urgents en matèria d’habitatge i lloguer,",
+      "pagina": 99,
+      "resumen": "Reformar a fondo la LAU para superar el Real Decreto-ley 7/2019 e introducir contratos indefinidos voluntarios.",
+      "objeto": "Ley de Arrendamientos Urbanos",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "LAU",
+        "arrendamientos urbanos",
+        "Real Decreto-ley 7/2019",
+        "alquiler",
+        "contratos indefinidos"
+      ]
+    },
+    {
+      "id": "JUNTS-14",
+      "cita": "exigir la transferència en les competències de legislació sobre el lloguer d’immobles per aprovar una llei pròpia d’arrendaments urbans a Catalunya,",
+      "pagina": 99,
+      "resumen": "Transferir a Cataluña la competencia legislativa sobre alquiler para aprobar una ley catalana de arrendamientos urbanos.",
+      "objeto": "Competencia sobre arrendamientos urbanos",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "arrendamientos urbanos",
+        "competencias vivienda",
+        "artículo 150.2",
+        "LAU",
+        "Cataluña"
+      ]
+    },
+    {
+      "id": "JUNTS-15",
+      "cita": "Impulsar la cessió de les casernes de la Guàrdia Civil en desús a la Generalitat, així com altres immobles que són propietat de l’Estat que puguin ser destinats a habitatges de lloguer social.",
+      "pagina": 99,
+      "resumen": "Ceder a la Generalitat cuarteles de la Guardia Civil en desuso y otros inmuebles estatales para alquiler social.",
+      "objeto": "Cesión de inmuebles estatales para alquiler social",
+      "tipo": "ejecutiva",
+      "direccion": "crear_ampliar",
+      "competencia": "indirecta",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "cuarteles Guardia Civil",
+        "inmuebles del Estado",
+        "alquiler social",
+        "cesión",
+        "vivienda pública"
+      ]
+    },
+    {
+      "id": "JUNTS-16",
+      "cita": "Modificar la Llei que regula els mecanismes de segona oportunitat perquè pugui ser aplicable a totes aquelles persones que es troben en una situació crònica d’endeutament, fonamentalment a causa del sobreendeutament hipotecari",
+      "pagina": 99,
+      "resumen": "Reformar la ley de segunda oportunidad para incluir a personas sobreendeudadas por hipotecas.",
+      "objeto": "Ley de segunda oportunidad",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "segunda oportunidad",
+        "sobreendeudamiento",
+        "hipotecas",
+        "ley concursal",
+        "deuda hipotecaria"
+      ]
+    },
+    {
+      "id": "JUNTS-17",
+      "cita": "Exigim el traspàs anunciat dels habitatges propietat de la SAREB a Catalunya per tal d'incentivar l’emancipació dels joves",
+      "pagina": 100,
+      "resumen": "Traspasar a Cataluña las viviendas de la SAREB para alquiler asequible juvenil, con financiación para rehabilitarlas.",
+      "objeto": "Viviendas de la SAREB para jóvenes en Cataluña",
+      "tipo": "ejecutiva",
+      "direccion": "crear_ampliar",
+      "competencia": "indirecta",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "SAREB",
+        "emancipación juvenil",
+        "alquiler asequible",
+        "jóvenes",
+        "traspaso viviendas"
+      ]
+    },
+    {
+      "id": "JUNTS-18",
+      "cita": "Transformar el «Bono Joven» en una veritable renda per a l’emancipació juvenil, que garanteixi l’accés a l’habitatge a tots els joves que tenen dret a acollir-s'hi, incrementant-ne el pressupost",
+      "pagina": 101,
+      "resumen": "Convertir el Bono Alquiler Joven en una renta de emancipación para todos los beneficiarios y ampliar su presupuesto.",
+      "objeto": "Bono Alquiler Joven",
+      "tipo": "presupuestaria",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "bono alquiler joven",
+        "emancipación juvenil",
+        "ayudas alquiler",
+        "jóvenes",
+        "presupuestos"
+      ]
+    },
+    {
+      "id": "JUNTS-19",
+      "cita": "Adaptar, des de l’Institut de Crèdit Oficial (ICO), les condicions de finançament hipotecari per a joves de fins a trenta-cinc anys per accedir al seu primer habitatge, impulsant un programa d'avals a l'entrada hipotecària.",
+      "pagina": 101,
+      "resumen": "Crear a través del ICO avales y condiciones hipotecarias para menores de 35 años en su primera vivienda.",
+      "objeto": "Avales ICO a hipotecas de jóvenes",
+      "tipo": "ejecutiva",
+      "direccion": "crear_ampliar",
+      "competencia": "indirecta",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "avales ICO",
+        "hipoteca jóvenes",
+        "primera vivienda",
+        "ICO",
+        "jóvenes"
+      ]
+    },
+    {
+      "id": "JUNTS-20",
+      "cita": "Instar a l’Estat espanyol a recuperar la deducció estatal de la quota d'IRPF per a lloguer d'habitatge habitual per als joves menors de trenta anys",
+      "pagina": 101,
+      "resumen": "Recuperar la deducción estatal del IRPF por alquiler de vivienda habitual para menores de 30 años.",
+      "objeto": "Deducción IRPF por alquiler para jóvenes",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "deducción alquiler",
+        "IRPF",
+        "jóvenes",
+        "vivienda habitual",
+        "emancipación"
+      ]
+    }
+  ]
+}

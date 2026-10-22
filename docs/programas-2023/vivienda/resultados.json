@@ -1,0 +1,2637 @@
+[
+ {
+  "id": "JUNTS-01",
+  "partido": "JUNTS",
+  "pagina": 97,
+  "cita": "A curt termini, augmentar la capacitat dels recursos transferits a la Generalitat per a polítiques d’habitatge",
+  "resumen": "Aumentar a corto plazo los recursos estatales transferidos a la Generalitat para políticas de vivienda.",
+  "objeto": "Transferencias estatales de vivienda a Cataluña",
+  "tipo": "presupuestaria",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "JUNTS-02",
+  "partido": "JUNTS",
+  "pagina": 98,
+  "cita": "A mitjà termini, augmentar, progressivament, els fons estatals destinats a polítiques d’habitatge per situar-los en la mitjana europea, del 0,6 % del PIB.",
+  "resumen": "Elevar progresivamente el gasto estatal en vivienda hasta el 0,6% del PIB.",
+  "objeto": "Gasto estatal en vivienda (0,6% PIB)",
+  "tipo": "presupuestaria",
+  "competencia": "directa",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "136-97",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 9)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion097/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 9: transferir recursos para ampliar parque público; sin objetivo del 0,6% del PIB.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "JUNTS-03",
+  "partido": "JUNTS",
+  "pagina": 98,
+  "cita": "Els recursos del Pla d’habitatge han de ser transferits a la Generalitat per produir habitatges de lloguer a preu assequible.",
+  "resumen": "Transferir a la Generalitat los recursos del Plan de vivienda para producir alquiler asequible.",
+  "objeto": "Recursos del Plan Estatal de Vivienda",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "JUNTS-04",
+  "partido": "JUNTS",
+  "pagina": 98,
+  "cita": "Exigir la transmissió a la Generalitat i als ajuntaments del 30 % dels pisos buits que la SAREB té a Catalunya",
+  "resumen": "Transferir a la Generalitat y ayuntamientos el 30% de los pisos vacíos de la SAREB en Cataluña.",
+  "objeto": "Pisos vacíos de la SAREB en Cataluña",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "a_favor_cumple",
+  "votaciones": [
+   {
+    "id": "136-96",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 8)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion096/VOT_20251008195409.json",
+    "relacion": "cumple",
+    "motivo": "Punto 8: transferir gratis todas las viviendas SAREB a CCAA y ayuntamientos.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "JUNTS-05",
+  "partido": "JUNTS",
+  "pagina": 98,
+  "cita": "Donar suport econòmic perquè la Generalitat i les administracions locals puguin ampliar les seves possibilitats de fer efectiu el dret de tanteig i retracte en cas d’execucions hipotecàries,",
+  "resumen": "Financiar a Generalitat y entes locales el ejercicio del tanteo y retracto en ejecuciones hipotecarias.",
+  "objeto": "Financiación de tanteo y retracto",
+  "tipo": "presupuestaria",
+  "competencia": "directa",
+  "resultado": "a_favor_cumple",
+  "votaciones": [
+   {
+    "id": "136-97",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 9)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion097/VOT_20251008195409.json",
+    "relacion": "cumple",
+    "motivo": "Punto 9: transferir recursos a CCAA y ayuntamientos para ejercer tanteo y retracto.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "JUNTS-06",
+  "partido": "JUNTS",
+  "pagina": 98,
+  "cita": "Revisar la fiscalitat de les societats anònimes cotitzades d’inversió en el mercat immobiliari amb l’objectiu de vincular-les a la promoció d’habitatges de lloguer assequible",
+  "resumen": "Revisar la fiscalidad de las SOCIMI para vincularla a la promoción de alquiler asequible.",
+  "objeto": "Régimen fiscal de las SOCIMI",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "JUNTS-07",
+  "partido": "JUNTS",
+  "pagina": 98,
+  "cita": "perquè hagin de retornar la subvenció i els interessos corresponents en cas de posar-se a la venda o llogar-se a un preu superior al fixat per als habitatges de protecció oficial.",
+  "resumen": "Obligar a devolver la subvención de una VPO descalificada si se vende o alquila por encima del precio protegido.",
+  "objeto": "Devolución de ayudas de VPO descalificadas",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "JUNTS-08",
+  "partido": "JUNTS",
+  "pagina": 98,
+  "cita": "Modificar la fiscalitat de l’IVA corresponent a la promoció d’habitatges de lloguer en sòls cedits en dret de superfície.",
+  "resumen": "Modificar el IVA aplicable a la promoción de alquiler en suelos cedidos en derecho de superficie.",
+  "objeto": "IVA de promoción de alquiler en derecho de superficie",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "JUNTS-09",
+  "partido": "JUNTS",
+  "pagina": 98,
+  "cita": "Limitar les reduccions dels rendiments del lloguer a l’IRPF quan els lloguers es trobin per sota de l'índex de referència de preus del lloguer",
+  "resumen": "Vincular las reducciones del IRPF por rendimientos del alquiler al índice de referencia de precios de la Generalitat.",
+  "objeto": "Reducciones IRPF de rendimientos del alquiler",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "JUNTS-10",
+  "partido": "JUNTS",
+  "pagina": 98,
+  "cita": "Impulsar modificacions de l’impost de societats que tendeixin a bonificar fiscalment els rendiments obtinguts per societats a partir de lloguers que es trobin per sota de l’índex de referència de preus del lloguer",
+  "resumen": "Bonificar en el Impuesto de Sociedades los alquileres por debajo del índice de referencia.",
+  "objeto": "Impuesto de Sociedades y alquileres asequibles",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "JUNTS-11",
+  "partido": "JUNTS",
+  "pagina": 98,
+  "cita": "Facilitar que les administracions locals puguin impulsar mesures de fiscalitat que incloguin bonificacions en l’IBI i en altres impostos i taxes",
+  "resumen": "Permitir a los ayuntamientos bonificar el IBI y otros tributos a propietarios que alquilen bajo el índice de referencia.",
+  "objeto": "Bonificaciones municipales del IBI por alquiler",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "JUNTS-12",
+  "partido": "JUNTS",
+  "pagina": 99,
+  "cita": "Crear un fons estatal territorialitzat per atendre l’especial situació de les persones sense llar,",
+  "resumen": "Crear un fondo estatal territorializado para personas sin hogar.",
+  "objeto": "Fondo estatal para personas sin hogar",
+  "tipo": "presupuestaria",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "JUNTS-13",
+  "partido": "JUNTS",
+  "pagina": 99,
+  "cita": "Impulsar un canvi profund de la Llei d’arrendaments urbans (LAU) per superar les mesures del Reial decret llei 7/2019 de mesures urgents en matèria d’habitatge i lloguer,",
+  "resumen": "Reformar a fondo la LAU para superar el Real Decreto-ley 7/2019 e introducir contratos indefinidos voluntarios.",
+  "objeto": "Ley de Arrendamientos Urbanos",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "JUNTS-14",
+  "partido": "JUNTS",
+  "pagina": 99,
+  "cita": "exigir la transferència en les competències de legislació sobre el lloguer d’immobles per aprovar una llei pròpia d’arrendaments urbans a Catalunya,",
+  "resumen": "Transferir a Cataluña la competencia legislativa sobre alquiler para aprobar una ley catalana de arrendamientos urbanos.",
+  "objeto": "Competencia sobre arrendamientos urbanos",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "JUNTS-15",
+  "partido": "JUNTS",
+  "pagina": 99,
+  "cita": "Impulsar la cessió de les casernes de la Guàrdia Civil en desús a la Generalitat, així com altres immobles que són propietat de l’Estat que puguin ser destinats a habitatges de lloguer social.",
+  "resumen": "Ceder a la Generalitat cuarteles de la Guardia Civil en desuso y otros inmuebles estatales para alquiler social.",
+  "objeto": "Cesión de inmuebles estatales para alquiler social",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "136-96",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 8)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion096/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 8: transferir gratis viviendas SAREB/SEPES a CCAA para parque público.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "JUNTS-16",
+  "partido": "JUNTS",
+  "pagina": 99,
+  "cita": "Modificar la Llei que regula els mecanismes de segona oportunitat perquè pugui ser aplicable a totes aquelles persones que es troben en una situació crònica d’endeutament, fonamentalment a causa del sobreendeutament hipotecari",
+  "resumen": "Reformar la ley de segunda oportunidad para incluir a personas sobreendeudadas por hipotecas.",
+  "objeto": "Ley de segunda oportunidad",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "JUNTS-17",
+  "partido": "JUNTS",
+  "pagina": 100,
+  "cita": "Exigim el traspàs anunciat dels habitatges propietat de la SAREB a Catalunya per tal d'incentivar l’emancipació dels joves",
+  "resumen": "Traspasar a Cataluña las viviendas de la SAREB para alquiler asequible juvenil, con financiación para rehabilitarlas.",
+  "objeto": "Viviendas de la SAREB para jóvenes en Cataluña",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "136-96",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 8)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion096/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 8: transferir viviendas SAREB a CCAA; sin foco joven ni financiación de rehabilitación.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "JUNTS-18",
+  "partido": "JUNTS",
+  "pagina": 101,
+  "cita": "Transformar el «Bono Joven» en una veritable renda per a l’emancipació juvenil, que garanteixi l’accés a l’habitatge a tots els joves que tenen dret a acollir-s'hi, incrementant-ne el pressupost",
+  "resumen": "Convertir el Bono Alquiler Joven en una renta de emancipación para todos los beneficiarios y ampliar su presupuesto.",
+  "objeto": "Bono Alquiler Joven",
+  "tipo": "presupuestaria",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "JUNTS-19",
+  "partido": "JUNTS",
+  "pagina": 101,
+  "cita": "Adaptar, des de l’Institut de Crèdit Oficial (ICO), les condicions de finançament hipotecari per a joves de fins a trenta-cinc anys per accedir al seu primer habitatge, impulsant un programa d'avals a l'entrada hipotecària.",
+  "resumen": "Crear a través del ICO avales y condiciones hipotecarias para menores de 35 años en su primera vivienda.",
+  "objeto": "Avales ICO a hipotecas de jóvenes",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "JUNTS-20",
+  "partido": "JUNTS",
+  "pagina": 101,
+  "cita": "Instar a l’Estat espanyol a recuperar la deducció estatal de la quota d'IRPF per a lloguer d'habitatge habitual per als joves menors de trenta anys",
+  "resumen": "Recuperar la deducción estatal del IRPF por alquiler de vivienda habitual para menores de 30 años.",
+  "objeto": "Deducción IRPF por alquiler para jóvenes",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "en_contra_cumple",
+  "votaciones": [
+   {
+    "id": "134-8",
+    "fecha": "2025-09-24",
+    "tipo": "Moción",
+    "titulo": "Cuál es la estrategia que va a adoptar el Gobierno para posibilitar el acceso a la vivienda de los jóvenes…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion134/20250924/Votacion008/VOT_20250924171313.json",
+    "relacion": "cumple",
+    "motivo": "Punto 1.f: deducciones significativas en el IRPF para jóvenes inquilinos.",
+    "voto_partido": "En contra"
+   }
+  ]
+ },
+ {
+  "id": "PNV-01",
+  "partido": "PNV",
+  "pagina": 46,
+  "cita": "EAJ-PNV se compromete igualmente a seguir impulsando acuerdos como el logrado para la ciudad de Donostia con los terrenos de Loiola, donde se construirán cientos de viviendas.",
+  "resumen": "Promover acuerdos de cesión de suelo estatal como el de los terrenos de Loiola en Donostia para construir viviendas.",
+  "objeto": "acuerdos de cesión de suelo estatal para vivienda",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "136-96",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 8)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion096/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 8: transferencia de viviendas SEPES/SAREB a CCAA y ayuntamientos.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "SUMAR-01",
+  "partido": "SUMAR",
+  "pagina": 76,
+  "cita": "Invertiremos sostenidamente, durante diez años, el 1% del PIB en construcción, compra, movili- zación y rehabilitación de vivienda para generar un verdadero parque de alquiler protegido, social, sostenible y asequible de más dos millones de viviendas protegidas en los siguientes diez años.",
+  "resumen": "Invertir el 1% del PIB anual durante diez años para crear un parque de más de dos millones de viviendas protegidas de alquiler.",
+  "objeto": "Inversión pública en vivienda protegida de alquiler",
+  "tipo": "presupuestaria",
+  "competencia": "directa",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "136-97",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 9)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion097/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 9: recursos a CCAA para parque protegido, objetivo 9 % en 2027.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "136-89",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 1)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion089/VOT_20251008195401.json",
+    "relacion": "avanza",
+    "motivo": "Punto 1: garantizar recursos para alcanzar la media europea de vivienda protegida.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "SUMAR-02",
+  "partido": "SUMAR",
+  "pagina": 76,
+  "cita": "Adoptaremos medidas en materia fiscal que incluyan condicionar los beneficios fiscales en el impuesto de sociedades para las SOCIMIS, EDAVS, y las sociedades y fondos de inversión inmo- biliarios en función del valor social y la aportación al interés general de los proyectos que realicen.",
+  "resumen": "Condicionar los beneficios fiscales en el impuesto de sociedades de SOCIMI y fondos inmobiliarios al valor social de sus proyectos.",
+  "objeto": "Régimen fiscal de SOCIMI y fondos inmobiliarios",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "136-93",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 5)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion093/VOT_20251008195406.json",
+    "relacion": "avanza",
+    "motivo": "Punto 5: suprime privilegios fiscales de SOCIMI, no los condiciona al valor social.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "SUMAR-03",
+  "partido": "SUMAR",
+  "pagina": 76,
+  "cita": "Redu- ciremos también el IVA para proyectos de vivienda de alquiler social y asequible.",
+  "resumen": "Reducir el IVA aplicable a proyectos de vivienda de alquiler social y asequible.",
+  "objeto": "IVA de proyectos de vivienda de alquiler social",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-04",
+  "partido": "SUMAR",
+  "pagina": 76,
+  "cita": "Estableceremos un gravamen sobre los suelos disponibles para urbanización ociosos.",
+  "resumen": "Crear un impuesto sobre el suelo urbanizable disponible que permanezca sin uso.",
+  "objeto": "Gravamen sobre suelo urbanizable ocioso",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-05",
+  "partido": "SUMAR",
+  "pagina": 76,
+  "cita": "Coordi- naremos los patrimonios públicos de suelo (PPS) de las diferentes administraciones a través de un «banco de suelo» con la capacidad de comprar suelos adicionales a los PPS a través de una línea de crédito del ICO.",
+  "resumen": "Crear un banco de suelo que coordine los patrimonios públicos de suelo y compre suelo con una línea de crédito del ICO.",
+  "objeto": "Banco de suelo con línea ICO",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-06",
+  "partido": "SUMAR",
+  "pagina": 76,
+  "cita": "Declararemos servicios de interés general el conjunto de actividades vinculadas a la provisión de viviendas destinadas a políticas sociales.",
+  "resumen": "Declarar servicio de interés general las actividades de provisión de vivienda destinada a políticas sociales.",
+  "objeto": "Calificación legal de la provisión de vivienda social",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-07",
+  "partido": "SUMAR",
+  "pagina": 76,
+  "cita": "Prohibiremos de forma expresa la venta de patrimonio público de suelo y vivienda de las Admi- nistraciones (específicamente el correspondiente a la Sareb, Adif y Defensa), salvo su transmisión gratuita a entidades públicas",
+  "resumen": "Prohibir la venta de suelo y vivienda públicos (Sareb, Adif, Defensa), salvo cesión gratuita a entidades públicas.",
+  "objeto": "Venta de patrimonio público de suelo y vivienda",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-08",
+  "partido": "SUMAR",
+  "pagina": 76,
+  "cita": "Realizaremos las modificaciones legales oportunas para que las Administraciones públicas dis- pongan de capacidad para ejercer derechos de tanteo y retracto.",
+  "resumen": "Modificar la ley para que las Administraciones puedan ejercer derechos de tanteo y retracto sobre viviendas.",
+  "objeto": "Derechos de tanteo y retracto públicos",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "136-97",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 9)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion097/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 9: financia a CCAA para ejercer tanteo y retracto; no modifica la ley.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "SUMAR-09",
+  "partido": "SUMAR",
+  "pagina": 77,
+  "cita": "Estableceremos limitaciones al alquiler turístico, de habitaciones y de temporada para que no se conviertan en una opción que sortee la aplicación de la Ley de Vivienda.",
+  "resumen": "Limitar el alquiler turístico, de habitaciones y de temporada para que no eluda la Ley de Vivienda.",
+  "objeto": "Regulación de alquiler turístico, de temporada y habitaciones",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "59-1",
+    "fecha": "2024-09-17",
+    "tipo": "Toma en consideración",
+    "titulo": "Regulación de los contratos de alquiler de vivienda por temporada y alquiler de habitaciones",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion059/20240917/Votacion001/VOT_20240917204416.json",
+    "relacion": "avanza",
+    "motivo": "Somete alquiler de temporada y habitaciones a la LAU de vivienda; no limita el turístico.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "86-1",
+    "fecha": "2024-12-17",
+    "tipo": "Toma en consideración",
+    "titulo": "Regulación de los contratos de alquiler temporales y alquiler de habitaciones",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion086/20241217/Votacion001/VOT_20241217205720.json",
+    "relacion": "avanza",
+    "motivo": "Regula alquiler temporal y habitaciones como vivienda habitual; no aborda alquiler turístico.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "135-2",
+    "fecha": "2025-10-07",
+    "tipo": "Toma en consideración",
+    "titulo": "Control y regulación de la publicidad y contratación de los pisos turísticos",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion135/20251007/Votacion002/VOT_20251007214330.json",
+    "relacion": "avanza",
+    "motivo": "Controla publicidad y contratación de pisos turísticos; no trata temporada ni habitaciones.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "SUMAR-10",
+  "partido": "SUMAR",
+  "pagina": 77,
+  "cita": "Aumentaremos la duración mínima de los contratos de arrendamiento de vivienda tendiendo a que sean indefinidos con causas de resolución excepcionales para proteger al propietario.",
+  "resumen": "Ampliar la duración mínima de los contratos de alquiler de vivienda, tendiendo a contratos indefinidos.",
+  "objeto": "Duración mínima de contratos de arrendamiento (LAU)",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_cumple",
+  "votaciones": [
+   {
+    "id": "93-8",
+    "fecha": "2025-02-19",
+    "tipo": "Moción",
+    "titulo": "Política del Gobierno para garantizar el derecho a la vivienda (punto 4)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion093/20250219/Votacion008/VOT_20250219135542.json",
+    "relacion": "cumple",
+    "motivo": "Punto 4: contratos de arrendamiento de vivienda indefinidos.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "175-3",
+    "fecha": "2026-04-28",
+    "tipo": "Convalidación RDL",
+    "titulo": "RDL 8/2026 de medidas en el alquiler en respuesta a las consecuencias económicas y sociales de la Guerra de…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/Votacion003/VOT_20260428200330.json",
+    "relacion": "avanza",
+    "motivo": "Prórroga extraordinaria de hasta dos años de contratos vigentes.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "203-2",
+    "fecha": "2026-10-02",
+    "tipo": "Convalidación RDL",
+    "titulo": "RDL 27/2026 por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de…",
+    "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-210.PDF",
+    "relacion": "avanza",
+    "motivo": "Prórroga sucesiva de contratos con indemnización al no renovar; no indefinidos.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "SUMAR-11",
+  "partido": "SUMAR",
+  "pagina": 77,
+  "cita": "Crearemos juzgados especializados en la materia para resolver los conflictos que genere el de- recho a la vivienda.",
+  "resumen": "Crear juzgados especializados en conflictos sobre el derecho a la vivienda.",
+  "objeto": "Juzgados especializados en vivienda",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-12",
+  "partido": "SUMAR",
+  "pagina": 77,
+  "cita": "Crearemos un registro obligatorio de fianzas del alquiler y aumentaremos las capacidades de inspección.",
+  "resumen": "Crear un registro obligatorio de fianzas de alquiler y ampliar la inspección.",
+  "objeto": "Registro estatal de fianzas de alquiler",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-13",
+  "partido": "SUMAR",
+  "pagina": 77,
+  "cita": "Impulsaremos un registro de viviendas vacías en coordinación con las comunidades autónomas y los ayuntamientos.",
+  "resumen": "Crear un registro de viviendas vacías coordinado con comunidades autónomas y ayuntamientos.",
+  "objeto": "Registro de viviendas vacías",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-14",
+  "partido": "SUMAR",
+  "pagina": 77,
+  "cita": "Modificaremos la Ley 12/2023 de Vivienda para incluir: el alquiler social obligatorio para grandes tenedores, la dación en pago, obligaciones de resultado para las Administraciones públicas en ma- teria de vivienda alternativa frente a los desahucios",
+  "resumen": "Reformar la Ley 12/2023 de Vivienda para incluir alquiler social obligatorio de grandes tenedores, dación en pago y vivienda alternativa ante desahucios.",
+  "objeto": "Ley 12/2023 por el derecho a la vivienda",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-15",
+  "partido": "SUMAR",
+  "pagina": 77,
+  "cita": "Habilitaremos al Estado Central o a las Administracione locales a instar a la comunidad autóno- ma que no lo haya hecho a declarar zona de mercado tensionado",
+  "resumen": "Permitir que el Estado o los ayuntamientos insten a la comunidad autónoma a declarar zonas de mercado tensionado.",
+  "objeto": "Procedimiento de declaración de zona tensionada",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-16",
+  "partido": "SUMAR",
+  "pagina": 77,
+  "cita": "reformaremos el sistema de incentivos fiscales de la Ley de Vivienda, beneficiando fiscalmente solo a los propietarios que alquilen sus viviendas al precio igual o por debajo del índice de referencia",
+  "resumen": "Limitar los incentivos fiscales de la Ley de Vivienda a propietarios que alquilen a precio igual o inferior al índice de referencia.",
+  "objeto": "Incentivos fiscales al alquiler (IRPF)",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-17",
+  "partido": "SUMAR",
+  "pagina": 77,
+  "cita": "Convertiremos la Sareb en una herramienta pública que tenga como objetivo garantizar el derecho a la vivienda. Para ello sus competencias deberían depender del ministerio que tenga las competencias a nivel estatal en materia de vivienda",
+  "resumen": "Adscribir la Sareb al ministerio con competencias en vivienda y orientarla a alquiler social.",
+  "objeto": "Adscripción y funciones de la Sareb",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-18",
+  "partido": "SUMAR",
+  "pagina": 77,
+  "cita": "Crearemos un bono de emergencia para los hogares hipotecados a tipo variable para la com- pra de su vivienda habitual que sufren la fuerte alza de los tipos de interés decidida por el BCE. La cuantía del bono será de 1.000€ por hogar",
+  "resumen": "Crear un bono de 1.000 euros por hogar con hipoteca variable de vivienda habitual, financiado con el impuesto a la banca.",
+  "objeto": "Bono de emergencia para hipotecados",
+  "tipo": "presupuestaria",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-19",
+  "partido": "SUMAR",
+  "pagina": 78,
+  "cita": "de promover la portabilidad de hipotecas —por novación o subrogación—, obligando a que las entidades de crédito publiquen en la CNMC sus ofertas de crédito hipotecario y los perfiles asociados",
+  "resumen": "Establecer la portabilidad obligatoria de hipotecas variables a fijas y obligar a los bancos a publicar sus ofertas en la CNMC.",
+  "objeto": "Portabilidad obligatoria de hipotecas",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-20",
+  "partido": "SUMAR",
+  "pagina": 78,
+  "cita": "estableciendo un pago mensual a cuenta en el IRPF del 0,1% de los ingresos percibidos por alquileres, para conocer con precisión casi censal y en tiempo real cómo evoluciona el precio de los alquileres en España.",
+  "resumen": "Crear un pago mensual a cuenta del IRPF del 0,1% de los ingresos por alquiler para medir precios.",
+  "objeto": "Pago a cuenta IRPF sobre rentas del alquiler",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-21",
+  "partido": "SUMAR",
+  "pagina": 78,
+  "cita": "estableciendo un recargo en el impuesto de sociedades para los fondos y empresas que alquilen viviendas por encima de los precios de referen- cia.",
+  "resumen": "Aplicar un recargo en el impuesto de sociedades a empresas que alquilen viviendas por encima del precio de referencia.",
+  "objeto": "Recargo en impuesto de sociedades por alquiler caro",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-22",
+  "partido": "SUMAR",
+  "pagina": 78,
+  "cita": "haremos obligatoria la declaración de zona de mercado tensionado en las áreas geográficas en las que se cumplan objetivamente los requisitos que la Ley de Vivienda establece",
+  "resumen": "Hacer obligatoria la declaración de zona tensionada donde se cumplan los requisitos de la Ley de Vivienda.",
+  "objeto": "Declaración obligatoria de zonas tensionadas",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-23",
+  "partido": "SUMAR",
+  "pagina": 78,
+  "cita": "Incrementaremos las ayudas al alquiler a nivel nacional mejorando la gestión del bono de alquiler joven para garantizar el pago mensual a las personas beneficiarias",
+  "resumen": "Aumentar las ayudas estatales al alquiler y garantizar el pago mensual del bono alquiler joven.",
+  "objeto": "Ayudas al alquiler y bono alquiler joven",
+  "tipo": "presupuestaria",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-24",
+  "partido": "SUMAR",
+  "pagina": 78,
+  "cita": "estableceremos la posibilidad de que los consumidores puedan acogerse a medidas de reestructuración y quitas de la deuda hipotecaria.",
+  "resumen": "Permitir que los deudores hipotecarios accedan a reestructuración y quitas de su deuda.",
+  "objeto": "Reestructuración y quitas de deuda hipotecaria",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-25",
+  "partido": "SUMAR",
+  "pagina": 78,
+  "cita": "Implementaremos la estrategia nacional para la erradicación del sinhogarismo, basado en el modelo «Housing First», garantizando el derecho subjetivo a la vivienda.",
+  "resumen": "Aplicar la estrategia nacional contra el sinhogarismo según el modelo Housing First.",
+  "objeto": "Estrategia nacional contra el sinhogarismo",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-26",
+  "partido": "SUMAR",
+  "pagina": 78,
+  "cita": "Crearemos un programa de protección para arrendatarios vulnerables que permitirá facilitar el acceso a alquileres sociales en el mercado libre, así como a la red pública de alojamientos y pisos tutelados",
+  "resumen": "Crear un programa de protección para inquilinos vulnerables con acceso a alquiler social y alojamientos públicos.",
+  "objeto": "Programa para arrendatarios vulnerables",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "46-24",
+    "fecha": "2024-06-13",
+    "tipo": "Convalidación RDL",
+    "titulo": "RDL 1/2024 por el que se prorrogan las medidas de suspensión de lanzamientos sobre la vivienda habitual para…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion046/20240613/Votacion024/VOT_20240613125236.json",
+    "relacion": "avanza",
+    "motivo": "Prorroga la suspensión de lanzamientos para vulnerables; no crea programa de alquiler social.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "SUMAR-27",
+  "partido": "SUMAR",
+  "pagina": 78,
+  "cita": "Desarrollaremos una carta de derechos de los inquilinos, dotaremos jurídicamente a las asociaciones y sindicatos de personas inquilinas de capacidad de representación en las negociaciones colectivas con los propietarios",
+  "resumen": "Aprobar una carta de derechos de los inquilinos y reconocer capacidad de representación a sus asociaciones y sindicatos.",
+  "objeto": "Carta de derechos de inquilinos",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-28",
+  "partido": "SUMAR",
+  "pagina": 79,
+  "cita": "Crearemos un banco público para que contrarreste el oligopolio bancario y se pueda rebajar el coste de las hipotecas. Crearlo a partir del ICO y de la red de oficinas de Correos.",
+  "resumen": "Crear un banco público a partir del ICO y de Correos para abaratar las hipotecas.",
+  "objeto": "Banca pública (ICO y Correos)",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-29",
+  "partido": "SUMAR",
+  "pagina": 79,
+  "cita": "Estableceremos un marco normativo que favorezca la figura de las Asociaciones de Vivienda, que tiene éxito en Europa, como un modelo de gestión y provisión de vivienda asequible por organizaciones sin ánimo de lucro",
+  "resumen": "Regular las Asociaciones de Vivienda sin ánimo de lucro como proveedoras de vivienda asequible.",
+  "objeto": "Marco legal de Asociaciones de Vivienda",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-30",
+  "partido": "SUMAR",
+  "pagina": 79,
+  "cita": "Reconoceremos el derecho subjetivo a la vivienda de forma progresiva incluyendo a diferentes colectivos, empezando por las personas en situación de sinhogarismo.",
+  "resumen": "Reconocer legalmente el derecho subjetivo a la vivienda, empezando por personas sin hogar.",
+  "objeto": "Derecho subjetivo a la vivienda",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-31",
+  "partido": "SUMAR",
+  "pagina": 79,
+  "cita": "Desarrollaremos una normativa específica para que en suelo urbano consolidado se garantice una reserva del 30% para vivienda protegida.",
+  "resumen": "Aprobar una norma que reserve el 30% del suelo urbano consolidado a vivienda protegida.",
+  "objeto": "Reserva de suelo para vivienda protegida",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-32",
+  "partido": "SUMAR",
+  "pagina": 73,
+  "cita": "Modificaremos la Ley del Suelo en coordinación con las comunidades autónomas y entidades lo- cales para apostar por el desarrollo de ciudades más compactas",
+  "resumen": "Reformar la Ley del Suelo para favorecer ciudades compactas con nuevos estándares de dotaciones.",
+  "objeto": "Ley del Suelo",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-33",
+  "partido": "SUMAR",
+  "pagina": 73,
+  "cita": "Proponemos la creación de un banco de recursos de suelo e inmuebles públicos en desuso y el fomento de los comunes urbanos. Se implementarán estrategias para la dotación de suelo público destinado al desarrollo de vivienda social pública",
+  "resumen": "Crear un banco de suelo e inmuebles públicos en desuso destinados, entre otros usos, a vivienda social.",
+  "objeto": "Banco de suelo e inmuebles públicos en desuso",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "136-96",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 8)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion096/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 8: transferir viviendas SAREB y SEPES a administraciones para parque público.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "SUMAR-34",
+  "partido": "SUMAR",
+  "pagina": 72,
+  "cita": "Impulsaremos la creación de un programa estatal de rehabilitación y mejora de los barrios donde se concentra la población más vulnerable de nuestras áreas urbanas.",
+  "resumen": "Crear un programa estatal con ayudas anuales para rehabilitar barrios vulnerables, incluida la rehabilitación de viviendas.",
+  "objeto": "Programa estatal de barrios vulnerables",
+  "tipo": "presupuestaria",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-35",
+  "partido": "SUMAR",
+  "pagina": 47,
+  "cita": "La rehabilitación de 500.000 viviendas 100% eléctricas al año, un 3% del parque inmobiliario de primera vivienda, con el compromiso público de ejecutar la rehabilitación de 250.000 viviendas adicionales al año que pertenezcan a familias vulnerables",
+  "resumen": "Rehabilitar 500.000 viviendas al año y otras 250.000 de familias vulnerables con ejecución pública.",
+  "objeto": "Ritmo anual de rehabilitación de viviendas",
+  "tipo": "resultado",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-36",
+  "partido": "SUMAR",
+  "pagina": 58,
+  "cita": "Iniciativa pública de construcción de vivienda nueva y de compra y reforma de vivienda en desuso para alquiler.",
+  "resumen": "Construir vivienda pública y comprar y reformar vivienda vacía para alquiler en zonas rurales.",
+  "objeto": "Vivienda pública de alquiler en medio rural",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "SUMAR-37",
+  "partido": "SUMAR",
+  "pagina": 103,
+  "cita": "pondremos en marcha un plan de ayuda a la emancipación juvenil con un paquete de medidas urgentes para facilitar el acceso a la vivienda de las personas jóvenes en todas las comunidades autónomas.",
+  "resumen": "Aprobar un plan de ayuda a la emancipación juvenil para facilitar el acceso de los jóvenes a la vivienda.",
+  "objeto": "Plan de emancipación juvenil",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "en_contra_avanza",
+  "votaciones": [
+   {
+    "id": "134-8",
+    "fecha": "2025-09-24",
+    "tipo": "Moción",
+    "titulo": "Cuál es la estrategia que va a adoptar el Gobierno para posibilitar el acceso a la vivienda de los jóvenes…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion134/20250924/Votacion008/VOT_20250924171313.json",
+    "relacion": "avanza",
+    "motivo": "Medidas para el acceso de jóvenes: avales, deducciones IRPF a jóvenes inquilinos; no es un plan integral.",
+    "voto_partido": "En contra"
+   }
+  ]
+ },
+ {
+  "id": "BILDU-01",
+  "partido": "BILDU",
+  "pagina": 4,
+  "cita": "Recuperar, de manera indefinida, la prórroga automática de los contratos de alquiler en caso de renovación, manteniendo condiciones y cuantías de renta.",
+  "resumen": "Restablecer de forma indefinida la prórroga automática de los contratos de alquiler con las mismas condiciones y renta.",
+  "objeto": "Prórroga extraordinaria de contratos de alquiler",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "175-3",
+    "fecha": "2026-04-28",
+    "tipo": "Convalidación RDL",
+    "titulo": "RDL 8/2026 de medidas en el alquiler en respuesta a las consecuencias económicas y sociales de la Guerra de…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/Votacion003/VOT_20260428200330.json",
+    "relacion": "avanza",
+    "motivo": "Prórroga extraordinaria de hasta dos años manteniendo condiciones; no indefinida.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "203-2",
+    "fecha": "2026-10-02",
+    "tipo": "Convalidación RDL",
+    "titulo": "RDL 27/2026 por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de…",
+    "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-210.PDF",
+    "relacion": "avanza",
+    "motivo": "Prórroga por plazos sucesivos salvo preaviso con indemnización; no automática indefinida.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "BILDU-02",
+  "partido": "BILDU",
+  "pagina": 4,
+  "cita": "Establecer temporalmente, hasta la reversión del alza de los tipos de interés, la congelación retroactiva de las cuotas hipotecarias para hipotecas inferiores a 250.000€ limitando el aumento a un máximo del 15% sobre las cuotas previas",
+  "resumen": "Congelar temporalmente las cuotas hipotecarias de préstamos inferiores a 250.000 euros, limitando la subida al 15%.",
+  "objeto": "Cuotas hipotecarias de préstamos variables",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "BILDU-03",
+  "partido": "BILDU",
+  "pagina": 4,
+  "cita": "Establecer la obligatoriedad de cumplir el Código de Buenas Prácticas de la Banca para hacer frente a los pagos hipotecarios",
+  "resumen": "Hacer obligatorio para la banca el Código de Buenas Prácticas hipotecarias y ampliar su alcance.",
+  "objeto": "Código de Buenas Prácticas bancario",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-01",
+  "partido": "PSOE",
+  "pagina": 32,
+  "cita": "Ampliaremos hasta la renta media (37.800€) el umbral para acceder a las medidas de apoyo a los afectados por la subida de tipos de interés de las hipotecas: ampliación de crédito hasta 7 años y congelación de cuota de 1 año.",
+  "resumen": "Elevar a 37.800 euros de renta el umbral para acogerse a las medidas de ampliación de plazo y congelación de cuota hipotecaria.",
+  "objeto": "umbral de renta del Código de Buenas Prácticas hipotecario",
+  "tipo": "ejecutiva",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-02",
+  "partido": "PSOE",
+  "pagina": 32,
+  "cita": "Adoptaremos, fruto del diálogo con las entidades financieras del país, mejoras aplicables a todos los préstamos hipotecarios, dirigidas a facilitar la amortización anticipada de los créditos, la conversión de las hipotecas a tipo fijo, la restructuración de los préstamos hipotecarios o la solicitud de la dación en pago.",
+  "resumen": "Acordar con la banca mejoras para todos los préstamos hipotecarios: amortización anticipada, paso a tipo fijo, reestructuración y dación en pago.",
+  "objeto": "condiciones de los préstamos hipotecarios",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-03",
+  "partido": "PSOE",
+  "pagina": 95,
+  "cita": "Aprobaremos un plan estratégico para el impulso de la vivienda rural en zonas de reto demográfico.",
+  "resumen": "Aprobar un plan estratégico de vivienda rural en zonas de reto demográfico.",
+  "objeto": "plan estratégico de vivienda rural",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-04",
+  "partido": "PSOE",
+  "pagina": 95,
+  "cita": "Desarrollaremos parques públicos de vivienda asequible y que fomenten el alquiler social.",
+  "resumen": "Desarrollar parques públicos de vivienda asequible orientados al alquiler social en el medio rural.",
+  "objeto": "parques públicos de vivienda asequible rural",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-05",
+  "partido": "PSOE",
+  "pagina": 131,
+  "cita": "Daremos continuidad al Bono Joven de Alquiler para que se convierta en una medida a largo plazo ampliando la financiación para llegar a toda la población joven.",
+  "resumen": "Mantener el Bono Alquiler Joven como medida permanente y ampliar su financiación para cubrir a toda la población joven.",
+  "objeto": "Bono Alquiler Joven y su financiación",
+  "tipo": "presupuestaria",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-06",
+  "partido": "PSOE",
+  "pagina": 131,
+  "cita": "Queremos construir 183.000 viviendas públicas para alquiler y garantizando que la mitad vaya destinada a jóvenes, ampliando la dotación y el número de receptores del Bono de Alquiler Joven.",
+  "resumen": "Construir 183.000 viviendas públicas de alquiler, la mitad para jóvenes.",
+  "objeto": "183.000 viviendas públicas de alquiler",
+  "tipo": "resultado",
+  "competencia": "directa",
+  "resultado": "abstencion",
+  "votaciones": [
+   {
+    "id": "136-97",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 9)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion097/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 9: recursos para construir vivienda protegida y ampliar parque público.",
+    "voto_partido": "Abstención"
+   },
+   {
+    "id": "136-89",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 1)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion089/VOT_20251008195401.json",
+    "relacion": "avanza",
+    "motivo": "Punto 1: recursos para alcanzar la media europea de vivienda protegida.",
+    "voto_partido": "Abstención"
+   }
+  ]
+ },
+ {
+  "id": "PSOE-07",
+  "partido": "PSOE",
+  "pagina": 226,
+  "cita": "Desarrollaremos y aplicaremos la nueva línea de avales del Instituto de Crédito Oficial (ICO) de 2.500 millones de euros para ayudar a los jóvenes menores de 35 años.",
+  "resumen": "Aplicar una línea de avales ICO de 2.500 millones que cubra el 20% de la hipoteca de la primera vivienda de menores de 35 años.",
+  "objeto": "línea de avales ICO para hipotecas jóvenes",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-08",
+  "partido": "PSOE",
+  "pagina": 226,
+  "cita": "El 30% de las viviendas promovidas a través de cualquiera de las líneas del Plan de Vivienda para el Alquiler Asequible serán destinadas a jóvenes de entre 18 y 35 años.",
+  "resumen": "Reservar el 30% de las viviendas del Plan de Vivienda para el Alquiler Asequible a jóvenes de 18 a 35 años.",
+  "objeto": "cuota juvenil del Plan de Alquiler Asequible",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-09",
+  "partido": "PSOE",
+  "pagina": 226,
+  "cita": "Daremos ayudas directas para el acceso a la vivienda habitual en régimen cooperativo o en promociones de cohousing.",
+  "resumen": "Conceder ayudas directas para acceder a vivienda habitual en cooperativas o promociones de cohousing.",
+  "objeto": "ayudas a vivienda cooperativa y cohousing",
+  "tipo": "presupuestaria",
+  "competencia": "indirecta",
+  "resultado": "en_contra_avanza",
+  "votaciones": [
+   {
+    "id": "118-12",
+    "fecha": "2025-06-12",
+    "tipo": "Moción",
+    "titulo": "Medidas que el Gobierno tiene previsto adoptar para hacer frente a la emergencia social derivada de la…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion118/20250612/Votacion012/VOT_20250612132253.json",
+    "relacion": "avanza",
+    "motivo": "Punto 7: marco fiscal favorable e incentivos a cooperativas en cesión de uso.",
+    "voto_partido": "En contra"
+   }
+  ]
+ },
+ {
+  "id": "PSOE-10",
+  "partido": "PSOE",
+  "pagina": 226,
+  "cita": "Crearemos, en coordinación con los bancos, una cuenta de ahorro bonificada para la compra de una primera vivienda. Podrán abrirla jóvenes de hasta 39 años, y tanto los rendimientos que genere como las aportaciones anuales estarán exentas de tributación en el IRPF, con un límite anual 2.000 euros y un total de 30.000 euros.",
+  "resumen": "Crear una cuenta ahorro vivienda para menores de 39 años con exención en IRPF de aportaciones y rendimientos, hasta 2.000 euros anuales y 30.000 totales.",
+  "objeto": "cuenta ahorro vivienda con exención en IRPF",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-11",
+  "partido": "PSOE",
+  "pagina": 226,
+  "cita": "Desarrollaremos un plan de vivienda asequible dimensionada a la demanda no satisfecha de jóvenes y vulnerables, mediante la adquisición de suelo para construcción de viviendas de alquiler social",
+  "resumen": "Aprobar un plan de vivienda asequible basado en la adquisición pública de suelo para viviendas de alquiler social.",
+  "objeto": "plan de vivienda asequible y adquisición de suelo",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "abstencion",
+  "votaciones": [
+   {
+    "id": "136-97",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 9)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion097/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 9: recursos para ampliar parque público vía tanteo, retracto y construcción.",
+    "voto_partido": "Abstención"
+   }
+  ]
+ },
+ {
+  "id": "PSOE-12",
+  "partido": "PSOE",
+  "pagina": 226,
+  "cita": "Reforzaremos las ayudas directas para el alquiler de vivienda habitual contempladas en los Planes Estatales de Vivienda.",
+  "resumen": "Aumentar las ayudas directas al alquiler de vivienda habitual de los Planes Estatales de Vivienda.",
+  "objeto": "ayudas al alquiler del Plan Estatal de Vivienda",
+  "tipo": "presupuestaria",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-13",
+  "partido": "PSOE",
+  "pagina": 222,
+  "cita": "El objetivo será alcanzar el 20% de vivienda pública en régimen de alquiler en los próximos años, situándonos en la media de viviendas que disponen países de la Unión Europea como Francia, Países Bajos o Alemania.",
+  "resumen": "Alcanzar un 20% de vivienda pública en alquiler en los próximos años.",
+  "objeto": "porcentaje de vivienda pública de alquiler",
+  "tipo": "resultado",
+  "competencia": "directa",
+  "resultado": "abstencion",
+  "votaciones": [
+   {
+    "id": "136-97",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 9)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion097/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 9: objetivo de 5 % de parque protegido en 2026 y 9 % en 2027.",
+    "voto_partido": "Abstención"
+   },
+   {
+    "id": "136-96",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 8)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion096/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 8: ampliar parque público con viviendas SAREB y SEPES.",
+    "voto_partido": "Abstención"
+   },
+   {
+    "id": "136-89",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 1)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion089/VOT_20251008195401.json",
+    "relacion": "avanza",
+    "motivo": "Punto 1: recursos para alcanzar la media europea de vivienda protegida.",
+    "voto_partido": "Abstención"
+   }
+  ]
+ },
+ {
+  "id": "PSOE-14",
+  "partido": "PSOE",
+  "pagina": 222,
+  "cita": "50.000 viviendas promovidas directamente por el Estado a través de la Entidad Pública Estatal de Suelo (Sepes), de las que 30.000 pertenecen a actuaciones en diferentes desarrollos, y 20.000 corresponden a suelos provenientes de 50 antiguas instalaciones militares.",
+  "resumen": "Promover 50.000 viviendas de alquiler asequible a través de Sepes, 20.000 en suelos de antiguas instalaciones militares.",
+  "objeto": "viviendas promovidas por Sepes",
+  "tipo": "resultado",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-15",
+  "partido": "PSOE",
+  "pagina": 222,
+  "cita": "63.000 viviendas con recursos de los fondos europeos adscritos al Plan de Recuperación, Transformación y Resiliencia",
+  "resumen": "Financiar 63.000 viviendas de alquiler asequible con fondos europeos del Plan de Recuperación.",
+  "objeto": "viviendas financiadas con fondos Next Generation",
+  "tipo": "presupuestaria",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-16",
+  "partido": "PSOE",
+  "pagina": 223,
+  "cita": "50.000 viviendas procedentes de la Sareb: o 15.000 que posibilitarán la conformación de alquileres sociales. o 15.000 que se construirán en suelo de la entidad.",
+  "resumen": "Destinar 50.000 viviendas de la Sareb a alquiler social, construcción en su suelo y cesión a comunidades autónomas y entes locales.",
+  "objeto": "viviendas de la Sareb para alquiler social",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "abstencion",
+  "votaciones": [
+   {
+    "id": "134-2",
+    "fecha": "2025-09-24",
+    "tipo": "Proposición no de ley",
+    "titulo": "Transferencia de activos inmobiliarios de la SAREB a Galicia para su gestión",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion134/20250924/Votacion002/VOT_20250924171304.json",
+    "relacion": "avanza",
+    "motivo": "Transferencia de activos de la Sareb a Galicia para su gestión; cesión parcial a una comunidad.",
+    "voto_partido": "Abstención"
+   },
+   {
+    "id": "136-96",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 8)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion096/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 8: transferir viviendas de Sareb a CCAA y ayuntamientos; no concreta alquiler social ni construcción.",
+    "voto_partido": "Abstención"
+   }
+  ]
+ },
+ {
+  "id": "PSOE-17",
+  "partido": "PSOE",
+  "pagina": 223,
+  "cita": "Aseguraremos que las reservas obligatorias de suelo para vivienda de protección oficial en los nuevos desarrollos urbanísticos destinen, por lo menos, el 50% a la construcción de viviendas en régimen de alquiler social y alquiler asequible.",
+  "resumen": "Destinar al menos el 50% de la reserva obligatoria de suelo para VPO a vivienda en alquiler social o asequible.",
+  "objeto": "reservas de suelo para VPO en alquiler",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-18",
+  "partido": "PSOE",
+  "pagina": 223,
+  "cita": "Impediremos cualquier posibilidad de incorporarse al mercado libre mediante procesos de descalificación y/o privatización de vivienda para un uso social, garantizando que no pueda venderse a ningún fondo de inversión.",
+  "resumen": "Prohibir la descalificación y la venta a fondos de inversión de la vivienda protegida o de uso social.",
+  "objeto": "descalificación y venta de vivienda social",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-19",
+  "partido": "PSOE",
+  "pagina": 222,
+  "cita": "Regularemos y diversificaremos los contratos de arrendamientos para recoger las peculiaridades de cada situación, de manera que se atienda al arrendador/a y al arrendatario/a y a la situación concreta que se pretende regular, sobre todo en el caso de arrendamientos temporales para uso como primera vivienda.",
+  "resumen": "Regular distintos tipos de contrato de arrendamiento, en particular los temporales usados como primera vivienda.",
+  "objeto": "regulación de contratos de arrendamiento temporales",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "distinto_sentido",
+  "votaciones": [
+   {
+    "id": "59-1",
+    "fecha": "2024-09-17",
+    "tipo": "Toma en consideración",
+    "titulo": "Regulación de los contratos de alquiler de vivienda por temporada y alquiler de habitaciones",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion059/20240917/Votacion001/VOT_20240917204416.json",
+    "relacion": "cumple",
+    "motivo": "Regula alquiler de temporada en la LAU y exige justificar la temporalidad.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "86-1",
+    "fecha": "2024-12-17",
+    "tipo": "Toma en consideración",
+    "titulo": "Regulación de los contratos de alquiler temporales y alquiler de habitaciones",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion086/20241217/Votacion001/VOT_20241217205720.json",
+    "relacion": "cumple",
+    "motivo": "Regula alquileres temporales y de habitaciones, con presunción de vivienda habitual.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "93-9",
+    "fecha": "2025-02-19",
+    "tipo": "Moción",
+    "titulo": "Política del Gobierno para garantizar el derecho a la vivienda (punto 5)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion093/20250219/Votacion009/VOT_20250219135543.json",
+    "relacion": "cumple",
+    "motivo": "Punto 5: incorporar alquiler de temporada y habitaciones a la regulación de la LAU.",
+    "voto_partido": "En contra"
+   }
+  ]
+ },
+ {
+  "id": "PSOE-20",
+  "partido": "PSOE",
+  "pagina": 221,
+  "cita": "Desarrollaremos las medidas contempladas para la contención de los precios de la vivienda.",
+  "resumen": "Aplicar las medidas de contención de precios previstas en la Ley de Vivienda.",
+  "objeto": "medidas de contención de precios de la Ley de Vivienda",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "175-3",
+    "fecha": "2026-04-28",
+    "tipo": "Convalidación RDL",
+    "titulo": "RDL 8/2026 de medidas en el alquiler en respuesta a las consecuencias económicas y sociales de la Guerra de…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/Votacion003/VOT_20260428200330.json",
+    "relacion": "avanza",
+    "motivo": "Prórroga extraordinaria y límite del 2% a la actualización de rentas; contención temporal.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "136-94",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 6)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion094/VOT_20251008195407.json",
+    "relacion": "avanza",
+    "motivo": "Punto 6: extender topes de precios de zonas tensionadas a alquileres temporales y habitaciones.",
+    "voto_partido": "Abstención"
+   }
+  ]
+ },
+ {
+  "id": "PSOE-21",
+  "partido": "PSOE",
+  "pagina": 223,
+  "cita": "Estableceremos mecanismos ágiles y modelos de acuerdo entre entidades bancarias y administraciones (estatal, autonómicas y locales) para movilizar las viviendas vacías y destinarlas a uso social.",
+  "resumen": "Crear mecanismos de acuerdo entre bancos y administraciones para movilizar viviendas vacías hacia uso social.",
+  "objeto": "acuerdos banca-administraciones sobre viviendas vacías",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-22",
+  "partido": "PSOE",
+  "pagina": 223,
+  "cita": "Estableceremos programas de incentivos rehabilitación, entre otras finalidades, para que los propietarios puedan poner viviendas en el mercado de alquiler asequible",
+  "resumen": "Crear programas de incentivos a la rehabilitación para que los propietarios incorporen viviendas al alquiler asequible.",
+  "objeto": "incentivos a rehabilitación para alquiler asequible",
+  "tipo": "presupuestaria",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-23",
+  "partido": "PSOE",
+  "pagina": 224,
+  "cita": "Reforzaremos las medidas adoptadas en materia social, en la articulación de soluciones habitacionales y las procedimentales previstas en la Ley de Enjuiciamiento Civil y en la Ley de Arrendamientos Urbanos.",
+  "resumen": "Reforzar las medidas sociales y procesales sobre desahucios y alternativa habitacional en la LEC y la LAU.",
+  "objeto": "medidas de protección en LEC y LAU",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "46-24",
+    "fecha": "2024-06-13",
+    "tipo": "Convalidación RDL",
+    "titulo": "RDL 1/2024 por el que se prorrogan las medidas de suspensión de lanzamientos sobre la vivienda habitual para…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion046/20240613/Votacion024/VOT_20240613125236.json",
+    "relacion": "avanza",
+    "motivo": "Prorroga la suspensión de lanzamientos de vivienda habitual para colectivos vulnerables.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "203-1",
+    "fecha": "2026-10-02",
+    "tipo": "Convalidación RDL",
+    "titulo": "RDL 26/2026 por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y…",
+    "url": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-210.PDF",
+    "relacion": "avanza",
+    "motivo": "RDL motivado por un desahucio sin alternativa habitacional, para subsanar deficiencias legales.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "PSOE-24",
+  "partido": "PSOE",
+  "pagina": 224,
+  "cita": "Impulsaremos el diseño de un Plan de Acción por las Administraciones Públicas competentes, con dotación económica suficiente, para la erradicación del chabolismo y de los asentamientos segregados, incluyendo la participación de la población gitana en el diseño del mismo.",
+  "resumen": "Diseñar un plan de acción con dotación económica para erradicar el chabolismo y los asentamientos segregados.",
+  "objeto": "plan de erradicación del chabolismo",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-25",
+  "partido": "PSOE",
+  "pagina": 224,
+  "cita": "promoveremos la creación de una red de recursos residenciales a modo de viviendas normalizadas en entornos barriales, utilizando metodologías como housing first o housing led",
+  "resumen": "Crear una red de viviendas normalizadas para personas sin hogar con metodologías housing first o housing led.",
+  "objeto": "red de vivienda para personas sin hogar",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-26",
+  "partido": "PSOE",
+  "pagina": 190,
+  "cita": "Trabajar por erradicar el sinhogarismo de calle en 2030, desarrollando el Acuerdo Marco e impulsando la Estrategia Nacional para la lucha contra el sinhogarismo en España 2023-2030.",
+  "resumen": "Erradicar el sinhogarismo de calle en 2030 mediante la Estrategia Nacional contra el sinhogarismo 2023-2030.",
+  "objeto": "sinhogarismo de calle en 2030",
+  "tipo": "resultado",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-27",
+  "partido": "PSOE",
+  "pagina": 225,
+  "cita": "El objetivo es poder rehabilitar más de 500.000 viviendas en esta legislatura.",
+  "resumen": "Rehabilitar más de 500.000 viviendas durante la legislatura.",
+  "objeto": "número de viviendas rehabilitadas",
+  "tipo": "resultado",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-28",
+  "partido": "PSOE",
+  "pagina": 225,
+  "cita": "Desarrollaremos normativas que permitan cambios de usos de edificios según las necesidades habitacionales, en coordinación con los ayuntamientos, para reconvertir edificios públicos y privados no utilizados.",
+  "resumen": "Aprobar normas que permitan cambiar el uso de edificios sin utilizar para convertirlos en vivienda.",
+  "objeto": "normativa de cambio de uso a vivienda",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-29",
+  "partido": "PSOE",
+  "pagina": 225,
+  "cita": "Desarrollaremos una regulación sobre nuevas modalidades residenciales como el alojamiento temporal, el “cohousing”, los apartamentos dotacionales, las viviendas intergeneracionales y las cooperativas de cesión de uso",
+  "resumen": "Regular nuevas modalidades residenciales: alojamiento temporal, cohousing, apartamentos dotacionales, viviendas intergeneracionales y cooperativas de cesión de uso.",
+  "objeto": "regulación de nuevas modalidades residenciales",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-30",
+  "partido": "PSOE",
+  "pagina": 184,
+  "cita": "Habilitar un programa nacional de ayudas y subvenciones para la mejora de la accesibilidad, habitabilidad y eficiencia energética de las viviendas que priorice a aquellas familias con hijos e hijas a cargo con menos ingresos.",
+  "resumen": "Crear un programa nacional de ayudas para accesibilidad, habitabilidad y eficiencia energética de viviendas, priorizando familias con hijos y bajos ingresos.",
+  "objeto": "programa nacional de ayudas a mejora de viviendas",
+  "tipo": "presupuestaria",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PSOE-31",
+  "partido": "PSOE",
+  "pagina": 251,
+  "cita": "se impulsará la reforma Legislativa normativa para garantizar el desalojo de los ocupas ilegales en un plazo máximo de 48 horas.",
+  "resumen": "Reformar la ley para garantizar el desalojo de ocupantes ilegales en un máximo de 48 horas.",
+  "objeto": "plazo de desalojo por ocupación ilegal",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "distinto_sentido",
+  "votaciones": [
+   {
+    "id": "99-1",
+    "fecha": "2025-03-18",
+    "tipo": "Toma en consideración",
+    "titulo": "Medidas urgentes para hacer frente a la ocupación ilegal de inmuebles (Orgánica)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion099/20250318/Votacion001/VOT_20250318201321.json",
+    "relacion": "cumple",
+    "motivo": "Medida cautelar de desalojo con recuperación posesoria en un plazo máximo de 48 horas.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "36-37",
+    "fecha": "2024-04-23",
+    "tipo": "Moción",
+    "titulo": "Inseguridad ciudadana y a la ocupación ilegal que afectan especialmente a Cataluña (punto 6)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion036/20240423/Votacion037/VOT_20240423213547.json",
+    "relacion": "cumple",
+    "motivo": "Punto 6: desalojo en un plazo máximo de 24 horas si no se acredita título.",
+    "voto_partido": "En contra"
+   }
+  ]
+ },
+ {
+  "id": "UPN-01",
+  "partido": "UPN",
+  "pagina": 6,
+  "cita": "Establecimiento de normativa que garantice el reconocimiento efectivo a la propiedad privada de las viviendas y la lucha contra la ocupación ilegal.",
+  "resumen": "Aprobar normativa que proteja la propiedad privada de la vivienda frente a la ocupación ilegal.",
+  "objeto": "normativa contra la ocupación ilegal",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_cumple",
+  "votaciones": [
+   {
+    "id": "99-1",
+    "fecha": "2025-03-18",
+    "tipo": "Toma en consideración",
+    "titulo": "Medidas urgentes para hacer frente a la ocupación ilegal de inmuebles (Orgánica)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion099/20250318/Votacion001/VOT_20250318201321.json",
+    "relacion": "cumple",
+    "motivo": "Medidas urgentes contra la ocupación ilegal con desalojo cautelar en 48 horas.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "179-1",
+    "fecha": "2026-05-19",
+    "tipo": "Toma en consideración",
+    "titulo": "Ley orgánica contra la ocupación ilegal de inmuebles y para la convivencia vecinal y la protección de la…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion179/20260519/Votacion001/VOT_20260519203502.json",
+    "relacion": "cumple",
+    "motivo": "Ley orgánica contra la ocupación ilegal de inmuebles.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "UPN-02",
+  "partido": "UPN",
+  "pagina": 6,
+  "cita": "Derogación de la Ley de Vivienda y respeto a las competencias que en la materia tiene la Co- munidad Foral de Navarra.",
+  "resumen": "Derogar la Ley estatal de Vivienda.",
+  "objeto": "Ley 12/2023 por el derecho a la vivienda",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "en_contra_contradice",
+  "votaciones": [
+   {
+    "id": "197-2",
+    "fecha": "2026-09-15",
+    "tipo": "Toma en consideración",
+    "titulo": "Reforma de la Ley por el Derecho a la Vivienda: veto a fondos y capital extranjero",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion197/20260915/Votacion002/VOT_20260915204523.json",
+    "relacion": "contradice",
+    "motivo": "Modifica y amplía la Ley 12/2023 (veto a fondos), en lugar de derogarla.",
+    "voto_partido": "En contra"
+   }
+  ]
+ },
+ {
+  "id": "VOX-01",
+  "partido": "VOX",
+  "pagina": 40,
+  "cita": "Reformaremos tanto del Código Penal como de las Leyes de Enjuiciamien- to Criminal y Civil para proteger real y efectivamente a los propietarios que sufren la acción de las mafias de ocupa- ción o la entrada ilegal de un okupa en su vivienda.",
+  "resumen": "Reformar el Código Penal y las leyes de Enjuiciamiento Criminal y Civil contra la ocupación ilegal de viviendas.",
+  "objeto": "Código Penal, LECrim y LEC sobre okupación",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_cumple",
+  "votaciones": [
+   {
+    "id": "36-37",
+    "fecha": "2024-04-23",
+    "tipo": "Moción",
+    "titulo": "Inseguridad ciudadana y a la ocupación ilegal que afectan especialmente a Cataluña (punto 6)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion036/20240423/Votacion037/VOT_20240423213547.json",
+    "relacion": "cumple",
+    "motivo": "Punto 6: penas por usurpación, desalojo en 24 horas y reformas procesales contra la ocupación.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "99-1",
+    "fecha": "2025-03-18",
+    "tipo": "Toma en consideración",
+    "titulo": "Medidas urgentes para hacer frente a la ocupación ilegal de inmuebles (Orgánica)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion099/20250318/Votacion001/VOT_20250318201321.json",
+    "relacion": "avanza",
+    "motivo": "Reforma LECrim, LEC y Jurado contra la ocupación; reforma del Código Penal no visible.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "179-1",
+    "fecha": "2026-05-19",
+    "tipo": "Toma en consideración",
+    "titulo": "Ley orgánica contra la ocupación ilegal de inmuebles y para la convivencia vecinal y la protección de la…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion179/20260519/Votacion001/VOT_20260519203502.json",
+    "relacion": "avanza",
+    "motivo": "Ley orgánica contra la ocupación ilegal; alcance completo en CP, LECrim y LEC no visible.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "VOX-02",
+  "partido": "VOX",
+  "pagina": 40,
+  "cita": "Creare- mos un registro de datos históricos de zonas afectadas por la ocupación",
+  "resumen": "Crear un registro de datos históricos de zonas afectadas por la ocupación ilegal.",
+  "objeto": "Registro de zonas afectadas por okupación",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "VOX-03",
+  "partido": "VOX",
+  "pagina": 40,
+  "cita": "Eximiremos a los pro- pietarios de inmuebles okupados ilegalmente del pago del IBI durante el periodo de ocupación ilegal del inmueble.",
+  "resumen": "Eximir del IBI a los propietarios durante el tiempo en que su inmueble esté okupado ilegalmente.",
+  "objeto": "IBI de inmuebles okupados",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_cumple",
+  "votaciones": [
+   {
+    "id": "36-37",
+    "fecha": "2024-04-23",
+    "tipo": "Moción",
+    "titulo": "Inseguridad ciudadana y a la ocupación ilegal que afectan especialmente a Cataluña (punto 6)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion036/20240423/Votacion037/VOT_20240423213547.json",
+    "relacion": "cumple",
+    "motivo": "Punto 6: devolver al propietario el IBI pagado durante la ocupación ilegal.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "VOX-04",
+  "partido": "VOX",
+  "pagina": 40,
+  "cita": "Impulsare- mos una nueva Ley del Suelo que prevea la liberación del suelo secuestrado por ayuntamientos y comunidades autó- nomas",
+  "resumen": "Aprobar una nueva Ley del Suelo que libere suelo edificable retenido por ayuntamientos y comunidades autónomas.",
+  "objeto": "Nueva Ley del Suelo",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "VOX-05",
+  "partido": "VOX",
+  "pagina": 40,
+  "cita": "Modificaremos la Ley del Impuesto sobre el Valor Añadido con el fin de eliminar el IVA en la adquisición de la primera vivienda habitual.",
+  "resumen": "Suprimir el IVA en la compra de la primera vivienda habitual.",
+  "objeto": "IVA en compra de primera vivienda",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "VOX-06",
+  "partido": "VOX",
+  "pagina": 40,
+  "cita": "Recuperaremos la deducción por vivienda habitual en la declaración de la Renta.",
+  "resumen": "Recuperar la deducción por inversión en vivienda habitual en el IRPF.",
+  "objeto": "Deducción IRPF por vivienda habitual",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "VOX-07",
+  "partido": "VOX",
+  "pagina": 41,
+  "cita": "Revisaremos y rebajaremos los tributos y cargas en el pro- ceso edificatorio.",
+  "resumen": "Reducir los tributos y cargas que gravan el proceso de construcción de vivienda.",
+  "objeto": "Tributos sobre el proceso edificatorio",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "VOX-08",
+  "partido": "VOX",
+  "pagina": 41,
+  "cita": "Movilizaremos el suelo público perteneciente a la Administración General del Estado y los organismos de ella dependientes para la pro- moción de vivienda en alquiler social.",
+  "resumen": "Destinar suelo público estatal a la promoción de vivienda en alquiler social.",
+  "objeto": "Suelo público estatal para alquiler social",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "VOX-09",
+  "partido": "VOX",
+  "pagina": 41,
+  "cita": "Habilitaremos una pla- taforma auditada de peticiones para que, manteniendo la SAREB la titularidad de los activos, sean los Ayuntamientos los que soliciten a la SAREB",
+  "resumen": "Crear una plataforma para que los ayuntamientos soliciten a la SAREB cesión temporal de activos para alquiler social.",
+  "objeto": "Cesión de activos de la SAREB a ayuntamientos",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "en_contra_avanza",
+  "votaciones": [
+   {
+    "id": "136-96",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 8)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion096/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 8: transferir viviendas SAREB a ayuntamientos y CCAA para parque público.",
+    "voto_partido": "En contra"
+   }
+  ]
+ },
+ {
+  "id": "VOX-10",
+  "partido": "VOX",
+  "pagina": 41,
+  "cita": "Modificaremos la Ley Reguladora de las Bases del Régimen Local y elaboraremos una nueva resolución por la que se dicten las instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal al objeto de impedir que un okupa pue- da empadronarse",
+  "resumen": "Modificar la Ley de Bases del Régimen Local y las instrucciones del padrón para impedir empadronar a okupas.",
+  "objeto": "Empadronamiento de okupas en LBRL",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_cumple",
+  "votaciones": [
+   {
+    "id": "36-37",
+    "fecha": "2024-04-23",
+    "tipo": "Moción",
+    "titulo": "Inseguridad ciudadana y a la ocupación ilegal que afectan especialmente a Cataluña (punto 6)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion036/20240423/Votacion037/VOT_20240423213547.json",
+    "relacion": "cumple",
+    "motivo": "Punto 6: considerar nula la inscripción de un ocupante ilegal en el padrón municipal.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "188-12",
+    "fecha": "2026-06-18",
+    "tipo": "Moción",
+    "titulo": "Medidas que va a adoptar el Gobierno para garantizar que los españoles siempre vayan primero para comprar…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion188/20260618/Votacion012/VOT_20260618162224.json",
+    "relacion": "avanza",
+    "motivo": "Punto 7: reformar la LBRL para que el empadronamiento en inmuebles ocupados no genere efectos.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "VOX-11",
+  "partido": "VOX",
+  "pagina": 42,
+  "cita": "Acabaremos con la expropiación temporal de inmuebles y con el control de rentas en el contrato de arrendamiento pues- tos en marcha en los últimos años por distintas regiones.",
+  "resumen": "Suprimir la expropiación temporal de viviendas y el control de rentas del alquiler aplicados por comunidades autónomas.",
+  "objeto": "Control de rentas y expropiación temporal de viviendas",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "en_contra_contradice",
+  "votaciones": [
+   {
+    "id": "59-1",
+    "fecha": "2024-09-17",
+    "tipo": "Toma en consideración",
+    "titulo": "Regulación de los contratos de alquiler de vivienda por temporada y alquiler de habitaciones",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion059/20240917/Votacion001/VOT_20240917204416.json",
+    "relacion": "contradice",
+    "motivo": "Somete el alquiler de temporada a la regulación de vivienda habitual, ampliando el control.",
+    "voto_partido": "En contra"
+   },
+   {
+    "id": "86-1",
+    "fecha": "2024-12-17",
+    "tipo": "Toma en consideración",
+    "titulo": "Regulación de los contratos de alquiler temporales y alquiler de habitaciones",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion086/20241217/Votacion001/VOT_20241217205720.json",
+    "relacion": "contradice",
+    "motivo": "Extiende la regulación y contención de rentas a alquileres temporales y habitaciones.",
+    "voto_partido": "En contra"
+   }
+  ]
+ },
+ {
+  "id": "VOX-12",
+  "partido": "VOX",
+  "pagina": 42,
+  "cita": "Impulsaremos la homogeneización de la normativa turís- tica en materia de viviendas con fines turísticos para toda España.",
+  "resumen": "Homogeneizar en toda España la normativa sobre viviendas de uso turístico.",
+  "objeto": "Normativa de viviendas de uso turístico",
+  "tipo": "legislativa",
+  "competencia": "ninguna",
+  "resultado": "sin_competencia",
+  "votaciones": []
+ },
+ {
+  "id": "VOX-13",
+  "partido": "VOX",
+  "pagina": 42,
+  "cita": "Fomentaremos que los propietarios pongan sus viviendas vacías en alquiler a través del incremento de los beneficios fiscales a las rentas de alquiler para los arrendadores.",
+  "resumen": "Aumentar los beneficios fiscales de los arrendadores para movilizar viviendas vacías al alquiler.",
+  "objeto": "Beneficios fiscales a rentas de alquiler",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "en_contra_contradice",
+  "votaciones": [
+   {
+    "id": "136-93",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 5)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion093/VOT_20251008195406.json",
+    "relacion": "contradice",
+    "motivo": "Punto 5: elimina privilegios fiscales de SOCIMI arrendadoras.",
+    "voto_partido": "En contra"
+   }
+  ]
+ },
+ {
+  "id": "VOX-14",
+  "partido": "VOX",
+  "pagina": 43,
+  "cita": "Derogaremos la Ley por el derecho a la vivienda aprobada por el gobierno de Sánchez,",
+  "resumen": "Derogar la Ley 12/2023 por el derecho a la vivienda.",
+  "objeto": "Ley 12/2023 por el derecho a la vivienda",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "en_contra_contradice",
+  "votaciones": [
+   {
+    "id": "197-2",
+    "fecha": "2026-09-15",
+    "tipo": "Toma en consideración",
+    "titulo": "Reforma de la Ley por el Derecho a la Vivienda: veto a fondos y capital extranjero",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion197/20260915/Votacion002/VOT_20260915204523.json",
+    "relacion": "contradice",
+    "motivo": "Modifica y amplía la Ley 12/2023 (veto a fondos), en lugar de derogarla.",
+    "voto_partido": "En contra"
+   }
+  ]
+ },
+ {
+  "id": "VOX-15",
+  "partido": "VOX",
+  "pagina": 75,
+  "cita": "Extenderemos a toda la Nación la deducción por costes de alquiler en el IRPF para que todos los es- pañoles con contratos de alquiler puedan deducirse parte de su coste",
+  "resumen": "Crear una deducción estatal en el IRPF por el alquiler de vivienda para todos los inquilinos.",
+  "objeto": "Deducción IRPF por alquiler de vivienda",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "134-8",
+    "fecha": "2025-09-24",
+    "tipo": "Moción",
+    "titulo": "Cuál es la estrategia que va a adoptar el Gobierno para posibilitar el acceso a la vivienda de los jóvenes…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion134/20250924/Votacion008/VOT_20250924171313.json",
+    "relacion": "avanza",
+    "motivo": "Punto 1.f: deducciones IRPF para jóvenes inquilinos, no para todos.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "BNG-01",
+  "partido": "BNG",
+  "pagina": 15,
+  "cita": "Aumentar o investimento destinado á vivenda até alcanzar os 250 euros por habitante.",
+  "resumen": "Elevar la inversión pública en vivienda hasta 250 euros por habitante.",
+  "objeto": "Inversión pública en vivienda por habitante",
+  "tipo": "presupuestaria",
+  "competencia": "directa",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "136-97",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 9)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion097/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 9: garantizar recursos a CCAA y ayuntamientos para ampliar parque público.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "136-89",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 1)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion089/VOT_20251008195401.json",
+    "relacion": "avanza",
+    "motivo": "Punto 1: garantizar recursos para alcanzar media europea de vivienda protegida.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "BNG-02",
+  "partido": "BNG",
+  "pagina": 15,
+  "cita": "Incrementar as reservas mínimas de solo de vivenda protexida, especialmente para actuacións de renovación e rexeneración urbanas.",
+  "resumen": "Aumentar las reservas mínimas de suelo para vivienda protegida, en especial en renovación urbana.",
+  "objeto": "Reservas mínimas de suelo para vivienda protegida",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "BNG-03",
+  "partido": "BNG",
+  "pagina": 15,
+  "cita": "Transferir de forma gratuíta as vivendas, solos e promocións da SAREB, de forma que permitan aumentar a oferta de parque público de vivenda do IGVS alí onde exista demanda.",
+  "resumen": "Transferir gratis viviendas, suelos y promociones de la Sareb en Galicia al parque público del IGVS.",
+  "objeto": "Activos de la Sareb en Galicia",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "a_favor_cumple",
+  "votaciones": [
+   {
+    "id": "136-96",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 8)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion096/VOT_20251008195409.json",
+    "relacion": "cumple",
+    "motivo": "Punto 8: transferencia gratuita de viviendas SAREB a comunidades autónomas para parque público.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "134-2",
+    "fecha": "2025-09-24",
+    "tipo": "Proposición no de ley",
+    "titulo": "Transferencia de activos inmobiliarios de la SAREB a Galicia para su gestión",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion134/20250924/Votacion002/VOT_20250924171304.json",
+    "relacion": "avanza",
+    "motivo": "Transfiere activos SAREB a Galicia para su gestión; no consta gratuidad ni destino IGVS.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "BNG-04",
+  "partido": "BNG",
+  "pagina": 15,
+  "cita": "Evitar a degradación, o alleamento e a privatización do patrimonio público do solo e da vivenda, nomeadamente de entidades estatais como ADIF, INVIED ou Portos do Estado, procurando o seu uso como vivendas e espazos públicos e a cesión ás CCAA.",
+  "resumen": "Impedir la venta de suelo y vivienda de ADIF, INVIED y Puertos del Estado y cederlos a las comunidades autónomas.",
+  "objeto": "Patrimonio público de suelo y vivienda estatal",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "136-96",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 8)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion096/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 8: cesión gratuita de viviendas SEPES/SAREB a CCAA; no ADIF, INVIED ni Puertos.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "BNG-05",
+  "partido": "BNG",
+  "pagina": 15,
+  "cita": "Ampliar os criterios de recargo do IBI de forma que promovan unha maior mobilización da vivenda baleira.",
+  "resumen": "Ampliar los supuestos del recargo del IBI sobre viviendas vacías.",
+  "objeto": "Recargo del IBI a viviendas vacías",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "BNG-06",
+  "partido": "BNG",
+  "pagina": 15,
+  "cita": "Incorporar nos programas estatais de vivenda medidas e recursos para mobilizar a vivenda baleira cara á súa ocupación e cara ao aluguer accesíbel",
+  "resumen": "Incluir en los planes estatales de vivienda medidas y fondos para movilizar vivienda vacía hacia alquiler asequible.",
+  "objeto": "Plan Estatal de Vivienda y vivienda vacía",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "BNG-07",
+  "partido": "BNG",
+  "pagina": 16,
+  "cita": "Modificar os criterios e a xestión de axudas á",
+  "resumen": "Cambiar los criterios de las ayudas a rehabilitación y eficiencia energética de viviendas, incluidos fondos europeos.",
+  "objeto": "Ayudas a rehabilitación de vivienda",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "BNG-08",
+  "partido": "BNG",
+  "pagina": 16,
+  "cita": "Modificar os criterios do bono xove de vivenda, para adecualo á realidade dos pisos compartidos.",
+  "resumen": "Cambiar los requisitos del bono alquiler joven para incluir pisos compartidos.",
+  "objeto": "Requisitos del bono alquiler joven",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "BNG-09",
+  "partido": "BNG",
+  "pagina": 63,
+  "cita": "Garantir o acceso da mocidade como un dos actores prioritarios ao parque de vivenda pública.",
+  "resumen": "Dar prioridad a los jóvenes en el acceso al parque de vivienda pública.",
+  "objeto": "Acceso juvenil a vivienda pública",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "ERC-01",
+  "partido": "ERC",
+  "pagina": 44,
+  "cita": "Desenvolupar les mesures contemplades en l'Art. 6 de la Llei 12/2023, de 24 de maig pel dret a l'habitatge, relatiu al Principi d'igualtat i no discriminació en l'habitatge.",
+  "resumen": "Desarrollar el artículo 6 de la Ley 12/2023 sobre igualdad y no discriminación en el acceso a la vivienda.",
+  "objeto": "Artículo 6 de la Ley 12/2023",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "ERC-02",
+  "partido": "ERC",
+  "pagina": 44,
+  "cita": "Aprovar una estratègia estatal d'erradicació d'assentaments de barraquisme i infra habitatge 2030",
+  "resumen": "Aprobar una estrategia estatal 2030 de erradicación de asentamientos chabolistas e infravivienda.",
+  "objeto": "Estrategia estatal contra chabolismo e infravivienda",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "ERC-03",
+  "partido": "ERC",
+  "pagina": 52,
+  "cita": "Defensar la limitació i impulsar la reducció dels preus del lloguer.",
+  "resumen": "Mantener la limitación de los precios del alquiler y reducirlos.",
+  "objeto": "Regulación de precios del alquiler",
+  "tipo": "posicion",
+  "competencia": "directa",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "175-3",
+    "fecha": "2026-04-28",
+    "tipo": "Convalidación RDL",
+    "titulo": "RDL 8/2026 de medidas en el alquiler en respuesta a las consecuencias económicas y sociales de la Guerra de…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion175/20260428/Votacion003/VOT_20260428200330.json",
+    "relacion": "avanza",
+    "motivo": "Limita la actualización anual de rentas al 2% y prorroga contratos.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "59-1",
+    "fecha": "2024-09-17",
+    "tipo": "Toma en consideración",
+    "titulo": "Regulación de los contratos de alquiler de vivienda por temporada y alquiler de habitaciones",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion059/20240917/Votacion001/VOT_20240917204416.json",
+    "relacion": "avanza",
+    "motivo": "Extiende garantías de la LAU a contratos de temporada, conteniendo precios.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "86-1",
+    "fecha": "2024-12-17",
+    "tipo": "Toma en consideración",
+    "titulo": "Regulación de los contratos de alquiler temporales y alquiler de habitaciones",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion086/20241217/Votacion001/VOT_20241217205720.json",
+    "relacion": "avanza",
+    "motivo": "Extiende garantías de la LAU a contratos temporales, conteniendo precios.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "ERC-04",
+  "partido": "ERC",
+  "pagina": 60,
+  "cita": "Realització, per part dels jutges o jutgesses, de judicis de proporcionalitat abans de prendre la decisió d'autoritzar un desnonament o entrada en un domicili familiar en el qual resideixin menors d'edat",
+  "resumen": "Exigir juicio de proporcionalidad judicial antes de autorizar desahucios de hogares con menores.",
+  "objeto": "Juicio de proporcionalidad en desahucios con menores",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "en_contra_contradice",
+  "votaciones": [
+   {
+    "id": "99-1",
+    "fecha": "2025-03-18",
+    "tipo": "Toma en consideración",
+    "titulo": "Medidas urgentes para hacer frente a la ocupación ilegal de inmuebles (Orgánica)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion099/20250318/Votacion001/VOT_20250318201321.json",
+    "relacion": "contradice",
+    "motivo": "Impide dilaciones del desalojo por alegación de vulnerabilidad de los ocupantes.",
+    "voto_partido": "En contra"
+   }
+  ]
+ },
+ {
+  "id": "ERC-05",
+  "partido": "ERC",
+  "pagina": 114,
+  "cita": "Fer possible que les comunitats autònomes que tinguin competències en matèria d’habitatge i dret civil, foral o especial, puguin regular íntegrament els contractes d’arrendaments urbans, incloent la regulació dels preus de lloguer",
+  "resumen": "Permitir a las comunidades autónomas con derecho civil propio regular íntegramente el alquiler, incluidos precios, vía artículo 150.1 CE.",
+  "objeto": "Competencia autonómica sobre arrendamientos urbanos",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "ERC-06",
+  "partido": "ERC",
+  "pagina": 114,
+  "cita": "Regular els contractes d’arrendament d’habitatges de temporada perquè no siguin una manera d’esquivar la tutela dels contractes de residència habitual",
+  "resumen": "Regular los alquileres de temporada para impedir que eludan la protección de los contratos de vivienda habitual.",
+  "objeto": "Contratos de alquiler de temporada",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_cumple",
+  "votaciones": [
+   {
+    "id": "59-1",
+    "fecha": "2024-09-17",
+    "tipo": "Toma en consideración",
+    "titulo": "Regulación de los contratos de alquiler de vivienda por temporada y alquiler de habitaciones",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion059/20240917/Votacion001/VOT_20240917204416.json",
+    "relacion": "cumple",
+    "motivo": "Integra temporada en la LAU y presume vivienda habitual si no se justifica temporalidad.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "86-1",
+    "fecha": "2024-12-17",
+    "tipo": "Toma en consideración",
+    "titulo": "Regulación de los contratos de alquiler temporales y alquiler de habitaciones",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion086/20241217/Votacion001/VOT_20241217205720.json",
+    "relacion": "cumple",
+    "motivo": "Integra alquiler temporal en la LAU y presume vivienda habitual sin causa justificada.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "93-9",
+    "fecha": "2025-02-19",
+    "tipo": "Moción",
+    "titulo": "Política del Gobierno para garantizar el derecho a la vivienda (punto 5)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion093/20250219/Votacion009/VOT_20250219135543.json",
+    "relacion": "cumple",
+    "motivo": "Punto 5: incorporar alquiler de temporada y habitaciones a la regulación de la LAU.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "ERC-07",
+  "partido": "ERC",
+  "pagina": 114,
+  "cita": "Atribuir a les administracions competents en matèria d’habitatge la facultat de demanar judicialment la recuperació de la possessió d’habitatges, altres que els propis, amb la finalitat de restablir-ne la funció social davant la inactivitat de la propietat, modificant per això l’art. 250.1.4 LEC.",
+  "resumen": "Modificar el art. 250.1.4 LEC para que las administraciones puedan reclamar judicialmente la posesión de viviendas desocupadas.",
+  "objeto": "Artículo 250.1.4 de la LEC",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "ERC-08",
+  "partido": "ERC",
+  "pagina": 114,
+  "cita": "Dotació de fons estatals compensatoris. La nova llei estatal 12/2023, por el derecho a la vivienda, obliga les CCAA pressupostàriament",
+  "resumen": "Dotar fondos estatales para compensar a las comunidades por los costes de la Ley 12/2023 (propietarios y acuerdos de intermediación).",
+  "objeto": "Fondos estatales compensatorios por Ley 12/2023",
+  "tipo": "presupuestaria",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "ERC-09",
+  "partido": "ERC",
+  "pagina": 115,
+  "cita": "Garantia de la dació en pagament i cancel·lació de deutes vinculats a l’habitatge que sigui residència habitual amb una llei de segona oportunitat de tall europeu,",
+  "resumen": "Garantizar la dación en pago y la cancelación de deudas de la vivienda habitual mediante una ley de segunda oportunidad.",
+  "objeto": "Dación en pago y ley de segunda oportunidad",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "ERC-10",
+  "partido": "ERC",
+  "pagina": 115,
+  "cita": "establir la inembargabilitat de l’habitatge habitual de fiadors, avalistes i hipotecants no deutors.",
+  "resumen": "Declarar inembargable la vivienda habitual de fiadores, avalistas e hipotecantes no deudores.",
+  "objeto": "Inembargabilidad de vivienda de avalistas",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "ERC-11",
+  "partido": "ERC",
+  "pagina": 115,
+  "cita": "Modificació de la llei hipotecària amb topalls a l’endeutament d’acord amb la directiva de la UE i que garanteixi els drets dels consumidors.",
+  "resumen": "Reformar la ley hipotecaria con límites al endeudamiento conforme a la directiva europea.",
+  "objeto": "Ley hipotecaria y límites de endeudamiento",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "ERC-12",
+  "partido": "ERC",
+  "pagina": 115,
+  "cita": "Regulació i control de les titulitzacions, transmissions i cessions dels actius hipotecaris",
+  "resumen": "Regular y controlar la titulización, transmisión y cesión de activos hipotecarios.",
+  "objeto": "Titulización y cesión de activos hipotecarios",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "ERC-13",
+  "partido": "ERC",
+  "pagina": 115,
+  "cita": "Proposició de llei de per a recuperar els pisos de la Sareb.",
+  "resumen": "Presentar una proposición de ley para recuperar las viviendas de la SAREB.",
+  "objeto": "Viviendas de la SAREB",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "136-96",
+    "fecha": "2025-10-08",
+    "tipo": "Proposición no de ley",
+    "titulo": "Medidas fiscales, regulatorias y de adquisición pública para asegurar el derecho a la vivienda (punto 8)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion136/20251008/Votacion096/VOT_20251008195409.json",
+    "relacion": "avanza",
+    "motivo": "Punto 8: transferir viviendas SAREB a CCAA y ayuntamientos, vía PNL.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "ERC-14",
+  "partido": "ERC",
+  "pagina": 115,
+  "cita": "Restablir la deducció en l’IRPF de les rendes de lloguer de l’habitatge habitual als arrendataris, la qual va ser suprimida amb efectes de l’1 de gener de 2015.",
+  "resumen": "Restablecer la deducción estatal en el IRPF por alquiler de vivienda habitual para inquilinos.",
+  "objeto": "Deducción IRPF por alquiler de vivienda habitual",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "en_contra_avanza",
+  "votaciones": [
+   {
+    "id": "134-8",
+    "fecha": "2025-09-24",
+    "tipo": "Moción",
+    "titulo": "Cuál es la estrategia que va a adoptar el Gobierno para posibilitar el acceso a la vivienda de los jóvenes…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion134/20250924/Votacion008/VOT_20250924171313.json",
+    "relacion": "avanza",
+    "motivo": "Punto 1.f: deducciones significativas en IRPF solo para jóvenes inquilinos.",
+    "voto_partido": "En contra"
+   }
+  ]
+ },
+ {
+  "id": "ERC-15",
+  "partido": "ERC",
+  "pagina": 115,
+  "cita": "Suprimir l’obtenció del visat de residència per compra d’immobles o habitatges per inversions der valor igual o superior a 500.000 euros, previst a la llei 14/2013.",
+  "resumen": "Suprimir la 'golden visa' por compra de inmuebles de 500.000 euros o más prevista en la Ley 14/2013.",
+  "objeto": "Visado de residencia por compra de vivienda",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PP-01",
+  "partido": "PP",
+  "pagina": 32,
+  "cita": "Bonificaremos el Impuesto de Transmisiones y de Actos Jurídicos Documentados o el IBI por compra de una vivienda en el rural",
+  "resumen": "Bonificar el ITP-AJD o el IBI en la compra de vivienda en el medio rural.",
+  "objeto": "ITP-AJD e IBI en compra de vivienda rural",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PP-02",
+  "partido": "PP",
+  "pagina": 33,
+  "cita": "PROPONDREMOS UN PACTO DE ESTADO SOBRE LA VIVIENDA que cuente con la participación e implicación de las Comunidades Autónomas y entidades locales.",
+  "resumen": "Proponer un Pacto de Estado sobre la vivienda con comunidades autónomas y entidades locales.",
+  "objeto": "Pacto de Estado sobre la vivienda",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PP-03",
+  "partido": "PP",
+  "pagina": 34,
+  "cita": "Derogaremos la ley de vivienda, que ha generado inseguridad jurídica y no resuelve ninguno de los problemas de fondo del mercado de la vivienda.",
+  "resumen": "Derogar la Ley 12/2023 por el derecho a la vivienda.",
+  "objeto": "Ley 12/2023 por el derecho a la vivienda",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "en_contra_contradice",
+  "votaciones": [
+   {
+    "id": "197-2",
+    "fecha": "2026-09-15",
+    "tipo": "Toma en consideración",
+    "titulo": "Reforma de la Ley por el Derecho a la Vivienda: veto a fondos y capital extranjero",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion197/20260915/Votacion002/VOT_20260915204523.json",
+    "relacion": "contradice",
+    "motivo": "Reforma y amplía la Ley 12/2023 en lugar de derogarla.",
+    "voto_partido": "En contra"
+   }
+  ]
+ },
+ {
+  "id": "PP-04",
+  "partido": "PP",
+  "pagina": 34,
+  "cita": "LLEVAREMOS A CABO UN PROGRAMA DE AVALES DESTINADO A JÓVENES de hasta 35 años, a fin de garantizar la concesión de créditos hipotecarios por valor de hasta un 95% de la totalidad del precio de la vivienda.",
+  "resumen": "Crear un programa de avales para menores de 35 años que cubra hipotecas de hasta el 95% del precio.",
+  "objeto": "Programa de avales hipotecarios para jóvenes",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PP-05",
+  "partido": "PP",
+  "pagina": 34,
+  "cita": "IMPULSAREMOS UNA LEY DE SEGURIDAD JURÍDICA EN MATERIA DE URBANISMO, que garantice la perdurabilidad de los planes urbanísticos cuando se impugnen cuestiones no estructurantes de los mismos.",
+  "resumen": "Aprobar una ley de seguridad jurídica urbanística que evite anular planes por impugnaciones de aspectos no estructurantes.",
+  "objeto": "Ley de seguridad jurídica en urbanismo",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "distinto_sentido",
+  "votaciones": [
+   {
+    "id": "94-2",
+    "fecha": "2025-02-25",
+    "tipo": "Toma en consideración",
+    "titulo": "Ley por la que se modifica el texto refundido de la Ley de Suelo y Rehabilitación Urbana, aprobado por el…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion094/20250225/Votacion002/VOT_20250225201647.json",
+    "relacion": "cumple",
+    "motivo": "Modifica Ley de Suelo para evitar nulidad de planes por vicios menores.",
+    "voto_partido": "En contra"
+   },
+   {
+    "id": "173-1",
+    "fecha": "2026-04-21",
+    "tipo": "Toma en consideración",
+    "titulo": "Medidas administrativas y procesales para la seguridad jurídica de la ordenación territorial y urbanística…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion173/20260421/Votacion001/VOT_20260421201008.json",
+    "relacion": "cumple",
+    "motivo": "Medidas procesales para la seguridad jurídica de planes urbanísticos frente a anulaciones.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "PP-06",
+  "partido": "PP",
+  "pagina": 34,
+  "cita": "MOVILIZAREMOS EL SUELO DE TITULARIDAD PÚBLICA destinado a redes públicas de vivienda, tanto",
+  "resumen": "Movilizar suelo público patrimonial y demanial para promover vivienda en alquiler asequible.",
+  "objeto": "Suelo público para vivienda en alquiler asequible",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PP-07",
+  "partido": "PP",
+  "pagina": 82,
+  "cita": "APROBAREMOS UN PAQUETE DE MEDIDAS “ANTI-OKUPACIÓN” para permitir que los desalojos se produzcan en un plazo máximo de 24 horas;",
+  "resumen": "Aprobar medidas antiokupación para que los desalojos de ocupantes ilegales se produzcan en un máximo de 24 horas.",
+  "objeto": "Plazo de desalojo de viviendas okupadas",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_cumple",
+  "votaciones": [
+   {
+    "id": "36-37",
+    "fecha": "2024-04-23",
+    "tipo": "Moción",
+    "titulo": "Inseguridad ciudadana y a la ocupación ilegal que afectan especialmente a Cataluña (punto 6)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion036/20240423/Votacion037/VOT_20240423213547.json",
+    "relacion": "cumple",
+    "motivo": "Punto 6: desalojo en máximo 24 horas sin título que legitime.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "99-1",
+    "fecha": "2025-03-18",
+    "tipo": "Toma en consideración",
+    "titulo": "Medidas urgentes para hacer frente a la ocupación ilegal de inmuebles (Orgánica)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion099/20250318/Votacion001/VOT_20250318201321.json",
+    "relacion": "avanza",
+    "motivo": "Medida cautelar de desalojo con recuperación en máximo 48 horas.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "179-1",
+    "fecha": "2026-05-19",
+    "tipo": "Toma en consideración",
+    "titulo": "Ley orgánica contra la ocupación ilegal de inmuebles y para la convivencia vecinal y la protección de la…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion179/20260519/Votacion001/VOT_20260519203502.json",
+    "relacion": "avanza",
+    "motivo": "Ley orgánica contra la ocupación ilegal; texto no fija plazo de 24 horas.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "PP-08",
+  "partido": "PP",
+  "pagina": 82,
+  "cita": "CREAREMOS UNIDADES DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO ESPECIALIZADAS EN LA LUCHA CONTRA LA OCUPACIÓN ILEGAL,",
+  "resumen": "Crear unidades policiales especializadas contra la ocupación ilegal y de actuación inmediata.",
+  "objeto": "Unidades policiales contra la okupación",
+  "tipo": "ejecutiva",
+  "competencia": "indirecta",
+  "resultado": "no_votada",
+  "votaciones": []
+ },
+ {
+  "id": "PP-09",
+  "partido": "PP",
+  "pagina": 82,
+  "cita": "REFORZAREMOS LAS PENAS POR DELITO DE USURPACIÓN en el Código Penal con hasta 3 años de cárcel.",
+  "resumen": "Elevar las penas del delito de usurpación en el Código Penal hasta 3 años de prisión.",
+  "objeto": "Penas del delito de usurpación",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_cumple",
+  "votaciones": [
+   {
+    "id": "36-37",
+    "fecha": "2024-04-23",
+    "tipo": "Moción",
+    "titulo": "Inseguridad ciudadana y a la ocupación ilegal que afectan especialmente a Cataluña (punto 6)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion036/20240423/Votacion037/VOT_20240423213547.json",
+    "relacion": "cumple",
+    "motivo": "Punto 6: reforzar penas por usurpación hasta tres años de cárcel.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "PP-10",
+  "partido": "PP",
+  "pagina": 82,
+  "cita": "mejoraremos la protección legal frente a la actuación de las mafias, introduciendo el supuesto de que la ocupación ilegal se realice por un grupo organizado o siguiendo sus instrucciones",
+  "resumen": "Introducir en el Código Penal el supuesto de ocupación ilegal cometida por grupo organizado.",
+  "objeto": "Tipo penal de okupación por grupo organizado",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_avanza",
+  "votaciones": [
+   {
+    "id": "36-37",
+    "fecha": "2024-04-23",
+    "tipo": "Moción",
+    "titulo": "Inseguridad ciudadana y a la ocupación ilegal que afectan especialmente a Cataluña (punto 6)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion036/20240423/Votacion037/VOT_20240423213547.json",
+    "relacion": "avanza",
+    "motivo": "Punto 6 pide mejorar la protección jurídica frente a mafias de ocupación, sin tipificar expresamente.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "PP-11",
+  "partido": "PP",
+  "pagina": 82,
+  "cita": "DOTAREMOS A LAS COMUNIDADES DE PROPIETARIOS DE MEDIOS DE DEFENSA JURÍDICA en la Ley sobre Propiedad Horizontal para la protección de la convivencia vecinal, legitimándolas para realizar acciones preventivas contra la ocupación ilegal",
+  "resumen": "Reformar la Ley de Propiedad Horizontal para legitimar a las comunidades de propietarios a actuar contra la okupación.",
+  "objeto": "Ley de Propiedad Horizontal y okupación",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_cumple",
+  "votaciones": [
+   {
+    "id": "36-37",
+    "fecha": "2024-04-23",
+    "tipo": "Moción",
+    "titulo": "Inseguridad ciudadana y a la ocupación ilegal que afectan especialmente a Cataluña (punto 6)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion036/20240423/Votacion037/VOT_20240423213547.json",
+    "relacion": "cumple",
+    "motivo": "Punto 6: legitimar a las comunidades de propietarios para actuar contra la ocupación.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "179-1",
+    "fecha": "2026-05-19",
+    "tipo": "Toma en consideración",
+    "titulo": "Ley orgánica contra la ocupación ilegal de inmuebles y para la convivencia vecinal y la protección de la…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion179/20260519/Votacion001/VOT_20260519203502.json",
+    "relacion": "avanza",
+    "motivo": "Ley contra la ocupación y para la protección en comunidades de propietarios; detalle no visible.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "PP-12",
+  "partido": "PP",
+  "pagina": 82,
+  "cita": "PROMOVEREMOS LA MODIFICACIÓN DE LA LEY DE BASES DEL RÉGIMEN LOCAL con el fin de que la inscripción de un ocupante ilegal en el padrón municipal se considere nula",
+  "resumen": "Modificar la Ley de Bases del Régimen Local para que el empadronamiento de ocupantes ilegales sea nulo.",
+  "objeto": "Empadronamiento de ocupantes ilegales en LBRL",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_cumple",
+  "votaciones": [
+   {
+    "id": "36-37",
+    "fecha": "2024-04-23",
+    "tipo": "Moción",
+    "titulo": "Inseguridad ciudadana y a la ocupación ilegal que afectan especialmente a Cataluña (punto 6)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion036/20240423/Votacion037/VOT_20240423213547.json",
+    "relacion": "cumple",
+    "motivo": "Punto 6: considerar nula la inscripción de un ocupante ilegal en el padrón.",
+    "voto_partido": "A favor"
+   },
+   {
+    "id": "188-12",
+    "fecha": "2026-06-18",
+    "tipo": "Moción",
+    "titulo": "Medidas que va a adoptar el Gobierno para garantizar que los españoles siempre vayan primero para comprar…",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion188/20260618/Votacion012/VOT_20260618162224.json",
+    "relacion": "avanza",
+    "motivo": "Punto 7: reformar LBRL para que el empadronamiento en inmuebles ocupados no genere efectos.",
+    "voto_partido": "En contra"
+   }
+  ]
+ },
+ {
+  "id": "PP-13",
+  "partido": "PP",
+  "pagina": 83,
+  "cita": "IMPULSAREMOS REFOR- MAS DE LA LEGISLACIÓN TRIBUTARIA para que se puedan devolver las cantidades abonadas por el propietario en concepto de IBI y en el Impuesto sobre el Patrimonio por el periodo que haya durado la ocupación;",
+  "resumen": "Reformar la legislación tributaria para devolver al propietario el IBI y el Patrimonio pagados durante la ocupación.",
+  "objeto": "IBI y Patrimonio de viviendas okupadas",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "a_favor_cumple",
+  "votaciones": [
+   {
+    "id": "36-37",
+    "fecha": "2024-04-23",
+    "tipo": "Moción",
+    "titulo": "Inseguridad ciudadana y a la ocupación ilegal que afectan especialmente a Cataluña (punto 6)",
+    "url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion036/20240423/Votacion037/VOT_20240423213547.json",
+    "relacion": "cumple",
+    "motivo": "Punto 6: devolver al propietario el IBI y el Patrimonio pagados durante la ocupación.",
+    "voto_partido": "A favor"
+   }
+  ]
+ },
+ {
+  "id": "PP-14",
+  "partido": "PP",
+  "pagina": 83,
+  "cita": "para que la vivienda ocupada sea considerada como residencia habitual de su propietario si lo era antes de la privación ilegítima de su posesión,",
+  "resumen": "Mantener la consideración de residencia habitual y sus beneficios fiscales a la vivienda okupada del propietario.",
+  "objeto": "Residencia habitual fiscal de vivienda okupada",
+  "tipo": "legislativa",
+  "competencia": "directa",
+  "resultado": "no_votada",
+  "votaciones": []
+ }
+]

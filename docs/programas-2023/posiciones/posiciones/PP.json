@@ -1,0 +1,3052 @@
+{
+ "party": "PP",
+ "temas": [
+  {
+   "tema": "impuestos",
+   "sin_contenido": false,
+   "posicion_general": "Propone reducir la presión fiscal: deflactar el IRPF, bajar temporalmente el IVA de algunos alimentos, suprimir el impuesto a las grandes fortunas y una reforma fiscal integral. Incluye un Estatuto del Contribuyente, incentivos para nuevos residentes y pymes, y mayor equilibrio presupuestario.",
+   "posicionamientos": [
+    {
+     "id": "PP-impuestos-01",
+     "subtema": "IRPF e inflación",
+     "cita": "Corregiremos los efectos de la inflación en la tarifa del IRPF que supone una subida real de impuestos sobre la clase media.",
+     "pagina": 23,
+     "postura": "Deflactar la tarifa del IRPF para corregir el efecto de la inflación sobre la clase media.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "IRPF",
+      "deflactación",
+      "inflación",
+      "tarifa",
+      "clase media",
+      "rebaja fiscal"
+     ]
+    },
+    {
+     "id": "PP-impuestos-02",
+     "subtema": "IVA de alimentos",
+     "cita": "Reduciremos el IVA a la carne, pescados y conservas con carácter temporal.",
+     "pagina": 23,
+     "postura": "Rebajar temporalmente el IVA de la carne, el pescado y las conservas.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "IVA",
+      "alimentos",
+      "carne",
+      "pescado",
+      "rebaja",
+      "tipo reducido"
+     ]
+    },
+    {
+     "id": "PP-impuestos-03",
+     "subtema": "Grandes fortunas",
+     "cita": "Eliminaremos el impuesto a las grandes fortunas, y simplificaremos el IRPF y el Impuesto sobre Sociedades para las pymes",
+     "pagina": 23,
+     "postura": "Suprimir el impuesto temporal de solidaridad de las grandes fortunas y simplificar IRPF y Sociedades para pymes.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "impuesto grandes fortunas",
+      "solidaridad",
+      "patrimonio",
+      "supresión",
+      "pymes",
+      "Impuesto sobre Sociedades"
+     ]
+    },
+    {
+     "id": "PP-impuestos-04",
+     "subtema": "Derechos del contribuyente",
+     "cita": "ESTABLECEREMOS UN ESTATUTO DEL CONTRIBUYENTE. Incorporaremos el “derecho al error” en el ordenamiento tributario español",
+     "pagina": 23,
+     "postura": "Aprobar un Estatuto del Contribuyente que incluya el derecho al error en las declaraciones.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Estatuto del Contribuyente",
+      "derecho al error",
+      "Agencia Tributaria",
+      "seguridad jurídica",
+      "contribuyentes"
+     ]
+    },
+    {
+     "id": "PP-impuestos-05",
+     "subtema": "Nuevos residentes",
+     "cita": "mejoraremos el régimen fiscal para nuevos residentes, ofreciendo incentivos fiscales atractivos y competitivos a nivel global.",
+     "pagina": 23,
+     "postura": "Mejorar el régimen fiscal de impatriados con incentivos para atraer nuevos residentes.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "régimen impatriados",
+      "nuevos residentes",
+      "incentivos fiscales",
+      "ley Beckham",
+      "inversión"
+     ]
+    },
+    {
+     "id": "PP-impuestos-06",
+     "subtema": "Sociedades y empresas",
+     "cita": "Corregiremos las actuales limitaciones del impuesto de sociedades, con el objetivo de optimizar la gestión tributaria y simplificar reglas que obstaculizan el desarrollo de las empresas.",
+     "pagina": 15,
+     "postura": "Revisar las limitaciones del Impuesto sobre Sociedades para facilitar el crecimiento empresarial.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Impuesto sobre Sociedades",
+      "empresas",
+      "pymes",
+      "limitaciones",
+      "gestión tributaria"
+     ]
+    },
+    {
+     "id": "PP-impuestos-07",
+     "subtema": "Fiscalidad rural",
+     "cita": "Bonificaremos el Impuesto de Transmisiones y de Actos Jurídicos Documentados o el IBI por compra de una vivienda en el rural",
+     "pagina": 32,
+     "postura": "Bonificar ITP-AJD o IBI por la compra de vivienda en el medio rural.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "ITP",
+      "AJD",
+      "IBI",
+      "vivienda rural",
+      "despoblación",
+      "bonificación"
+     ]
+    },
+    {
+     "id": "PP-impuestos-08",
+     "subtema": "Equilibrio presupuestario",
+     "cita": "Nos comprometemos a abordar una política de mayor equilibrio presupuestario.",
+     "pagina": 23,
+     "postura": "Aplicar una política de mayor equilibrio presupuestario para reducir déficit y deuda.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "déficit",
+      "deuda pública",
+      "estabilidad presupuestaria",
+      "consolidación fiscal",
+      "senda de déficit"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "social",
+   "sin_contenido": false,
+   "posicion_general": "Plantea condicionar y mejorar el Ingreso Mínimo Vital, ampliar las ayudas a las familias (prestación por hijo, familia numerosa), evaluar la Ley de Dependencia y su financiación, y estrategias contra la pobreza infantil y la soledad no deseada. Incluye medidas de discapacidad como la atención temprana universal y la compatibilidad de pensiones con empleo.",
+   "posicionamientos": [
+    {
+     "id": "PP-social-01",
+     "subtema": "Ingreso Mínimo Vital",
+     "cita": "mediante la implementación de bonificaciones adicionales en las cotizaciones sociales para aquellos trabajadores que amplíen sus horas laborales y condicionaremos la percepción a la participación en itinerarios de inserción laboral.",
+     "pagina": 19,
+     "postura": "Condicionar el IMV a itinerarios de inserción laboral y hacerlo más compatible con el empleo.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Ingreso Mínimo Vital",
+      "IMV",
+      "inserción laboral",
+      "condicionalidad",
+      "prestación",
+      "pobreza"
+     ]
+    },
+    {
+     "id": "PP-social-02",
+     "subtema": "Prestación por hijo",
+     "cita": "Aumentaremos la cuantía y ampliaremos el alcance de la prestación por hijo a cargo, posibilitando su cobro desde el quinto mes de embarazo.",
+     "pagina": 53,
+     "postura": "Aumentar la prestación por hijo a cargo y cobrarla desde el quinto mes de embarazo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "prestación por hijo a cargo",
+      "natalidad",
+      "embarazo",
+      "familias",
+      "ayudas"
+     ]
+    },
+    {
+     "id": "PP-social-03",
+     "subtema": "Familias numerosas",
+     "cita": "PROMOVEREMOS LA EXTENSIÓN DEL TÍTULO DE FAMILIA NUMEROSA para los padres y madres hasta que el último de los hijos cumpla 26 años.",
+     "pagina": 53,
+     "postura": "Mantener el título de familia numerosa hasta que el último hijo cumpla 26 años.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "familia numerosa",
+      "título",
+      "protección familias",
+      "hijos",
+      "26 años"
+     ]
+    },
+    {
+     "id": "PP-social-04",
+     "subtema": "Empleo del hogar",
+     "cita": "Nos comprometemos a recuperar la bonificación de hasta el 45% de las cuotas de la Seguridad Social para la contratación de trabajadores del hogar.",
+     "pagina": 53,
+     "postura": "Recuperar la bonificación de hasta el 45% de cuotas por contratar trabajadores del hogar.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "empleadas del hogar",
+      "bonificación",
+      "cuotas Seguridad Social",
+      "conciliación",
+      "cuidados"
+     ]
+    },
+    {
+     "id": "PP-social-05",
+     "subtema": "Dependencia",
+     "cita": "una evaluación de la Ley de promoción de la autonomía personal y atención a las personas en situación de dependencia y una revisión de su sistema de financiación",
+     "pagina": 49,
+     "postura": "Evaluar la Ley de Dependencia y revisar su sistema de financiación.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "dependencia",
+      "Ley de Dependencia",
+      "financiación",
+      "autonomía personal",
+      "servicios sociales"
+     ]
+    },
+    {
+     "id": "PP-social-06",
+     "subtema": "Pobreza infantil",
+     "cita": "PROMOVEREMOS AYUDAS CONTRA LA POBREZA INFANTIL, donde España impulse y coordine un despliegue acelerado de la Garantía Infantil Europea en todo el territorio",
+     "pagina": 55,
+     "postura": "Desplegar la Garantía Infantil Europea con ayudas contra la pobreza infantil.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "pobreza infantil",
+      "Garantía Infantil Europea",
+      "comedor escolar",
+      "infancia",
+      "ayudas"
+     ]
+    },
+    {
+     "id": "PP-social-07",
+     "subtema": "Soledad no deseada",
+     "cita": "PONDREMOS EN MARCHA UNA ESTRATEGIA NACIONAL DE ATENCIÓN A LA SOLEDAD NO DESEADA que, en coordinación con las Comunidades Autónomas y los ayuntamientos, sirva para combatir el aislamiento social",
+     "pagina": 58,
+     "postura": "Crear una Estrategia Nacional contra la soledad no deseada, sobre todo de mayores.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "soledad no deseada",
+      "mayores",
+      "aislamiento social",
+      "estrategia nacional",
+      "envejecimiento"
+     ]
+    },
+    {
+     "id": "PP-social-08",
+     "subtema": "Discapacidad y empleo",
+     "cita": "impulsaremos la integración sociolaboral de las personas con discapacidad, permitiendo, en los porcentajes que se determinen, la compatibilidad de las pensiones de discapacidad con el empleo.",
+     "pagina": 60,
+     "postura": "Permitir compatibilizar pensiones de discapacidad con el empleo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "discapacidad",
+      "pensiones no contributivas",
+      "compatibilidad",
+      "empleo",
+      "inclusión laboral"
+     ]
+    },
+    {
+     "id": "PP-social-09",
+     "subtema": "Atención temprana",
+     "cita": "UNIVERSALIZAREMOS LA ATENCIÓN TEMPRANA de la discapacidad para que todos los niños menores de 6 años que lo necesiten tengan acceso a un diagnóstico precoz",
+     "pagina": 61,
+     "postura": "Universalizar la atención temprana para menores de 6 años con discapacidad.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "atención temprana",
+      "discapacidad",
+      "infancia",
+      "diagnóstico precoz",
+      "universalización"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "democracia",
+   "sin_contenido": false,
+   "posicion_general": "Propone reforzar la independencia de instituciones (Tribunal Constitucional, organismos reguladores, medios públicos), derogar la Ley de Memoria Democrática, limitar decretos ley y enmiendas intrusas, regular los lobbies y reducir ministerios. También plantea reformar la LOREG respecto a condenados por terrorismo y la Constitución para suprimir el término disminuidos.",
+   "posicionamientos": [
+    {
+     "id": "PP-democracia-01",
+     "subtema": "Tribunal Constitucional",
+     "cita": "mejoraremos los procesos de selección y elección de sus magistrados para garantizar que no hayan estado vinculados políticamente durante los últimos cinco años",
+     "pagina": 71,
+     "postura": "Exigir que los magistrados del Constitucional no hayan tenido vinculación política en los cinco años previos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Tribunal Constitucional",
+      "magistrados",
+      "independencia",
+      "nombramientos",
+      "Ley Orgánica"
+     ]
+    },
+    {
+     "id": "PP-democracia-02",
+     "subtema": "Organismos independientes",
+     "cita": "GARANTIZAREMOS QUE LOS PRESIDENTES, DIRECTORES Y RESPONSABLES DE ORGANISMOS INDEPENDIENTES DEL ESTADO (Airef, INE, CIS, Tribunal de Cuentas…) no hayan ocupado puestos políticos como cargo electo",
+     "pagina": 71,
+     "postura": "Impedir que dirijan AIReF, INE, CIS o Tribunal de Cuentas quienes hayan ocupado cargos políticos en cinco años.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "CIS",
+      "INE",
+      "AIReF",
+      "Tribunal de Cuentas",
+      "independencia",
+      "nombramientos"
+     ]
+    },
+    {
+     "id": "PP-democracia-03",
+     "subtema": "Medios públicos",
+     "cita": "PROMOVEREMOS LAS ACTUACIONES NECESARIAS PARA ASEGURAR LA INDEPENDENCIA Y LA OBJETIVIDAD en los medios de comunicación públicos.",
+     "pagina": 71,
+     "postura": "Asegurar la independencia y objetividad de los medios públicos.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "RTVE",
+      "medios públicos",
+      "independencia",
+      "pluralismo",
+      "objetividad"
+     ]
+    },
+    {
+     "id": "PP-democracia-04",
+     "subtema": "Secretos oficiales",
+     "cita": "APROBAREMOS UNA LEY EN MATERIA DE SECRETOS OFICIALES-INFORMACIÓN CLASIFICADA que garantice la protección de los intereses nacionales de una forma eficaz",
+     "pagina": 71,
+     "postura": "Aprobar una nueva ley de secretos oficiales e información clasificada.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "secretos oficiales",
+      "información clasificada",
+      "ley",
+      "seguridad nacional",
+      "transparencia"
+     ]
+    },
+    {
+     "id": "PP-democracia-05",
+     "subtema": "Memoria democrática",
+     "cita": "IMPULSAREMOS, DEROGANDO LA MAL LLAMADA LEY DE MEMORIA DEMOCRÁTICA, una nueva norma consensuada que refuerce los principios democráticos y la reconciliación nacional",
+     "pagina": 72,
+     "postura": "Derogar la Ley de Memoria Democrática y sustituirla por una norma consensuada.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "Ley de Memoria Democrática",
+      "memoria histórica",
+      "derogación",
+      "reconciliación",
+      "Transición"
+     ]
+    },
+    {
+     "id": "PP-democracia-06",
+     "subtema": "Decretos ley",
+     "cita": "LIMITAREMOS EL USO DEL REAL DECRETO LEY, asumiendo la voluntad de no incorporar al mismo medidas que no van a entrar en vigor de forma inmediata",
+     "pagina": 73,
+     "postura": "Limitar el uso del real decreto ley a medidas de urgencia real.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "real decreto-ley",
+      "convalidación",
+      "urgencia",
+      "procedimiento legislativo",
+      "Parlamento"
+     ]
+    },
+    {
+     "id": "PP-democracia-07",
+     "subtema": "Enmiendas intrusas",
+     "cita": "MODIFICAREMOS LOS REGLA- MENTOS DE LAS CORTES GENERALES a efectos de excluir expresa y claramente la posibilidad de introducir enmiendas “intrusas”",
+     "pagina": 74,
+     "postura": "Prohibir en los reglamentos parlamentarios las enmiendas sin conexión con la ley tramitada.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "enmiendas",
+      "Reglamento del Congreso",
+      "Cortes Generales",
+      "tramitación",
+      "enmiendas intrusas"
+     ]
+    },
+    {
+     "id": "PP-democracia-08",
+     "subtema": "Lobbies",
+     "cita": "una ficha pública para cada proyecto o proposición de ley en la que se señale quién intermedió o negoció durante el proceso, quien enmendó y quien votó",
+     "pagina": 74,
+     "postura": "Regular los lobbies y crear una huella legislativa pública por cada ley.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "lobbies",
+      "grupos de interés",
+      "huella legislativa",
+      "transparencia",
+      "registro"
+     ]
+    },
+    {
+     "id": "PP-democracia-09",
+     "subtema": "Ley electoral",
+     "cita": "MODIFICAREMOS LA LEY ORGÁNICA DEL RÉGIMEN ELECTORAL GENERAL para impedir que quienes hayan sido condenados por terrorismo puedan ser elegibles sin acreditar arrepentimiento",
+     "pagina": 81,
+     "postura": "Reformar la LOREG para que condenados por terrorismo no puedan ser elegibles sin arrepentimiento.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "LOREG",
+      "ley electoral",
+      "terrorismo",
+      "inelegibilidad",
+      "candidaturas",
+      "Bildu"
+     ]
+    },
+    {
+     "id": "PP-democracia-10",
+     "subtema": "Ministerios y cargos",
+     "cita": "Reduciremos el desproporcionado número de ministerios y cargos de confianza, que se ha multiplicado injustificadamente durante los últimos años",
+     "pagina": 77,
+     "postura": "Reducir el número de ministerios, altos cargos y asesores.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "ministerios",
+      "altos cargos",
+      "asesores",
+      "gasto político",
+      "estructura del Gobierno"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "transporte",
+   "sin_contenido": false,
+   "posicion_general": "Propone impulsar los corredores ferroviarios Mediterráneo, Atlántico y Central y la conexión con Extremadura, un plan de choque para Cercanías, transporte a demanda en pequeños municipios y una tarjeta de movilidad. Incluye actualizar los planes de Barajas y El Prat, modernizar carreteras y desplegar puntos de recarga.",
+   "posicionamientos": [
+    {
+     "id": "PP-transporte-01",
+     "subtema": "Corredores ferroviarios",
+     "cita": "SEGUIREMOS IMPULSANDO EL DESARROLLO DE LOS CORREDORES FERROVIARIOS –Mediterráneo, Atlántico y Central– cuya importancia resulta estratégica en el desarrollo y la conectividad de nuestro país.",
+     "pagina": 33,
+     "postura": "Impulsar los corredores ferroviarios Mediterráneo, Atlántico y Central.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Corredor Mediterráneo",
+      "Corredor Atlántico",
+      "ferrocarril",
+      "infraestructuras",
+      "mercancías"
+     ]
+    },
+    {
+     "id": "PP-transporte-02",
+     "subtema": "Tren Extremadura",
+     "cita": "Nos comprometemos a impulsar la modernización y mejora de las infraestructuras ferroviarias clave, de forma especial la conexión con Extremadura.",
+     "pagina": 33,
+     "postura": "Modernizar infraestructuras ferroviarias clave, sobre todo la conexión con Extremadura.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Extremadura",
+      "tren",
+      "ferrocarril",
+      "conexión ferroviaria",
+      "inversión"
+     ]
+    },
+    {
+     "id": "PP-transporte-03",
+     "subtema": "Cercanías",
+     "cita": "DESPLEGAREMOS UN PLAN DE CHOQUE PARA MEJORAR LA CALIDAD DEL SERVICIO EN LA MOVILIDAD DE CERCANÍAS EN TODAS LAS COMUNIDADES AUTÓNOMAS",
+     "pagina": 33,
+     "postura": "Aplicar un plan de choque para mejorar el servicio de Cercanías.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Cercanías",
+      "Renfe",
+      "plan de choque",
+      "movilidad",
+      "transporte público"
+     ]
+    },
+    {
+     "id": "PP-transporte-04",
+     "subtema": "Aeropuertos",
+     "cita": "ACTUALIZAREMOS LOS PLANES DIRECTORES DEL AEROPUERTO DE EL PRAT Y DE BARAJAS con especial atención al desarrollo de infraestructuras logísticas aledañas",
+     "pagina": 33,
+     "postura": "Actualizar los planes directores de El Prat y Barajas para convertirlos en hubs.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "aeropuerto",
+      "El Prat",
+      "Barajas",
+      "ampliación",
+      "Aena",
+      "hub"
+     ]
+    },
+    {
+     "id": "PP-transporte-05",
+     "subtema": "Tarjeta de movilidad",
+     "cita": "Avanzaremos en la creación e implantación de una Tarjeta de Movilidad Ciudadana que, de manera integrada con los sistemas de transporte de competencia autonómica y municipal, garantice el acceso a todos los medios de movilidad",
+     "pagina": 33,
+     "postura": "Crear una Tarjeta de Movilidad Ciudadana integrada con los transportes autonómicos y municipales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "tarjeta de movilidad",
+      "transporte público",
+      "abono",
+      "movilidad",
+      "integración tarifaria"
+     ]
+    },
+    {
+     "id": "PP-transporte-06",
+     "subtema": "Carreteras",
+     "cita": "VELAREMOS POR LA MODERNIZACIÓN DE NUESTRA RED DE INFRAESTRUCTURAS VIARIAS, su explotación y conservación",
+     "pagina": 33,
+     "postura": "Modernizar y conservar la red de carreteras del Estado.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "carreteras",
+      "conservación",
+      "infraestructuras viarias",
+      "seguridad vial",
+      "inversión"
+     ]
+    },
+    {
+     "id": "PP-transporte-07",
+     "subtema": "Recarga eléctrica",
+     "cita": "la implantación de puntos de recarga a fin de favorecer la descarbonización de los tráficos rodados en el marco del Plan de Automoción España 2030.",
+     "pagina": 33,
+     "postura": "Desplegar puntos de recarga para descarbonizar el transporte por carretera.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "puntos de recarga",
+      "vehículo eléctrico",
+      "descarbonización",
+      "movilidad sostenible",
+      "automoción"
+     ]
+    },
+    {
+     "id": "PP-transporte-08",
+     "subtema": "Automoción",
+     "cita": "IMPULSAREMOS UN PLAN DE AUTOMOCIÓN ESPAÑA 2030 RECUPERANDO LA MESA DE AUTOMOCIÓN QUE EL GOBIERNO HA ABANDONADO, dirigido a potenciar el proceso de progresiva descarbonización del sector",
+     "pagina": 26,
+     "postura": "Aprobar un Plan de Automoción 2030 con renovación del parque y recarga pública.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "automoción",
+      "renovación parque",
+      "vehículos",
+      "descarbonización",
+      "industria del automóvil"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "justicia",
+   "sin_contenido": false,
+   "posicion_general": "Propone que los jueces elijan a los 12 vocales judiciales del CGPJ, más autonomía del Ministerio Fiscal y un Fiscal General desvinculado del Ejecutivo, y reformar la ley de indulto. Plantea recuperar la sedición y la malversación previa a 2022, revisar el Código Penal, ampliar la prisión permanente revisable y sumar 1.000 jueces y fiscales.",
+   "posicionamientos": [
+    {
+     "id": "PP-justicia-01",
+     "subtema": "Elección del CGPJ",
+     "cita": "mediante la reforma de su ley Orgánica, incluyendo la modificación del sistema de elección de los miembros del Consejo de manera que sean los jueces y magistrados los que elijan a los 12 vocales de procedencia judicial.",
+     "pagina": 75,
+     "postura": "Que jueces y magistrados elijan a los 12 vocales judiciales del CGPJ.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "CGPJ",
+      "Consejo General del Poder Judicial",
+      "vocales",
+      "elección",
+      "independencia judicial",
+      "LOPJ"
+     ]
+    },
+    {
+     "id": "PP-justicia-02",
+     "subtema": "Indultos",
+     "cita": "MODIFICAREMOS LA LEY DE INDULTO para reforzar la motivación por parte del Gobierno del derecho de gracia.",
+     "pagina": 75,
+     "postura": "Reformar la ley de indulto para exigir mayor motivación al Gobierno.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "indulto",
+      "derecho de gracia",
+      "ley de indulto",
+      "motivación",
+      "procés"
+     ]
+    },
+    {
+     "id": "PP-justicia-03",
+     "subtema": "Fiscal General",
+     "cita": "IMPULSAREMOS UN NUEVO RÉGIMEN JURÍDICO DEL FISCAL GENERAL DEL ESTADO que incluya mecanismos de mayor transparencia, independencia e imparcialidad para desvincularlo del Poder Ejecutivo y que fije su mandato por un plazo de 5 años.",
+     "pagina": 75,
+     "postura": "Desvincular al Fiscal General del Ejecutivo con mandato de 5 años.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Fiscal General del Estado",
+      "Ministerio Fiscal",
+      "independencia",
+      "mandato",
+      "Estatuto Orgánico"
+     ]
+    },
+    {
+     "id": "PP-justicia-04",
+     "subtema": "Medios de la justicia",
+     "cita": "Incrementaremos en 1.000 plazas la plantilla de jueces y fiscales a lo largo de la legislatura.",
+     "pagina": 75,
+     "postura": "Crear 1.000 plazas de jueces y fiscales en la legislatura.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "jueces",
+      "fiscales",
+      "plazas",
+      "planta judicial",
+      "Administración de Justicia"
+     ]
+    },
+    {
+     "id": "PP-justicia-05",
+     "subtema": "Sedición",
+     "cita": "Recuperaremos el delito de sedición en el Código Penal, mejorando y actualizando su tipificación, para castigar las formas más graves de deslealtad constitucional.",
+     "pagina": 72,
+     "postura": "Reintroducir el delito de sedición en el Código Penal.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "sedición",
+      "Código Penal",
+      "deslealtad constitucional",
+      "procés",
+      "reforma penal"
+     ]
+    },
+    {
+     "id": "PP-justicia-06",
+     "subtema": "Malversación",
+     "cita": "RECUPERAREMOS LA MALVERSACIÓN en su formulación anterior a la reforma de 2022, adecuando su definición y penas a los estándares europeos.",
+     "pagina": 72,
+     "postura": "Restablecer el delito de malversación anterior a la reforma de 2022.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "malversación",
+      "Código Penal",
+      "corrupción",
+      "reforma 2022",
+      "penas"
+     ]
+    },
+    {
+     "id": "PP-justicia-07",
+     "subtema": "Solo sí es sí",
+     "cita": "ABORDAREMOS UNA PROFUNDA REVISIÓN DEL CÓDIGO PENAL para mejorar la regulación de los tipos, la proporcionalidad de las penas y adecuarlo a la realidad social, tras las defectuosas reformas parciales acometidas en la última legislatura, como la Ley de garantía integral de la libertad sexual (conocida como ley del Solo Sí es Sí).",
+     "pagina": 72,
+     "postura": "Revisar el Código Penal y corregir la ley del solo sí es sí.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "solo sí es sí",
+      "libertad sexual",
+      "Código Penal",
+      "rebajas de penas",
+      "delitos sexuales"
+     ]
+    },
+    {
+     "id": "PP-justicia-08",
+     "subtema": "Prisión permanente",
+     "cita": "AMPLIAREMOS LA PRISIÓN PERMANENTE REVISABLE para los condenados por un delito de asesinato con ocultación de cadáver.",
+     "pagina": 81,
+     "postura": "Ampliar la prisión permanente revisable a asesinatos con ocultación de cadáver.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "prisión permanente revisable",
+      "asesinato",
+      "ocultación de cadáver",
+      "Código Penal",
+      "penas"
+     ]
+    },
+    {
+     "id": "PP-justicia-09",
+     "subtema": "Enjuiciamiento criminal",
+     "cita": "IMPULSAREMOS UNA NUEVA LEY DE ENJUICIAMIENTO CRIMINAL que configure el procedimiento penal de conformidad con los principios de simplificación y agilidad",
+     "pagina": 76,
+     "postura": "Aprobar una nueva Ley de Enjuiciamiento Criminal más ágil.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ley de Enjuiciamiento Criminal",
+      "LECrim",
+      "proceso penal",
+      "instrucción",
+      "agilidad"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "campo",
+   "sin_contenido": false,
+   "posicion_general": "Propone revisar el plan estratégico de la PAC, flexibilizar el Pacto Verde y la estrategia De la Granja a la Mesa, reforzar a los productores en la cadena alimentaria y los seguros agrarios. Incluye relevo generacional, técnicas genómicas, modernización de regadíos y defensa de la flota pesquera en la UE.",
+   "posicionamientos": [
+    {
+     "id": "PP-campo-01",
+     "subtema": "PAC",
+     "cita": "REVISAREMOS EL PLAN ESTRATÉGICO DE LA PAC para mejorar la viabilidad de las explotaciones agrícolas y ganaderas, buscando la estabilidad del sector,",
+     "pagina": 27,
+     "postura": "Revisar el plan estratégico nacional de la PAC con menos burocracia.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "PAC",
+      "Política Agraria Común",
+      "plan estratégico",
+      "explotaciones",
+      "ayudas agrarias"
+     ]
+    },
+    {
+     "id": "PP-campo-02",
+     "subtema": "Pacto Verde",
+     "cita": "Trabajaremos para racionalizar los objetivos y flexibilizar el calendario de aplicación del Pacto Verde Europeo y de la estrategia europea “De la Granja a la Mesa”",
+     "pagina": 27,
+     "postura": "Flexibilizar objetivos y calendario del Pacto Verde y De la Granja a la Mesa.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Pacto Verde Europeo",
+      "De la Granja a la Mesa",
+      "agricultura",
+      "objetivos ambientales",
+      "flexibilización"
+     ]
+    },
+    {
+     "id": "PP-campo-03",
+     "subtema": "Cadena alimentaria",
+     "cita": "y de una justa distribución del valor a lo largo de la misma, reforzando la posición de los productores en la negociación y el acceso a los mercados y mejorando la transparencia en la formación de precios de las producciones agrarias y los insumos.",
+     "pagina": 28,
+     "postura": "Reforzar la posición de los productores y la transparencia de precios en la cadena alimentaria.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "cadena alimentaria",
+      "precios",
+      "productores",
+      "Ley de la Cadena",
+      "costes de producción"
+     ]
+    },
+    {
+     "id": "PP-campo-04",
+     "subtema": "Seguros agrarios",
+     "cita": "Incorporaremos a los Planes de Seguros Agrarios el riesgo de pérdida de ingresos de las explotaciones agrarias como instrumento para la estabilización de los ingresos de los agricultores y ganaderos",
+     "pagina": 29,
+     "postura": "Incluir en los seguros agrarios la pérdida de ingresos y la sequía en regadío.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "seguros agrarios",
+      "sequía",
+      "agricultores",
+      "ganaderos",
+      "rentas agrarias"
+     ]
+    },
+    {
+     "id": "PP-campo-05",
+     "subtema": "Relevo generacional",
+     "cita": "Favoreceremos la incorporación de jóvenes, simplificando trámites, anticipando ayudas, apoyando el posicionamiento en los mercados, facilitando el acceso a la renta y a la propiedad y reduciendo la fiscalidad por un periodo de tiempo inicial.",
+     "pagina": 29,
+     "postura": "Facilitar la incorporación de jóvenes al campo con ayudas anticipadas y menor fiscalidad inicial.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "relevo generacional",
+      "jóvenes agricultores",
+      "incorporación",
+      "ayudas",
+      "fiscalidad agraria"
+     ]
+    },
+    {
+     "id": "PP-campo-06",
+     "subtema": "Técnicas genómicas",
+     "cita": "apoyaremos los avances biotecnológicos, como las técnicas genómicas, que nos permitirán producir de manera más eficiente, con cultivos más resistentes a los efectos del cambio climático.",
+     "pagina": 29,
+     "postura": "Apoyar las nuevas técnicas genómicas en agricultura.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "técnicas genómicas",
+      "biotecnología",
+      "transgénicos",
+      "cultivos",
+      "innovación agraria"
+     ]
+    },
+    {
+     "id": "PP-campo-07",
+     "subtema": "Regadío",
+     "cita": "Para ello, se llevarán a cabo inversiones para modernizar regadíos, aprovechando todos los instrumentos disponibles.",
+     "pagina": 30,
+     "postura": "Invertir en modernización de regadíos y nuevos regadíos sostenibles.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "regadío",
+      "modernización",
+      "agua",
+      "infraestructuras hidráulicas",
+      "agricultura"
+     ]
+    },
+    {
+     "id": "PP-campo-08",
+     "subtema": "Pesca",
+     "cita": "Defenderemos los intereses del sector pesquero en las instituciones europeas, en la negociación de acuerdos de pesca y de sociedades mixtas con terceros países",
+     "pagina": 30,
+     "postura": "Defender a la flota pesquera en la UE y en acuerdos con terceros países.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "pesca",
+      "sector pesquero",
+      "acuerdos pesqueros",
+      "Política Pesquera Común",
+      "flota"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "exteriores",
+   "sin_contenido": false,
+   "posicion_general": "Propone mantener sanciones a Rusia y apoyo militar a Ucrania, liderar el acuerdo UE-Mercosur, apoyar a la oposición democrática en Venezuela, Cuba y Nicaragua y la mediación de la ONU en el Sáhara. Defiende la solución de dos Estados, negociar Gibraltar con Reino Unido, un Instituto de Crédito al Desarrollo y auditar los fondos europeos.",
+   "posicionamientos": [
+    {
+     "id": "PP-exteriores-01",
+     "subtema": "Ucrania y Rusia",
+     "cita": "MANTENDREMOS EL APOYO A LAS SANCIONES A RUSIA por su invasión de Ucrania. Prestaremos apoyo militar, económico y humanitario al pueblo ucraniano mientras sea necesario.",
+     "pagina": 101,
+     "postura": "Mantener las sanciones a Rusia y el apoyo militar y humanitario a Ucrania.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Ucrania",
+      "Rusia",
+      "sanciones",
+      "ayuda militar",
+      "invasión",
+      "guerra"
+     ]
+    },
+    {
+     "id": "PP-exteriores-02",
+     "subtema": "Adhesión de Ucrania",
+     "cita": "España apoyará las aspiraciones de Ucrania a unirse a la UE y a la OTAN, así como su proceso de reformas para conseguirlo.",
+     "pagina": 101,
+     "postura": "Apoyar la entrada de Ucrania en la UE y la OTAN.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Ucrania",
+      "adhesión",
+      "Unión Europea",
+      "OTAN",
+      "ampliación"
+     ]
+    },
+    {
+     "id": "PP-exteriores-03",
+     "subtema": "Mercosur",
+     "cita": "LIDERAREMOS LOS ESFUERZOS EUROPEOS PARA LA FIRMA DEL ACUERDO UE-MERCOSUR y la modernización de los acuerdos con México y Chile.",
+     "pagina": 100,
+     "postura": "Impulsar la firma del acuerdo comercial UE-Mercosur.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Mercosur",
+      "acuerdo comercial",
+      "libre comercio",
+      "Iberoamérica",
+      "México",
+      "Chile"
+     ]
+    },
+    {
+     "id": "PP-exteriores-04",
+     "subtema": "Venezuela, Cuba y Nicaragua",
+     "cita": "Defenderemos estos valores en la región y daremos un firme apoyo a las fuerzas democráticas, especialmente, en estos momentos, en Venezuela, Cuba y Nicaragua.",
+     "pagina": 100,
+     "postura": "Apoyar a las fuerzas democráticas en Venezuela, Cuba y Nicaragua.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Venezuela",
+      "Cuba",
+      "Nicaragua",
+      "oposición democrática",
+      "derechos humanos"
+     ]
+    },
+    {
+     "id": "PP-exteriores-05",
+     "subtema": "Sáhara Occidental",
+     "cita": "Apoyaremos los esfuerzos de Naciones Unidas en el Sáhara Occidental para alcanzar una solución política justa, duradera y aceptable para las partes.",
+     "pagina": 101,
+     "postura": "Apoyar la mediación de la ONU para una solución aceptable para las partes en el Sáhara.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Sáhara Occidental",
+      "Marruecos",
+      "Naciones Unidas",
+      "Argelia",
+      "autodeterminación"
+     ]
+    },
+    {
+     "id": "PP-exteriores-06",
+     "subtema": "Israel y Palestina",
+     "cita": "Debemos trabajar para la resolución de conflictos, especialmente el israelo-palestino, por medio de la solución de dos Estados.",
+     "pagina": 102,
+     "postura": "Defender la solución de dos Estados en el conflicto israelo-palestino.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Israel",
+      "Palestina",
+      "dos Estados",
+      "Oriente Medio",
+      "conflicto"
+     ]
+    },
+    {
+     "id": "PP-exteriores-07",
+     "subtema": "Gibraltar",
+     "cita": "REANUDAREMOS UN DIÁLOGO RESPONSABLE CON EL GOBIERNO BRITÁNICO para abordar el proceso de descolonización de Gibraltar y la recuperación de la soberanía, conforme a la doctrina establecida por Naciones Unidas.",
+     "pagina": 102,
+     "postura": "Negociar con Reino Unido la descolonización de Gibraltar y la recuperación de la soberanía.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Gibraltar",
+      "Reino Unido",
+      "soberanía",
+      "Brexit",
+      "descolonización"
+     ]
+    },
+    {
+     "id": "PP-exteriores-08",
+     "subtema": "Cooperación al desarrollo",
+     "cita": "promoviendo la creación de un Instituto de Crédito al Desarrollo, similar a los que tienen los países más avanzados, que aglutine y canalice la ayuda económica y financiera.",
+     "pagina": 104,
+     "postura": "Crear un Instituto de Crédito al Desarrollo y modernizar la AECID.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "cooperación internacional",
+      "AECID",
+      "ayuda al desarrollo",
+      "Ley de Cooperación",
+      "ayuda humanitaria"
+     ]
+    },
+    {
+     "id": "PP-exteriores-09",
+     "subtema": "Ley de nietos",
+     "cita": "LA COMUNIDAD DE DESCENDIENTES DE ESPAÑOLES MANTENDRÁ EL DERECHO DE OPCIÓN A LA NACIONALIDAD ESPAÑOLA, garantizado por una ley de Acceso a la Nacionalidad de los Nietos reformada.",
+     "pagina": 105,
+     "postura": "Mantener el derecho de opción a la nacionalidad de los nietos de españoles.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "nacionalidad",
+      "ley de nietos",
+      "españoles en el exterior",
+      "consulados",
+      "descendientes"
+     ]
+    },
+    {
+     "id": "PP-exteriores-10",
+     "subtema": "Fondos europeos",
+     "cita": "Realizaremos una auditoría y evaluación sobre la gestión de los fondos para conocer el verdadero estado de ejecución, el cumplimiento de los hitos y objetivos pactados",
+     "pagina": 25,
+     "postura": "Auditar la gestión de los fondos Next Generation y cogobernarlos con CCAA.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "fondos europeos",
+      "Next Generation",
+      "auditoría",
+      "PERTE",
+      "Plan de Recuperación"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "territorial",
+   "sin_contenido": false,
+   "posicion_general": "Propone reformar la financiación autonómica y local mediante negociación con todas las comunidades, eliminar ordenadamente el FLA, institucionalizar la Conferencia de Presidentes y apoyar a Ceuta, Melilla y las islas. Plantea castigar referendos no autorizados, cooficialidad vehicular equilibrada en educación, una ley de desarrollo rural y rebajas laborales en provincias despobladas.",
+   "posicionamientos": [
+    {
+     "id": "PP-territorial-01",
+     "subtema": "Financiación autonómica",
+     "cita": "ACORDAREMOS UNA REFORMA DEL SISTEMA DE FINANCIACIÓN AUTONÓMICA que sustituya al vigente desde hace 15 años y lo negociaremos con todas las Comunidades Autónomas",
+     "pagina": 79,
+     "postura": "Reformar la financiación autonómica negociando con todas las comunidades.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "financiación autonómica",
+      "comunidades autónomas",
+      "Consejo de Política Fiscal y Financiera",
+      "reforma",
+      "multilateral"
+     ]
+    },
+    {
+     "id": "PP-territorial-02",
+     "subtema": "FLA",
+     "cita": "Se analizarán otros elementos que afecten a las finanzas autonómicas, como la eliminación ordenada del FLA, la revisión del fondo de compensación interterritorial y el encaje con la financiación local.",
+     "pagina": 79,
+     "postura": "Eliminar ordenadamente el FLA y revisar el Fondo de Compensación Interterritorial.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "FLA",
+      "Fondo de Liquidez Autonómico",
+      "deuda autonómica",
+      "Fondo de Compensación Interterritorial",
+      "condonación"
+     ]
+    },
+    {
+     "id": "PP-territorial-03",
+     "subtema": "Financiación local",
+     "cita": "PROMOVEREMOS UNA REFORMA DEL SISTEMA DE FINANCIACIÓN LOCAL, en coordinación con el nuevo modelo de financiación autonómica",
+     "pagina": 79,
+     "postura": "Reformar la financiación local con más autonomía tributaria de los ayuntamientos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "financiación local",
+      "ayuntamientos",
+      "entidades locales",
+      "haciendas locales",
+      "autonomía tributaria"
+     ]
+    },
+    {
+     "id": "PP-territorial-04",
+     "subtema": "Ceuta y Melilla",
+     "cita": "PROMOVEREMOS UN MAYOR APOYO DEL ESTADO HACIA LAS CIUDADES AUTÓNOMAS DE CEUTA Y MELILLA.",
+     "pagina": 79,
+     "postura": "Dar más apoyo a Ceuta y Melilla con un nuevo modelo de financiación.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ceuta",
+      "Melilla",
+      "insularidad",
+      "Canarias",
+      "Baleares",
+      "financiación"
+     ]
+    },
+    {
+     "id": "PP-territorial-05",
+     "subtema": "Conferencia de Presidentes",
+     "cita": "IMPULSAREMOS LA CONTINUIDAD Y FUNCIONAMIENTO DE LA CONFERENCIA DE PRESIDENTES institucionalizándola como cúspide de la cooperación entre la Administración General del Estado y las autonómicas",
+     "pagina": 78,
+     "postura": "Institucionalizar la Conferencia de Presidentes con carácter periódico.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Conferencia de Presidentes",
+      "cogobernanza",
+      "cooperación",
+      "comunidades autónomas",
+      "lealtad institucional"
+     ]
+    },
+    {
+     "id": "PP-territorial-06",
+     "subtema": "Referendos ilegales",
+     "cita": "Regularemos también otras conductas de deslealtad de las instituciones dirigidas a poner en peligro la paz y el orden constitucional, ya sea mediante la convocatoria de referendos o consultas no autorizadas",
+     "pagina": 72,
+     "postura": "Tipificar penalmente la convocatoria de referendos o consultas no autorizadas.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "referéndum",
+      "consulta ilegal",
+      "independentismo",
+      "Cataluña",
+      "Código Penal",
+      "orden constitucional"
+     ]
+    },
+    {
+     "id": "PP-territorial-07",
+     "subtema": "Lenguas cooficiales",
+     "cita": "GARANTIZAREMOS QUE, EN LAS COMUNIDADES AUTÓNOMAS CON MÁS DE UNA LENGUA OFICIAL, ambas tendrán la consideración de vehiculares de acuerdo con el patrón de equilibrio lingüístico",
+     "pagina": 51,
+     "postura": "Garantizar el castellano y la lengua cooficial como lenguas vehiculares en la enseñanza.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "castellano",
+      "lengua vehicular",
+      "cooficial",
+      "inmersión lingüística",
+      "educación",
+      "Cataluña"
+     ]
+    },
+    {
+     "id": "PP-territorial-08",
+     "subtema": "Despoblación",
+     "cita": "APROBAREMOS UNA LEY DE DESARROLLO RURAL PARA TODO EL TERRITORIO NACIONAL A TRAVÉS DE UN GRAN ACUERDO DEL QUE PARTICIPEN TODOS LOS ACTORES AFECTADOS",
+     "pagina": 32,
+     "postura": "Aprobar una ley de desarrollo rural y un plan para la España despoblada.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "despoblación",
+      "reto demográfico",
+      "desarrollo rural",
+      "España vaciada",
+      "servicios públicos"
+     ]
+    },
+    {
+     "id": "PP-territorial-09",
+     "subtema": "Provincias despobladas",
+     "cita": "REDUCIREMOS LOS COSTES LABORALES PARA LA CONTRATACIÓN en las provincias autorizadas por la Unión Europea por su escasa población –Soria, Cuenca y Teruel.",
+     "pagina": 32,
+     "postura": "Reducir costes laborales de contratación en Soria, Cuenca y Teruel.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Soria",
+      "Teruel",
+      "Cuenca",
+      "cotizaciones",
+      "despoblación",
+      "ayudas al funcionamiento"
+     ]
+    },
+    {
+     "id": "PP-territorial-10",
+     "subtema": "Unidad de mercado",
+     "cita": "Reduciremos la fragmentación normativa y eliminaremos barreras injustificadas a las empresas, a través de la racionalización de la normativa autonómica",
+     "pagina": 15,
+     "postura": "Reforzar la unidad de mercado racionalizando la normativa autonómica.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "unidad de mercado",
+      "normativa autonómica",
+      "reconocimiento mutuo",
+      "licencias",
+      "fragmentación"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "empleo",
+   "sin_contenido": false,
+   "posicion_general": "Propone fijar el SMI en el diálogo social, reformar las políticas activas de empleo, crear cuentas individuales portables para los trabajadores y apoyar a autónomos con tarifa cero y aplazamiento de cuotas. Plantea reindustrializar hasta el 20% del PIB, reducir regulación y licencias y un PERTE turístico.",
+   "posicionamientos": [
+    {
+     "id": "PP-empleo-01",
+     "subtema": "Salario mínimo",
+     "cita": "ACTUALIZAREMOS EL SALARIO MÍNIMO INTERPROFESIONAL EN EL MARCO DEL DIÁLOGO SOCIAL. Involucraremos a sindicatos, empresarios y expertos en la toma de decisiones sobre el SMI.",
+     "pagina": 19,
+     "postura": "Actualizar el SMI dentro del diálogo social con sindicatos, empresarios y expertos.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "salario mínimo",
+      "SMI",
+      "diálogo social",
+      "sindicatos",
+      "patronal"
+     ]
+    },
+    {
+     "id": "PP-empleo-02",
+     "subtema": "Políticas activas",
+     "cita": "APROBAREMOS UNA REFORMA INTEGRAL DE LAS POLÍTICAS ACTIVAS DE EMPLEO, basada en la ampliación y mejora de la calidad de la oferta de formación, otorgando mayor libertad de elección al trabajador desempleado.",
+     "pagina": 19,
+     "postura": "Reformar las políticas activas de empleo con más libertad de elección de formación.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "políticas activas de empleo",
+      "formación",
+      "desempleados",
+      "SEPE",
+      "Ley de Empleo"
+     ]
+    },
+    {
+     "id": "PP-empleo-03",
+     "subtema": "Cuentas individuales",
+     "cita": "Introduciremos cuentas individuales para los trabajadores, portables, que puedan usar ante diversas contingencias de su vida laboral para ganar en equidad, eficiencia y productividad.",
+     "pagina": 20,
+     "postura": "Crear cuentas individuales portables (tipo mochila austriaca) financiadas con parte de las cotizaciones.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "mochila austriaca",
+      "cuentas individuales",
+      "despido",
+      "indemnización",
+      "movilidad laboral"
+     ]
+    },
+    {
+     "id": "PP-empleo-04",
+     "subtema": "Tarifa cero autónomos",
+     "cita": "APROBAREMOS LA TARIFA 0 PARA NUEVOS AUTÓNOMOS DURANTE EL PRIMER AÑO.",
+     "pagina": 20,
+     "postura": "Aplicar tarifa cero de cotización a los nuevos autónomos el primer año.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "autónomos",
+      "tarifa cero",
+      "tarifa plana",
+      "cuotas",
+      "RETA",
+      "emprendimiento"
+     ]
+    },
+    {
+     "id": "PP-empleo-05",
+     "subtema": "Cuotas de autónomos",
+     "cita": "Estableceremos un sistema de “aplazamiento automático” de cuotas que permitirá a lo largo de cada ejercicio que el trabajador autónomo pueda no ingresar la cuota correspondiente a 3 liquidaciones mensuales",
+     "pagina": 20,
+     "postura": "Permitir a los autónomos aplazar automáticamente tres cuotas mensuales al año.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "autónomos",
+      "cuotas",
+      "aplazamiento",
+      "cotizaciones",
+      "Seguridad Social"
+     ]
+    },
+    {
+     "id": "PP-empleo-06",
+     "subtema": "Contrato de formación",
+     "cita": "IMPULSAREMOS Y ADAPTAREMOS LA CONTRATACIÓN EN FORMACIÓN a nuestro particular tejido productivo y empresarial, en el marco del diálogo social y la negociación colectiva",
+     "pagina": 19,
+     "postura": "Adaptar el contrato de formación para facilitar el empleo juvenil.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "contrato de formación",
+      "empleo juvenil",
+      "reforma laboral",
+      "jóvenes",
+      "contratación"
+     ]
+    },
+    {
+     "id": "PP-empleo-07",
+     "subtema": "Reindustrialización",
+     "cita": "UNA ESTRATEGIA NACIONAL DE REINDUSTRIALIZACIÓN Y UN PLAN ESTRATÉGICO, con el objetivo de incrementar hasta el 20% del PIB el peso de la industria española.",
+     "pagina": 26,
+     "postura": "Elevar el peso de la industria hasta el 20% del PIB.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "industria",
+      "reindustrialización",
+      "política industrial",
+      "PIB industrial",
+      "Ley de Industria"
+     ]
+    },
+    {
+     "id": "PP-empleo-08",
+     "subtema": "Simplificación normativa",
+     "cita": "Nos comprometemos a implementar el principio de “una nueva norma, tres eliminadas”, asegurando que cada nueva ley o norma reemplace a varias existentes.",
+     "pagina": 15,
+     "postura": "Eliminar tres normas por cada nueva norma aprobada.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "simplificación administrativa",
+      "regulación",
+      "burocracia",
+      "calidad normativa",
+      "empresas"
+     ]
+    },
+    {
+     "id": "PP-empleo-09",
+     "subtema": "Licencias y apertura",
+     "cita": "El sistema general de autorización de las actividades económicas ligadas a las pymes será el de declaración responsable o comunicación previa",
+     "pagina": 15,
+     "postura": "Sustituir licencias por declaración responsable para abrir negocios.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "declaración responsable",
+      "licencias",
+      "pymes",
+      "apertura de negocios",
+      "silencio positivo"
+     ]
+    },
+    {
+     "id": "PP-empleo-10",
+     "subtema": "Turismo",
+     "cita": "APROBAREMOS UN PERTE PARA EL SECTOR TURÍSTICO desde una perspectiva trasversal con recursos suficientes que incluya la rehabilitación, regeneración y la modernización de destinos",
+     "pagina": 35,
+     "postura": "Aprobar un PERTE turístico y un Plan Renove de la hostelería.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "turismo",
+      "PERTE",
+      "hostelería",
+      "Plan Renove",
+      "destinos turísticos"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "clima",
+   "sin_contenido": false,
+   "posicion_general": "Defiende una transición ecológica justa, con economía circular, agricultura del carbono y protección de humedales como Doñana y el Mar Menor. Propone un Pacto Nacional del Agua con Autoridad Nacional del Agua, inversiones contra inundaciones y depuración, nueva regulación de costas, más medios contra incendios y sacar al lobo del norte del Duero del LESPRE.",
+   "posicionamientos": [
+    {
+     "id": "PP-clima-01",
+     "subtema": "Pacto del Agua",
+     "cita": "DESARROLLAREMOS UN PACTO NACIONAL DEL AGUA, desde el diálogo y el consenso, con participación de todas las Comunidades Autónomas y los sectores afectados",
+     "pagina": 37,
+     "postura": "Acordar un Pacto Nacional del Agua y un nuevo Plan Hidrológico Nacional.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Pacto Nacional del Agua",
+      "Plan Hidrológico Nacional",
+      "agua",
+      "trasvases",
+      "sequía"
+     ]
+    },
+    {
+     "id": "PP-clima-02",
+     "subtema": "Autoridad del agua",
+     "cita": "Para ello crearemos una Autoridad Nacional del Agua para el conjunto del territorio.",
+     "pagina": 37,
+     "postura": "Crear una Autoridad Nacional del Agua y una red estratégica del agua.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Autoridad Nacional del Agua",
+      "gobernanza del agua",
+      "confederaciones hidrográficas",
+      "agua",
+      "infraestructuras hídricas"
+     ]
+    },
+    {
+     "id": "PP-clima-03",
+     "subtema": "Inundaciones",
+     "cita": "El desarrollo de inversiones en materia de defensa frente a inundaciones es imprescindible para la necesaria adaptación a los fenómenos derivados del cambio climático.",
+     "pagina": 37,
+     "postura": "Invertir en defensa frente a inundaciones como adaptación al cambio climático.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "inundaciones",
+      "adaptación",
+      "cambio climático",
+      "cauces",
+      "DANA"
+     ]
+    },
+    {
+     "id": "PP-clima-04",
+     "subtema": "Depuración",
+     "cita": "Actualizaremos el Plan de depuración y saneamiento, para el cumplimiento de la Directiva Europea 91/271 sobre el tratamiento de las aguas residuales urbanas",
+     "pagina": 38,
+     "postura": "Actualizar el plan de depuración para cumplir la directiva de aguas residuales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "depuración",
+      "aguas residuales",
+      "saneamiento",
+      "Directiva 91/271",
+      "reutilización"
+     ]
+    },
+    {
+     "id": "PP-clima-05",
+     "subtema": "Humedales",
+     "cita": "IMPULSAREMOSS LA PROTECCIÓN DE LOS ESPACIOS NATURALES Y LA BIODIVERSIDAD, ESPECIALMENTE EN LOS ECOSISTEMAS ACUÁTICOS Y HUMEDALES, como el Mar Menor, Doñana o las Tablas de Daimiel",
+     "pagina": 38,
+     "postura": "Proteger humedales como Mar Menor, Doñana y Tablas de Daimiel.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Doñana",
+      "Mar Menor",
+      "Tablas de Daimiel",
+      "biodiversidad",
+      "humedales",
+      "espacios naturales"
+     ]
+    },
+    {
+     "id": "PP-clima-06",
+     "subtema": "Economía circular",
+     "cita": "IMPULSAREMOS LA ESTRATEGIA ESPAÑOLA DE ECONOMÍA CIRCULAR 2030, mejorando la coordinación de la legislación estatal y autonómica en esta materia",
+     "pagina": 26,
+     "postura": "Impulsar la Estrategia de Economía Circular 2030 con neutralidad tecnológica.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "economía circular",
+      "residuos",
+      "Ley de Residuos",
+      "reciclaje",
+      "neutralidad tecnológica"
+     ]
+    },
+    {
+     "id": "PP-clima-07",
+     "subtema": "Agricultura del carbono",
+     "cita": "IMPULSAREMOS EL DESARROLLO DE LA AGRICULTURA DEL CARBONO, poniendo en valor su contribución a la lucha contra el cambio climático, facilitando los proyectos de absorción de dióxido de carbono",
+     "pagina": 29,
+     "postura": "Fomentar la absorción de CO2 agraria y forestal y su venta en el mercado de emisiones.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "sumideros",
+      "CO2",
+      "agricultura del carbono",
+      "mercado de emisiones",
+      "cambio climático"
+     ]
+    },
+    {
+     "id": "PP-clima-08",
+     "subtema": "Costas",
+     "cita": "La nueva regulación de la franja litoral estará orientada a ofrecer seguridad jurídica a las instalaciones presentes en esta zona",
+     "pagina": 30,
+     "postura": "Reformar la gestión del dominio público marítimo-terrestre para dar seguridad jurídica a instalaciones.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ley de Costas",
+      "dominio público marítimo-terrestre",
+      "litoral",
+      "concesiones",
+      "chiringuitos"
+     ]
+    },
+    {
+     "id": "PP-clima-09",
+     "subtema": "Incendios",
+     "cita": "Aumentaremos el número de efectivos de la UME especializados en la intervención y control de incendios.",
+     "pagina": 30,
+     "postura": "Aumentar los efectivos de la UME contra incendios forestales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "incendios forestales",
+      "UME",
+      "prevención",
+      "montes",
+      "gestión forestal"
+     ]
+    },
+    {
+     "id": "PP-clima-10",
+     "subtema": "Lobo",
+     "cita": "RESTABLECEREMOS LA SITUACIÓN DE PROTECCIÓN DEL LOBO, previa a 2021, para extraer las poblaciones al norte del Duero del Listado de Especies",
+     "pagina": 31,
+     "postura": "Sacar al lobo del norte del Duero del LESPRE y permitir su control.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "lobo",
+      "LESPRE",
+      "especies protegidas",
+      "ganadería",
+      "biodiversidad",
+      "caza"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "tecnologia",
+   "sin_contenido": false,
+   "posicion_general": "Propone impulsar el reglamento europeo de IA, una Estrategia Nacional de IA con agencia supervisora y un sandbox regulatorio, transparencia de algoritmos públicos y refuerzo de la ciberseguridad. Incluye verificación de edad para menores en internet, 5G en vías de alta capacidad, conectividad rural y apoyo a scale-ups.",
+   "posicionamientos": [
+    {
+     "id": "PP-tecnologia-01",
+     "subtema": "Reglamento de IA",
+     "cita": "IMPULSAREMOS LA APROBACIÓN DEL REGLAMENTO DE IA EUROPEO para garantizar un marco de desarrollo temprano de la IA acorde con nuestros principios y valores",
+     "pagina": 22,
+     "postura": "Impulsar la aprobación del reglamento europeo de inteligencia artificial.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "inteligencia artificial",
+      "reglamento europeo",
+      "IA",
+      "regulación",
+      "Unión Europea"
+     ]
+    },
+    {
+     "id": "PP-tecnologia-02",
+     "subtema": "Agencia de IA",
+     "cita": "DESARROLLAREMOS LA ESTRATEGIA NACIONAL DE IA, poniendo en marcha la Agencia Española de Supervisión.",
+     "pagina": 22,
+     "postura": "Desarrollar la Estrategia Nacional de IA y poner en marcha la agencia supervisora.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "AESIA",
+      "Agencia de Supervisión de la IA",
+      "estrategia nacional",
+      "inteligencia artificial",
+      "supervisión"
+     ]
+    },
+    {
+     "id": "PP-tecnologia-03",
+     "subtema": "Sandbox",
+     "cita": "IMPULSAREMOS EL SANDBOX LEGISLATIVO para poner a prueba los requisitos del reglamento europeo.",
+     "pagina": 22,
+     "postura": "Crear un sandbox regulatorio para probar los requisitos del reglamento de IA.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "sandbox",
+      "entorno de pruebas",
+      "inteligencia artificial",
+      "innovación",
+      "regulación"
+     ]
+    },
+    {
+     "id": "PP-tecnologia-04",
+     "subtema": "Algoritmos públicos",
+     "cita": "Regularemos las condiciones de transparencia y acceso al código fuente para garantizar que no produce resultados discriminatorios.",
+     "pagina": 90,
+     "postura": "Regular la transparencia y acceso al código fuente de la IA usada por la Administración.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "algoritmos",
+      "transparencia",
+      "código fuente",
+      "inteligencia artificial",
+      "Administración",
+      "discriminación"
+     ]
+    },
+    {
+     "id": "PP-tecnologia-05",
+     "subtema": "Ciberseguridad",
+     "cita": "REFORZAREMOS LOS RECURSOS DE CIBERSEGURIDAD en España a todos los niveles de la Administración, empresa y ciudadano, mejorando su gobernanza y coordinación internacional.",
+     "pagina": 90,
+     "postura": "Reforzar los recursos y la gobernanza de la ciberseguridad.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ciberseguridad",
+      "INCIBE",
+      "ciberataques",
+      "gobernanza",
+      "seguridad digital"
+     ]
+    },
+    {
+     "id": "PP-tecnologia-06",
+     "subtema": "Menores en internet",
+     "cita": "Impulsaremos la implantación de procedimientos de verificación de edad verdaderamente eficaces para el acceso de menores a redes sociales y para evitar su acceso a páginas pornográficas",
+     "pagina": 54,
+     "postura": "Implantar verificación de edad eficaz para redes sociales y pornografía.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "verificación de edad",
+      "menores",
+      "redes sociales",
+      "pornografía",
+      "protección digital"
+     ]
+    },
+    {
+     "id": "PP-tecnologia-07",
+     "subtema": "5G",
+     "cita": "IMPULSAREMOS LAS INVERSIONES EN INFRAESTRUCTURAS CONECTADAS, SOSTENIBLES Y SEGURAS, que favorezcan la implantación y despliegue del 5G en las vías de alta capacidad",
+     "pagina": 33,
+     "postura": "Desplegar 5G en las vías de alta capacidad.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "5G",
+      "telecomunicaciones",
+      "conectividad",
+      "infraestructuras digitales",
+      "despliegue"
+     ]
+    },
+    {
+     "id": "PP-tecnologia-08",
+     "subtema": "Conectividad rural",
+     "cita": "DESTINAREMOS FONDOS EUROPEOS A LA CONSTRUCCIÓN Y MEJORA DE INFRAESTRUCTURAS PRIORITARIAS EN EL RURAL, como la conectividad, para evitar que los pueblos queden incomunicados.",
+     "pagina": 32,
+     "postura": "Destinar fondos europeos a la conectividad del medio rural.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "conectividad",
+      "banda ancha",
+      "medio rural",
+      "brecha digital",
+      "fondos europeos"
+     ]
+    },
+    {
+     "id": "PP-tecnologia-09",
+     "subtema": "Startups",
+     "cita": "CREAREMOS EL PLAN NEXT35, con apoyo individualizado a las “scale ups” llamadas a convertirse en las grandes creadoras de empleo del futuro.",
+     "pagina": 16,
+     "postura": "Crear el Plan Next35 de apoyo a scale-ups y capital riesgo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "startups",
+      "scale ups",
+      "emprendimiento",
+      "capital riesgo",
+      "Ley de Startups"
+     ]
+    },
+    {
+     "id": "PP-tecnologia-10",
+     "subtema": "Robotización administrativa",
+     "cita": "PONDREMOS EN MARCHA UN PLAN DE ROBOTIZACIÓN DE LA ADMINISTRACIÓN, que facilite una atención y gestión de trámites inteligente",
+     "pagina": 90,
+     "postura": "Aplicar un plan de robotización y asistentes virtuales en la Administración.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "digitalización",
+      "Administración electrónica",
+      "robotización",
+      "automatización",
+      "trámites"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "vivienda",
+   "sin_contenido": false,
+   "posicion_general": "Propone derogar la ley de vivienda, un pacto de Estado con comunidades y ayuntamientos, avales para hipotecas de jóvenes hasta el 95% del precio, movilizar suelo público para alquiler asequible y promover vivienda social. Incluye un paquete antiokupación con desalojos en 24 horas, más penas por usurpación y nulidad del empadronamiento de ocupantes.",
+   "posicionamientos": [
+    {
+     "id": "PP-vivienda-01",
+     "subtema": "Ley de vivienda",
+     "cita": "Derogaremos la ley de vivienda, que ha generado inseguridad jurídica y no resuelve ninguno de los problemas de fondo del mercado de la vivienda.",
+     "pagina": 34,
+     "postura": "Derogar la Ley por el Derecho a la Vivienda de 2023.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "ley de vivienda",
+      "derogación",
+      "alquiler",
+      "control de precios",
+      "zonas tensionadas"
+     ]
+    },
+    {
+     "id": "PP-vivienda-02",
+     "subtema": "Avales hipotecarios",
+     "cita": "LLEVAREMOS A CABO UN PROGRAMA DE AVALES DESTINADO A JÓVENES de hasta 35 años, a fin de garantizar la concesión de créditos hipotecarios por valor de hasta un 95% de la totalidad del precio de la vivienda.",
+     "pagina": 34,
+     "postura": "Avalar hipotecas de jóvenes de hasta 35 años por hasta el 95% del precio.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "avales",
+      "hipotecas",
+      "jóvenes",
+      "compra de vivienda",
+      "ICO"
+     ]
+    },
+    {
+     "id": "PP-vivienda-03",
+     "subtema": "Pacto de Estado",
+     "cita": "PROPONDREMOS UN PACTO DE ESTADO SOBRE LA VIVIENDA que cuente con la participación e implicación de las Comunidades Autónomas y entidades locales.",
+     "pagina": 33,
+     "postura": "Proponer un pacto de Estado de vivienda con comunidades y entidades locales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "pacto de Estado",
+      "vivienda",
+      "comunidades autónomas",
+      "suelo",
+      "rehabilitación"
+     ]
+    },
+    {
+     "id": "PP-vivienda-04",
+     "subtema": "Suelo público",
+     "cita": "MOVILIZAREMOS EL SUELO DE TITULARIDAD PÚBLICA destinado a redes públicas de vivienda,",
+     "pagina": 34,
+     "postura": "Movilizar suelo público para promover vivienda en alquiler asequible.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "suelo público",
+      "alquiler asequible",
+      "vivienda pública",
+      "SEPES",
+      "promoción"
+     ]
+    },
+    {
+     "id": "PP-vivienda-05",
+     "subtema": "Vivienda social",
+     "cita": "PROMOVEREMOS LA VIVIENDA SOCIAL, con objetivos coherentes y realistas, como elemento fundamental para",
+     "pagina": 34,
+     "postura": "Promover vivienda social con objetivos realistas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "vivienda social",
+      "parque público",
+      "vivienda protegida",
+      "alquiler social",
+      "construcción"
+     ]
+    },
+    {
+     "id": "PP-vivienda-06",
+     "subtema": "Urbanismo",
+     "cita": "IMPULSAREMOS UNA LEY DE SEGURIDAD JURÍDICA EN MATERIA DE URBANISMO, que garantice la perdurabilidad de los planes urbanísticos cuando se impugnen cuestiones no estructurantes",
+     "pagina": 34,
+     "postura": "Aprobar una ley que evite anular planes urbanísticos por defectos no estructurales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "urbanismo",
+      "planes urbanísticos",
+      "seguridad jurídica",
+      "Ley del Suelo",
+      "nulidad"
+     ]
+    },
+    {
+     "id": "PP-vivienda-07",
+     "subtema": "Desalojo de okupas",
+     "cita": "AGILIZAREMOS LOS DESALOJOS PARA QUE PUEDAN REALIZARSE EN EL PLAZO MÁXIMO DE 24 HORAS desde el requerimiento si los ocupantes no acreditan en dicho plazo el título jurídico que legitime la permanencia en el inmueble",
+     "pagina": 82,
+     "postura": "Desalojar ocupaciones ilegales en un máximo de 24 horas sin título.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "okupación",
+      "desalojo",
+      "24 horas",
+      "ocupación ilegal",
+      "propiedad privada"
+     ]
+    },
+    {
+     "id": "PP-vivienda-08",
+     "subtema": "Usurpación",
+     "cita": "REFORZAREMOS LAS PENAS POR DELITO DE USURPACIÓN en el Código Penal con hasta 3 años de cárcel.",
+     "pagina": 82,
+     "postura": "Elevar las penas por usurpación hasta 3 años de prisión.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "usurpación",
+      "okupación",
+      "Código Penal",
+      "penas",
+      "allanamiento"
+     ]
+    },
+    {
+     "id": "PP-vivienda-09",
+     "subtema": "Empadronamiento",
+     "cita": "con el fin de que la inscripción de un ocupante ilegal en el padrón municipal se considere nula y no constituya prueba de su residencia o domicilio ni le atribuya ningún derecho.",
+     "pagina": 82,
+     "postura": "Declarar nulo el empadronamiento de ocupantes ilegales.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "empadronamiento",
+      "padrón",
+      "okupación",
+      "Ley de Bases de Régimen Local",
+      "ocupantes"
+     ]
+    },
+    {
+     "id": "PP-vivienda-10",
+     "subtema": "Fiscalidad del ocupado",
+     "cita": "para que se puedan devolver las cantidades abonadas por el propietario en concepto de IBI y en el Impuesto sobre el Patrimonio por el periodo que haya durado la ocupación",
+     "pagina": 83,
+     "postura": "Devolver IBI y Patrimonio al propietario durante la ocupación ilegal.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "IBI",
+      "Impuesto sobre el Patrimonio",
+      "okupación",
+      "propietarios",
+      "devolución"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "igualdad",
+   "sin_contenido": false,
+   "posicion_general": "Propone planes de igualdad con objetivos evaluables y reducir a la mitad la brecha de participación laboral femenina, cumplir y actualizar el Pacto de Estado contra la violencia de género, tipificar la violencia digital y una ley integral contra la trata. Plantea una nueva ley trans consensuada, con prudencia ante la transexualidad, y categorías deportivas por sexo biológico.",
+   "posicionamientos": [
+    {
+     "id": "PP-igualdad-01",
+     "subtema": "Empleo femenino",
+     "cita": "DISEÑAREMOS UN PLAN CONTRA EL DESEMPLEO FEMENINO, QUE REDUZCA A LA MITAD EN ESTA LEGISLATURA LA BRECHA DE PARTICIPACIÓN EN EL MERCADO LABORAL de hombres y mujeres.",
+     "pagina": 21,
+     "postura": "Reducir a la mitad la brecha de participación laboral entre hombres y mujeres.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "desempleo femenino",
+      "brecha laboral",
+      "mujeres",
+      "empleo",
+      "igualdad"
+     ]
+    },
+    {
+     "id": "PP-igualdad-02",
+     "subtema": "Planes de igualdad",
+     "cita": "Entre sus objetivos estarán fomentar el empleo y el emprendimiento de las mujeres; avanzar hacia una presencia equilibrada en puestos directivos; dar pasos firmes en materia de corresponsabilidad",
+     "pagina": 21,
+     "postura": "Impulsar planes de igualdad evaluables con presencia equilibrada en puestos directivos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "planes de igualdad",
+      "brecha salarial",
+      "paridad",
+      "puestos directivos",
+      "corresponsabilidad"
+     ]
+    },
+    {
+     "id": "PP-igualdad-03",
+     "subtema": "Brecha por maternidad",
+     "cita": "combatiremos la brecha salarial causada por la maternidad y promoveremos la contratación indefinida de mujeres con hijos.",
+     "pagina": 53,
+     "postura": "Combatir la brecha salarial por maternidad y fomentar contratos indefinidos de madres.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "brecha salarial",
+      "maternidad",
+      "contratación indefinida",
+      "conciliación",
+      "mujeres"
+     ]
+    },
+    {
+     "id": "PP-igualdad-04",
+     "subtema": "Violencia de género",
+     "cita": "CUMPLIREMOS EL PACTO DE ESTADO CONTRA LA VIOLENCIA DE GÉNERO PROMOVIDO POR EL PARTIDO POPULAR, evaluando cada una de sus medidas y actualizando los contenidos para una mayor efectividad",
+     "pagina": 62,
+     "postura": "Cumplir y actualizar el Pacto de Estado contra la violencia de género.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "violencia de género",
+      "Pacto de Estado",
+      "violencia machista",
+      "víctimas",
+      "protección"
+     ]
+    },
+    {
+     "id": "PP-igualdad-05",
+     "subtema": "Violencia digital",
+     "cita": "Modificaremos la ley para tipificar la violencia digital y luchar contra la violencia de control, amenazas o violencia psicológica a través de los móviles y otros dispositivos digitales.",
+     "pagina": 62,
+     "postura": "Tipificar la violencia digital de control y amenazas a través de dispositivos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "violencia digital",
+      "Código Penal",
+      "menores",
+      "redes sociales",
+      "violencia de género"
+     ]
+    },
+    {
+     "id": "PP-igualdad-06",
+     "subtema": "Trata",
+     "cita": "APROBAREMOS UNA LEY ORGÁNICA INTEGRAL DE LUCHA CONTRA LA TRATA CON FINES DE EXPLOTACIÓN SEXUAL para que nuestro país sea una referencia en el respeto de los derechos humanos",
+     "pagina": 62,
+     "postura": "Aprobar una ley orgánica integral contra la trata y perseguir el proxenetismo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "trata",
+      "explotación sexual",
+      "proxenetismo",
+      "prostitución",
+      "ley integral"
+     ]
+    },
+    {
+     "id": "PP-igualdad-07",
+     "subtema": "Ley trans",
+     "cita": "APROBAREMOS UNA NUEVA LEY QUE GARANTICE LOS DERECHOS DE LAS PERSONAS TRANSEXUALES, una ley que nacerá del diálogo con todos los sectores sociales y profesionales, buscando el consenso.",
+     "pagina": 64,
+     "postura": "Aprobar una nueva ley de derechos de las personas trans elaborada por consenso.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ley trans",
+      "transexuales",
+      "LGTBI",
+      "autodeterminación de género",
+      "derechos"
+     ]
+    },
+    {
+     "id": "PP-igualdad-08",
+     "subtema": "Transexualidad",
+     "cita": "rechazamos también la asunción de las posiciones más extremas ante la transexualidad: legislaremos con la máxima prudencia para conciliar la expresión de la identidad personal con el cuidado a las mujeres, a la infancia y a las familias.",
+     "pagina": 42,
+     "postura": "Rechazar las posiciones más extremas sobre transexualidad y legislar con prudencia respecto a menores.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "transexualidad",
+      "ley trans",
+      "identidad de género",
+      "menores",
+      "autodeterminación"
+     ]
+    },
+    {
+     "id": "PP-igualdad-09",
+     "subtema": "Deporte femenino",
+     "cita": "Garantizaremos en las competiciones femeninas que el sexo biológico ordene las categorías deportivas, como el mejor mecanismo de garantía de la igualdad de oportunidades y la justicia competitiva.",
+     "pagina": 109,
+     "postura": "Ordenar las categorías deportivas femeninas por sexo biológico.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "deporte femenino",
+      "sexo biológico",
+      "categorías deportivas",
+      "mujeres trans",
+      "Ley del Deporte"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "seguridad",
+   "sin_contenido": false,
+   "posicion_general": "Propone culminar la equiparación salarial de Policía Nacional y Guardia Civil y declararlas profesión de riesgo, actualizar el Pacto Antiterrorista, investigar los crímenes de ETA sin resolver y endurecer el enaltecimiento del terrorismo. Incluye planes contra bandas juveniles y cibercriminalidad, reforma penal de la multirreincidencia y rechazo a pactos con Bildu.",
+   "posicionamientos": [
+    {
+     "id": "PP-seguridad-01",
+     "subtema": "Equiparación salarial",
+     "cita": "CULMINAREMOS EL “ACUERDO DE EQUIPARACIÓN SALARIAL” DE POLICÍA NACIONAL Y GUARDIA CIVIL firmado por el Gobierno del Partido Popular, en el año 2018",
+     "pagina": 80,
+     "postura": "Culminar la equiparación salarial de Policía Nacional y Guardia Civil.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "equiparación salarial",
+      "Policía Nacional",
+      "Guardia Civil",
+      "policías autonómicas",
+      "retribuciones"
+     ]
+    },
+    {
+     "id": "PP-seguridad-02",
+     "subtema": "Profesión de riesgo",
+     "cita": "reformaremos la ley para considerar a la Policía Nacional, la Guardia Civil y la Policía Local como profesiones de riesgo.",
+     "pagina": 80,
+     "postura": "Reconocer a policías y guardias civiles como profesión de riesgo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "profesión de riesgo",
+      "Policía Nacional",
+      "Guardia Civil",
+      "Policía Local",
+      "jubilación anticipada"
+     ]
+    },
+    {
+     "id": "PP-seguridad-03",
+     "subtema": "Funcionarios de prisiones",
+     "cita": "REFORMAREMOS LA LEY GENERAL PENITENCIARIA incluyendo, entre otros aspectos, la consideración de los funcionarios de prisiones como agentes de la autoridad.",
+     "pagina": 80,
+     "postura": "Reconocer a los funcionarios de prisiones como agentes de la autoridad.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "funcionarios de prisiones",
+      "agentes de la autoridad",
+      "Ley General Penitenciaria",
+      "prisiones",
+      "condiciones laborales"
+     ]
+    },
+    {
+     "id": "PP-seguridad-04",
+     "subtema": "Crímenes de ETA",
+     "cita": "UTILIZAREMOS TODOS LOS MEDIOS que pone a disposición de la Justicia el Estado de Derecho para investigar los 379 crímenes de ETA aún sin resolver.",
+     "pagina": 80,
+     "postura": "Investigar los 379 crímenes de ETA sin resolver.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "ETA",
+      "víctimas del terrorismo",
+      "crímenes sin resolver",
+      "terrorismo",
+      "investigación"
+     ]
+    },
+    {
+     "id": "PP-seguridad-05",
+     "subtema": "Enaltecimiento",
+     "cita": "GARANTIZAREMOS LA IMPRESCRIPTIBILIDAD DE LOS DELITOS DE TERRORISMO Y MODIFICAREMOS EL DELITO DE HOMENAJE y exaltación de los terroristas o sus organizaciones a fin de impedir actos de humillación a las víctimas.",
+     "pagina": 80,
+     "postura": "Hacer imprescriptibles los delitos de terrorismo y endurecer el enaltecimiento.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "enaltecimiento del terrorismo",
+      "ongi etorri",
+      "imprescriptibilidad",
+      "víctimas",
+      "Código Penal"
+     ]
+    },
+    {
+     "id": "PP-seguridad-06",
+     "subtema": "Beneficios penitenciarios",
+     "cita": "GARANTIZAREMOS QUE LOS BENEFICIOS PENITENCIARIOS a los que pudieran acceder los condenados por terrorismo vayan siempre ligados a su colaboración en el esclarecimiento",
+     "pagina": 80,
+     "postura": "Condicionar beneficios penitenciarios de terroristas a su colaboración con la Justicia.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "beneficios penitenciarios",
+      "presos de ETA",
+      "acercamiento",
+      "terrorismo",
+      "tercer grado"
+     ]
+    },
+    {
+     "id": "PP-seguridad-07",
+     "subtema": "Pactos con Bildu",
+     "cita": "rechazamos cualquier tipo de negociación o acuerdo de gobierno con fuerzas políticas que, como Bildu, incluyan o hayan incluido a condenados por terrorismo en sus candidaturas",
+     "pagina": 80,
+     "postura": "Rechazar acuerdos de gobierno con Bildu.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "Bildu",
+      "acuerdos",
+      "terrorismo",
+      "candidaturas",
+      "víctimas"
+     ]
+    },
+    {
+     "id": "PP-seguridad-08",
+     "subtema": "Multirreincidencia",
+     "cita": "REFORMAREMOS EL CÓDIGO PENAL EN LO REFERENTE A LA MULTIRREINCIDENCIA en hurtos y estafas, de modo que la pena y su posible aplicación preventiva no sea igual para quien comete un delito que para quien comete una sucesión continuada de ellos.",
+     "pagina": 81,
+     "postura": "Endurecer las penas por multirreincidencia en hurtos y estafas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "multirreincidencia",
+      "hurtos",
+      "estafas",
+      "Código Penal",
+      "seguridad ciudadana"
+     ]
+    },
+    {
+     "id": "PP-seguridad-09",
+     "subtema": "Bandas juveniles",
+     "cita": "PONDREMOS EN MARCHA UN PLAN DE SEGURIDAD ESPECIAL PARA LA LUCHA CONTRA LA VIOLENCIA DE LAS BANDAS JUVENILES.",
+     "pagina": 81,
+     "postura": "Aprobar un plan de seguridad contra las bandas juveniles.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "bandas juveniles",
+      "violencia",
+      "seguridad ciudadana",
+      "plan especial",
+      "policía"
+     ]
+    },
+    {
+     "id": "PP-seguridad-10",
+     "subtema": "Cibercriminalidad",
+     "cita": "PONDREMOS EN MARCHA UN PLAN DE SEGURIDAD CONTRA LA CIBERCRIMINALIDAD, con medios personales, reformas legislativas, inversión en tecnología",
+     "pagina": 81,
+     "postura": "Poner en marcha un plan contra la cibercriminalidad.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ciberdelincuencia",
+      "cibercriminalidad",
+      "estafas online",
+      "policía",
+      "reformas legislativas"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "inmigracion",
+   "sin_contenido": false,
+   "posicion_general": "Propone agilizar retornos de inmigrantes irregulares y expulsiones de delincuentes mediante acuerdos con países de origen, reforzar el control fronterizo y la cooperación con FRONTEX y países africanos, e impulsar el Pacto Europeo de Migración y Asilo. Plantea atraer talento extranjero cualificado y acelerar la homologación de títulos.",
+   "posicionamientos": [
+    {
+     "id": "PP-inmigracion-01",
+     "subtema": "Retornos y expulsiones",
+     "cita": "AGILIZAREMOS EL CUMPLIMIENTO DE LAS ÓRDENES DE RETORNO de inmigrantes irregulares o expulsión de los que hayan cometido un delito a través de acuerdos mejorados con los países de origen o de tránsito",
+     "pagina": 81,
+     "postura": "Agilizar la devolución de irregulares y la expulsión de extranjeros delincuentes.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "inmigración irregular",
+      "expulsión",
+      "retorno",
+      "acuerdos de readmisión",
+      "efecto llamada"
+     ]
+    },
+    {
+     "id": "PP-inmigracion-02",
+     "subtema": "Control fronterizo",
+     "cita": "POTENCIAREMOS LA INSPECCIÓN FRONTERIZA, incrementando el número y formación del personal, impulsando la implantación del nuevo Sistema Europeo de Registro de Entradas y Salidas",
+     "pagina": 81,
+     "postura": "Reforzar el control de fronteras y la colaboración con FRONTEX.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "fronteras",
+      "FRONTEX",
+      "control fronterizo",
+      "Policía Nacional",
+      "Guardia Civil"
+     ]
+    },
+    {
+     "id": "PP-inmigracion-03",
+     "subtema": "Pacto Migración y Asilo",
+     "cita": "Impulsaremos la consecución del Pacto Europeo de Migración y Asilo para garantizar una política europea de migración eficaz, humanitaria y segura",
+     "pagina": 99,
+     "postura": "Impulsar el Pacto Europeo de Migración y Asilo y una política común en el Mediterráneo.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Pacto de Migración y Asilo",
+      "Unión Europea",
+      "asilo",
+      "solidaridad",
+      "Mediterráneo"
+     ]
+    },
+    {
+     "id": "PP-inmigracion-04",
+     "subtema": "Cooperación con África",
+     "cita": "ESTABLECEREMOS UNA RED DE EQUIPOS CONJUNTOS DE INVESTIGACIÓN EN MATERIA MIGRATORIA con países africanos.",
+     "pagina": 81,
+     "postura": "Crear equipos conjuntos de investigación migratoria con países africanos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "África",
+      "tráfico de personas",
+      "mafias",
+      "cooperación policial",
+      "inmigración irregular"
+     ]
+    },
+    {
+     "id": "PP-inmigracion-05",
+     "subtema": "Menores no acompañados",
+     "cita": "Y NIÑAS MIGRANTES NO ACOMPAÑADOS, implementaremos el Modelo de Gestión de Contingencias Migratorias,",
+     "pagina": 55,
+     "postura": "Aprobar una estrategia de protección de menores migrantes no acompañados y reformar la determinación de edad.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "menores no acompañados",
+      "menas",
+      "determinación de edad",
+      "contingencias migratorias",
+      "protección"
+     ]
+    },
+    {
+     "id": "PP-inmigracion-06",
+     "subtema": "Talento extranjero",
+     "cita": "se orientará a facilitar la incorporación de talento extranjero al mercado laboral, que puede aportar el mayor beneficio a España",
+     "pagina": 16,
+     "postura": "Atraer inmigración cualificada según formación, idiomas y capacidad innovadora.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "talento extranjero",
+      "inmigración cualificada",
+      "visados",
+      "mercado laboral",
+      "atracción de talento"
+     ]
+    },
+    {
+     "id": "PP-inmigracion-07",
+     "subtema": "Homologación de títulos",
+     "cita": "ELABORAREMOS UN PLAN PARA ACELERAR LOS TIEMPOS NECESARIOS para el reconocimiento de títulos profesionales habilitantes (médicos, ingenieros, etc.)",
+     "pagina": 16,
+     "postura": "Acelerar el reconocimiento de títulos profesionales extranjeros.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "homologación",
+      "títulos extranjeros",
+      "convalidación",
+      "médicos",
+      "profesionales"
+     ]
+    },
+    {
+     "id": "PP-inmigracion-08",
+     "subtema": "Radicalización",
+     "cita": "agilizaremos los trámites de retorno de los ciudadanos extranjeros que alienten la radicalización y el extremismo.",
+     "pagina": 80,
+     "postura": "Agilizar la expulsión de extranjeros que alienten la radicalización.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "expulsión",
+      "radicalización",
+      "extremismo",
+      "yihadismo",
+      "extranjeros"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "pensiones",
+   "sin_contenido": false,
+   "posicion_general": "Propone asegurar la sostenibilidad del sistema y garantizar la revalorización de las pensiones en el marco del Pacto de Toledo, reforzar la contributividad y la transparencia sobre la pensión futura y estudiar la situación de los mutualistas. Plantea ampliar la jubilación activa de médicos y valorar la jubilación anticipada de policías.",
+   "posicionamientos": [
+    {
+     "id": "PP-pensiones-01",
+     "subtema": "Revalorización",
+     "cita": "ASEGURAREMOS LA SOSTENIBILIDAD Y SUFICIENCIA DEL SISTEMA DE PENSIONES PARA LAS GENERACIONES ACTUALES Y FUTURAS. GARANTIZAREMOS LA REVALORIZACIÓN DE LAS PENSIONES EN EL MARCO",
+     "pagina": 19,
+     "postura": "Garantizar la revalorización de las pensiones dentro del Pacto de Toledo.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "revalorización",
+      "pensiones",
+      "IPC",
+      "Pacto de Toledo",
+      "sostenibilidad"
+     ]
+    },
+    {
+     "id": "PP-pensiones-02",
+     "subtema": "Contributividad",
+     "cita": "Impulsaremos la contributividad del sistema y lo dotaremos de mayor transparencia y accesibilidad, de modo que todos los trabajadores puedan acceder con mayor sencillez a la estimación de la pensión futura.",
+     "pagina": 20,
+     "postura": "Reforzar la contributividad e informar a cada trabajador de su pensión futura.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "contributividad",
+      "pensión futura",
+      "Seguridad Social",
+      "transparencia",
+      "sistema de pensiones"
+     ]
+    },
+    {
+     "id": "PP-pensiones-03",
+     "subtema": "Mutualistas",
+     "cita": "Analizaremos la situación de los mutualistas alternativos en aras a promover junto a las mutualidades unas condiciones de jubilación dignas.",
+     "pagina": 20,
+     "postura": "Mejorar la jubilación de los mutualistas alternativos al RETA.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "mutualistas",
+      "mutualidades",
+      "pasarela RETA",
+      "abogados",
+      "jubilación"
+     ]
+    },
+    {
+     "id": "PP-pensiones-04",
+     "subtema": "Jubilación activa",
+     "cita": "Reformaremos la jubilación activa mejorada para especialistas en medicina de familia y pediatría de Atención Primaria, ampliándola hasta los 72 años.",
+     "pagina": 45,
+     "postura": "Ampliar la jubilación activa de médicos de familia y pediatras hasta los 72 años.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "jubilación activa",
+      "médicos",
+      "72 años",
+      "compatibilidad pensión y trabajo",
+      "atención primaria"
+     ]
+    },
+    {
+     "id": "PP-pensiones-05",
+     "subtema": "Jubilación de policías",
+     "cita": "crearemos una Comisión para valorar, en su caso, la jubilación anticipada dentro de las Fuerzas y Cuerpos de Seguridad",
+     "pagina": 80,
+     "postura": "Estudiar la jubilación anticipada de policías y guardias civiles.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "jubilación anticipada",
+      "policías",
+      "Guardia Civil",
+      "coeficientes reductores",
+      "Fuerzas y Cuerpos de Seguridad"
+     ]
+    },
+    {
+     "id": "PP-pensiones-06",
+     "subtema": "Turismo del IMSERSO",
+     "cita": "Reformularemos, para modernizarlos y recuperar su finalidad original, los Programas de Turismo Social y de Termalismo del IMSERSO.",
+     "pagina": 35,
+     "postura": "Modernizar los programas de turismo social y termalismo del IMSERSO.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "IMSERSO",
+      "turismo social",
+      "termalismo",
+      "mayores",
+      "pensionistas"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "sanidad",
+   "sin_contenido": false,
+   "posicion_general": "Propone un plan de choque en atención primaria con más plazas de MIR, una nueva Ley General de Sanidad, la Agencia Estatal de Salud Pública y un plan contra las agresiones a sanitarios. Plantea garantizar la objeción de conciencia, exigir consentimiento paterno para el aborto de menores, revisar la ley de eutanasia y apoyar a afectados por ELA.",
+   "posicionamientos": [
+    {
+     "id": "PP-sanidad-01",
+     "subtema": "Atención primaria",
+     "cita": "Impulsaremos, en colaboración con las Comunidades Autónomas, la incorporación de 1.000 plazas formativas más de medicina familiar a la oferta de 2024.",
+     "pagina": 45,
+     "postura": "Añadir 1.000 plazas MIR de medicina familiar dentro de un plan de choque de primaria.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "atención primaria",
+      "MIR",
+      "medicina familiar",
+      "plazas formativas",
+      "médicos"
+     ]
+    },
+    {
+     "id": "PP-sanidad-02",
+     "subtema": "Profesionales extranjeros",
+     "cita": "Agilizaremos la convalidación de titulaciones extranjeras y eliminaremos el requisito de nacionalidad para el acceso a personal estatutario por razones de interés general.",
+     "pagina": 46,
+     "postura": "Suprimir el requisito de nacionalidad para personal estatutario sanitario y agilizar homologaciones.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "requisito de nacionalidad",
+      "personal estatutario",
+      "médicos extranjeros",
+      "homologación",
+      "sanitarios"
+     ]
+    },
+    {
+     "id": "PP-sanidad-03",
+     "subtema": "Ley General de Sanidad",
+     "cita": "APROBAREMOS UNA NUEVA LEY GENERAL DE SANIDAD que incorpore las mejores prácticas, elimine regulaciones obsoletas, actualice la gobernanza del SNS y aborde la integración entre los sistemas sanitario y sociosanitario.",
+     "pagina": 46,
+     "postura": "Aprobar una nueva Ley General de Sanidad con marco de salud pública.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ley General de Sanidad",
+      "SNS",
+      "gobernanza",
+      "sociosanitario",
+      "salud pública"
+     ]
+    },
+    {
+     "id": "PP-sanidad-04",
+     "subtema": "Agresiones a sanitarios",
+     "cita": "APROBAREMOS UN ‘PLAN NACIONAL CONTRA LAS AGRESIONES A LOS PROFESIONALES SANITARIOS’ desde los ministerios de Sanidad, Interior y Justicia",
+     "pagina": 46,
+     "postura": "Aprobar un plan nacional contra las agresiones a sanitarios.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "agresiones",
+      "profesionales sanitarios",
+      "autoridad",
+      "seguridad",
+      "plan nacional"
+     ]
+    },
+    {
+     "id": "PP-sanidad-05",
+     "subtema": "Objeción de conciencia",
+     "cita": "GARANTIZAREMOS EL EJERCICIO DEL DERECHO A LA OBJECIÓN DE CONCIENCIA de los profesionales sanitarios.",
+     "pagina": 47,
+     "postura": "Garantizar la objeción de conciencia de los sanitarios.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "objeción de conciencia",
+      "sanitarios",
+      "aborto",
+      "eutanasia",
+      "registro de objetores"
+     ]
+    },
+    {
+     "id": "PP-sanidad-06",
+     "subtema": "Aborto de menores",
+     "cita": "de los titulares de la patria potestad previo a la realización del aborto en las jóvenes menores",
+     "pagina": 47,
+     "postura": "Exigir consentimiento de los padres para el aborto de menores de edad.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "aborto",
+      "interrupción voluntaria del embarazo",
+      "menores",
+      "consentimiento paterno",
+      "Ley del aborto"
+     ]
+    },
+    {
+     "id": "PP-sanidad-07",
+     "subtema": "Eutanasia",
+     "cita": "revisaremos la Ley de Eutanasia tomando en consideración la opinión del Comité de Bioética.",
+     "pagina": 48,
+     "postura": "Revisar la Ley de Eutanasia según el Comité de Bioética e impulsar los cuidados paliativos.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "eutanasia",
+      "cuidados paliativos",
+      "Comité de Bioética",
+      "Ley de Eutanasia",
+      "final de la vida"
+     ]
+    },
+    {
+     "id": "PP-sanidad-08",
+     "subtema": "Salud pública",
+     "cita": "RETOMAREMOS LA CREACIÓN DE LA AGENCIA ESTATAL DE SALUD PÚBLICA, garantizando la participación de las Comunidades Autónomas en la gobernanza",
+     "pagina": 47,
+     "postura": "Crear la Agencia Estatal de Salud Pública con participación autonómica.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Agencia Estatal de Salud Pública",
+      "salud pública",
+      "pandemias",
+      "vigilancia epidemiológica",
+      "comunidades autónomas"
+     ]
+    },
+    {
+     "id": "PP-sanidad-09",
+     "subtema": "ELA",
+     "cita": "BLINDAREMOS POR LEY EL APOYO PARA QUE LOS AFECTADOS POR LA ELA Y SUS FAMILIAS tengan la mejor calidad de vida posible.",
+     "pagina": 49,
+     "postura": "Aprobar por ley el apoyo a afectados por ELA y un centro nacional de investigación.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ELA",
+      "esclerosis lateral amiotrófica",
+      "ley ELA",
+      "dependencia",
+      "enfermedades neurodegenerativas"
+     ]
+    },
+    {
+     "id": "PP-sanidad-10",
+     "subtema": "Prevención del suicidio",
+     "cita": "Aprobaremos específicamente un Plan Nacional de Prevención del Suicidio, en el que se integren los diferentes agentes",
+     "pagina": 49,
+     "postura": "Aprobar un Plan Nacional de Prevención del Suicidio dentro de una estrategia de salud mental.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "suicidio",
+      "salud mental",
+      "prevención",
+      "plan nacional",
+      "adolescencia"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "energia",
+   "sin_contenido": false,
+   "posicion_general": "Propone extender la vida útil de las centrales nucleares con aval del CSN, eliminar la intervención del mercado mayorista eléctrico, agilizar permisos de renovables y crear un bono social único. Impulsa hidrógeno verde, biogás y biometano, y compensar costes de CO2 a la industria electrointensiva.",
+   "posicionamientos": [
+    {
+     "id": "PP-energia-01",
+     "subtema": "Nucleares",
+     "cita": "PROPONDREMOS, CON EL VISTO BUENO DEL CONSEJO DE SEGURIDAD NUCLEAR, LA EXTENSIÓN DE LA VIDA ÚTIL DE LAS CENTRALES NUCLEARES EXISTENTES en nuestro país, en el marco de la normativa europea.",
+     "pagina": 38,
+     "postura": "Prolongar la vida útil de las centrales nucleares con aval del CSN.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "energía nuclear",
+      "centrales nucleares",
+      "cierre nuclear",
+      "vida útil",
+      "Consejo de Seguridad Nuclear"
+     ]
+    },
+    {
+     "id": "PP-energia-02",
+     "subtema": "Mercado eléctrico",
+     "cita": "EVITAREMOS LAS MEDIDAS EXCEPCIONALES (Y ELIMI- NAREMOS LAS EXISTENTES) DE INTERVENCIÓN DEL MERCADO MAYORISTA ELÉCTRICO.",
+     "pagina": 39,
+     "postura": "Eliminar las medidas de intervención del mercado mayorista eléctrico.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "mercado eléctrico",
+      "excepción ibérica",
+      "tope del gas",
+      "intervención",
+      "precio de la luz"
+     ]
+    },
+    {
+     "id": "PP-energia-03",
+     "subtema": "Bono social",
+     "cita": "Crearemos un Bono Social Único (BSU), como un pago directo al consumidor, que sustituirá y mejorará los actuales bonos eléctrico y térmico",
+     "pagina": 38,
+     "postura": "Sustituir los bonos eléctrico y térmico por un Bono Social Único de pago directo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "bono social",
+      "pobreza energética",
+      "consumidores vulnerables",
+      "bono térmico",
+      "electricidad"
+     ]
+    },
+    {
+     "id": "PP-energia-04",
+     "subtema": "Permisos de renovables",
+     "cita": "DESBLOQUEAREMOS EL PROCESO DE CONCESIÓN DE PERMISOS Y APROBACIÓN EN LA INSTALACIÓN DE RENOVABLES. Para ello, introduciremos una “tasa por hito” que, con cargo al promotor del proyecto, financie el incremento de los medios",
+     "pagina": 38,
+     "postura": "Agilizar permisos de renovables con una tasa por hito a cargo del promotor.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "renovables",
+      "permisos",
+      "tramitación",
+      "evaluación ambiental",
+      "fotovoltaica",
+      "eólica"
+     ]
+    },
+    {
+     "id": "PP-energia-05",
+     "subtema": "Ofertas de comercializadoras",
+     "cita": "Obligaremos a las comercializadoras a estandarizar una amplia oferta de productos en el mercado libre (con precio estable, discriminación horaria, cuotas fijas, cuotas planas)",
+     "pagina": 38,
+     "postura": "Obligar a las comercializadoras a ofrecer productos estandarizados en mercado libre.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "comercializadoras",
+      "mercado libre",
+      "tarifas",
+      "consumidores",
+      "PVPC"
+     ]
+    },
+    {
+     "id": "PP-energia-06",
+     "subtema": "Hidrógeno verde",
+     "cita": "FOMENTAREMOS EL DESA- RROLLO DEL HIDRÓGENO VERDE COMO VECTOR ENER- GÉTICO Y DE ALMACENAMIENTO.",
+     "pagina": 39,
+     "postura": "Fomentar el hidrógeno verde para la reindustrialización.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "hidrógeno verde",
+      "almacenamiento",
+      "renovables",
+      "transición energética",
+      "industria"
+     ]
+    },
+    {
+     "id": "PP-energia-07",
+     "subtema": "Biogás",
+     "cita": "impulsaremos el Biogás, el Biometano, los eco combustibles y la biomasa, para una gestión más sostenible de nuestros residuos.",
+     "pagina": 39,
+     "postura": "Impulsar biogás, biometano, ecocombustibles y biomasa.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "biogás",
+      "biometano",
+      "biocombustibles",
+      "biomasa",
+      "descarbonización"
+     ]
+    },
+    {
+     "id": "PP-energia-08",
+     "subtema": "Industria electrointensiva",
+     "cita": "mejoraremos la dotación de acuerdo con la normativa europea para la compensación de los gastos de CO2 de la industria electrointensiva, con los ingresos procedentes de las subastas de derechos de emisión.",
+     "pagina": 26,
+     "postura": "Aumentar la compensación de costes de CO2 a la industria electrointensiva.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "industria electrointensiva",
+      "compensación CO2",
+      "derechos de emisión",
+      "precio eléctrico",
+      "industria"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "educacion",
+   "sin_contenido": false,
+   "posicion_general": "Propone reformar la LOMLOE y revisar la LOSU, educación 0-3 universal y gratuita, libertad de elección de centro incluida la concertada y la especial, y una EBAU común. Defiende neutralidad ideológica en las aulas, castellano y lengua cooficial vehiculares, ampliar becas, dualizar la FP y más horas de Educación Física.",
+   "posicionamientos": [
+    {
+     "id": "PP-educacion-01",
+     "subtema": "LOMLOE",
+     "cita": "REFORMAREMOS LA LOMLOE (conocida como ley Celaá) e impulsaremos un Acuerdo Social, basado en los principios del artículo 27 de la Constitución",
+     "pagina": 50,
+     "postura": "Reformar la LOMLOE e impulsar un acuerdo social educativo.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "LOMLOE",
+      "ley Celaá",
+      "ley educativa",
+      "pacto educativo",
+      "reforma educativa"
+     ]
+    },
+    {
+     "id": "PP-educacion-02",
+     "subtema": "Educación 0-3",
+     "cita": "LA EDUCACIÓN DE 0 A 3 AÑOS SERÁ UNIVERSAL Y GRATUITA y estará cofinanciada por el Estado y las Comunidades Autónomas",
+     "pagina": 50,
+     "postura": "Hacer universal y gratuita la educación de 0 a 3 años.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "educación infantil",
+      "0-3 años",
+      "gratuidad",
+      "escuelas infantiles",
+      "conciliación"
+     ]
+    },
+    {
+     "id": "PP-educacion-03",
+     "subtema": "Libertad de elección",
+     "cita": "DEFENDEREMOS LA LIBERTAD DE LOS PADRES PARA ELEGIR EL CENTRO Y EL TIPO DE EDUCACIÓN que quieren para sus hijos: ya sean éstos centros públicos, privados o concertados, ordinarios o de educación especial",
+     "pagina": 51,
+     "postura": "Garantizar la libertad de elección de centro, incluida la concertada.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "libertad de elección",
+      "escuela concertada",
+      "centros privados",
+      "padres",
+      "LOMLOE"
+     ]
+    },
+    {
+     "id": "PP-educacion-04",
+     "subtema": "Educación especial",
+     "cita": "DEFENDEREMOS LA EDUCACIÓN ESPECIAL, posibilitando la inclusión académica y social total de los niños con discapacidad.",
+     "pagina": 60,
+     "postura": "Mantener los centros de educación especial y la elección de los padres.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "educación especial",
+      "discapacidad",
+      "centros específicos",
+      "inclusión",
+      "LOMLOE"
+     ]
+    },
+    {
+     "id": "PP-educacion-05",
+     "subtema": "Neutralidad ideológica",
+     "cita": "aseguraremos la neutralidad ideológica en las aulas, el fomento del pensamiento crítico y el respeto a la Constitución y a las leyes.",
+     "pagina": 51,
+     "postura": "Asegurar la neutralidad ideológica en las aulas.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "adoctrinamiento",
+      "neutralidad ideológica",
+      "currículo",
+      "aulas",
+      "pensamiento crítico"
+     ]
+    },
+    {
+     "id": "PP-educacion-06",
+     "subtema": "EBAU única",
+     "cita": "IMPLANTAREMOS UNA PRUEBA DE ACCESO A LA UNIVERSIDAD (EBAU) COMÚN para todo el territorio",
+     "pagina": 52,
+     "postura": "Implantar una EBAU común en toda España.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "EBAU",
+      "selectividad",
+      "prueba única",
+      "acceso a la universidad",
+      "igualdad"
+     ]
+    },
+    {
+     "id": "PP-educacion-07",
+     "subtema": "LOSU",
+     "cita": "REVISAREMOS LA LEY ORGÁNICA DEL SISTEMA UNIVERSITARIO (LOSU) para garantizar una universidad de excelencia, competitiva y de calidad formativa e investigadora",
+     "pagina": 52,
+     "postura": "Revisar la LOSU y financiar universidades según graduación y empleabilidad.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "LOSU",
+      "universidad",
+      "ley universitaria",
+      "financiación universitaria",
+      "empleabilidad"
+     ]
+    },
+    {
+     "id": "PP-educacion-08",
+     "subtema": "Becas",
+     "cita": "Ampliaremos la política de becas en todas las etapas (no universitaria y universitaria)",
+     "pagina": 51,
+     "postura": "Ampliar las becas en todas las etapas educativas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "becas",
+      "ayudas al estudio",
+      "igualdad de oportunidades",
+      "universidad",
+      "estudiantes"
+     ]
+    },
+    {
+     "id": "PP-educacion-09",
+     "subtema": "Formación Profesional",
+     "cita": "Avanzaremos en la dualización real de la Formación Profesional implicando a las empresas, fomentando la colaboración público-privada",
+     "pagina": 51,
+     "postura": "Avanzar en la FP dual con implicación de las empresas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Formación Profesional",
+      "FP dual",
+      "empresas",
+      "prácticas",
+      "empleabilidad"
+     ]
+    },
+    {
+     "id": "PP-educacion-10",
+     "subtema": "Educación Física",
+     "cita": "incrementaremos las sesiones y el horario del currículo de la Educación Física en la educación primaria y secundaria hasta alcanzar, como mínimo, las tres horas lectivas.",
+     "pagina": 109,
+     "postura": "Ampliar la Educación Física a un mínimo de tres horas lectivas semanales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Educación Física",
+      "currículo",
+      "horas lectivas",
+      "sedentarismo",
+      "deporte escolar"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "defensa",
+   "sin_contenido": false,
+   "posicion_general": "Propone una Estrategia Nacional de Seguridad y Defensa, cumplir el compromiso de destinar el 2% del PIB a defensa, elevar las Fuerzas Armadas a 140.000 efectivos y crear una reserva voluntaria. Apoya la industria de defensa nacional, la autonomía estratégica europea complementaria de la OTAN y la ciberseguridad.",
+   "posicionamientos": [
+    {
+     "id": "PP-defensa-01",
+     "subtema": "Gasto en defensa",
+     "cita": "Cumpliremos el compromiso adquirido por los aliados de destinar un 2% del PIB nacional en seguridad y defensa.",
+     "pagina": 103,
+     "postura": "Alcanzar el 2% del PIB en gasto de defensa comprometido con la OTAN.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "gasto en defensa",
+      "2% PIB",
+      "OTAN",
+      "presupuesto de defensa",
+      "Fuerzas Armadas"
+     ]
+    },
+    {
+     "id": "PP-defensa-02",
+     "subtema": "Efectivos militares",
+     "cita": "ELEVAREMOS EL NÚMERO DE EFECTIVOS DE LAS FUERZAS ARMADAS durante dos legislaturas hasta alcanzar los 140.000 previstos por la ley",
+     "pagina": 103,
+     "postura": "Elevar las Fuerzas Armadas a 140.000 efectivos y mejorar sus condiciones.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Fuerzas Armadas",
+      "efectivos",
+      "tropa",
+      "condiciones sociolaborales",
+      "militares"
+     ]
+    },
+    {
+     "id": "PP-defensa-03",
+     "subtema": "Reserva voluntaria",
+     "cita": "DESARROLLAREMOS UN NUEVO MODELO DE RESERVA MILITAR VOLUNTARIA que mejore las capacidades operativas",
+     "pagina": 103,
+     "postura": "Crear un nuevo modelo de reserva militar voluntaria.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "reserva voluntaria",
+      "reservistas",
+      "defensa nacional",
+      "Fuerzas Armadas",
+      "carrera militar"
+     ]
+    },
+    {
+     "id": "PP-defensa-04",
+     "subtema": "Industria de defensa",
+     "cita": "Priorizaremos la inversión en España, promoviendo que el suministro de material de defensa se realice por nuestras empresas o con aliados.",
+     "pagina": 103,
+     "postura": "Priorizar empresas españolas y aliadas en la compra de material de defensa.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "industria de defensa",
+      "programas especiales de armamento",
+      "compras militares",
+      "inversión",
+      "I+D"
+     ]
+    },
+    {
+     "id": "PP-defensa-05",
+     "subtema": "Estrategia de seguridad",
+     "cita": "España necesita definir una Estrategia Nacional de Seguridad y Defensa que identifique el interés nacional",
+     "pagina": 103,
+     "postura": "Definir una Estrategia Nacional de Seguridad y Defensa.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Estrategia de Seguridad Nacional",
+      "defensa",
+      "interés nacional",
+      "seguridad",
+      "planificación"
+     ]
+    },
+    {
+     "id": "PP-defensa-06",
+     "subtema": "Defensa europea",
+     "cita": "IMPULSAREMOS UNA AUTONOMÍA ESTRATÉGICA ABIERTA que desarrolle una Europa de la seguridad y la defensa, así como una base industrial y tecnológica europea, complementaria de la Alianza Atlántica.",
+     "pagina": 99,
+     "postura": "Impulsar la defensa europea complementaria de la OTAN.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "defensa europea",
+      "autonomía estratégica",
+      "OTAN",
+      "Unión Europea",
+      "industria europea"
+     ]
+    },
+    {
+     "id": "PP-defensa-07",
+     "subtema": "Ciberdefensa",
+     "cita": "PROMOVEREMOS LA SEGURIDAD EN EL CIBERESPACIO Y LA SOBERANÍA DIGITAL dotando al Estado de los recursos técnicos y humanos adecuados.",
+     "pagina": 103,
+     "postura": "Dotar al Estado de recursos para la seguridad en el ciberespacio.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ciberdefensa",
+      "ciberespacio",
+      "soberanía digital",
+      "Mando Conjunto del Ciberespacio",
+      "seguridad"
+     ]
+    },
+    {
+     "id": "PP-defensa-08",
+     "subtema": "Aeroespacial",
+     "cita": "PROMOVEREMOS UNA ESTRATEGIA INDUSTRIAL Y TECNOLÓGICA PARA LOS SECTORES AEROESPACIAL Y DEFENSA",
+     "pagina": 26,
+     "postura": "Aprobar una estrategia industrial aeroespacial y de defensa a 10-15 años.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "aeroespacial",
+      "industria de defensa",
+      "Agencia Espacial",
+      "tecnología",
+      "Ministerio de Defensa"
+     ]
+    },
+    {
+     "id": "PP-defensa-09",
+     "subtema": "Años de servicio",
+     "cita": "Se computarán los años de servicio en las Fuerzas Armadas para todas las ofertas públicas de empleo",
+     "pagina": 103,
+     "postura": "Valorar los años de servicio militar en todas las oposiciones públicas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "militares",
+      "ofertas de empleo público",
+      "reincorporación",
+      "tropa y marinería",
+      "oposiciones"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "cultura",
+   "sin_contenido": false,
+   "posicion_general": "Propone nuevas leyes de mecenazgo y de patrimonio cultural, agilizar el 2% cultural, reforzar el Instituto Cervantes y completar el Estatuto del Artista. Plantea subvenciones culturales más objetivas, apoyo al audiovisual y videojuegos, fomento de la lectura, un Centro Nacional de la Danza y una ley de profesiones del deporte.",
+   "posicionamientos": [
+    {
+     "id": "PP-cultura-01",
+     "subtema": "Mecenazgo",
+     "cita": "APROBAREMOS UNA NUEVA LEY DE MECENAZGO para impulsar las industrias e instituciones culturales.",
+     "pagina": 106,
+     "postura": "Aprobar una nueva ley de mecenazgo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "mecenazgo",
+      "incentivos fiscales",
+      "industrias culturales",
+      "patrocinio",
+      "donaciones"
+     ]
+    },
+    {
+     "id": "PP-cultura-02",
+     "subtema": "Patrimonio",
+     "cita": "IMPULSAREMOS UNA NUEVA LEY DE PATRIMONIO CULTURAL para modernizar y refundir la legislación vigente en patrimonio.",
+     "pagina": 106,
+     "postura": "Aprobar una nueva ley de patrimonio cultural.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "patrimonio histórico",
+      "Ley de Patrimonio",
+      "patrimonio cultural",
+      "protección",
+      "subacuático"
+     ]
+    },
+    {
+     "id": "PP-cultura-03",
+     "subtema": "2% cultural",
+     "cita": "Agilizaremos la convocatoria y ejecución del 2% cultural destinado a la conservación y protección de nuestro patrimonio",
+     "pagina": 106,
+     "postura": "Agilizar el 2% cultural con partida para municipios rurales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "2% cultural",
+      "conservación",
+      "patrimonio",
+      "municipios rurales",
+      "rehabilitación"
+     ]
+    },
+    {
+     "id": "PP-cultura-04",
+     "subtema": "Instituto Cervantes",
+     "cita": "REFORZAREMOS EL INSTITUTO CERVANTES como el mayor organismo cultural del mundo en lengua española",
+     "pagina": 106,
+     "postura": "Reforzar el Instituto Cervantes y ampliar sus sedes.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Instituto Cervantes",
+      "español",
+      "lengua española",
+      "sedes",
+      "acción cultural exterior"
+     ]
+    },
+    {
+     "id": "PP-cultura-05",
+     "subtema": "Estatuto del Artista",
+     "cita": "VAMOS A COMPLETAR Y MEJORAR EL ESTATUTO DEL ARTISTA, con medidas como la simpli- ficación del nuevo régimen de prestación de desempleo o modernizando el sistema de jubilación",
+     "pagina": 107,
+     "postura": "Completar el Estatuto del Artista en desempleo, jubilación e incentivos fiscales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Estatuto del Artista",
+      "artistas",
+      "desempleo",
+      "jubilación",
+      "intermitencia"
+     ]
+    },
+    {
+     "id": "PP-cultura-06",
+     "subtema": "Subvenciones culturales",
+     "cita": "Dotaremos de mayor objetividad, transparencia y agilidad al procedimiento de concesión de subvenciones culturales.",
+     "pagina": 106,
+     "postura": "Hacer más objetiva y transparente la concesión de subvenciones culturales.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "subvenciones culturales",
+      "transparencia",
+      "bono cultural",
+      "ayudas",
+      "concurrencia"
+     ]
+    },
+    {
+     "id": "PP-cultura-07",
+     "subtema": "Audiovisual",
+     "cita": "Desarrollaremos nuevas líneas de financiación y potenciaremos el papel de España en el sector cinematográfico internacional",
+     "pagina": 107,
+     "postura": "Crear nuevas líneas de financiación al cine y atraer rodajes; apoyar videojuegos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "cine",
+      "audiovisual",
+      "rodajes",
+      "videojuegos",
+      "Ley del Cine"
+     ]
+    },
+    {
+     "id": "PP-cultura-08",
+     "subtema": "Lectura",
+     "cita": "DAREMOS UN MAYOR IMPULSO A LOS PLANES DE FOMENTO DE LA LECTURA, especialmente a los programas específicos de lectura infantil y juvenil",
+     "pagina": 108,
+     "postura": "Impulsar planes de fomento de la lectura y mejora de bibliotecas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "lectura",
+      "bibliotecas",
+      "libro",
+      "sector editorial",
+      "archivos"
+     ]
+    },
+    {
+     "id": "PP-cultura-09",
+     "subtema": "Danza",
+     "cita": "PROMOVEREMOS FÓRMULAS DE MECENAZGO PARA LA CREACIÓN DE UN CENTRO NACIONAL DE LA DANZA",
+     "pagina": 108,
+     "postura": "Crear un Centro Nacional de la Danza mediante mecenazgo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "danza",
+      "Centro Nacional de la Danza",
+      "artes escénicas",
+      "INAEM",
+      "Ballet Nacional"
+     ]
+    },
+    {
+     "id": "PP-cultura-10",
+     "subtema": "Profesiones del deporte",
+     "cita": "trabajaremos en una Ley que regule el ejercicio de las profesiones del deporte, estableciendo un marco que garantice la igualdad en el conjunto del territorio nacional.",
+     "pagina": 110,
+     "postura": "Aprobar una ley estatal de profesiones del deporte.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "deporte",
+      "profesiones del deporte",
+      "Ley del Deporte",
+      "deportistas",
+      "federaciones"
+     ]
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,274 @@
+{
+  "party": "VOX",
+  "promesas": [
+    {
+      "id": "VOX-01",
+      "cita": "Reformaremos tanto del Código Penal como de las Leyes de Enjuiciamien- to Criminal y Civil para proteger real y efectivamente a los propietarios que sufren la acción de las mafias de ocupa- ción o la entrada ilegal de un okupa en su vivienda.",
+      "pagina": 40,
+      "resumen": "Reformar el Código Penal y las leyes de Enjuiciamiento Criminal y Civil contra la ocupación ilegal de viviendas.",
+      "objeto": "Código Penal, LECrim y LEC sobre okupación",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "okupación",
+        "Código Penal",
+        "Ley de Enjuiciamiento Civil",
+        "Ley de Enjuiciamiento Criminal",
+        "usurpación",
+        "desalojo"
+      ]
+    },
+    {
+      "id": "VOX-02",
+      "cita": "Creare- mos un registro de datos históricos de zonas afectadas por la ocupación",
+      "pagina": 40,
+      "resumen": "Crear un registro de datos históricos de zonas afectadas por la ocupación ilegal.",
+      "objeto": "Registro de zonas afectadas por okupación",
+      "tipo": "ejecutiva",
+      "direccion": "crear_ampliar",
+      "competencia": "indirecta",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "registro okupación",
+        "okupación",
+        "ocupación ilegal",
+        "datos ocupación"
+      ]
+    },
+    {
+      "id": "VOX-03",
+      "cita": "Eximiremos a los pro- pietarios de inmuebles okupados ilegalmente del pago del IBI durante el periodo de ocupación ilegal del inmueble.",
+      "pagina": 40,
+      "resumen": "Eximir del IBI a los propietarios durante el tiempo en que su inmueble esté okupado ilegalmente.",
+      "objeto": "IBI de inmuebles okupados",
+      "tipo": "legislativa",
+      "direccion": "reducir_suprimir",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "IBI",
+        "okupación",
+        "exención",
+        "haciendas locales",
+        "vivienda ocupada"
+      ]
+    },
+    {
+      "id": "VOX-04",
+      "cita": "Impulsare- mos una nueva Ley del Suelo que prevea la liberación del suelo secuestrado por ayuntamientos y comunidades autó- nomas",
+      "pagina": 40,
+      "resumen": "Aprobar una nueva Ley del Suelo que libere suelo edificable retenido por ayuntamientos y comunidades autónomas.",
+      "objeto": "Nueva Ley del Suelo",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "ley del suelo",
+        "suelo edificable",
+        "liberalización suelo",
+        "urbanismo",
+        "suelo urbanizable"
+      ]
+    },
+    {
+      "id": "VOX-05",
+      "cita": "Modificaremos la Ley del Impuesto sobre el Valor Añadido con el fin de eliminar el IVA en la adquisición de la primera vivienda habitual.",
+      "pagina": 40,
+      "resumen": "Suprimir el IVA en la compra de la primera vivienda habitual.",
+      "objeto": "IVA en compra de primera vivienda",
+      "tipo": "legislativa",
+      "direccion": "reducir_suprimir",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "IVA vivienda",
+        "primera vivienda",
+        "Ley del IVA",
+        "compra vivienda",
+        "tipo superreducido"
+      ]
+    },
+    {
+      "id": "VOX-06",
+      "cita": "Recuperaremos la deducción por vivienda habitual en la declaración de la Renta.",
+      "pagina": 40,
+      "resumen": "Recuperar la deducción por inversión en vivienda habitual en el IRPF.",
+      "objeto": "Deducción IRPF por vivienda habitual",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "deducción vivienda habitual",
+        "IRPF",
+        "hipoteca",
+        "compra vivienda",
+        "renta"
+      ]
+    },
+    {
+      "id": "VOX-07",
+      "cita": "Revisaremos y rebajaremos los tributos y cargas en el pro- ceso edificatorio.",
+      "pagina": 41,
+      "resumen": "Reducir los tributos y cargas que gravan el proceso de construcción de vivienda.",
+      "objeto": "Tributos sobre el proceso edificatorio",
+      "tipo": "legislativa",
+      "direccion": "reducir_suprimir",
+      "competencia": "directa",
+      "verificabilidad": "baja",
+      "palabras_clave": [
+        "tributos construcción",
+        "licencias",
+        "ICIO",
+        "fiscalidad vivienda",
+        "edificación"
+      ]
+    },
+    {
+      "id": "VOX-08",
+      "cita": "Movilizaremos el suelo público perteneciente a la Administración General del Estado y los organismos de ella dependientes para la pro- moción de vivienda en alquiler social.",
+      "pagina": 41,
+      "resumen": "Destinar suelo público estatal a la promoción de vivienda en alquiler social.",
+      "objeto": "Suelo público estatal para alquiler social",
+      "tipo": "ejecutiva",
+      "direccion": "crear_ampliar",
+      "competencia": "indirecta",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "suelo público",
+        "alquiler social",
+        "vivienda pública",
+        "SEPES",
+        "Administración General del Estado"
+      ]
+    },
+    {
+      "id": "VOX-09",
+      "cita": "Habilitaremos una pla- taforma auditada de peticiones para que, manteniendo la SAREB la titularidad de los activos, sean los Ayuntamientos los que soliciten a la SAREB",
+      "pagina": 41,
+      "resumen": "Crear una plataforma para que los ayuntamientos soliciten a la SAREB cesión temporal de activos para alquiler social.",
+      "objeto": "Cesión de activos de la SAREB a ayuntamientos",
+      "tipo": "ejecutiva",
+      "direccion": "crear_ampliar",
+      "competencia": "indirecta",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "SAREB",
+        "alquiler social",
+        "ayuntamientos",
+        "cesión viviendas",
+        "vivienda social"
+      ]
+    },
+    {
+      "id": "VOX-10",
+      "cita": "Modificaremos la Ley Reguladora de las Bases del Régimen Local y elaboraremos una nueva resolución por la que se dicten las instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal al objeto de impedir que un okupa pue- da empadronarse",
+      "pagina": 41,
+      "resumen": "Modificar la Ley de Bases del Régimen Local y las instrucciones del padrón para impedir empadronar a okupas.",
+      "objeto": "Empadronamiento de okupas en LBRL",
+      "tipo": "legislativa",
+      "direccion": "reducir_suprimir",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "padrón",
+        "empadronamiento okupas",
+        "Ley de Bases del Régimen Local",
+        "okupación",
+        "ocupación ilegal"
+      ]
+    },
+    {
+      "id": "VOX-11",
+      "cita": "Acabaremos con la expropiación temporal de inmuebles y con el control de rentas en el contrato de arrendamiento pues- tos en marcha en los últimos años por distintas regiones.",
+      "pagina": 42,
+      "resumen": "Suprimir la expropiación temporal de viviendas y el control de rentas del alquiler aplicados por comunidades autónomas.",
+      "objeto": "Control de rentas y expropiación temporal de viviendas",
+      "tipo": "legislativa",
+      "direccion": "reducir_suprimir",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "control de alquiler",
+        "topes alquiler",
+        "expropiación viviendas",
+        "arrendamientos urbanos",
+        "zonas tensionadas"
+      ]
+    },
+    {
+      "id": "VOX-12",
+      "cita": "Impulsaremos la homogeneización de la normativa turís- tica en materia de viviendas con fines turísticos para toda España.",
+      "pagina": 42,
+      "resumen": "Homogeneizar en toda España la normativa sobre viviendas de uso turístico.",
+      "objeto": "Normativa de viviendas de uso turístico",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "ninguna",
+      "verificabilidad": "baja",
+      "palabras_clave": [
+        "pisos turísticos",
+        "viviendas de uso turístico",
+        "alquiler turístico",
+        "normativa turística"
+      ]
+    },
+    {
+      "id": "VOX-13",
+      "cita": "Fomentaremos que los propietarios pongan sus viviendas vacías en alquiler a través del incremento de los beneficios fiscales a las rentas de alquiler para los arrendadores.",
+      "pagina": 42,
+      "resumen": "Aumentar los beneficios fiscales de los arrendadores para movilizar viviendas vacías al alquiler.",
+      "objeto": "Beneficios fiscales a rentas de alquiler",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "reducción rendimientos alquiler",
+        "IRPF",
+        "viviendas vacías",
+        "arrendadores",
+        "beneficios fiscales alquiler"
+      ]
+    },
+    {
+      "id": "VOX-14",
+      "cita": "Derogaremos la Ley por el derecho a la vivienda aprobada por el gobierno de Sánchez,",
+      "pagina": 43,
+      "resumen": "Derogar la Ley 12/2023 por el derecho a la vivienda.",
+      "objeto": "Ley 12/2023 por el derecho a la vivienda",
+      "tipo": "legislativa",
+      "direccion": "derogar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "ley vivienda",
+        "derogación",
+        "Ley 12/2023",
+        "derecho a la vivienda",
+        "alquiler"
+      ]
+    },
+    {
+      "id": "VOX-15",
+      "cita": "Extenderemos a toda la Nación la deducción por costes de alquiler en el IRPF para que todos los es- pañoles con contratos de alquiler puedan deducirse parte de su coste",
+      "pagina": 75,
+      "resumen": "Crear una deducción estatal en el IRPF por el alquiler de vivienda para todos los inquilinos.",
+      "objeto": "Deducción IRPF por alquiler de vivienda",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "deducción alquiler",
+        "IRPF",
+        "inquilinos",
+        "alquiler vivienda habitual",
+        "renta"
+      ]
+    }
+  ]
+}

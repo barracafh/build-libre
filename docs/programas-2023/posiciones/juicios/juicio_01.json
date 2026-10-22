@@ -1,0 +1,3140 @@
+[
+ {
+  "key": "P01-000",
+  "relaciones": [
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-109",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-108",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-001",
+  "relaciones": [
+   {
+    "id": "106-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-7",
+    "relacion": "relacionada",
+    "motivo": "Pide impulsar el consumo de productos de proximidad, sin fijar compra pública."
+   },
+   {
+    "id": "23-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-002",
+  "relaciones": [
+   {
+    "id": "23-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-003",
+  "relaciones": [
+   {
+    "id": "142-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: revisión integral del marco PAC, no su aplicación y evaluación."
+   },
+   {
+    "id": "142-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: orientación de fondos PAC, sin evaluar la PAC 2023-2027."
+   },
+   {
+    "id": "142-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "148-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-7",
+    "relacion": "relacionada",
+    "motivo": "Incluye puntos sobre la PAC futura, no sobre aplicar la actual."
+   }
+  ]
+ },
+ {
+  "key": "P01-004",
+  "relaciones": [
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-42",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-005",
+  "relaciones": [
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "relacionada",
+    "motivo": "Punto 15: mapa agronómico de usos de la tierra según agua disponible."
+   },
+   {
+    "id": "29-47",
+    "relacion": "relacionada",
+    "motivo": "Punto 14: nuevo Plan Hidrológico con eficiencia hídrica."
+   },
+   {
+    "id": "29-46",
+    "relacion": "relacionada",
+    "motivo": "Punto 13: moratoria de regadíos hiperintensivos; no trata modernización ni agua desalada."
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-42",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-006",
+  "relaciones": [
+   {
+    "id": "23-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: más inspección fronteriza, sin revisar acuerdos."
+   },
+   {
+    "id": "23-8",
+    "relacion": "avanza",
+    "motivo": "Punto 6: cláusulas espejo en importaciones agrarias."
+   },
+   {
+    "id": "23-7",
+    "relacion": "avanza",
+    "motivo": "Punto 5: cupos, aranceles compensatorios y precios de entrada frente a terceros."
+   },
+   {
+    "id": "23-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: reciprocidad y controles del acuerdo con Marruecos."
+   },
+   {
+    "id": "23-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: prohibir importaciones tratadas con fitosanitarios vetados."
+   },
+   {
+    "id": "23-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: reorientar la PAC hacia la soberanía alimentaria."
+   },
+   {
+    "id": "23-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-007",
+  "relaciones": [
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-42",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-008",
+  "relaciones": [
+   {
+    "id": "139-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-13",
+    "relacion": "avanza",
+    "motivo": "Punto 6: moratoria de eólica marina hasta evaluar impactos en la pesca."
+   },
+   {
+    "id": "139-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-009",
+  "relaciones": [
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "relacionada",
+    "motivo": "Punto 13: moratoria a regadíos de fondos de inversión, no a compra de tierras."
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-42",
+    "relacion": "avanza",
+    "motivo": "Punto 9: producción cooperativa en tierras agrícolas de la SAREB."
+   }
+  ]
+ },
+ {
+  "key": "P01-010",
+  "relaciones": [
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-42",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-011",
+  "relaciones": [
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: PAC autónoma con presupuesto propio, no revisión del plan."
+   },
+   {
+    "id": "136-109",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-108",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: revisar normativa con impacto negativo en el mundo rural."
+   }
+  ]
+ },
+ {
+  "key": "P01-012",
+  "relaciones": [
+   {
+    "id": "139-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-013",
+  "relaciones": [
+   {
+    "id": "36-2",
+    "relacion": "avanza",
+    "motivo": "Ley sobre cohabitación del lobo con la ganadería extensiva."
+   },
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "relacionada",
+    "motivo": "Punto 13: moratoria a macrogranjas exceptuando ganadería familiar."
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "relacionada",
+    "motivo": "Punto 10: orientar la PAC a pequeñas explotaciones familiares."
+   }
+  ]
+ },
+ {
+  "key": "P01-014",
+  "relaciones": [
+   {
+    "id": "23-9",
+    "relacion": "avanza",
+    "motivo": "Punto 7: más personal en puestos de inspección fronterizos."
+   },
+   {
+    "id": "23-8",
+    "relacion": "cumple",
+    "motivo": "Punto 6: reciprocidad mediante cláusulas espejo en importaciones."
+   },
+   {
+    "id": "23-7",
+    "relacion": "avanza",
+    "motivo": "Punto 5: control de importaciones extracomunitarias por competencia desleal."
+   },
+   {
+    "id": "23-6",
+    "relacion": "cumple",
+    "motivo": "Punto 4: reciprocidad y controles para que importaciones cumplan normas UE."
+   },
+   {
+    "id": "23-5",
+    "relacion": "avanza",
+    "motivo": "Punto 3: prohibir importaciones tratadas con fitosanitarios prohibidos en la UE."
+   },
+   {
+    "id": "23-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-015",
+  "relaciones": [
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: presupuesto PAC autónomo, no revisión del plan estratégico."
+   },
+   {
+    "id": "136-109",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: rentabilidad rural mediante fiscalidad agraria, no vía PAC."
+   },
+   {
+    "id": "136-108",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: revisar normativa con impacto negativo en el mundo rural."
+   }
+  ]
+ },
+ {
+  "key": "P01-016",
+  "relaciones": [
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-42",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-017",
+  "relaciones": [
+   {
+    "id": "23-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-018",
+  "relaciones": [
+   {
+    "id": "106-12",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: remuneración justa en la cadena, sin defensoría ni sanciones."
+   },
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-019",
+  "relaciones": [
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-109",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-108",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-020",
+  "relaciones": [
+   {
+    "id": "106-12",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: remuneración justa en la cadena alimentaria."
+   },
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-021",
+  "relaciones": [
+   {
+    "id": "139-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-7",
+    "relacion": "avanza",
+    "motivo": "Punto 9: defender el sector pesquero y oponerse al recorte de fondos UE."
+   },
+   {
+    "id": "139-9",
+    "relacion": "avanza",
+    "motivo": "Punto 2: reconocer Galicia como zona de alta dependencia pesquera."
+   },
+   {
+    "id": "139-8",
+    "relacion": "avanza",
+    "motivo": "Punto 1: revisar la Política Pesquera Común y la estabilidad relativa."
+   },
+   {
+    "id": "139-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-14",
+    "relacion": "avanza",
+    "motivo": "Punto 7: aumentar TAC de sardina y negociar reparto con Portugal."
+   }
+  ]
+ },
+ {
+  "key": "P01-022",
+  "relaciones": [
+   {
+    "id": "139-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-023",
+  "relaciones": [
+   {
+    "id": "36-2",
+    "relacion": "avanza",
+    "motivo": "Ley para permitir la gestión y control del lobo; no consta su salida del LESPRE."
+   },
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-024",
+  "relaciones": [
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "relacionada",
+    "motivo": "Punto 15: apoyo a pequeñas y medianas explotaciones ante la crisis climática."
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "relacionada",
+    "motivo": "Punto 13: moratoria que exceptúa a la ganadería familiar."
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "relacionada",
+    "motivo": "Punto 10: orientar fondos PAC a explotaciones familiares, sin ley."
+   },
+   {
+    "id": "29-42",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-025",
+  "relaciones": [
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-42",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-026",
+  "relaciones": [
+   {
+    "id": "148-2",
+    "relacion": "relacionada",
+    "motivo": "Defensa del presupuesto PAC y ayudas a profesionales, sin derechos históricos."
+   },
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: PAC autónoma con presupuesto propio."
+   },
+   {
+    "id": "136-109",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-027",
+  "relaciones": [
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "relacionada",
+    "motivo": "Punto 15: redefinir usos de la tierra según recursos hídricos."
+   },
+   {
+    "id": "29-47",
+    "relacion": "relacionada",
+    "motivo": "Punto 14: nuevo Plan Hidrológico con eficiencia hídrica."
+   },
+   {
+    "id": "29-46",
+    "relacion": "avanza",
+    "motivo": "Punto 13: moratoria a nuevos regadíos en cuencas con sequía."
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-42",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-028",
+  "relaciones": [
+   {
+    "id": "148-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: zona de alta dependencia pesquera con acceso a cuotas."
+   },
+   {
+    "id": "139-8",
+    "relacion": "avanza",
+    "motivo": "Punto 1: revisar la estabilidad relativa que fija el reparto de cuotas."
+   },
+   {
+    "id": "139-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-14",
+    "relacion": "avanza",
+    "motivo": "Punto 7: reparto equilibrado de cuota de sardina; pide aumentar TAC."
+   },
+   {
+    "id": "139-13",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-029",
+  "relaciones": [
+   {
+    "id": "95-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: denunciar el Acuerdo de París."
+   },
+   {
+    "id": "95-8",
+    "relacion": "avanza",
+    "motivo": "Punto 1: rechazar el Pacto Verde y revertir sus políticas, más allá de flexibilizar."
+   },
+   {
+    "id": "95-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "95-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "95-14",
+    "relacion": "avanza",
+    "motivo": "Punto 7: eliminar trabas burocráticas de la agenda verde."
+   },
+   {
+    "id": "95-13",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: conservación compatible con el sector primario."
+   },
+   {
+    "id": "95-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "95-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-030",
+  "relaciones": [
+   {
+    "id": "23-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: cláusulas espejo, sin aranceles específicos a Marruecos."
+   },
+   {
+    "id": "23-7",
+    "relacion": "avanza",
+    "motivo": "Punto 5: aranceles compensatorios y cupos a importaciones extracomunitarias."
+   },
+   {
+    "id": "23-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: controles en frontera especialmente con Marruecos."
+   },
+   {
+    "id": "23-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-031",
+  "relaciones": [
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "relacionada",
+    "motivo": "Punto 15: redefinir usos de la tierra según recursos hídricos."
+   },
+   {
+    "id": "29-47",
+    "relacion": "relacionada",
+    "motivo": "Punto 14: nuevo Plan Hidrológico con eficiencia hídrica."
+   },
+   {
+    "id": "29-46",
+    "relacion": "contradice",
+    "motivo": "Punto 13: moratoria a nuevos regadíos en cuencas con sequía."
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-42",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-032",
+  "relaciones": [
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "relacionada",
+    "motivo": "Punto 15: redefinir usos de la tierra según recursos hídricos."
+   },
+   {
+    "id": "29-47",
+    "relacion": "relacionada",
+    "motivo": "Punto 14: nuevo Plan Hidrológico con eficiencia hídrica."
+   },
+   {
+    "id": "29-46",
+    "relacion": "contradice",
+    "motivo": "Punto 13: moratoria a nuevos regadíos en cuencas con sequía."
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-42",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-033",
+  "relaciones": [
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-42",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-034",
+  "relaciones": [
+   {
+    "id": "167-2",
+    "relacion": "avanza",
+    "motivo": "Ley de seguros agrarios sobre ingresos y rentas; sequía en regadío no consta."
+   },
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-035",
+  "relaciones": [
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-109",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-108",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-036",
+  "relaciones": [
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-43",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-42",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-037",
+  "relaciones": [
+   {
+    "id": "23-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-038",
+  "relaciones": [
+   {
+    "id": "82-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-66",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-039",
+  "relaciones": [
+   {
+    "id": "88-66",
+    "relacion": "avanza",
+    "motivo": "Pide un Plan Nacional del Agua y nuevos embalses, sin pacto."
+   },
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "avanza",
+    "motivo": "Punto 6: Pacto Nacional del Agua, sin nuevo plan hidrológico."
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-109",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-040",
+  "relaciones": [
+   {
+    "id": "195-1",
+    "relacion": "relacionada",
+    "motivo": "Medidas laborales y sociales frente a incendios, sin UME."
+   },
+   {
+    "id": "195-2",
+    "relacion": "relacionada",
+    "motivo": "Tramitación del decreto sobre incendios, sin UME."
+   },
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-041",
+  "relaciones": [
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-109",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-108",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-042",
+  "relaciones": [
+   {
+    "id": "88-66",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "71-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "91-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-043",
+  "relaciones": [
+   {
+    "id": "82-2",
+    "relacion": "relacionada",
+    "motivo": "Tasa municipal de residuos, ligada a gestión de residuos."
+   },
+   {
+    "id": "79-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-53",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-044",
+  "relaciones": [
+   {
+    "id": "195-1",
+    "relacion": "relacionada",
+    "motivo": "Protección laboral y social frente a incendios, no prevención."
+   },
+   {
+    "id": "195-2",
+    "relacion": "relacionada",
+    "motivo": "Tramitación del decreto sobre incendios."
+   },
+   {
+    "id": "56-32",
+    "relacion": "relacionada",
+    "motivo": "Ley de agentes forestales, vinculada a vigilancia de montes."
+   },
+   {
+    "id": "56-31",
+    "relacion": "relacionada",
+    "motivo": "Ley de agentes forestales, vinculada a vigilancia de montes."
+   },
+   {
+    "id": "56-30",
+    "relacion": "relacionada",
+    "motivo": "Ley de agentes forestales, vinculada a vigilancia de montes."
+   },
+   {
+    "id": "56-29",
+    "relacion": "relacionada",
+    "motivo": "Ley de agentes forestales, vinculada a vigilancia de montes."
+   },
+   {
+    "id": "56-8",
+    "relacion": "relacionada",
+    "motivo": "Enmienda a la ley de agentes forestales; texto no disponible."
+   },
+   {
+    "id": "56-7",
+    "relacion": "relacionada",
+    "motivo": "Enmienda a la ley de agentes forestales; texto no disponible."
+   }
+  ]
+ },
+ {
+  "key": "P01-045",
+  "relaciones": [
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-109",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-108",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-046",
+  "relaciones": [
+   {
+    "id": "82-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-047",
+  "relaciones": [
+   {
+    "id": "88-66",
+    "relacion": "avanza",
+    "motivo": "Plan Nacional del Agua solidario y nuevos embalses; no cita interconexión."
+   },
+   {
+    "id": "33-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: Pacto Nacional del Agua desde la solidaridad territorial."
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-048",
+  "relaciones": [
+   {
+    "id": "88-66",
+    "relacion": "cumple",
+    "motivo": "Punto 1.d: paralizar la demolición de presas existentes."
+   },
+   {
+    "id": "98-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-049",
+  "relaciones": [
+   {
+    "id": "116-1",
+    "relacion": "relacionada",
+    "motivo": "Propone modificar la Ley de Costas para preservar núcleos costeros."
+   },
+   {
+    "id": "91-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-66",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "160-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-050",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-051",
+  "relaciones": [
+   {
+    "id": "111-2",
+    "relacion": "relacionada",
+    "motivo": "Impuesto a emisiones de transporte de lujo, sin cambiar objetivos de la ley."
+   },
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-109",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-052",
+  "relaciones": [
+   {
+    "id": "79-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-52",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-053",
+  "relaciones": [
+   {
+    "id": "82-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-054",
+  "relaciones": [
+   {
+    "id": "111-2",
+    "relacion": "relacionada",
+    "motivo": "Crea un impuesto climático, sin tocar la Ley de cambio climático."
+   },
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-109",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-055",
+  "relaciones": [
+   {
+    "id": "88-66",
+    "relacion": "relacionada",
+    "motivo": "Plan Nacional del Agua, sin reformar la Ley de Aguas."
+   },
+   {
+    "id": "15-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "15-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: Pacto Nacional del Agua que garantice disponibilidad."
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-056",
+  "relaciones": [
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: descarbonización mediante agricultura del carbono."
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-109",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-108",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-057",
+  "relaciones": [
+   {
+    "id": "116-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-53",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-058",
+  "relaciones": [
+   {
+    "id": "111-2",
+    "relacion": "contradice",
+    "motivo": "Crea un nuevo impuesto por emisiones."
+   },
+   {
+    "id": "88-66",
+    "relacion": "cumple",
+    "motivo": "Pide poner fin y derogar políticas climáticas y suspender el comercio de emisiones."
+   },
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: impulsar la agricultura del carbono."
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-059",
+  "relaciones": [
+   {
+    "id": "111-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "116-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-060",
+  "relaciones": [
+   {
+    "id": "15-10",
+    "relacion": "relacionada",
+    "motivo": "Decreto con medidas contra la sequía; desalación no consta."
+   },
+   {
+    "id": "15-4",
+    "relacion": "relacionada",
+    "motivo": "Decreto con medidas contra la sequía; desalación no consta."
+   },
+   {
+    "id": "33-17",
+    "relacion": "relacionada",
+    "motivo": "Tramitación del proyecto con medidas contra la sequía."
+   },
+   {
+    "id": "88-66",
+    "relacion": "relacionada",
+    "motivo": "Plan Nacional del Agua y embalses, sin desalación."
+   },
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: Pacto Nacional del Agua."
+   }
+  ]
+ },
+ {
+  "key": "P01-061",
+  "relaciones": [
+   {
+    "id": "82-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-062",
+  "relaciones": [
+   {
+    "id": "88-66",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-109",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-063",
+  "relaciones": [
+   {
+    "id": "88-66",
+    "relacion": "relacionada",
+    "motivo": "Plan Nacional del Agua, sin autoridad nacional."
+   },
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: Pacto Nacional del Agua, sin autoridad nacional."
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-109",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-064",
+  "relaciones": [
+   {
+    "id": "195-1",
+    "relacion": "relacionada",
+    "motivo": "Medidas laborales frente a incendios, no ley de bomberos forestales."
+   },
+   {
+    "id": "56-32",
+    "relacion": "avanza",
+    "motivo": "Ley básica de agentes forestales; falta la de bomberos forestales."
+   },
+   {
+    "id": "56-31",
+    "relacion": "avanza",
+    "motivo": "Ley básica de agentes forestales; falta la de bomberos forestales."
+   },
+   {
+    "id": "56-30",
+    "relacion": "avanza",
+    "motivo": "Ley básica de agentes forestales; falta la de bomberos forestales."
+   },
+   {
+    "id": "56-29",
+    "relacion": "avanza",
+    "motivo": "Ley básica de agentes forestales; falta la de bomberos forestales."
+   },
+   {
+    "id": "56-8",
+    "relacion": "relacionada",
+    "motivo": "Enmienda a la ley de agentes forestales; texto no disponible."
+   },
+   {
+    "id": "56-7",
+    "relacion": "relacionada",
+    "motivo": "Enmienda a la ley de agentes forestales; texto no disponible."
+   },
+   {
+    "id": "56-18",
+    "relacion": "relacionada",
+    "motivo": "Enmienda a la ley de agentes forestales; texto no disponible."
+   }
+  ]
+ },
+ {
+  "key": "P01-065",
+  "relaciones": [
+   {
+    "id": "88-66",
+    "relacion": "avanza",
+    "motivo": "Punto 1: nuevas presas y limpieza de cauces frente a inundaciones."
+   },
+   {
+    "id": "85-11",
+    "relacion": "relacionada",
+    "motivo": "Decreto de respuesta a la DANA."
+   },
+   {
+    "id": "85-10",
+    "relacion": "relacionada",
+    "motivo": "Decreto de respuesta y reconstrucción tras la DANA."
+   },
+   {
+    "id": "88-87",
+    "relacion": "relacionada",
+    "motivo": "Decreto complementario de respuesta a la DANA."
+   },
+   {
+    "id": "88-86",
+    "relacion": "relacionada",
+    "motivo": "Decreto complementario de respuesta a la DANA."
+   },
+   {
+    "id": "151-17",
+    "relacion": "relacionada",
+    "motivo": "Decreto de reactivación y prevención; solo título."
+   },
+   {
+    "id": "151-16",
+    "relacion": "relacionada",
+    "motivo": "Decreto de reactivación y prevención; solo título."
+   },
+   {
+    "id": "82-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: modificar el Plan de Recuperación para zonas de la DANA."
+   }
+  ]
+ },
+ {
+  "key": "P01-066",
+  "relaciones": [
+   {
+    "id": "111-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-067",
+  "relaciones": [
+   {
+    "id": "79-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-52",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-068",
+  "relaciones": [
+   {
+    "id": "79-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-52",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-069",
+  "relaciones": [
+   {
+    "id": "88-66",
+    "relacion": "cumple",
+    "motivo": "Punto 3: revertir las políticas derivadas del Pacto Verde Europeo."
+   },
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-109",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-070",
+  "relaciones": [
+   {
+    "id": "160-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "195-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-071",
+  "relaciones": [
+   {
+    "id": "136-115",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-114",
+    "relacion": "avanza",
+    "motivo": "Punto 8: recompensar la agricultura del carbono; no cita mercado de emisiones."
+   },
+   {
+    "id": "136-113",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-112",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-111",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-110",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-109",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-108",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-072",
+  "relaciones": [
+   {
+    "id": "56-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-073",
+  "relaciones": [
+   {
+    "id": "88-66",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-20",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-074",
+  "relaciones": []
+ },
+ {
+  "key": "P01-075",
+  "relaciones": [
+   {
+    "id": "116-1",
+    "relacion": "cumple",
+    "motivo": "Reforma Costas para preservar núcleos e instalaciones en dominio público."
+   },
+   {
+    "id": "91-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "71-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "160-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-66",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-20",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-076",
+  "relaciones": [
+   {
+    "id": "116-1",
+    "relacion": "contradice",
+    "motivo": "Flexibiliza la Ley de Costas para mantener edificaciones en dominio público."
+   },
+   {
+    "id": "91-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-55",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-077",
+  "relaciones": [
+   {
+    "id": "195-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "195-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-60",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-078",
+  "relaciones": [
+   {
+    "id": "196-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "71-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-079",
+  "relaciones": [
+   {
+    "id": "135-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-080",
+  "relaciones": [
+   {
+    "id": "135-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-081",
+  "relaciones": [
+   {
+    "id": "188-20",
+    "relacion": "avanza",
+    "motivo": "Ley del Cine y la Cultura Audiovisual de fomento del sector."
+   },
+   {
+    "id": "188-19",
+    "relacion": "avanza",
+    "motivo": "Ley del Cine y la Cultura Audiovisual de fomento del sector."
+   }
+  ]
+ },
+ {
+  "key": "P01-082",
+  "relaciones": [
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "135-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "115-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-083",
+  "relaciones": [
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "135-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "relacionada",
+    "motivo": "Ley del Cine que regula ayudas al sector audiovisual."
+   },
+   {
+    "id": "188-19",
+    "relacion": "relacionada",
+    "motivo": "Ley del Cine que regula ayudas al sector audiovisual."
+   },
+   {
+    "id": "106-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-58",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P01-084",
+  "relaciones": [
+   {
+    "id": "135-1",
+    "relacion": "contradice",
+    "motivo": "Iniciativa para derogar la ley de la Tauromaquia como patrimonio cultural."
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   }
+  ]
+ }
+]

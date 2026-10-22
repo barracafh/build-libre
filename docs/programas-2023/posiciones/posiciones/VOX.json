@@ -1,0 +1,3142 @@
+{
+ "party": "VOX",
+ "temas": [
+  {
+   "tema": "impuestos",
+   "sin_contenido": false,
+   "posicion_general": "Propone una reforma fiscal con bajada generalizada de impuestos: IRPF con tipos del 15% y 25%, Sociedades al 15%, rebaja del IVA, supresión de Patrimonio, Sucesiones y Plusvalías, recaudación centralizada en la AEAT y presupuestos de base cero con reducción del gasto político.",
+   "posicionamientos": [
+    {
+     "id": "VOX-impuestos-01",
+     "subtema": "IRPF tipo único",
+     "cita": "progresiva y continuada del IRPF a un tipo único reducido del 15% a aplicar sobre bases imponibles inferiores a 70.000 euros y un tipo ordinario del 25% a aplicar a bases imponi- bles superiores a dicha cantidad",
+     "pagina": 75,
+     "postura": "Simplificar el IRPF a dos tipos, 15% hasta 70.000 euros y 25% por encima.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "IRPF",
+      "tipo único",
+      "rebaja fiscal",
+      "tramos",
+      "impuesto sobre la renta"
+     ]
+    },
+    {
+     "id": "VOX-impuestos-02",
+     "subtema": "IVA",
+     "cita": "Revertiremos la subida de IVA realizada en 2012, la mayor subida del IVA del mundo que fue perpetrada por el PP, pasando de nuevo el tipo reducido al 8% y el tipo general al 18%.",
+     "pagina": 76,
+     "postura": "Bajar el IVA general al 18% y el reducido al 8%.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "IVA",
+      "tipo general",
+      "tipo reducido",
+      "rebaja de impuestos",
+      "consumo"
+     ]
+    },
+    {
+     "id": "VOX-impuestos-03",
+     "subtema": "Impuesto de Sociedades",
+     "cita": "Impuesto de Sociedades: reducción del tipo progresi- va y continuada en la legislatura hasta alcanzar el 15% y simplificación del Impuesto sobre Sociedades",
+     "pagina": 77,
+     "postura": "Reducir el tipo del Impuesto de Sociedades hasta el 15%.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Impuesto de Sociedades",
+      "empresas",
+      "tipo impositivo",
+      "rebaja fiscal",
+      "beneficios"
+     ]
+    },
+    {
+     "id": "VOX-impuestos-04",
+     "subtema": "Patrimonio y Sucesiones",
+     "cita": "Suprimiremos el Impuesto sobre el Patrimonio, el Im- puesto sobre Sucesiones y Donaciones y Plusvalías mu- nicipales en todo el territorio nacional",
+     "pagina": 77,
+     "postura": "Suprimir los impuestos de Patrimonio, Sucesiones y Donaciones y la plusvalía municipal en toda España.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Impuesto sobre el Patrimonio",
+      "Sucesiones y Donaciones",
+      "plusvalía municipal",
+      "supresión",
+      "grandes fortunas"
+     ]
+    },
+    {
+     "id": "VOX-impuestos-05",
+     "subtema": "deducción por hijo",
+     "cita": "Aprobaremos una nueva deducción por nacimien- to o adopción en el IRPF, por un importe de 1.200 euros para el primer hijo",
+     "pagina": 76,
+     "postura": "Crear una deducción en el IRPF por nacimiento o adopción desde 1.200 euros por hijo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "deducción",
+      "nacimiento",
+      "IRPF",
+      "natalidad",
+      "familias",
+      "adopción"
+     ]
+    },
+    {
+     "id": "VOX-impuestos-06",
+     "subtema": "AJD e ITP",
+     "cita": "reduciremos el tipo general del 1,5% al 0,5% del AJD para fomentar la transmi- sión de bienes inmuebles",
+     "pagina": 77,
+     "postura": "Bajar el tipo general de Actos Jurídicos Documentados del 1,5% al 0,5%.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Actos Jurídicos Documentados",
+      "ITP",
+      "transmisiones patrimoniales",
+      "vivienda",
+      "impuestos cedidos"
+     ]
+    },
+    {
+     "id": "VOX-impuestos-07",
+     "subtema": "agencias tributarias",
+     "cita": "la gestión y recaudación de todos los tributos estatales, cedidos o no, se realizará por la AEAT, poniendo fin a la proliferación de Agencias tributarias regionales",
+     "pagina": 78,
+     "postura": "Centralizar en la AEAT la gestión de todos los tributos estatales y suprimir las agencias tributarias autonómicas.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Agencia Tributaria",
+      "AEAT",
+      "agencias tributarias autonómicas",
+      "tributos cedidos",
+      "recaudación"
+     ]
+    },
+    {
+     "id": "VOX-impuestos-08",
+     "subtema": "presupuestos y deuda",
+     "cita": "elaboraremos presupuestos de base 0, marcando como objetivo la eliminación progresiva del déficit y de la deuda pública",
+     "pagina": 74,
+     "postura": "Elaborar presupuestos de base cero y eliminar progresivamente déficit y deuda.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "presupuestos",
+      "base cero",
+      "déficit",
+      "deuda pública",
+      "gasto público",
+      "estabilidad"
+     ]
+    },
+    {
+     "id": "VOX-impuestos-09",
+     "subtema": "evasión fiscal",
+     "cita": "lucharemos contra la evasión y la elusión fiscal, especialmente de multinacionales y gigantes de inter- net.",
+     "pagina": 84,
+     "postura": "Combatir la evasión y elusión fiscal de multinacionales y plataformas de internet.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "evasión fiscal",
+      "elusión",
+      "multinacionales",
+      "paraísos fiscales",
+      "fraude fiscal"
+     ]
+    },
+    {
+     "id": "VOX-impuestos-10",
+     "subtema": "dinero en efectivo",
+     "cita": "Defenderemos el derecho de los españoles a utilizar la mone- da en curso legal, en billetes y monedas, oponiéndonos a la eliminación del dinero en efectivo.",
+     "pagina": 85,
+     "postura": "Mantener el uso del dinero en efectivo y rechazar su eliminación.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "dinero en efectivo",
+      "pagos en efectivo",
+      "limitación",
+      "billetes",
+      "pagos electrónicos"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "social",
+   "sin_contenido": false,
+   "posicion_general": "Plantea reforzar dependencia, residencias y atención a la soledad, establecer la prioridad nacional en ayudas sociales y vivienda, crear un Ministerio de Familia con un plan de natalidad, proteger la vivienda familiar frente a embargos y limitar las casas de apuestas.",
+   "posicionamientos": [
+    {
+     "id": "VOX-social-01",
+     "subtema": "dependencia",
+     "cita": "reforzando las parti- das a la dependencia, las ayudas para el cuidado en el hogar, el apoyo a familiares a cargo, aumentando las plazas en resi- dencias y los programas de atención a la soledad no deseada.",
+     "pagina": 64,
+     "postura": "Aumentar las partidas de dependencia, las plazas en residencias y la atención a la soledad no deseada.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "dependencia",
+      "residencias",
+      "cuidados",
+      "soledad no deseada",
+      "mayores"
+     ]
+    },
+    {
+     "id": "VOX-social-02",
+     "subtema": "prioridad nacional",
+     "cita": "Estableceremos la prioridad nacional en las ayudas sociales y los programas de acceso a la vivienda.",
+     "pagina": 64,
+     "postura": "Dar prioridad a los españoles en las ayudas sociales y los programas de vivienda.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "prioridad nacional",
+      "ayudas sociales",
+      "prestaciones",
+      "extranjeros",
+      "vivienda"
+     ]
+    },
+    {
+     "id": "VOX-social-03",
+     "subtema": "embargo de vivienda",
+     "cita": "La vivienda familiar debe ser un bien inatacable. El hogar familiar no podrá ser embargado como consecuencia del mero incumplimiento de obligaciones personales.",
+     "pagina": 65,
+     "postura": "Hacer inembargable la vivienda familiar por incumplimiento de obligaciones personales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "embargo",
+      "vivienda habitual",
+      "deudas",
+      "inembargabilidad",
+      "familias"
+     ]
+    },
+    {
+     "id": "VOX-social-04",
+     "subtema": "sinhogarismo",
+     "cita": "Impulsaremos la creación de una red nacional de albergues y comedores sociales, con unas condiciones suficientes de higiene y seguridad para los usuarios",
+     "pagina": 65,
+     "postura": "Crear una red nacional de albergues y comedores sociales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "albergues",
+      "comedores sociales",
+      "sinhogarismo",
+      "pobreza",
+      "exclusión social"
+     ]
+    },
+    {
+     "id": "VOX-social-05",
+     "subtema": "juego y apuestas",
+     "cita": "Pondremos límite a la desproporcionada proliferación de las casas de apuestas, regulando la concesión de licencias e im- pidiendo que estos establecimientos estén cerca de los cen- tros de enseñanza",
+     "pagina": 67,
+     "postura": "Limitar las casas de apuestas y prohibir que estén cerca de centros educativos.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "casas de apuestas",
+      "juego",
+      "ludopatía",
+      "licencias",
+      "publicidad del juego"
+     ]
+    },
+    {
+     "id": "VOX-social-06",
+     "subtema": "Ministerio de Familia",
+     "cita": "Suprimiremos el Ministerio de Igualdad y en su lugar crea- remos un Ministerio de Familia. El nuevo Ministerio dirigirá su acción a la puesta en marcha de políticas de impulso de la natalidad mediante un Plan Nacional de natalidad",
+     "pagina": 162,
+     "postura": "Sustituir el Ministerio de Igualdad por un Ministerio de Familia con un Plan Nacional de natalidad.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ministerio de Familia",
+      "natalidad",
+      "plan de natalidad",
+      "familias",
+      "Ministerio de Igualdad"
+     ]
+    },
+    {
+     "id": "VOX-social-07",
+     "subtema": "Ley de Familias",
+     "cita": "Paralizaremos la tramitación de la Ley de Familias impul- sada desde el Ministerio de Ione Belarra",
+     "pagina": 163,
+     "postura": "Paralizar la tramitación de la Ley de Familias del Gobierno.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "Ley de Familias",
+      "diversidad familiar",
+      "Belarra",
+      "tipos de familia",
+      "permisos"
+     ]
+    },
+    {
+     "id": "VOX-social-08",
+     "subtema": "guarderías",
+     "cita": "Apo- yaremos a los ayuntamientos para garantizar guarderías gratuitas abiertas hasta el horario de comercios y oficinas.",
+     "pagina": 164,
+     "postura": "Garantizar guarderías gratuitas con horario ampliado junto a los ayuntamientos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "guarderías",
+      "escuelas infantiles",
+      "0-3 años",
+      "gratuidad",
+      "conciliación"
+     ]
+    },
+    {
+     "id": "VOX-social-09",
+     "subtema": "custodia compartida",
+     "cita": "estable- ciendo la medida de la custodia compartida como la regla general en caso de separaciones entre cónyuges",
+     "pagina": 165,
+     "postura": "Establecer la custodia compartida como regla general en las separaciones.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "custodia compartida",
+      "separación",
+      "divorcio",
+      "menores",
+      "interés del menor"
+     ]
+    },
+    {
+     "id": "VOX-social-10",
+     "subtema": "discapacidad",
+     "cita": "Impulsaremos, junto con los ayuntamientos, la supresión de las barreras arquitectónicas para garantizar la plena movilidad",
+     "pagina": 66,
+     "postura": "Suprimir las barreras arquitectónicas para personas con discapacidad.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "discapacidad",
+      "accesibilidad",
+      "barreras arquitectónicas",
+      "movilidad",
+      "ayuntamientos"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "democracia",
+   "sin_contenido": false,
+   "posicion_general": "Propone ilegalizar partidos y organizaciones que persigan romper la unidad nacional, suprimir subvenciones a partidos, sindicatos y patronal, derogar la legislación de memoria democrática, despolitizar órganos reguladores, limitar el decreto ley, eliminar ayudas públicas a medios privados y usar consultas del artículo 92.",
+   "posicionamientos": [
+    {
+     "id": "VOX-democracia-01",
+     "subtema": "ilegalización de partidos",
+     "cita": "Ilegalizaremos los partidos políticos, asociaciones u organizaciones de cualquier tipo que persi- gan la destrucción de la unidad territorial de la Nación y de su soberanía.",
+     "pagina": 129,
+     "postura": "Ilegalizar partidos y organizaciones que persigan romper la unidad territorial.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "ilegalización",
+      "partidos separatistas",
+      "Ley de Partidos",
+      "unidad de España",
+      "soberanía"
+     ]
+    },
+    {
+     "id": "VOX-democracia-02",
+     "subtema": "subvenciones a partidos",
+     "cita": "Acabaremos con las subvenciones a los sindicatos, partidos políticos y patronal. Estas organizaciones, que en muchas ocasiones han renunciado a defender los intereses de sus asociados, deben sostenerse con la financiación de sus inte- grantes.",
+     "pagina": 83,
+     "postura": "Suprimir las subvenciones públicas a partidos, sindicatos y patronal.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "subvenciones",
+      "partidos políticos",
+      "sindicatos",
+      "patronal",
+      "financiación"
+     ]
+    },
+    {
+     "id": "VOX-democracia-03",
+     "subtema": "memoria democrática",
+     "cita": "Derogación de toda legislación de “memoria histórica” o “democrática”. Dichas leyes son un despropósito totalitario, que atenta contra libertades básicas",
+     "pagina": 158,
+     "postura": "Derogar la Ley de Memoria Democrática y toda la legislación de memoria histórica.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "memoria democrática",
+      "memoria histórica",
+      "derogación",
+      "Ley de Concordia",
+      "franquismo"
+     ]
+    },
+    {
+     "id": "VOX-democracia-04",
+     "subtema": "consultas del artículo 92",
+     "cita": "se consultará al pueblo español mediante la aplicación del artículo 92 de la Constitución Española, relativo a con- sultas sobre decisiones políticas de especial trascendencia, su voluntad sobre la ilegalización de partidos separatistas.",
+     "pagina": 16,
+     "postura": "Convocar referéndums consultivos del artículo 92, incluido sobre ilegalizar partidos separatistas.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "referéndum consultivo",
+      "artículo 92",
+      "consulta",
+      "partidos separatistas",
+      "democracia directa"
+     ]
+    },
+    {
+     "id": "VOX-democracia-05",
+     "subtema": "órganos reguladores",
+     "cita": "Despolitizaremos los órganos del Estado que Sánchez ha tratado de patrimonializar con fines partidistas como el Tribu- nal de Cuentas, el Banco de España o la Comisión Nacional de los Mercados y la Competencia (CNMC).",
+     "pagina": 85,
+     "postura": "Despolitizar el Tribunal de Cuentas, el Banco de España y la CNMC.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Tribunal de Cuentas",
+      "Banco de España",
+      "CNMC",
+      "organismos reguladores",
+      "nombramientos"
+     ]
+    },
+    {
+     "id": "VOX-democracia-06",
+     "subtema": "decretos ley",
+     "cita": "Pondremos sentido común a la nefasta técnica legisla- tiva de los últimos gobiernos, que han abusado del Real Decreto Ley",
+     "pagina": 127,
+     "postura": "Limitar el uso del Real Decreto Ley y simplificar la legislación.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Real Decreto-ley",
+      "técnica legislativa",
+      "convalidación",
+      "simplificación normativa",
+      "Gobierno"
+     ]
+    },
+    {
+     "id": "VOX-democracia-07",
+     "subtema": "anticorrupción",
+     "cita": "Crearemos una Oficina Nacional de lucha contra el Fraude y la Corrupción, que garantice la independencia en la fun- ción y la igualdad de los españoles",
+     "pagina": 84,
+     "postura": "Crear una Oficina Nacional de lucha contra el Fraude y la Corrupción.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "corrupción",
+      "oficina anticorrupción",
+      "transparencia",
+      "denunciantes",
+      "fraude"
+     ]
+    },
+    {
+     "id": "VOX-democracia-08",
+     "subtema": "símbolos nacionales",
+     "cita": "Las penas por las ofensas y ultrajes a España y sus símbo- los o emblemas deben agravarse para que ninguna afrenta a ellos quede impune.",
+     "pagina": 17,
+     "postura": "Agravar las penas por ultrajes a España y sus símbolos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ultrajes a España",
+      "símbolos",
+      "bandera",
+      "Código Penal",
+      "Corona"
+     ]
+    },
+    {
+     "id": "VOX-democracia-09",
+     "subtema": "medios de comunicación",
+     "cita": "Prohibición de las ayudas directas públicas a medios priva- dos de información. Los periódicos y cadenas de radio y te- levisión han de sustentarse con los fondos de sus accionistas",
+     "pagina": 157,
+     "postura": "Prohibir las ayudas públicas directas a medios de comunicación privados.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "medios de comunicación",
+      "ayudas públicas",
+      "publicidad institucional",
+      "prensa",
+      "RTVE"
+     ]
+    },
+    {
+     "id": "VOX-democracia-10",
+     "subtema": "delitos de odio",
+     "cita": "Detendremos la persecución de opiniones, sentimientos o valores arraigados en nuestra sociedad camuflada bajo el ambiguo paraguas del “delito de odio”",
+     "pagina": 156,
+     "postura": "Dejar de perseguir opiniones bajo la figura del delito de odio.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "delitos de odio",
+      "libertad de expresión",
+      "Código Penal",
+      "opiniones",
+      "censura"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "transporte",
+   "sin_contenido": false,
+   "posicion_general": "Propone reforzar la red ferroviaria, especialmente la alta velocidad y las Cercanías, mejorar las infraestructuras de transporte en la España rural, frenar los peajes en autovías y rechazar las restricciones a los vehículos de combustión.",
+   "posicionamientos": [
+    {
+     "id": "VOX-transporte-01",
+     "subtema": "alta velocidad",
+     "cita": "Reforzaremos la red de ferrocarriles con especial énfasis a la alta velocidad para conectar todo el territorio nacional asegurando la cohesión social y territorial.",
+     "pagina": 120,
+     "postura": "Reforzar la red ferroviaria y la alta velocidad en todo el territorio.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ferrocarril",
+      "alta velocidad",
+      "infraestructuras",
+      "Adif",
+      "cohesión territorial"
+     ]
+    },
+    {
+     "id": "VOX-transporte-02",
+     "subtema": "Cercanías",
+     "cita": "Mejoraremos la red ferroviaria para conectar todas las regio- nes de España y facilitar las exportaciones al resto de Europa. Impulso de la Red de Cercanías para enlazar todas las pro- vincias de forma eficaz.",
+     "pagina": 148,
+     "postura": "Mejorar la red ferroviaria y ampliar Cercanías para enlazar todas las provincias.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Cercanías",
+      "red ferroviaria",
+      "corredores",
+      "mercancías",
+      "Renfe"
+     ]
+    },
+    {
+     "id": "VOX-transporte-03",
+     "subtema": "peajes",
+     "cita": "Además, se debe frenar la imposición de peajes en las autopistas.",
+     "pagina": 148,
+     "postura": "Frenar la implantación de peajes en las autovías y autopistas.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "peajes",
+      "autovías",
+      "autopistas",
+      "pago por uso",
+      "carreteras"
+     ]
+    },
+    {
+     "id": "VOX-transporte-04",
+     "subtema": "peajes y fondos UE",
+     "cita": "Plantearemos ante la Comisión Europea de modo inme- diato la reforma y adecuación del Plan de Recuperación de Sánchez y sus socios a fin de impedir, por ejemplo, la imposición de peajes",
+     "pagina": 134,
+     "postura": "Reformar el Plan de Recuperación para impedir la implantación de peajes.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "Plan de Recuperación",
+      "peajes",
+      "fondos europeos",
+      "autovías",
+      "Comisión Europea"
+     ]
+    },
+    {
+     "id": "VOX-transporte-05",
+     "subtema": "transporte rural",
+     "cita": "Reforzaremos las infraestructuras de transporte en la Es- paña rural abandonada por los sucesivos gobiernos para garantizar la rápida conexión de cualquier núcleo rural con servicios públicos básicos",
+     "pagina": 148,
+     "postura": "Mejorar las infraestructuras de transporte del medio rural.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "transporte rural",
+      "infraestructuras",
+      "carreteras",
+      "España vaciada",
+      "conectividad"
+     ]
+    },
+    {
+     "id": "VOX-transporte-06",
+     "subtema": "vehículo privado",
+     "cita": "Terminaremos con las medidas injustas que impiden a los españoles desplazarse en el medio de transporte que libre- mente elijan por no contar con los recursos económicos sufi- cientes para adquirir un vehículo",
+     "pagina": 68,
+     "postura": "Suprimir restricciones de movilidad a vehículos según su tipo de energía.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "zonas de bajas emisiones",
+      "vehículo privado",
+      "movilidad",
+      "restricciones",
+      "etiqueta ambiental"
+     ]
+    },
+    {
+     "id": "VOX-transporte-07",
+     "subtema": "motor de combustión",
+     "cita": "Exigiremos el fin de la prohibición de fabricar coches de combustión a partir de 2035.",
+     "pagina": 137,
+     "postura": "Pedir que se anule la prohibición europea de vender coches de combustión en 2035.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "motor de combustión",
+      "2035",
+      "automóvil",
+      "coche eléctrico",
+      "Unión Europea"
+     ]
+    },
+    {
+     "id": "VOX-transporte-08",
+     "subtema": "logística",
+     "cita": "Acometeremos las inversiones para la mejora de la logística y del transporte y en las comunicaciones de la actividad industrial.",
+     "pagina": 51,
+     "postura": "Invertir en logística, transporte y comunicaciones industriales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "logística",
+      "transporte de mercancías",
+      "inversión",
+      "infraestructuras",
+      "industria"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "justicia",
+   "sin_contenido": false,
+   "posicion_general": "Propone que los jueces elijan a los vocales del CGPJ, integrar el Tribunal Constitucional en el Supremo, recuperar la sedición y endurecer la malversación, prohibir indultos por corrupción o secesión, mantener la instrucción en los jueces, eliminar los juzgados de violencia sobre la mujer y endurecer el régimen de presos de ETA.",
+   "posicionamientos": [
+    {
+     "id": "VOX-justicia-01",
+     "subtema": "CGPJ",
+     "cita": "Aprobaremos una Ley Orgánica para modificar el sistema de elección de los vocales del Consejo General del Poder Judicial ajus- tándose al artículo 122.3 de la Constitución, de manera que todos los miembros del CGPJ sean designados o pro- puestos por los propios jueces y magistrados",
+     "pagina": 127,
+     "postura": "Que todos los vocales del CGPJ sean elegidos por jueces y magistrados.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "CGPJ",
+      "Consejo General del Poder Judicial",
+      "elección de vocales",
+      "independencia judicial",
+      "jueces"
+     ]
+    },
+    {
+     "id": "VOX-justicia-02",
+     "subtema": "Tribunal Constitucional",
+     "cita": "Trabajaremos por la existencia de un único Alto Tribunal, de forma que el Tribunal Constitucional pase a integrarse y desarrollar sus funciones en una nueva Sala Sexta del Tribunal Supremo.",
+     "pagina": 126,
+     "postura": "Integrar el Tribunal Constitucional como Sala Sexta del Tribunal Supremo.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Tribunal Constitucional",
+      "Tribunal Supremo",
+      "Sala Sexta",
+      "reforma",
+      "recursos de inconstitucionalidad"
+     ]
+    },
+    {
+     "id": "VOX-justicia-03",
+     "subtema": "sedición y malversación",
+     "cita": "Reformaremos el Código Penal para recuperar el delito de sedición y para agravar el tipo delictivo de la malver- sación de caudales públicos",
+     "pagina": 126,
+     "postura": "Recuperar el delito de sedición y endurecer la malversación.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "sedición",
+      "malversación",
+      "Código Penal",
+      "reforma penal",
+      "procés"
+     ]
+    },
+    {
+     "id": "VOX-justicia-04",
+     "subtema": "indultos",
+     "cita": "Prohibiremos los indultos para delitos relacionados con la corrupción política, la forma política del Estado o la integridad territorial",
+     "pagina": 127,
+     "postura": "Prohibir indultos por corrupción o delitos contra la integridad territorial.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "indultos",
+      "Ley de indulto",
+      "corrupción",
+      "procés",
+      "integridad territorial"
+     ]
+    },
+    {
+     "id": "VOX-justicia-05",
+     "subtema": "instrucción fiscal",
+     "cita": "Rechazaremos cualquier intento de atribuir la instruc- ción del proceso penal al Ministerio Fiscal.",
+     "pagina": 127,
+     "postura": "Mantener la instrucción penal en los jueces y no en la Fiscalía.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "instrucción penal",
+      "Ministerio Fiscal",
+      "Ley de Enjuiciamiento Criminal",
+      "fiscal instructor",
+      "jueces"
+     ]
+    },
+    {
+     "id": "VOX-justicia-06",
+     "subtema": "Policía Judicial",
+     "cita": "dotar a la Policía Judicial de una dependencia total, orgánica y funcio- nal, de los jueces y tribunales",
+     "pagina": 127,
+     "postura": "Que la Policía Judicial dependa orgánica y funcionalmente de jueces y tribunales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Policía Judicial",
+      "dependencia",
+      "jueces",
+      "separación de poderes",
+      "Fuerzas y Cuerpos de Seguridad"
+     ]
+    },
+    {
+     "id": "VOX-justicia-07",
+     "subtema": "juzgados de violencia",
+     "cita": "Derogaremos la Ley de violencia de género y de toda norma que derive de la teoría de género, que atente contra la presun- ción de inocencia o establezca tribunales de excepción según el sexo del agresor o la víctima. Eliminaremos los Juzgados de Violencia sobre la mujer.",
+     "pagina": 128,
+     "postura": "Suprimir los juzgados de violencia sobre la mujer y la ley de violencia de género.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "juzgados de violencia sobre la mujer",
+      "violencia de género",
+      "Ley Integral",
+      "presunción de inocencia",
+      "tribunales"
+     ]
+    },
+    {
+     "id": "VOX-justicia-08",
+     "subtema": "fiscalías especiales",
+     "cita": "Suprimiremos las Fiscalías especiales con finalidad neta- mente ideológica, como la de Memoria Democrática y la de Delitos de Odio y Discriminación",
+     "pagina": 128,
+     "postura": "Suprimir las fiscalías de Memoria Democrática y de Delitos de Odio.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Fiscalía",
+      "memoria democrática",
+      "delitos de odio",
+      "Fiscalía Anticorrupción",
+      "Ministerio Fiscal"
+     ]
+    },
+    {
+     "id": "VOX-justicia-09",
+     "subtema": "presos de ETA",
+     "cita": "Eliminaremos los privilegios penitenciarios a los presos condenados por terrorismo. Además, prohibiremos la utilización de los centros penitenciarios para el intercambio de presos peligrosos a cambio del acercamiento de presos de ETA a las cárceles vascas.",
+     "pagina": 129,
+     "postura": "Endurecer el régimen de presos por terrorismo y frenar el acercamiento de presos de ETA.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "presos de ETA",
+      "acercamiento",
+      "política penitenciaria",
+      "terrorismo",
+      "País Vasco"
+     ]
+    },
+    {
+     "id": "VOX-justicia-10",
+     "subtema": "menores infractores",
+     "cita": "Bajaremos la edad penal y revisaremos la ley del menor para que se agraven las consecuencias a los menores que cometan este tipo de delitos.",
+     "pagina": 174,
+     "postura": "Rebajar la edad penal y endurecer la ley del menor.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "edad penal",
+      "Ley del Menor",
+      "responsabilidad penal",
+      "menores",
+      "agresiones sexuales"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "campo",
+   "sin_contenido": false,
+   "posicion_general": "Propone proteger la producción nacional frente a importaciones mediante controles fronterizos, aranceles a Marruecos y preferencia comunitaria, una PAC centrada en la rentabilidad, aplicar la ley de cadena alimentaria, ampliar regadíos, defender la caza y sacar al lobo del régimen de protección especial.",
+   "posicionamientos": [
+    {
+     "id": "VOX-campo-01",
+     "subtema": "aranceles Marruecos",
+     "cita": "Exigiremos la imposición de aranceles a los productos agrícolas provenientes de Marruecos con el fin de que no copen el mercado nacional y europeo en detrimento de los productos españoles.",
+     "pagina": 49,
+     "postura": "Imponer aranceles a los productos agrícolas de Marruecos.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "aranceles",
+      "Marruecos",
+      "importaciones agrícolas",
+      "acuerdo agrícola",
+      "competencia desleal"
+     ]
+    },
+    {
+     "id": "VOX-campo-02",
+     "subtema": "acuerdos comerciales",
+     "cita": "Aplicación estricta del principio de preferencia comuni- taria y revisión de los acuerdos de libre comercio suscri- tos con terceros países.",
+     "pagina": 48,
+     "postura": "Aplicar la preferencia comunitaria y revisar los acuerdos de libre comercio.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "acuerdos de libre comercio",
+      "preferencia comunitaria",
+      "Mercosur",
+      "terceros países",
+      "importaciones"
+     ]
+    },
+    {
+     "id": "VOX-campo-03",
+     "subtema": "etiquetado",
+     "cita": "Crearemos la Oficina Nacional de lucha contra el fraude en el etiquetado que se encargará de controlar que el eti- quetado sobre la procedencia de los productos extranjeros se ajusta a la realidad",
+     "pagina": 48,
+     "postura": "Crear una Oficina Nacional contra el fraude en el etiquetado de origen.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "etiquetado",
+      "origen",
+      "fraude alimentario",
+      "controles fronterizos",
+      "consumidores"
+     ]
+    },
+    {
+     "id": "VOX-campo-04",
+     "subtema": "PAC",
+     "cita": "Impulsaremos una PAC que reconozca el carácter priorita- rio y estratégico de nuestro sector primario. Revisaremos el Plan Estratégico Nacional de la PAC para priorizar la renta- bilidad de las explotaciones agrarias.",
+     "pagina": 135,
+     "postura": "Revisar el Plan Estratégico de la PAC para priorizar la rentabilidad de las explotaciones.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "PAC",
+      "Política Agraria Común",
+      "Plan Estratégico",
+      "ayudas agrarias",
+      "arquitectura verde"
+     ]
+    },
+    {
+     "id": "VOX-campo-05",
+     "subtema": "cadena alimentaria",
+     "cita": "Garantizaremos una correcta aplicación de la Ley de cadena alimentaria para que los ganaderos y agricultores no sigan vendiendo sus productos a pérdidas.",
+     "pagina": 149,
+     "postura": "Aplicar la Ley de cadena alimentaria para evitar ventas a pérdidas.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "cadena alimentaria",
+      "venta a pérdidas",
+      "precios",
+      "agricultores",
+      "ganaderos"
+     ]
+    },
+    {
+     "id": "VOX-campo-06",
+     "subtema": "regadíos",
+     "cita": "Impulsaremos la modernización y extensión de los regadíos, defendiendo su valor económico y ecológico como sumideros de CO2",
+     "pagina": 110,
+     "postura": "Modernizar y ampliar la superficie de regadío.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "regadío",
+      "modernización",
+      "agua",
+      "superficie de riego",
+      "regantes"
+     ]
+    },
+    {
+     "id": "VOX-campo-07",
+     "subtema": "lobo",
+     "cita": "Exclusión del lobo del Listado de Especies Sil- vestres de Régimen de Protección Especial en todo el territorio nacional.",
+     "pagina": 150,
+     "postura": "Sacar al lobo del Listado de Especies Silvestres en Régimen de Protección Especial.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "lobo",
+      "LESRPE",
+      "especies protegidas",
+      "ganadería",
+      "control poblacional"
+     ]
+    },
+    {
+     "id": "VOX-campo-08",
+     "subtema": "caza",
+     "cita": "Defensa de la caza como actividad esencial para el control de las poblaciones y para la protección de las ex- plotaciones agrícolas y ganaderas",
+     "pagina": 150,
+     "postura": "Defender la caza como actividad esencial para el control de poblaciones.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "caza",
+      "actividad cinegética",
+      "licencia única",
+      "control de poblaciones",
+      "mundo rural"
+     ]
+    },
+    {
+     "id": "VOX-campo-09",
+     "subtema": "ecologistas",
+     "cita": "Dejaremos sin acceso a cualquier tipo de ayuda y sub- vención pública a aquellas asociaciones y organizaciones ecologistas radicales que ataquen a nuestro sector pri- mario",
+     "pagina": 50,
+     "postura": "Retirar subvenciones a organizaciones ecologistas que ataquen al sector primario.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "subvenciones",
+      "organizaciones ecologistas",
+      "sector primario",
+      "ayudas públicas",
+      "ONG"
+     ]
+    },
+    {
+     "id": "VOX-campo-10",
+     "subtema": "pesca",
+     "cita": "Incorporaremos a los pescadores a los proyectos de desa- rrollo de eólica marina que sean susceptibles de afectar a los recursos pesqueros",
+     "pagina": 111,
+     "postura": "Incluir a los pescadores en los proyectos de eólica marina que afecten a caladeros.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "pesca",
+      "eólica marina",
+      "caladeros",
+      "pescadores",
+      "sector pesquero"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "exteriores",
+   "sin_contenido": false,
+   "posicion_general": "Defiende una Europa de naciones soberanas: nuevo tratado contra el federalismo, primacía de la Constitución, unanimidad en el Consejo y reforma de la euroorden. Exige recuperar Gibraltar, condiciona la cooperación al control migratorio, revisa la pertenencia a organismos internacionales y presiona a los regímenes de Venezuela, Cuba y Nicaragua.",
+   "posicionamientos": [
+    {
+     "id": "VOX-exteriores-01",
+     "subtema": "federalismo europeo",
+     "cita": "La Unión Europea debe estar al servicio de los Es- tados miembros y de los ciudadanos, no de sus élites. Recha- zaremos cualquier tendencia federalista de la Unión Europea.",
+     "pagina": 134,
+     "postura": "Rechazar cualquier avance federalista de la Unión Europea.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "Unión Europea",
+      "federalismo",
+      "soberanía nacional",
+      "tratados europeos",
+      "integración europea"
+     ]
+    },
+    {
+     "id": "VOX-exteriores-02",
+     "subtema": "primacía del derecho nacional",
+     "cita": "Defenderemos la primacía de la Constitución sobre el De- recho europeo",
+     "pagina": 134,
+     "postura": "Defender la primacía de la Constitución sobre el Derecho europeo.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "primacía",
+      "Constitución",
+      "Derecho europeo",
+      "soberanía",
+      "TJUE"
+     ]
+    },
+    {
+     "id": "VOX-exteriores-03",
+     "subtema": "unanimidad",
+     "cita": "Exigiremos que la adopción de acuerdos en el Consejo eu- ropeo y el Consejo de la UE garantice el pleno consenti- miento de todos los Estados miembros, recuperando la re- gla de la unanimidad",
+     "pagina": 137,
+     "postura": "Recuperar la unanimidad en las decisiones del Consejo de la UE.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "unanimidad",
+      "Consejo de la UE",
+      "mayoría cualificada",
+      "veto",
+      "soberanía"
+     ]
+    },
+    {
+     "id": "VOX-exteriores-04",
+     "subtema": "euroorden",
+     "cita": "impulsaremos la reforma de la euroorden para eliminar la posibilidad de que individuos con causas pe- nales pendientes en España se beneficien del amparo de organismos europeos",
+     "pagina": 134,
+     "postura": "Reformar la euroorden para facilitar la entrega de prófugos a España.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "euroorden",
+      "orden europea de detención",
+      "extradición",
+      "Puigdemont",
+      "cooperación judicial"
+     ]
+    },
+    {
+     "id": "VOX-exteriores-05",
+     "subtema": "Gibraltar",
+     "cita": "Rechazaremos cualquier acuerdo Unión Europea-Reino Unido o España-Reino Unido que no pase por respetar los derechos soberanos de España sobre la colonia británica de Gibraltar.",
+     "pagina": 136,
+     "postura": "Rechazar acuerdos con Reino Unido que no reconozcan la soberanía española sobre Gibraltar.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "Gibraltar",
+      "Reino Unido",
+      "Brexit",
+      "soberanía",
+      "acuerdo"
+     ]
+    },
+    {
+     "id": "VOX-exteriores-06",
+     "subtema": "cooperación y migración",
+     "cita": "La ayuda internacional de España a países en vías de desarrollo estará vinculada a la colaboración con la po- lítica migratoria nacional.",
+     "pagina": 92,
+     "postura": "Condicionar la ayuda al desarrollo a la colaboración en política migratoria.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "cooperación internacional",
+      "ayuda al desarrollo",
+      "política migratoria",
+      "condicionalidad",
+      "repatriación"
+     ]
+    },
+    {
+     "id": "VOX-exteriores-07",
+     "subtema": "organismos internacionales",
+     "cita": "revisaremos la contribución e incluso la per- tenencia de España a organismos internacionales si ac- túan contra los intereses nacionales.",
+     "pagina": 92,
+     "postura": "Revisar la contribución y pertenencia de España a organismos internacionales.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "organismos internacionales",
+      "ONU",
+      "OMS",
+      "contribuciones",
+      "soberanía"
+     ]
+    },
+    {
+     "id": "VOX-exteriores-08",
+     "subtema": "Venezuela, Cuba y Nicaragua",
+     "cita": "Exigiremos la liberación de todos los presos políticos en Ve- nezuela, Bolivia, Nicaragua y Cuba.",
+     "pagina": 142,
+     "postura": "Exigir la liberación de los presos políticos en Venezuela, Bolivia, Nicaragua y Cuba.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Venezuela",
+      "Cuba",
+      "Nicaragua",
+      "presos políticos",
+      "derechos humanos",
+      "Iberoamérica"
+     ]
+    },
+    {
+     "id": "VOX-exteriores-09",
+     "subtema": "Agenda 2030 en cooperación",
+     "cita": "Eliminaremos cualquier tipo de ayuda destinada a la im- plementación de la Agenda 2030 o la financiación de movimientos de ideología de género o indigenistas en la Iberosfera.",
+     "pagina": 143,
+     "postura": "Suprimir la cooperación destinada a la Agenda 2030 o a movimientos de género e indigenistas.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Agenda 2030",
+      "cooperación al desarrollo",
+      "ayuda oficial",
+      "género",
+      "Iberoamérica"
+     ]
+    },
+    {
+     "id": "VOX-exteriores-10",
+     "subtema": "acción exterior autonómica",
+     "cita": "Exigiremos, como ya hemos hecho a nivel regional, la elimi- nación de todos los organismos autonómicos y locales de acción exterior y ayuda a la cooperación internacional.",
+     "pagina": 83,
+     "postura": "Suprimir los organismos autonómicos y locales de acción exterior y cooperación.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "acción exterior",
+      "comunidades autónomas",
+      "cooperación descentralizada",
+      "delegaciones",
+      "política exterior"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "territorial",
+   "sin_contenido": false,
+   "posicion_general": "Propone un Estado unitario y descentralizado administrativamente, con devolución inmediata al Estado de educación, sanidad, seguridad y justicia, supresión de los privilegios de los derechos históricos, suspensión de la autonomía de comunidades que atenten contra la unidad, supresión de las policías autonómicas y uso del español en todo el territorio.",
+   "posicionamientos": [
+    {
+     "id": "VOX-territorial-01",
+     "subtema": "Estado unitario",
+     "cita": "Promoveremos un estado unitario administrativamente descentralizado que sea capaz de promover la igualdad y la solidaridad entre todos los españoles",
+     "pagina": 8,
+     "postura": "Sustituir el Estado autonómico por un Estado unitario descentralizado administrativamente.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Estado autonómico",
+      "Estado unitario",
+      "recentralización",
+      "comunidades autónomas",
+      "Constitución"
+     ]
+    },
+    {
+     "id": "VOX-territorial-02",
+     "subtema": "devolución de competencias",
+     "cita": "proponemos la devolución inmediata al Estado de las competencias en Educación, Sa- nidad, Seguridad y Justicia.",
+     "pagina": 8,
+     "postura": "Devolver al Estado las competencias de educación, sanidad, seguridad y justicia.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "competencias",
+      "recentralización",
+      "transferencias",
+      "educación",
+      "sanidad",
+      "justicia"
+     ]
+    },
+    {
+     "id": "VOX-territorial-03",
+     "subtema": "derechos históricos",
+     "cita": "Suprimiremos todos los privilegios legales y fiscales am- parados en supuestos “derechos históricos” que provocan",
+     "pagina": 8,
+     "postura": "Suprimir los privilegios fiscales basados en los derechos históricos forales.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "derechos históricos",
+      "concierto económico",
+      "cupo vasco",
+      "régimen foral",
+      "Navarra"
+     ]
+    },
+    {
+     "id": "VOX-territorial-04",
+     "subtema": "suspensión de autonomía",
+     "cita": "Suspenderemos inmediatamente la autonomía de aque- llas comunidades cuyos gobiernos utilicen recursos e ins- trumentos del autogobierno regional para atentar contra la unidad de España.",
+     "pagina": 16,
+     "postura": "Suspender la autonomía de comunidades que atenten contra la unidad de España.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "artículo 155",
+      "suspensión de la autonomía",
+      "Cataluña",
+      "separatismo",
+      "unidad de España"
+     ]
+    },
+    {
+     "id": "VOX-territorial-05",
+     "subtema": "lenguas cooficiales",
+     "cita": "Garantizaremos el uso del español en todo el territorio na- cional. Suprimiremos cualquier forma de discriminación entre los españoles por razón de la lengua",
+     "pagina": 9,
+     "postura": "Garantizar el uso del español y suprimir requisitos lingüísticos discriminatorios.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "español",
+      "lenguas cooficiales",
+      "inmersión lingüística",
+      "requisito lingüístico",
+      "catalán"
+     ]
+    },
+    {
+     "id": "VOX-territorial-06",
+     "subtema": "policías autonómicas",
+     "cita": "Supresión progresiva – mediante reducción de competen- cias y efectivos – de las policías autonómicas e incorpora- ción de sus miembros a los cuerpos nacionales.",
+     "pagina": 10,
+     "postura": "Suprimir progresivamente las policías autonómicas e integrarlas en los cuerpos nacionales.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "policías autonómicas",
+      "Mossos",
+      "Ertzaintza",
+      "Policía Nacional",
+      "Guardia Civil"
+     ]
+    },
+    {
+     "id": "VOX-territorial-07",
+     "subtema": "financiación autonómica",
+     "cita": "Modificaremos la Ley 22/2009, de 18 de diciembre, por la que se regula el sistema de financiación de las Comuni- dades Autónomas de régimen común y Ciudades con Es- tatuto de Autonomía y se modifican determinadas nor- mas tributarias para asegurar la igualdad esencial entre españoles en los impuestos cedidos",
+     "pagina": 77,
+     "postura": "Reformar la ley de financiación autonómica para igualar los impuestos cedidos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "financiación autonómica",
+      "Ley 22/2009",
+      "impuestos cedidos",
+      "régimen común",
+      "igualdad fiscal"
+     ]
+    },
+    {
+     "id": "VOX-territorial-08",
+     "subtema": "televisiones autonómicas",
+     "cita": "Con ello se dará el primer paso para el cierre de las televisiones autonómicas",
+     "pagina": 84,
+     "postura": "Cerrar las televisiones autonómicas.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "televisiones autonómicas",
+      "RTVE",
+      "medios públicos",
+      "gasto autonómico",
+      "cierre"
+     ]
+    },
+    {
+     "id": "VOX-territorial-09",
+     "subtema": "despoblación",
+     "cita": "La repoblación de la España rural es crucial para garantizar la prosperidad y la vertebración de todas las regiones de la nación. Se impulsará la creación y crecimiento de empresas en la economía rural concediendo incentivos fiscales",
+     "pagina": 148,
+     "postura": "Dar incentivos fiscales a empresas en el medio rural para repoblarlo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "despoblación",
+      "España vaciada",
+      "reto demográfico",
+      "incentivos fiscales",
+      "medio rural"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "empleo",
+   "sin_contenido": false,
+   "posicion_general": "Propone bonificar cotizaciones por contratación indefinida, derogar la reforma laboral, exonerar de cuota a autónomos con ingresos bajo el SMI, suprimir subvenciones y reducir liberados sindicales, prohibir acciones coactivas en huelgas, subir salarios reduciendo cargas empresariales y sancionar la contratación de inmigrantes irregulares.",
+   "posicionamientos": [
+    {
+     "id": "VOX-empleo-01",
+     "subtema": "reforma laboral",
+     "cita": "Derogaremos la reforma laboral de Yolanda Díaz que ha maquillado las cifras de temporalidad sin adoptar medidas reales contra la precariedad",
+     "pagina": 24,
+     "postura": "Derogar la reforma laboral de 2021.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "reforma laboral",
+      "Yolanda Díaz",
+      "temporalidad",
+      "contratos",
+      "precariedad"
+     ]
+    },
+    {
+     "id": "VOX-empleo-02",
+     "subtema": "cotizaciones",
+     "cita": "mediante la reducción de las cotizaciones a las empresas que contraten a trabajadores españoles de manera inde- finida, bonificando al 100% los nuevos empleos creados durante el primer año para cualquier edad, y al 50% en el segundo año.",
+     "pagina": 22,
+     "postura": "Bonificar al 100% y luego al 50% las cotizaciones de nuevos contratos indefinidos.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "cotizaciones sociales",
+      "bonificaciones",
+      "contratación indefinida",
+      "empleo",
+      "Seguridad Social"
+     ]
+    },
+    {
+     "id": "VOX-empleo-03",
+     "subtema": "salarios y SMI",
+     "cita": "Impulsaremos la subida de todos los salarios, especialmente los más bajos. Para que ello no conlleve una destrucción de empleo, reduciremos drásticamente las cargas sobre las empresas",
+     "pagina": 22,
+     "postura": "Subir salarios reduciendo las cargas sobre las empresas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "salario mínimo",
+      "SMI",
+      "salarios",
+      "cargas empresariales",
+      "poder adquisitivo"
+     ]
+    },
+    {
+     "id": "VOX-empleo-04",
+     "subtema": "huelgas",
+     "cita": "Garantizaremos efectivamente el derecho al trabajo prohibiendo las acciones coactivas en las huelgas políticas.",
+     "pagina": 22,
+     "postura": "Prohibir las acciones coactivas de piquetes en huelgas políticas.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "huelga",
+      "piquetes",
+      "derecho al trabajo",
+      "coacciones",
+      "Código Penal"
+     ]
+    },
+    {
+     "id": "VOX-empleo-05",
+     "subtema": "autónomos",
+     "cita": "Apoyaremos decididamente a los trabajadores autóno- mos mediante la exoneración de la cuota a aquellos cu- yos ingresos netos no lleguen al Salario Mínimo Interpro- fesional y la bonificación total a los autónomos que estén de baja.",
+     "pagina": 23,
+     "postura": "Eximir de cuota a autónomos con ingresos inferiores al SMI y bonificarla en bajas.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "autónomos",
+      "cuota de autónomos",
+      "cotización",
+      "SMI",
+      "baja"
+     ]
+    },
+    {
+     "id": "VOX-empleo-06",
+     "subtema": "subvenciones sindicales",
+     "cita": "Acabaremos con todas las subvenciones públicas para sindicatos y patronales, impidiendo que se pueda co- brar de la negociación de los ERE y ERTE.",
+     "pagina": 26,
+     "postura": "Suprimir subvenciones a sindicatos y patronal y el cobro por negociar ERE y ERTE.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "sindicatos",
+      "patronal",
+      "subvenciones",
+      "ERE",
+      "ERTE"
+     ]
+    },
+    {
+     "id": "VOX-empleo-07",
+     "subtema": "liberados sindicales",
+     "cita": "Exigiremos la fiscalización, control y reducción de los liberados sindicales",
+     "pagina": 26,
+     "postura": "Reducir y controlar los liberados sindicales.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "liberados sindicales",
+      "representación sindical",
+      "sindicatos",
+      "crédito horario",
+      "delegados"
+     ]
+    },
+    {
+     "id": "VOX-empleo-08",
+     "subtema": "contratación irregular",
+     "cita": "Sancionaremos con dureza, incluyendo retiradas de licen- cias, concesiones y autorizaciones, a quienes empleen a inmigrantes sin permiso de residencia",
+     "pagina": 23,
+     "postura": "Sancionar duramente a quienes empleen a inmigrantes sin permiso de residencia.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "empleo irregular",
+      "inmigrantes",
+      "sanciones",
+      "economía sumergida",
+      "inspección de trabajo"
+     ]
+    },
+    {
+     "id": "VOX-empleo-09",
+     "subtema": "becarios",
+     "cita": "Dotaremos a los trabajadores becarios de una pro- tección y respeto a su trabajo equiparable a cual- quier otro trabajador",
+     "pagina": 25,
+     "postura": "Equiparar la protección laboral de los becarios a la de otros trabajadores.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "becarios",
+      "prácticas",
+      "Estatuto del Becario",
+      "derechos laborales",
+      "jóvenes"
+     ]
+    },
+    {
+     "id": "VOX-empleo-10",
+     "subtema": "teletrabajo",
+     "cita": "Avanzaremos hacia un marco jurídico y laboral adaptado a las cada vez más comunes circunstancias de teletrabajo",
+     "pagina": 24,
+     "postura": "Desarrollar un marco jurídico para el teletrabajo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "teletrabajo",
+      "trabajo a distancia",
+      "conciliación",
+      "marco jurídico",
+      "empleo"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "clima",
+   "sin_contenido": false,
+   "posicion_general": "Propone derogar la Ley de cambio climático, abandonar el Acuerdo de París, suprimir el mercado europeo de emisiones y suspender el Pacto Verde. Plantea detener la demolición de presas, un Plan Nacional del Agua con interconexión de cuencas, derogar la ley del Mar Menor y paralizar la reforma de la Ley de Costas.",
+   "posicionamientos": [
+    {
+     "id": "VOX-clima-01",
+     "subtema": "Ley de cambio climático",
+     "cita": "Derogación de la Ley de cambio climático que impide que exploremos nuestros recursos, carga sobre los hombros de los españoles el peso de la transición ecológica en forma de “impuestos verdes”",
+     "pagina": 108,
+     "postura": "Derogar la Ley de cambio climático y transición energética.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "Ley de cambio climático",
+      "transición ecológica",
+      "impuestos verdes",
+      "derogación",
+      "emisiones"
+     ]
+    },
+    {
+     "id": "VOX-clima-02",
+     "subtema": "Acuerdo de París",
+     "cita": "Abandonaremos todos los acuerdos lesivos para la sobera- nía energética de España y en detrimento del interés nacio- nal, como el Acuerdo de París.",
+     "pagina": 119,
+     "postura": "Abandonar el Acuerdo de París.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "Acuerdo de París",
+      "cambio climático",
+      "compromisos climáticos",
+      "emisiones",
+      "tratados internacionales"
+     ]
+    },
+    {
+     "id": "VOX-clima-03",
+     "subtema": "mercado de emisiones",
+     "cita": "Exigiremos, en el seno de la Unión Europea, la supresión del mercado de emisiones de CO2 y del mecanismo de asignación de los derechos a través de subasta",
+     "pagina": 119,
+     "postura": "Suprimir el mercado europeo de derechos de emisión de CO2.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "derechos de emisión",
+      "CO2",
+      "mercado de emisiones",
+      "ETS",
+      "Unión Europea"
+     ]
+    },
+    {
+     "id": "VOX-clima-04",
+     "subtema": "Pacto Verde",
+     "cita": "Impulsaremos desde el Consejo de la Unión Europea la suspensión inmediata y revisión de todo el Pacto Verde Eu- ropeo, eliminando cuanto perjudica a nuestros productores y economía.",
+     "pagina": 137,
+     "postura": "Suspender y revisar el Pacto Verde Europeo.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "Pacto Verde Europeo",
+      "Green Deal",
+      "Unión Europea",
+      "normativa climática",
+      "sector primario"
+     ]
+    },
+    {
+     "id": "VOX-clima-05",
+     "subtema": "presas",
+     "cita": "Acabaremos con la destrucción de presas y embalses impul- sada por motivos ideológicos en el territorio nacional.",
+     "pagina": 109,
+     "postura": "Detener la demolición de presas y embalses.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "presas",
+      "embalses",
+      "demolición",
+      "azudes",
+      "infraestructuras hidráulicas"
+     ]
+    },
+    {
+     "id": "VOX-clima-06",
+     "subtema": "Plan Nacional del Agua",
+     "cita": "Por eso es urgente realizar un Plan Nacional del Agua bajo los principios de solidaridad y bien común. Dicho plan impulsará la interconexión de todas las cuencas",
+     "pagina": 109,
+     "postura": "Aprobar un Plan Nacional del Agua con interconexión de cuencas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Plan Hidrológico Nacional",
+      "agua",
+      "trasvases",
+      "interconexión de cuencas",
+      "sequía"
+     ]
+    },
+    {
+     "id": "VOX-clima-07",
+     "subtema": "Mar Menor",
+     "cita": "Se procederá a la derogación de la ley para el reconoci- miento de personalidad jurídica del Mar Menor y su cuen- ca",
+     "pagina": 109,
+     "postura": "Derogar la ley de personalidad jurídica del Mar Menor.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "Mar Menor",
+      "personalidad jurídica",
+      "Campo de Cartagena",
+      "laguna",
+      "derogación"
+     ]
+    },
+    {
+     "id": "VOX-clima-08",
+     "subtema": "Ley de Costas",
+     "cita": "Paralizaremos la reforma de la Ley de Costas, que pone en riesgo el empleo de decenas de miles de trabajadores y sus familias.",
+     "pagina": 112,
+     "postura": "Paralizar la reforma de la Ley de Costas.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "Ley de Costas",
+      "litoral",
+      "concesiones",
+      "dominio público marítimo",
+      "chiringuitos"
+     ]
+    },
+    {
+     "id": "VOX-clima-09",
+     "subtema": "incendios",
+     "cita": "Entre las medidas que impulsaremos con el objetivo de pre- venir incendios y facilitar su extinción se encuentran: facilitar el pastoreo de ganadería extensiva, realización de cortafue- gos, limpieza de montes",
+     "pagina": 110,
+     "postura": "Prevenir incendios con pastoreo extensivo, cortafuegos y limpieza de montes.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "incendios forestales",
+      "prevención",
+      "limpieza de montes",
+      "ganadería extensiva",
+      "bomberos forestales"
+     ]
+    },
+    {
+     "id": "VOX-clima-10",
+     "subtema": "normativa climática",
+     "cita": "Suspensión de toda norma climática impuesta por las élites globalistas que afecte gravemente al interés y pros- peridad de los españoles.",
+     "pagina": 118,
+     "postura": "Suspender las normas climáticas que considera perjudiciales para los españoles.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "normativa climática",
+      "Agenda 2030",
+      "emisiones",
+      "regulación ambiental",
+      "Unión Europea"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "tecnologia",
+   "sin_contenido": false,
+   "posicion_general": "Propone que las grandes tecnológicas tributen y paguen por los datos que obtienen en España mediante una pasarela de datos, retribuir a los ciudadanos por sus datos, legislar contra la censura de plataformas digitales, reforzar la ciberseguridad de telecomunicaciones y garantizar alternativas presenciales a la administración electrónica.",
+   "posicionamientos": [
+    {
+     "id": "VOX-tecnologia-01",
+     "subtema": "peaje de datos",
+     "cita": "Crearemos una pasarela de datos de obligado pea- je para las grandes tecnológicas extranjeras que quieran sacar a sedes extranjeras datos obtenidos en territorio nacional.",
+     "pagina": 81,
+     "postura": "Crear una pasarela de peaje obligatorio para que las tecnológicas exporten datos obtenidos en España.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "datos personales",
+      "grandes tecnológicas",
+      "soberanía digital",
+      "transferencia de datos",
+      "tasa digital"
+     ]
+    },
+    {
+     "id": "VOX-tecnologia-02",
+     "subtema": "retribución por datos",
+     "cita": "Las multinacionales deben revertir en España la riqueza que generan cosechando datos aquí, por lo que se asegu- rará el derecho de los españoles a ser retribuidos cuando comparten datos con ellas.",
+     "pagina": 157,
+     "postura": "Reconocer el derecho de los ciudadanos a ser retribuidos por ceder sus datos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "datos personales",
+      "retribución",
+      "multinacionales",
+      "protección de datos",
+      "economía digital"
+     ]
+    },
+    {
+     "id": "VOX-tecnologia-03",
+     "subtema": "plataformas digitales",
+     "cita": "Aprobación de una legislación que impida que las grandes plataformas digitales se conviertan en tribunales de ex- cepción que, de facto, atacan el ejercicio de la libertad de información y expresión",
+     "pagina": 156,
+     "postura": "Legislar para impedir que las plataformas digitales censuren contenidos.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "plataformas digitales",
+      "redes sociales",
+      "censura",
+      "libertad de expresión",
+      "moderación de contenidos"
+     ]
+    },
+    {
+     "id": "VOX-tecnologia-04",
+     "subtema": "fiscalidad tecnológicas",
+     "cita": "Las grandes tecnológicas que hacen negocios en Espa- ña deben pagar en nuestro país todos los impuestos que les corresponden.",
+     "pagina": 156,
+     "postura": "Que las grandes tecnológicas paguen en España todos sus impuestos.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "tasa Google",
+      "impuesto digital",
+      "grandes tecnológicas",
+      "evasión fiscal",
+      "servicios digitales"
+     ]
+    },
+    {
+     "id": "VOX-tecnologia-05",
+     "subtema": "almacenamiento de datos",
+     "cita": "Impulsaremos la mejora de las directivas europeas en materia de protección de datos para fomentar que todos los datos obtenidos en un Estado Miem- bro sean almacenados en servidores en esas mismas naciones",
+     "pagina": 81,
+     "postura": "Promover que los datos se almacenen en servidores del país donde se obtienen.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "protección de datos",
+      "localización de datos",
+      "servidores",
+      "RGPD",
+      "soberanía digital"
+     ]
+    },
+    {
+     "id": "VOX-tecnologia-06",
+     "subtema": "oligopolios tecnológicos",
+     "cita": "Defenderemos una política europea común que sirva de freno a los oligopolios tecnológicos y que contemple la soberanía nacional y personal de los datos.",
+     "pagina": 137,
+     "postura": "Frenar a los oligopolios tecnológicos desde la política europea.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "oligopolios",
+      "competencia",
+      "grandes tecnológicas",
+      "Unión Europea",
+      "mercados digitales"
+     ]
+    },
+    {
+     "id": "VOX-tecnologia-07",
+     "subtema": "ciberseguridad",
+     "cita": "Reforzaremos la seguridad en las redes de tele- comunicaciones, en especial las infraestructuras de comunicaciones móviles y las que soportan in- fraestructuras críticas.",
+     "pagina": 94,
+     "postura": "Reforzar la seguridad de las redes de telecomunicaciones e infraestructuras críticas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ciberseguridad",
+      "telecomunicaciones",
+      "5G",
+      "infraestructuras críticas",
+      "redes móviles"
+     ]
+    },
+    {
+     "id": "VOX-tecnologia-08",
+     "subtema": "administración electrónica",
+     "cita": "Garantizaremos la accesibilidad universal de la Adminis- tración Electrónica para que todas las personas puedan re- lacionarse sin exclusiones con la Administración por vías o medios digitales, sin perjuicio de proporcionar siempre una alternativa presencial.",
+     "pagina": 67,
+     "postura": "Garantizar la accesibilidad digital y mantener siempre una alternativa presencial.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "administración electrónica",
+      "brecha digital",
+      "atención presencial",
+      "mayores",
+      "digitalización"
+     ]
+    },
+    {
+     "id": "VOX-tecnologia-09",
+     "subtema": "adicción digital",
+     "cita": "Apos- taremos por programas específicos de prevención y aten- ción sobre el uso, abuso y adicción a nuevas tecnologías, a los videojuegos y a redes sociales en niños y jóvenes",
+     "pagina": 67,
+     "postura": "Crear programas de prevención de la adicción a pantallas, videojuegos y redes en menores.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "adicción",
+      "redes sociales",
+      "videojuegos",
+      "menores",
+      "entornos digitales"
+     ]
+    },
+    {
+     "id": "VOX-tecnologia-10",
+     "subtema": "I+D",
+     "cita": "Mejoraremos los incentivos fiscales para las PYMEs que in- viertan en I+D, así como favoreceremos un entorno econó- mico proclive a la innovación.",
+     "pagina": 80,
+     "postura": "Mejorar los incentivos fiscales a la I+D de las pymes.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "I+D",
+      "innovación",
+      "incentivos fiscales",
+      "pymes",
+      "deducciones"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "vivienda",
+   "sin_contenido": false,
+   "posicion_general": "Propone endurecer la respuesta penal y procesal a la ocupación ilegal, liberar suelo, eliminar el IVA de la primera vivienda y recuperar la deducción por vivienda habitual, construir vivienda social en propiedad o alquiler con opción a compra, suprimir el control de rentas y derogar la Ley de vivienda.",
+   "posicionamientos": [
+    {
+     "id": "VOX-vivienda-01",
+     "subtema": "okupación",
+     "cita": "Tolerancia cero con la ocupación ilegal. Reformaremos tanto del Código Penal como de las Leyes de Enjuiciamien- to Criminal y Civil para proteger real y efectivamente a los propietarios",
+     "pagina": 40,
+     "postura": "Reformar el Código Penal y las leyes procesales contra la ocupación ilegal.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "okupación",
+      "ocupación ilegal",
+      "desalojo",
+      "usurpación",
+      "Código Penal",
+      "propietarios"
+     ]
+    },
+    {
+     "id": "VOX-vivienda-02",
+     "subtema": "Ley de vivienda",
+     "cita": "Derogaremos la Ley por el derecho a la vivienda aprobada por el gobierno de Sánchez",
+     "pagina": 43,
+     "postura": "Derogar la Ley por el derecho a la vivienda.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "Ley de vivienda",
+      "derecho a la vivienda",
+      "derogación",
+      "zonas tensionadas",
+      "alquiler"
+     ]
+    },
+    {
+     "id": "VOX-vivienda-03",
+     "subtema": "control de rentas",
+     "cita": "Acabaremos con la expropiación temporal de inmuebles y con el control de rentas en el contrato de arrendamiento",
+     "pagina": 42,
+     "postura": "Suprimir el control de rentas y la expropiación temporal de viviendas.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "control de precios del alquiler",
+      "topes al alquiler",
+      "expropiación",
+      "arrendamiento",
+      "rentas"
+     ]
+    },
+    {
+     "id": "VOX-vivienda-04",
+     "subtema": "IVA primera vivienda",
+     "cita": "Modificaremos la Ley del Impuesto sobre el Valor Añadido con el fin de eliminar el IVA en la adquisición de la primera vivienda habitual.",
+     "pagina": 40,
+     "postura": "Eliminar el IVA en la compra de la primera vivienda habitual.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "IVA",
+      "primera vivienda",
+      "vivienda habitual",
+      "compra de vivienda",
+      "fiscalidad"
+     ]
+    },
+    {
+     "id": "VOX-vivienda-05",
+     "subtema": "deducción vivienda",
+     "cita": "Recuperaremos la deducción por vivienda habitual en la declaración de la Renta.",
+     "pagina": 40,
+     "postura": "Recuperar la deducción por vivienda habitual en el IRPF.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "deducción por vivienda",
+      "IRPF",
+      "hipoteca",
+      "vivienda habitual",
+      "compra"
+     ]
+    },
+    {
+     "id": "VOX-vivienda-06",
+     "subtema": "suelo",
+     "cita": "Liberaremos todo el suelo que no esté o deba estar espe- cialmente protegido por motivos de interés ambiental, pai- sajístico, productivo o para la Defensa Nacional.",
+     "pagina": 40,
+     "postura": "Liberar todo el suelo no protegido y aprobar una nueva Ley del Suelo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "suelo",
+      "Ley del Suelo",
+      "urbanismo",
+      "suelo edificable",
+      "oferta de vivienda"
+     ]
+    },
+    {
+     "id": "VOX-vivienda-07",
+     "subtema": "vivienda social",
+     "cita": "Impulsaremos la construcción viviendas sociales públicas en régimen de propiedad o arrendamiento con opción a compra",
+     "pagina": 41,
+     "postura": "Construir vivienda social pública en propiedad o alquiler con opción a compra.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "vivienda social",
+      "vivienda pública",
+      "alquiler con opción a compra",
+      "VPO",
+      "jóvenes"
+     ]
+    },
+    {
+     "id": "VOX-vivienda-08",
+     "subtema": "padrón de okupas",
+     "cita": "Modificaremos la Ley Reguladora de las Bases del Régimen Local y elaboraremos una nueva resolución por la que se dicten las instrucciones técnicas a los Ayuntamientos sobre la gestión del Padrón municipal al objeto de impedir que un okupa pue- da empadronarse en la vivienda ocupada ilegalmente.",
+     "pagina": 41,
+     "postura": "Impedir que los okupas puedan empadronarse en la vivienda ocupada.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "padrón municipal",
+      "empadronamiento",
+      "okupas",
+      "Ley de Bases de Régimen Local",
+      "ocupación"
+     ]
+    },
+    {
+     "id": "VOX-vivienda-09",
+     "subtema": "pisos turísticos",
+     "cita": "Impulsaremos la homogeneización de la normativa turís- tica en materia de viviendas con fines turísticos para toda España.",
+     "pagina": 42,
+     "postura": "Homogeneizar en toda España la normativa de viviendas turísticas.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "pisos turísticos",
+      "viviendas de uso turístico",
+      "regulación",
+      "turismo",
+      "precio de la vivienda"
+     ]
+    },
+    {
+     "id": "VOX-vivienda-10",
+     "subtema": "alquiler de vacías",
+     "cita": "Fomentaremos que los propietarios pongan sus viviendas vacías en alquiler a través del incremento de los beneficios fiscales a las rentas de alquiler para los arrendadores.",
+     "pagina": 42,
+     "postura": "Aumentar los beneficios fiscales a los propietarios que alquilen viviendas vacías.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "viviendas vacías",
+      "alquiler",
+      "incentivos fiscales",
+      "arrendadores",
+      "IRPF"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "igualdad",
+   "sin_contenido": false,
+   "posicion_general": "Propone derogar la Ley Integral de Violencia de Género, la ley trans, la ley LGTBI y la ley del solo sí es sí, eliminar cuotas y legislación de género, suprimir el Ministerio de Igualdad, prohibir tratamientos de cambio de sexo en menores y combatir la brecha maternal.",
+   "posicionamientos": [
+    {
+     "id": "VOX-igualdad-01",
+     "subtema": "violencia de género",
+     "cita": "Derogaremos la Ley Integral de Violencia de Género, que consagra la asime- tría penal y la desigualdad entre hombres y mujeres",
+     "pagina": 10,
+     "postura": "Derogar la Ley Integral de Violencia de Género.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "violencia de género",
+      "Ley Integral",
+      "violencia doméstica",
+      "derogación",
+      "asimetría penal"
+     ]
+    },
+    {
+     "id": "VOX-igualdad-02",
+     "subtema": "cuotas",
+     "cita": "Eliminación de toda legislación de género y que establezca diferencias laborales entre españoles atendiendo a su sexo, raza u orientación o identidad sexual, tales como cuotas, pre- ferencia en la contratación o prevalencia en caso de empate en una oposición.",
+     "pagina": 10,
+     "postura": "Eliminar cuotas, preferencias de contratación y planes de igualdad por sexo.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "cuotas",
+      "paridad",
+      "planes de igualdad",
+      "discriminación positiva",
+      "igualdad laboral"
+     ]
+    },
+    {
+     "id": "VOX-igualdad-03",
+     "subtema": "ley trans",
+     "cita": "Derogaremos la ley Trans, Ley 4/2023, de 28 de febrero, para la igualdad real y efectiva de las personas trans y para la garantía de los derechos de las personas LGTBI",
+     "pagina": 173,
+     "postura": "Derogar la ley trans y LGTBI de 2023.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "ley trans",
+      "autodeterminación de género",
+      "LGTBI",
+      "Ley 4/2023",
+      "derogación"
+     ]
+    },
+    {
+     "id": "VOX-igualdad-04",
+     "subtema": "menores trans",
+     "cita": "Garantizaremos la imposibilidad de los tratamientos hormonales y la cirugía de «cambio de sexo» en los meno- res de edad.",
+     "pagina": 11,
+     "postura": "Prohibir tratamientos hormonales y cirugía de cambio de sexo en menores.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "menores trans",
+      "tratamientos hormonales",
+      "cambio de sexo",
+      "bloqueadores",
+      "cirugía"
+     ]
+    },
+    {
+     "id": "VOX-igualdad-05",
+     "subtema": "Ministerio de Igualdad",
+     "cita": "Suprimiremos el Ministerio de Igualdad, que es innecesa- rio en sus funciones, injusto e ideológico",
+     "pagina": 11,
+     "postura": "Suprimir el Ministerio de Igualdad.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Ministerio de Igualdad",
+      "supresión",
+      "políticas de igualdad",
+      "gasto público",
+      "organismos"
+     ]
+    },
+    {
+     "id": "VOX-igualdad-06",
+     "subtema": "solo sí es sí",
+     "cita": "Derogaremos la ley del solo sí es sí, que solo ha servido para sembrar la inseguridad y el dolor para las mujeres y niños víctimas de agresiones sexuales y cuya reforma no es sufi- ciente para paliar sus efectos nocivos; y la sustituiremos por una ley que aumente las penas a todos los violadores, in- cluyendo la prisión permanente.",
+     "pagina": 174,
+     "postura": "Derogar la ley del solo sí es sí y aumentar penas a violadores, incluida la prisión permanente.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "solo sí es sí",
+      "libertad sexual",
+      "agresiones sexuales",
+      "prisión permanente revisable",
+      "rebajas de penas"
+     ]
+    },
+    {
+     "id": "VOX-igualdad-07",
+     "subtema": "espacios de mujeres",
+     "cita": "En el acceso a la función pública, con especial atención a los puestos donde se priman las condiciones físicas, así como en los deportes, se vigilará que no se discrimine a ninguna mujer ante hombres que se autoperciban mujeres",
+     "pagina": 11,
+     "postura": "Impedir que personas trans accedan a espacios o pruebas reservados a mujeres.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "deporte femenino",
+      "mujeres trans",
+      "función pública",
+      "espacios reservados",
+      "autodeterminación"
+     ]
+    },
+    {
+     "id": "VOX-igualdad-08",
+     "subtema": "brecha maternal",
+     "cita": "Combatiremos la brecha maternal que penaliza a las mu- jeres por el hecho de ser madres.",
+     "pagina": 163,
+     "postura": "Combatir la penalización laboral de las mujeres por ser madres.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "brecha maternal",
+      "maternidad",
+      "empleo femenino",
+      "conciliación",
+      "reincorporación laboral"
+     ]
+    },
+    {
+     "id": "VOX-igualdad-09",
+     "subtema": "ley LGTBI",
+     "cita": "Derogaremos todas las leyes que el gobierno de Sánchez ha aprobado o mantenido y alientan el enfrentamiento y la divi- sión entre españoles, como la Ley de Memoria Democrática o la Ley LGTBI.",
+     "pagina": 17,
+     "postura": "Derogar la Ley LGTBI.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "Ley LGTBI",
+      "derogación",
+      "diversidad sexual",
+      "discriminación",
+      "orientación sexual"
+     ]
+    },
+    {
+     "id": "VOX-igualdad-10",
+     "subtema": "entidades subvencionadas",
+     "cita": "Cerraremos todos los chiringuitos públicos ideológicos rega- dos con dinero público como los chiringuitos LGTB",
+     "pagina": 83,
+     "postura": "Cerrar organismos públicos y suprimir subvenciones a entidades LGTB y similares.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "subvenciones",
+      "entidades LGTB",
+      "organismos públicos",
+      "asociaciones",
+      "gasto ideológico"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "seguridad",
+   "sin_contenido": false,
+   "posicion_general": "Propone equiparar salarios y jubilación de policías y guardias civiles, endurecer las penas por resistencia a la autoridad y por delitos violentos, hacer a los funcionarios de prisiones agentes de la autoridad, cerrar mezquitas radicales, proteger la legítima defensa y recentralizar las competencias de seguridad.",
+   "posicionamientos": [
+    {
+     "id": "VOX-seguridad-01",
+     "subtema": "equiparación salarial",
+     "cita": "alcanzaremos la equiparación real en salario y la justa jubilación para las Fuerzas Armadas, Fuerzas y Cuerpos de Seguridad del Estado",
+     "pagina": 91,
+     "postura": "Equiparar salario y jubilación de Fuerzas Armadas, Policía Nacional y Guardia Civil con las policías autonómicas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "equiparación salarial",
+      "Policía Nacional",
+      "Guardia Civil",
+      "jubilación",
+      "JUSAPOL"
+     ]
+    },
+    {
+     "id": "VOX-seguridad-02",
+     "subtema": "resistencia a la autoridad",
+     "cita": "Dignificación del trabajo policial y aumento de las sanciones a la resistencia a la autoridad o a sus agentes en el ejercicio de sus funciones.",
+     "pagina": 91,
+     "postura": "Aumentar las sanciones por resistencia a los agentes de la autoridad.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "resistencia a la autoridad",
+      "atentado contra agentes",
+      "Ley de Seguridad Ciudadana",
+      "ley mordaza",
+      "policía"
+     ]
+    },
+    {
+     "id": "VOX-seguridad-03",
+     "subtema": "funcionarios de prisiones",
+     "cita": "Los funcionarios de Prisiones serán agentes de autoridad",
+     "pagina": 90,
+     "postura": "Reconocer a los funcionarios de prisiones como agentes de la autoridad.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "funcionarios de prisiones",
+      "agentes de la autoridad",
+      "instituciones penitenciarias",
+      "prisiones",
+      "reconocimiento"
+     ]
+    },
+    {
+     "id": "VOX-seguridad-04",
+     "subtema": "delitos violentos",
+     "cita": "Un nuevo Código Penal y Ley Penal del Menor elevarán las penas para los crímenes violen- tos perpetrados por bandas e individuos armados",
+     "pagina": 93,
+     "postura": "Elevar las penas por crímenes violentos de bandas e individuos armados.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Código Penal",
+      "armas blancas",
+      "bandas",
+      "Ley del Menor",
+      "endurecimiento de penas"
+     ]
+    },
+    {
+     "id": "VOX-seguridad-05",
+     "subtema": "estadística criminal",
+     "cita": "La revisión del Sistema Estadístico de Criminalidad también evitará que todos los tipos penales tengan el mismo peso a la hora de calibrar el índice de criminalidad y asegurará la publicidad de la nacionalidad de los atacantes",
+     "pagina": 94,
+     "postura": "Publicar la nacionalidad de los autores en las estadísticas de criminalidad.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "estadística criminal",
+      "nacionalidad",
+      "criminalidad",
+      "balance de criminalidad",
+      "transparencia"
+     ]
+    },
+    {
+     "id": "VOX-seguridad-06",
+     "subtema": "islamismo",
+     "cita": "Cerraremos las mezquitas o centros de culto que pro- paguen ideas que son contrarias a nuestra cultura e identi- dad como el radicalismo islámico",
+     "pagina": 102,
+     "postura": "Cerrar mezquitas que difundan radicalismo islámico.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "mezquitas",
+      "yihadismo",
+      "radicalización",
+      "islamismo",
+      "terrorismo"
+     ]
+    },
+    {
+     "id": "VOX-seguridad-07",
+     "subtema": "legítima defensa",
+     "cita": "Estableceremos un marco jurídico que impida que per- sonas que actúan en legítima defensa para proteger su hogar y a su familia tengan que sufrir un infierno judicial",
+     "pagina": 165,
+     "postura": "Ampliar la protección jurídica de la legítima defensa en el hogar.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "legítima defensa",
+      "allanamiento",
+      "Código Penal",
+      "morada",
+      "okupación"
+     ]
+    },
+    {
+     "id": "VOX-seguridad-08",
+     "subtema": "delitos sexuales",
+     "cita": "aumentaremos las penas a violadores y agresores sexuales, y reforzaremos las medidas contra la pedofilia y la pornografía infantil.",
+     "pagina": 10,
+     "postura": "Aumentar penas a agresores sexuales y reforzar la lucha contra la pornografía infantil.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "agresiones sexuales",
+      "penas",
+      "pornografía infantil",
+      "pederastia",
+      "Código Penal"
+     ]
+    },
+    {
+     "id": "VOX-seguridad-09",
+     "subtema": "seguridad privada",
+     "cita": "Apoyaremos todas las medidas que tengan por fina- lidad aumentar la protección personal y seguridad y prevención de riesgos laborales de los Vigilantes de Seguridad",
+     "pagina": 95,
+     "postura": "Mejorar la protección y condiciones de los vigilantes de seguridad privada.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "seguridad privada",
+      "vigilantes de seguridad",
+      "agentes de la autoridad",
+      "condiciones laborales",
+      "intrusismo"
+     ]
+    },
+    {
+     "id": "VOX-seguridad-10",
+     "subtema": "competencias de seguridad",
+     "cita": "le sean inmediatamente devueltas aquellas competencias en materia de Seguridad, Interior, Tráfico, Protección Civil y Vigilancia Marítima",
+     "pagina": 90,
+     "postura": "Devolver al Estado las competencias de seguridad, tráfico y protección civil.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "competencias",
+      "seguridad",
+      "Tráfico",
+      "Protección Civil",
+      "recentralización"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "inmigracion",
+   "sin_contenido": false,
+   "posicion_general": "Propone la expulsión inmediata de quienes entren irregularmente y de extranjeros que cometan delitos graves, suprimir el arraigo y las ayudas a inmigrantes irregulares, repatriar a los menores no acompañados, un bloqueo naval, impedir el empadronamiento de irregulares y endurecer el acceso a la nacionalidad, con preferencia para iberoamericanos.",
+   "posicionamientos": [
+    {
+     "id": "VOX-inmigracion-01",
+     "subtema": "expulsiones",
+     "cita": "Inmediata expulsión de todos los inmigrantes que acce- dan ilegalmente a nuestro país.",
+     "pagina": 100,
+     "postura": "Expulsar de inmediato a todos los inmigrantes que entren irregularmente.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "expulsión",
+      "inmigración ilegal",
+      "deportaciones",
+      "Ley de Extranjería",
+      "devoluciones"
+     ]
+    },
+    {
+     "id": "VOX-inmigracion-02",
+     "subtema": "extranjeros delincuentes",
+     "cita": "Expulsaremos de forma inmediata a los inmigrantes le- gales que cometan delitos graves o hagan del delito leve su forma de vida",
+     "pagina": 100,
+     "postura": "Expulsar a inmigrantes legales que cometan delitos graves o reiterados.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "expulsión",
+      "delincuencia",
+      "extranjeros",
+      "multirreincidencia",
+      "Código Penal"
+     ]
+    },
+    {
+     "id": "VOX-inmigracion-03",
+     "subtema": "ayudas y ONG",
+     "cita": "Eliminaremos las ayudas públicas a inmigrantes en si- tuación ilegal y las subvenciones a ONGs, asociaciones o cualquier entidad que destine sus fondos a promover o ayudar a la inmigración ilegal.",
+     "pagina": 100,
+     "postura": "Suprimir ayudas a inmigrantes irregulares y subvenciones a ONG que los asistan.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "ayudas sociales",
+      "ONG",
+      "subvenciones",
+      "inmigración irregular",
+      "residencia legal"
+     ]
+    },
+    {
+     "id": "VOX-inmigracion-04",
+     "subtema": "arraigo y regularización",
+     "cita": "Supresión de la institución del arraigo como forma de regu- lar la inmigración ilegal y revocación de las pasarelas rápidas para adquirir la nacionalidad española.",
+     "pagina": 103,
+     "postura": "Suprimir el arraigo y cualquier vía de regularización de inmigrantes irregulares.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "arraigo",
+      "regularización",
+      "ILP regularización",
+      "Reglamento de Extranjería",
+      "nacionalidad"
+     ]
+    },
+    {
+     "id": "VOX-inmigracion-05",
+     "subtema": "menores no acompañados",
+     "cita": "Cerraremos los centros de MENA que crean inseguri- dad en nuestras calles. Todos los menores extranjeros no acompañados deben ser repatriados con sus padres a sus países de origen de forma inmediata.",
+     "pagina": 101,
+     "postura": "Cerrar centros de menores no acompañados y repatriarlos a sus países.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "menores no acompañados",
+      "MENA",
+      "repatriación",
+      "centros de menores",
+      "reparto"
+     ]
+    },
+    {
+     "id": "VOX-inmigracion-06",
+     "subtema": "bloqueo naval",
+     "cita": "Impulsaremos un bloqueo naval que proteja nuestras cos- tas de la llegada masiva de inmigrantes ilegales",
+     "pagina": 102,
+     "postura": "Establecer un bloqueo naval frente a la llegada de pateras.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "bloqueo naval",
+      "pateras",
+      "fronteras",
+      "Canarias",
+      "control fronterizo"
+     ]
+    },
+    {
+     "id": "VOX-inmigracion-07",
+     "subtema": "empadronamiento",
+     "cita": "Los inmigrantes ilegales no podrán empadronarse ni adqui- rir con ello los beneficios y las ayudas correspondientes.",
+     "pagina": 102,
+     "postura": "Impedir el empadronamiento de inmigrantes en situación irregular.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "padrón municipal",
+      "empadronamiento",
+      "inmigrantes irregulares",
+      "servicios públicos",
+      "ayuntamientos"
+     ]
+    },
+    {
+     "id": "VOX-inmigracion-08",
+     "subtema": "nacionalidad",
+     "cita": "Revisaremos el derecho a la nacionalidad vinculada úni- camente al hecho de haber nacido en territorio nacional.",
+     "pagina": 103,
+     "postura": "Revisar la nacionalidad por nacimiento en territorio español y endurecer su adquisición.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "nacionalidad",
+      "Código Civil",
+      "ius soli",
+      "pérdida de nacionalidad",
+      "antecedentes penales"
+     ]
+    },
+    {
+     "id": "VOX-inmigracion-09",
+     "subtema": "preferencia iberoamericana",
+     "cita": "Nuestra po- lítica de inmigración atenderá de forma prioritaria a los ciudadanos procedentes de las naciones que comparten idioma",
+     "pagina": 101,
+     "postura": "Dar prioridad migratoria a nacionales de países de lengua y cultura compartidas.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Iberoamérica",
+      "política migratoria",
+      "preferencia",
+      "idioma",
+      "visados"
+     ]
+    },
+    {
+     "id": "VOX-inmigracion-10",
+     "subtema": "asilo en la UE",
+     "cita": "Exigencia ante la Unión Europea de creación de plataformas seguras de desembarco en territorios no europeos gestio- nados por la propia Unión para evaluar las solicitudes de asilo",
+     "pagina": 102,
+     "postura": "Crear plataformas de desembarco fuera de Europa para tramitar el asilo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "asilo",
+      "Pacto de Migración y Asilo",
+      "plataformas de desembarco",
+      "Unión Europea",
+      "retorno"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "pensiones",
+   "sin_contenido": false,
+   "posicion_general": "El programa dedica poco espacio a las pensiones: propone eximir del IRPF las pensiones contributivas, asegurar la sostenibilidad del sistema reduciendo el gasto político y autonómico y fomentar la natalidad como solución a largo plazo.",
+   "posicionamientos": [
+    {
+     "id": "VOX-pensiones-01",
+     "subtema": "IRPF de pensiones",
+     "cita": "las pensiones contributi- vas estarán exentas de IRPF por justicia con quienes han tributado durante toda su vida laboral.",
+     "pagina": 75,
+     "postura": "Eximir del IRPF las pensiones contributivas.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "pensiones contributivas",
+      "IRPF",
+      "exención",
+      "jubilados",
+      "fiscalidad"
+     ]
+    },
+    {
+     "id": "VOX-pensiones-02",
+     "subtema": "sostenibilidad",
+     "cita": "Aseguraremos la sostenibilidad del sistema de pen- siones desmontando el sistema autonómico",
+     "pagina": 25,
+     "postura": "Garantizar la sostenibilidad de las pensiones recortando el gasto del Estado autonómico.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "sostenibilidad",
+      "sistema de pensiones",
+      "Seguridad Social",
+      "gasto público",
+      "reforma de pensiones"
+     ]
+    },
+    {
+     "id": "VOX-pensiones-03",
+     "subtema": "natalidad",
+     "cita": "La solución estructural a largo plazo debe ser el incremento de la natalidad frente al invierno demográfico que asola nuestra nación.",
+     "pagina": 25,
+     "postura": "Fomentar la natalidad como solución estructural para las pensiones.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "natalidad",
+      "demografía",
+      "pensiones",
+      "invierno demográfico",
+      "Seguridad Social"
+     ]
+    },
+    {
+     "id": "VOX-pensiones-04",
+     "subtema": "jubilados con familiares",
+     "cita": "Programa de desgravaciones fiscales para los perceptores de rentas de jubilación y mayores de 65 años que incurran",
+     "pagina": 65,
+     "postura": "Desgravar a jubilados que sufraguen gastos de familiares jóvenes.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "jubilados",
+      "desgravaciones",
+      "mayores de 65",
+      "IRPF",
+      "familias"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "sanidad",
+   "sin_contenido": false,
+   "posicion_general": "Propone recuperar para el Estado las competencias sanitarias con tarjeta única e historia clínica común, reducir listas de espera reforzando los conciertos privados, derogar las leyes del aborto y la eutanasia, garantizar la objeción de conciencia, ampliar la cartera a salud bucodental y limitar la atención a inmigrantes irregulares a urgencias.",
+   "posicionamientos": [
+    {
+     "id": "VOX-sanidad-01",
+     "subtema": "Sistema Nacional de Salud",
+     "cita": "Implementaremos un verdadero Sistema Nacional de Salud mediante la recuperación de las competencias en materia sanitaria transferidas a las regiones",
+     "pagina": 56,
+     "postura": "Recuperar para el Estado las competencias sanitarias.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "competencias sanitarias",
+      "Sistema Nacional de Salud",
+      "recentralización",
+      "comunidades autónomas",
+      "Ministerio de Sanidad"
+     ]
+    },
+    {
+     "id": "VOX-sanidad-02",
+     "subtema": "tarjeta sanitaria única",
+     "cita": "Este plan incluirá un refuerzo del Ministerio de Sanidad, una tarjeta sanitaria única; unificación de la historia clí- nica y farmacéutica digital",
+     "pagina": 56,
+     "postura": "Crear una tarjeta sanitaria única e historia clínica digital común.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "tarjeta sanitaria única",
+      "historia clínica",
+      "cartera de servicios común",
+      "interoperabilidad",
+      "receta electrónica"
+     ]
+    },
+    {
+     "id": "VOX-sanidad-03",
+     "subtema": "listas de espera",
+     "cita": "Reduciremos el volumen y tiempo de las listas de espe- ra en todos los ámbitos, incentivando a los centros públi- cos para su reducción, y reforzando los conciertos con la sanidad privada.",
+     "pagina": 57,
+     "postura": "Reducir listas de espera con incentivos y más conciertos con la sanidad privada.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "listas de espera",
+      "conciertos",
+      "sanidad privada",
+      "colaboración público-privada",
+      "atención primaria"
+     ]
+    },
+    {
+     "id": "VOX-sanidad-04",
+     "subtema": "aborto y eutanasia",
+     "cita": "Defenderemos el derecho a la vida desde su concepción hasta la muerte natural y acabaremos con la cultura de la muerte. Para ello, comenzaremos por la derogación de la Ley de la Eutanasia y la Ley del aborto libre.",
+     "pagina": 170,
+     "postura": "Derogar las leyes de la eutanasia y del aborto.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "aborto",
+      "eutanasia",
+      "interrupción voluntaria del embarazo",
+      "derogación",
+      "derecho a la vida"
+     ]
+    },
+    {
+     "id": "VOX-sanidad-05",
+     "subtema": "cartera de servicios",
+     "cita": "Incluiremos en la cartera de servicios las prestaciones re- lacionadas con la salud bucodental y oftalmológica. Del mismo modo, suprimiremos de la Sanidad Pública aquellas intervenciones quirúrgicas y hormonales ajenas a la salud (cambio de sexo, aborto, eutanasia, etc.)",
+     "pagina": 58,
+     "postura": "Incluir salud bucodental y oftalmológica y excluir cambio de sexo, aborto y eutanasia.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "salud bucodental",
+      "oftalmología",
+      "cartera de servicios",
+      "dentista",
+      "prestaciones"
+     ]
+    },
+    {
+     "id": "VOX-sanidad-06",
+     "subtema": "lenguas y oposiciones",
+     "cita": "Presionaremos para que el desconocimiento de las len- guas regionales no sea en ningún caso un impedimento para el acceso por oposición a plazas de personal sani- tario",
+     "pagina": 57,
+     "postura": "Eliminar el requisito de lengua cooficial para plazas sanitarias.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "requisito lingüístico",
+      "lenguas cooficiales",
+      "personal sanitario",
+      "oposiciones",
+      "catalán"
+     ]
+    },
+    {
+     "id": "VOX-sanidad-07",
+     "subtema": "inmigrantes irregulares",
+     "cita": "En el caso de los inmigrantes en situación de ilegalidad, la atención abarcará las situaciones de urgencia vital y enfer- medades infecto-contagiosas.",
+     "pagina": 60,
+     "postura": "Limitar la atención sanitaria a irregulares a urgencias vitales y enfermedades infecciosas.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "sanidad universal",
+      "inmigrantes irregulares",
+      "atención sanitaria",
+      "urgencias",
+      "tarjeta sanitaria"
+     ]
+    },
+    {
+     "id": "VOX-sanidad-08",
+     "subtema": "objeción de conciencia",
+     "cita": "Garantizaremos la libertad de conciencia de todo el per- sonal sanitario, para que no sea forzado a actuar contra su conciencia",
+     "pagina": 59,
+     "postura": "Garantizar la objeción de conciencia del personal sanitario.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "objeción de conciencia",
+      "personal sanitario",
+      "aborto",
+      "eutanasia",
+      "registro de objetores"
+     ]
+    },
+    {
+     "id": "VOX-sanidad-09",
+     "subtema": "tratado de pandemias",
+     "cita": "Nos opondremos a la reintroducción del llamado pasapor- te verde y a las pretensiones de aprobación de un trata- do de pandemias",
+     "pagina": 59,
+     "postura": "Rechazar el pasaporte COVID y un tratado internacional de pandemias.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "tratado de pandemias",
+      "OMS",
+      "pasaporte COVID",
+      "certificado",
+      "soberanía sanitaria"
+     ]
+    },
+    {
+     "id": "VOX-sanidad-10",
+     "subtema": "cuidados paliativos",
+     "cita": "Esto inclui- rá una Ley de Cuidados Paliativos que asegure el cuidado de las personas en las fases críticas y terminales de la vida",
+     "pagina": 58,
+     "postura": "Aprobar una Ley de Cuidados Paliativos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "cuidados paliativos",
+      "final de la vida",
+      "ley",
+      "enfermos terminales",
+      "dependencia"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "energia",
+   "sin_contenido": false,
+   "posicion_general": "Propone soberanía energética con un mix que incluya nuclear, prolongar la vida de las centrales nucleares e instalar minirreactores, suprimir los impuestos de la factura eléctrica, reformar el sistema marginalista de precios, explotar recursos minerales nacionales, ampliar bombeos hidráulicos y proteger el suelo agrario frente a renovables.",
+   "posicionamientos": [
+    {
+     "id": "VOX-energia-01",
+     "subtema": "nuclear",
+     "cita": "Fomentaremos la inversión y actualización del parque de generación nuclear y promoveremos la extensión de la vida útil de las centrales nucleares existentes.",
+     "pagina": 117,
+     "postura": "Alargar la vida útil de las centrales nucleares e invertir en ellas.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "energía nuclear",
+      "centrales nucleares",
+      "cierre nuclear",
+      "vida útil",
+      "Almaraz"
+     ]
+    },
+    {
+     "id": "VOX-energia-02",
+     "subtema": "minirreactores",
+     "cita": "Utilizaremos los emplazamientos de las centrales nu- cleares cerradas y los nodos de vertido de las centrales térmicas clausuradas en España para implantar en di- chas localizaciones mini reactores nucleares (SMR).",
+     "pagina": 117,
+     "postura": "Instalar minirreactores nucleares en emplazamientos de centrales cerradas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "SMR",
+      "reactores modulares",
+      "nuclear",
+      "centrales térmicas",
+      "emplazamientos"
+     ]
+    },
+    {
+     "id": "VOX-energia-03",
+     "subtema": "impuestos eléctricos",
+     "cita": "Supresión de los impuestos que pesan sobre la factu- ra de la luz",
+     "pagina": 116,
+     "postura": "Suprimir los impuestos de la factura eléctrica.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "factura de la luz",
+      "impuesto eléctrico",
+      "IVA electricidad",
+      "impuesto de generación",
+      "precio de la luz"
+     ]
+    },
+    {
+     "id": "VOX-energia-04",
+     "subtema": "mercado eléctrico",
+     "cita": "Exigiremos una modificación del mecanismo marginalis- ta de fijación del precio de mercado de la electricidad, en el que la tecnología más cara fija el precio final.",
+     "pagina": 119,
+     "postura": "Reformar el sistema marginalista de fijación del precio eléctrico.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "mercado eléctrico",
+      "sistema marginalista",
+      "precio de la electricidad",
+      "tope al gas",
+      "reforma"
+     ]
+    },
+    {
+     "id": "VOX-energia-05",
+     "subtema": "recursos minerales",
+     "cita": "Derogación inmediata de la ley de cambio climático y transición energética a fin de poder explorar e investigar y explotar los recursos naturales y yacimientos minerales",
+     "pagina": 119,
+     "postura": "Permitir explorar y explotar hidrocarburos y minerales nacionales.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "minería",
+      "hidrocarburos",
+      "exploración",
+      "fracking",
+      "recursos naturales"
+     ]
+    },
+    {
+     "id": "VOX-energia-06",
+     "subtema": "hidroeléctrica",
+     "cita": "Instalaremos bombeos hidráulicos en todos aquellos pantanos destinados a la generación hidroeléctrica en que sea posible",
+     "pagina": 118,
+     "postura": "Instalar bombeos hidráulicos en los pantanos hidroeléctricos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "bombeo hidráulico",
+      "hidroeléctrica",
+      "pantanos",
+      "almacenamiento",
+      "embalses"
+     ]
+    },
+    {
+     "id": "VOX-energia-07",
+     "subtema": "gas",
+     "cita": "Garantizaremos las vías de recepción de gas procedente del norte de África",
+     "pagina": 118,
+     "postura": "Asegurar el suministro de gas del norte de África revirtiendo la política exterior reciente.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "gas",
+      "Argelia",
+      "gasoductos",
+      "suministro energético",
+      "Sáhara"
+     ]
+    },
+    {
+     "id": "VOX-energia-08",
+     "subtema": "puertas giratorias",
+     "cita": "Despolitizaremos los consejos de administración de las eléctricas. Las puertas giratorias han provocado una abun- dancia de políticos en los consejos",
+     "pagina": 119,
+     "postura": "Impedir la presencia de expolíticos en los consejos de las eléctricas.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "puertas giratorias",
+      "eléctricas",
+      "consejos de administración",
+      "incompatibilidades",
+      "expolíticos"
+     ]
+    },
+    {
+     "id": "VOX-energia-09",
+     "subtema": "renovables y suelo",
+     "cita": "Protegeremos el suelo, en especial el agrario, para evitar que se especule con él en la implantación de infraestructuras de energías renovables.",
+     "pagina": 111,
+     "postura": "Proteger el suelo agrario frente a la implantación de macroplantas renovables.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "energías renovables",
+      "suelo agrario",
+      "plantas solares",
+      "eólica",
+      "evaluación ambiental"
+     ]
+    },
+    {
+     "id": "VOX-energia-10",
+     "subtema": "mix energético",
+     "cita": "Estimularemos la disponibilidad de un mix energético que incluya energía fotovoltaica, eólica, hidráulica y nu- clear",
+     "pagina": 117,
+     "postura": "Mantener un mix con fotovoltaica, eólica, hidráulica y nuclear.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "mix energético",
+      "soberanía energética",
+      "fotovoltaica",
+      "eólica",
+      "nuclear"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "educacion",
+   "sin_contenido": false,
+   "posicion_general": "Propone devolver al Estado las competencias educativas con una ley nacional y currículos comunes, prueba única de acceso a la universidad, garantizar la enseñanza en español, el consentimiento previo de los padres a contenidos afectivo-sexuales, cheque escolar, defensa de la educación diferenciada y prohibir pasar de curso con suspensos.",
+   "posicionamientos": [
+    {
+     "id": "VOX-educacion-01",
+     "subtema": "competencias educativas",
+     "cita": "Iniciaremos el proceso de devolución al Estado de las competencias en Educación.",
+     "pagina": 32,
+     "postura": "Devolver al Estado las competencias de educación.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "competencias educativas",
+      "recentralización",
+      "Ley de Educación",
+      "comunidades autónomas",
+      "currículo"
+     ]
+    },
+    {
+     "id": "VOX-educacion-02",
+     "subtema": "selectividad única",
+     "cita": "Implantación de una prueba única de acceso a la Univer- sidad en todo el territorio nacional.",
+     "pagina": 32,
+     "postura": "Implantar una prueba única de acceso a la universidad en toda España.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "EBAU",
+      "selectividad",
+      "prueba única",
+      "acceso a la universidad",
+      "evaluación"
+     ]
+    },
+    {
+     "id": "VOX-educacion-03",
+     "subtema": "enseñanza en español",
+     "cita": "Aseguraremos de forma clara e inmediata el derecho a ser educado en español en todo el territorio nacional.",
+     "pagina": 33,
+     "postura": "Garantizar el derecho a estudiar en español en toda España.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "español",
+      "lengua vehicular",
+      "inmersión lingüística",
+      "25% castellano",
+      "Cataluña"
+     ]
+    },
+    {
+     "id": "VOX-educacion-04",
+     "subtema": "PIN parental",
+     "cita": "garantizar el cono- cimiento previo y aceptación de los padres de cualquier contenido afectivo-sexual o ideológico que puedan recibir sus hijos en el aula.",
+     "pagina": 33,
+     "postura": "Exigir consentimiento previo de los padres a contenidos afectivo-sexuales en clase.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "PIN parental",
+      "educación sexual",
+      "consentimiento parental",
+      "adoctrinamiento",
+      "padres"
+     ]
+    },
+    {
+     "id": "VOX-educacion-05",
+     "subtema": "Ley Celaá",
+     "cita": "Derogaremos la Ley Herodes y todas las leyes que vulneran los derechos de los padres a educar a sus hijos en libertad.",
+     "pagina": 33,
+     "postura": "Derogar la LOMLOE y las leyes que considera contrarias a los derechos de los padres.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "LOMLOE",
+      "Ley Celaá",
+      "derogación",
+      "libertad educativa",
+      "padres"
+     ]
+    },
+    {
+     "id": "VOX-educacion-06",
+     "subtema": "cheque escolar",
+     "cita": "Blindaremos la libre elección de centro educativo en to- dos los niveles a través de un cheque escolar",
+     "pagina": 33,
+     "postura": "Implantar un cheque escolar para la libre elección de centro.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "cheque escolar",
+      "libre elección de centro",
+      "concertada",
+      "financiación",
+      "familias"
+     ]
+    },
+    {
+     "id": "VOX-educacion-07",
+     "subtema": "repetición de curso",
+     "cita": "Impediremos que los alumnos puedan pasar de curso y con- seguir titulaciones con asignaturas suspensas.",
+     "pagina": 34,
+     "postura": "Prohibir pasar de curso o titular con asignaturas suspensas.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "promoción de curso",
+      "suspensos",
+      "titulación",
+      "evaluación",
+      "exigencia"
+     ]
+    },
+    {
+     "id": "VOX-educacion-08",
+     "subtema": "educación diferenciada y especial",
+     "cita": "Defenderemos los centros de educación diferenciada, ga- rantizando su accesibilidad y potenciando la figura de los educadores especiales en todas las escuelas e institutos",
+     "pagina": 34,
+     "postura": "Defender la educación diferenciada y los educadores especiales.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "educación diferenciada",
+      "educación especial",
+      "conciertos",
+      "centros",
+      "inclusión"
+     ]
+    },
+    {
+     "id": "VOX-educacion-09",
+     "subtema": "becas",
+     "cita": "Se mejorará el sistema de becas en las etapas universitaria y preuniversitaria",
+     "pagina": 34,
+     "postura": "Mejorar el sistema de becas universitarias y preuniversitarias.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "becas",
+      "estudiantes",
+      "universidad",
+      "ayudas al estudio",
+      "igualdad de oportunidades"
+     ]
+    },
+    {
+     "id": "VOX-educacion-10",
+     "subtema": "profesorado",
+     "cita": "el sistema de acceso a la función pública docente tendrá carácter nacional",
+     "pagina": 34,
+     "postura": "Crear un sistema nacional de acceso a la función docente.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "profesorado",
+      "oposiciones docentes",
+      "función pública docente",
+      "autoridad del profesor",
+      "MIR educativo"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "defensa",
+   "sin_contenido": false,
+   "posicion_general": "Propone aumentar la inversión en Defensa y la industria nacional del sector, mejorar sueldos y carrera militar, crear un servicio militar de reserva voluntaria, desplegar militares en Ceuta, Melilla y Canarias y exigir que la OTAN cubra explícitamente Ceuta y Melilla.",
+   "posicionamientos": [
+    {
+     "id": "VOX-defensa-01",
+     "subtema": "gasto en defensa",
+     "cita": "Aumentaremos la inversión en Defensa y aseguraremos sueldos dignos y ayudas a la movilidad geográfica y a la vivienda y alojamiento",
+     "pagina": 93,
+     "postura": "Aumentar la inversión en Defensa y los sueldos militares.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "gasto en defensa",
+      "presupuesto de Defensa",
+      "Fuerzas Armadas",
+      "salarios",
+      "2% PIB"
+     ]
+    },
+    {
+     "id": "VOX-defensa-02",
+     "subtema": "industria de defensa",
+     "cita": "impulsando el desarrollo y la contratación de servicios e industria nacional de Defensa en los ámbitos terrestre, naval, aeronáutico, espacial y de inteligencia.",
+     "pagina": 93,
+     "postura": "Priorizar la industria nacional de Defensa en los programas de modernización.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "industria de defensa",
+      "programas de armamento",
+      "modernización",
+      "contratación",
+      "industria nacional"
+     ]
+    },
+    {
+     "id": "VOX-defensa-03",
+     "subtema": "OTAN Ceuta y Melilla",
+     "cita": "Exigiremos la modificación del Tratado del Atlántico Norte para que este recoja e incluya, de forma explícita, a las ciudades españolas de Ceuta y Melilla bajo la pro- tección de la OTAN.",
+     "pagina": 92,
+     "postura": "Incluir explícitamente Ceuta y Melilla bajo la protección de la OTAN.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "OTAN",
+      "Ceuta",
+      "Melilla",
+      "Tratado del Atlántico Norte",
+      "Marruecos"
+     ]
+    },
+    {
+     "id": "VOX-defensa-04",
+     "subtema": "reserva voluntaria",
+     "cita": "desarrollaremos el Servicio Militar de reserva voluntaria, en el que todos los españoles sin exclusión podrán ejercer su derecho y deber de defen- der a España",
+     "pagina": 92,
+     "postura": "Crear un Servicio Militar de reserva voluntaria.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "servicio militar",
+      "reservistas",
+      "reserva voluntaria",
+      "Fuerzas Armadas",
+      "defensa nacional"
+     ]
+    },
+    {
+     "id": "VOX-defensa-05",
+     "subtema": "despliegue fronterizo",
+     "cita": "Despliegue militar en las fronteras de Ceuta, Melilla y Canarias para garantizar la protección de esos territorios",
+     "pagina": 91,
+     "postura": "Desplegar a las Fuerzas Armadas en las fronteras de Ceuta, Melilla y Canarias.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "despliegue militar",
+      "fronteras",
+      "Ceuta",
+      "Melilla",
+      "Canarias"
+     ]
+    },
+    {
+     "id": "VOX-defensa-06",
+     "subtema": "carrera militar",
+     "cita": "Una Ley de Carrera Militar única para las Escalas de Oficiales, Suboficia- les y Tropa y Marinería",
+     "pagina": 91,
+     "postura": "Aprobar una Ley de Carrera Militar única para todas las escalas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "carrera militar",
+      "Ley de Carrera Militar",
+      "tropa y marinería",
+      "militares de 45 años",
+      "Fuerzas Armadas"
+     ]
+    },
+    {
+     "id": "VOX-defensa-07",
+     "subtema": "misiones internacionales",
+     "cita": "en misiones de seguridad internacional y lucha contra el yihadismo según nuestros intereses y capacidades.",
+     "pagina": 93,
+     "postura": "Participar en misiones internacionales según los intereses nacionales.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "misiones internacionales",
+      "yihadismo",
+      "operaciones en el exterior",
+      "Fuerzas Armadas",
+      "terrorismo"
+     ]
+    },
+    {
+     "id": "VOX-defensa-08",
+     "subtema": "reserva de plazas",
+     "cita": "El tiempo de servicio prestado en las Fuerzas Armadas servirá de mérito para el acceso al empleo públi- co, con reserva de plazas.",
+     "pagina": 91,
+     "postura": "Reservar plazas de empleo público para exmilitares.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "reserva de plazas",
+      "exmilitares",
+      "empleo público",
+      "reincorporación",
+      "Fuerzas Armadas"
+     ]
+    },
+    {
+     "id": "VOX-defensa-09",
+     "subtema": "Seguridad Nacional",
+     "cita": "Una nueva Estrategia de Seguridad Nacional integrará De- fensa, Interior e Inteligencia",
+     "pagina": 90,
+     "postura": "Aprobar una nueva Estrategia de Seguridad Nacional que integre Defensa, Interior e Inteligencia.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Estrategia de Seguridad Nacional",
+      "inteligencia",
+      "CNI",
+      "ciberseguridad",
+      "defensa"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "cultura",
+   "sin_contenido": false,
+   "posicion_general": "Propone apoyar fiscalmente la tauromaquia y conservar el toro de lidia, proteger fiestas y tradiciones populares, un plan nacional de patrimonio con nueva ley de mecenazgo, potenciar el Instituto Cervantes y las Humanidades y rebajar el IVA cultural del cine.",
+   "posicionamientos": [
+    {
+     "id": "VOX-cultura-01",
+     "subtema": "tauromaquia",
+     "cita": "Apoyaremos con medidas fiscales y crediticias la tauroma- quia y los espectáculos taurinos.",
+     "pagina": 151,
+     "postura": "Apoyar fiscal y financieramente la tauromaquia.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "tauromaquia",
+      "toros",
+      "espectáculos taurinos",
+      "bono cultural",
+      "patrimonio cultural"
+     ]
+    },
+    {
+     "id": "VOX-cultura-02",
+     "subtema": "toro de lidia",
+     "cita": "Impulsaremos la defensa y conservación de la raza au- tóctona del Toro de Lidia para evitar su desaparición.",
+     "pagina": 151,
+     "postura": "Conservar la raza del Toro de Lidia.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "toro de lidia",
+      "ganadería brava",
+      "dehesa",
+      "tauromaquia",
+      "conservación"
+     ]
+    },
+    {
+     "id": "VOX-cultura-03",
+     "subtema": "patrimonio y mecenazgo",
+     "cita": "mediante un plan nacional de catalogación, restauración, conservación y difusión de este, con el apoyo de una nueva ley de me- cenazgo.",
+     "pagina": 151,
+     "postura": "Crear un plan nacional de patrimonio y una nueva ley de mecenazgo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "mecenazgo",
+      "patrimonio histórico",
+      "restauración",
+      "ley de mecenazgo",
+      "incentivos fiscales"
+     ]
+    },
+    {
+     "id": "VOX-cultura-04",
+     "subtema": "Instituto Cervantes",
+     "cita": "Potenciaremos la lengua española en el extranjero a tra- vés del Instituto Cervantes",
+     "pagina": 17,
+     "postura": "Potenciar el Instituto Cervantes y el español en el extranjero.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Instituto Cervantes",
+      "lengua española",
+      "acción cultural exterior",
+      "Hispanidad",
+      "difusión cultural"
+     ]
+    },
+    {
+     "id": "VOX-cultura-05",
+     "subtema": "fiestas y tradiciones",
+     "cita": "Promocionaremos y apoyaremos nuestras fiestas locales y tradiciones populares como señas de identidad",
+     "pagina": 17,
+     "postura": "Promocionar fiestas locales y tradiciones populares.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "fiestas populares",
+      "tradiciones",
+      "patrimonio inmaterial",
+      "identidad",
+      "festejos"
+     ]
+    },
+    {
+     "id": "VOX-cultura-06",
+     "subtema": "IVA cultural",
+     "cita": "revertiremos las subidas de más de 17 puntos en el material escolar, así como en cine y peluquerías",
+     "pagina": 76,
+     "postura": "Revertir la subida del IVA en cine y material escolar.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "IVA cultural",
+      "cine",
+      "material escolar",
+      "rebaja de IVA",
+      "espectáculos"
+     ]
+    },
+    {
+     "id": "VOX-cultura-07",
+     "subtema": "bienestar animal",
+     "cita": "Suprimiremos la Dirección General de Derechos de los Animales",
+     "pagina": 150,
+     "postura": "Suprimir la Dirección General de Derechos de los Animales.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "derechos de los animales",
+      "bienestar animal",
+      "Ley de Bienestar Animal",
+      "Dirección General",
+      "caza"
+     ]
+    },
+    {
+     "id": "VOX-cultura-08",
+     "subtema": "leyenda negra",
+     "cita": "Impulsaremos iniciativas culturales y educativas, tanto dentro como fuera de nuestras fronteras, destinadas a combatir la “leyenda negra”",
+     "pagina": 144,
+     "postura": "Promover iniciativas culturales contra la leyenda negra española.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "leyenda negra",
+      "Hispanidad",
+      "legado español",
+      "América",
+      "historia"
+     ]
+    },
+    {
+     "id": "VOX-cultura-09",
+     "subtema": "Humanidades",
+     "cita": "Recuperación y promoción de las Humanidades como ele- mento imprescindible y transversal de la enseñanza a todos los niveles",
+     "pagina": 35,
+     "postura": "Recuperar y promover las Humanidades en la enseñanza.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Humanidades",
+      "Filosofía",
+      "currículo",
+      "Latín",
+      "enseñanza"
+     ]
+    }
+   ]
+  }
+ ]
+}

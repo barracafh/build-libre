@@ -1,0 +1,59 @@
+{
+ "party": "BILDU",
+ "promesas": [
+  {
+   "id": "BILDU-01",
+   "cita": "Recuperar, de manera indefinida, la prórroga automática de los contratos de alquiler en caso de renovación, manteniendo condiciones y cuantías de renta.",
+   "pagina": 4,
+   "resumen": "Restablecer de forma indefinida la prórroga automática de los contratos de alquiler con las mismas condiciones y renta.",
+   "objeto": "Prórroga extraordinaria de contratos de alquiler",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "prórroga contratos alquiler",
+    "escudo social",
+    "alquiler",
+    "decreto anticrisis",
+    "arrendamientos urbanos"
+   ]
+  },
+  {
+   "id": "BILDU-02",
+   "cita": "Establecer temporalmente, hasta la reversión del alza de los tipos de interés, la congelación retroactiva de las cuotas hipotecarias para hipotecas inferiores a 250.000€ limitando el aumento a un máximo del 15% sobre las cuotas previas",
+   "pagina": 4,
+   "resumen": "Congelar temporalmente las cuotas hipotecarias de préstamos inferiores a 250.000 euros, limitando la subida al 15%.",
+   "objeto": "Cuotas hipotecarias de préstamos variables",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "cuotas hipotecarias",
+    "hipotecas",
+    "tipos de interés",
+    "congelación hipotecas",
+    "deudores hipotecarios"
+   ]
+  },
+  {
+   "id": "BILDU-03",
+   "cita": "Establecer la obligatoriedad de cumplir el Código de Buenas Prácticas de la Banca para hacer frente a los pagos hipotecarios",
+   "pagina": 4,
+   "resumen": "Hacer obligatorio para la banca el Código de Buenas Prácticas hipotecarias y ampliar su alcance.",
+   "objeto": "Código de Buenas Prácticas bancario",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "código de buenas prácticas",
+    "hipotecas",
+    "deudores hipotecarios",
+    "banca",
+    "vulnerabilidad"
+   ]
+  }
+ ]
+}

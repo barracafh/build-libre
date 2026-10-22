@@ -116,6 +116,17 @@ reglas obligatorias.
 - **Motivo:** integrar el trabajo de ambas ramas sin sustituir la portada ni presentar muestras
   ficticias como datos del Congreso. Los componentes del panel adoptan nombres kebab-case.
 
+## 2026-10-22 21:24 +02:00 · Integración de Escáner desde el PR 12
+
+- **Estado:** vigente
+- **Contexto:** el propietario de `codex/jorge` solicita incorporar el contenido del PR #12
+  como una nueva sección llamada Escáner.
+- **Decisión:** integrar `/escaner`, su instantánea, generador y pruebas; añadir su acceso en
+  `vistas.ts`, conservando Temas y Estadísticas.
+- **Motivo:** disponer de la vista existente en la misma aplicación para su revisión.
+- **Riesgo abierto:** se conservan las divergencias declaradas en el PR #12 (resúmenes de
+  programas con IA, colores de voto, orden por brecha y carga completa del conjunto de datos).
+
 ## Pendiente
 
 - Origen de los ficheros copiados a mano de upstream `data/` (commit `39a7426`): `data:fetch` borra

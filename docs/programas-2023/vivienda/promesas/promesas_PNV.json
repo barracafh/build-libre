@@ -1,0 +1,24 @@
+{
+ "party": "PNV",
+ "promesas": [
+  {
+   "id": "PNV-01",
+   "cita": "EAJ-PNV se compromete igualmente a seguir impulsando acuerdos como el logrado para la ciudad de Donostia con los terrenos de Loiola, donde se construirán cientos de viviendas.",
+   "pagina": 46,
+   "resumen": "Promover acuerdos de cesión de suelo estatal como el de los terrenos de Loiola en Donostia para construir viviendas.",
+   "objeto": "acuerdos de cesión de suelo estatal para vivienda",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "Loiola",
+    "suelo militar",
+    "Donostia",
+    "cesión de suelo",
+    "vivienda",
+    "Ministerio de Defensa"
+   ]
+  }
+ ]
+}

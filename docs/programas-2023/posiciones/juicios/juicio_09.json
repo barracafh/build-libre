@@ -1,0 +1,3155 @@
+[
+ {
+  "key": "P09-000",
+  "relaciones": [
+   {
+    "id": "46-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-001",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-002",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-003",
+  "relaciones": [
+   {
+    "id": "70-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: combatir la monetización de datos de jóvenes por plataformas, sin retribución a ciudadanos."
+   },
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-004",
+  "relaciones": [
+   {
+    "id": "46-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-005",
+  "relaciones": [
+   {
+    "id": "33-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "171-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-18",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-006",
+  "relaciones": [
+   {
+    "id": "46-16",
+    "relacion": "cumple",
+    "motivo": "Punto 1: impulsar en la UE un marco jurídico sólido para la inteligencia artificial."
+   },
+   {
+    "id": "154-2",
+    "relacion": "relacionada",
+    "motivo": "Medidas sobre IA y discapacidad, no sobre el reglamento europeo."
+   },
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-007",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-008",
+  "relaciones": [
+   {
+    "id": "46-16",
+    "relacion": "relacionada",
+    "motivo": "Supervisión de algoritmos por la Agencia de IA, sin transparencia del código público."
+   },
+   {
+    "id": "154-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: no discriminación en diseño de algoritmos, sin acceso a código fuente."
+   },
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-009",
+  "relaciones": [
+   {
+    "id": "130-9",
+    "relacion": "relacionada",
+    "motivo": "Devolución del proyecto de protección de menores digitales; no consta programa de adicción."
+   },
+   {
+    "id": "46-9",
+    "relacion": "avanza",
+    "motivo": "Punto 9: programas educativos y campañas sobre riesgos de internet para menores y familias."
+   },
+   {
+    "id": "46-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: evaluar impacto del entorno digital en menores, sin programas de prevención."
+   },
+   {
+    "id": "46-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: control de acceso de menores a internet, no prevención de adicción."
+   },
+   {
+    "id": "46-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: marcos de protección de menores en entorno digital."
+   },
+   {
+    "id": "46-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: sistemas de denuncia de contenidos inapropiados."
+   },
+   {
+    "id": "46-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: verificación de edad, no programas de prevención de adicción."
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-010",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-011",
+  "relaciones": [
+   {
+    "id": "70-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-012",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-013",
+  "relaciones": [
+   {
+    "id": "88-84",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-83",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-82",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-81",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-80",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-014",
+  "relaciones": [
+   {
+    "id": "154-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: estudiar certificaciones de uso ético de IA, no sandbox."
+   },
+   {
+    "id": "46-16",
+    "relacion": "relacionada",
+    "motivo": "Agencia de supervisión de IA, sin sandbox regulatorio."
+   },
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-015",
+  "relaciones": [
+   {
+    "id": "46-16",
+    "relacion": "avanza",
+    "motivo": "Puntos 2-3: avanzar en la Agencia de Supervisión de IA; no menciona la estrategia."
+   },
+   {
+    "id": "46-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-016",
+  "relaciones": [
+   {
+    "id": "46-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 9: campañas de concienciación sobre riesgos de internet."
+   },
+   {
+    "id": "46-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: evaluar la situación de menores en el entorno digital."
+   },
+   {
+    "id": "46-7",
+    "relacion": "avanza",
+    "motivo": "Punto 7: colaborar con plataformas para controlar el acceso de menores con verificación."
+   },
+   {
+    "id": "46-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: marcos regulatorios de protección de menores en entorno digital."
+   },
+   {
+    "id": "46-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: sistemas de denuncia de contenidos inapropiados."
+   },
+   {
+    "id": "46-4",
+    "relacion": "cumple",
+    "motivo": "Punto 4: exigir procedimientos de verificación de edad eficaces y de confianza."
+   },
+   {
+    "id": "46-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: más recursos a la CNMC como supervisor digital."
+   },
+   {
+    "id": "46-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: competencias de la CNMC como coordinador de servicios digitales."
+   }
+  ]
+ },
+ {
+  "key": "P09-017",
+  "relaciones": [
+   {
+    "id": "154-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-8",
+    "relacion": "avanza",
+    "motivo": "Punto 4: revisar y mejorar la financiación local, sin ley de gobiernos locales."
+   },
+   {
+    "id": "154-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "141-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-018",
+  "relaciones": [
+   {
+    "id": "118-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: ponderar dispersión y despoblación en financiación de servicios."
+   },
+   {
+    "id": "52-28",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: evaluación de impacto rural de leyes, no garantía de servicios."
+   }
+  ]
+ },
+ {
+  "key": "P09-019",
+  "relaciones": [
+   {
+    "id": "93-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-020",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "141-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-021",
+  "relaciones": [
+   {
+    "id": "58-9",
+    "relacion": "avanza",
+    "motivo": "Punto 6: modificar el reglamento del CPFF para dar más capacidad de decisión a las CCAA."
+   },
+   {
+    "id": "93-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-24",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-022",
+  "relaciones": [
+   {
+    "id": "198-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: negociación bilateral de hacienda propia gallega, sin pacto plurinacional."
+   },
+   {
+    "id": "154-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-023",
+  "relaciones": [
+   {
+    "id": "52-28",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: evaluación de impacto rural de leyes, no garantía de servicios."
+   },
+   {
+    "id": "52-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-16",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-024",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: reforzar Policía Nacional y Guardia Civil en Cataluña, sin suprimir policías autonómicas."
+   },
+   {
+    "id": "196-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-025",
+  "relaciones": [
+   {
+    "id": "154-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "175-1",
+    "relacion": "relacionada",
+    "motivo": "Consorcio de inversiones Estado-Generalitat, instrumento bilateral distinto de la mesa de diálogo."
+   },
+   {
+    "id": "36-24",
+    "relacion": "relacionada",
+    "motivo": "Financiación propia para Cataluña, sin referencia a la mesa de diálogo."
+   },
+   {
+    "id": "30-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-026",
+  "relaciones": [
+   {
+    "id": "58-9",
+    "relacion": "avanza",
+    "motivo": "Iniciar la negociación de la reforma de financiación autonómica, sin plazo de un año."
+   },
+   {
+    "id": "93-3",
+    "relacion": "avanza",
+    "motivo": "Punto 2: retomar de inmediato la reforma del sistema de financiación autonómica."
+   },
+   {
+    "id": "93-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: fondo transitorio para Aragón mientras se reforma el sistema."
+   },
+   {
+    "id": "154-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: quita de la deuda autonómica."
+   },
+   {
+    "id": "154-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: modelo bilateral de hacienda propia para Galicia."
+   },
+   {
+    "id": "154-5",
+    "relacion": "avanza",
+    "motivo": "Punto 1: cambiar lo antes posible el sistema de financiación autonómica."
+   }
+  ]
+ },
+ {
+  "key": "P09-027",
+  "relaciones": [
+   {
+    "id": "154-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: financiación local y servicios impropios, sin reforma de la Ley de Bases."
+   },
+   {
+    "id": "154-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "104-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-028",
+  "relaciones": [
+   {
+    "id": "118-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-2",
+    "relacion": "relacionada",
+    "motivo": "Ley del lobo que cita el reto demográfico, no ley de desarrollo rural."
+   },
+   {
+    "id": "58-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-029",
+  "relaciones": [
+   {
+    "id": "132-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "171-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-13",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-030",
+  "relaciones": [
+   {
+    "id": "154-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-6",
+    "relacion": "contradice",
+    "motivo": "Punto 2: plena capacidad fiscal propia de Galicia, opuesta a igualar impuestos cedidos."
+   },
+   {
+    "id": "154-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: cambiar el sistema de financiación, sin igualar impuestos cedidos."
+   },
+   {
+    "id": "58-9",
+    "relacion": "relacionada",
+    "motivo": "Reforma de financiación respetando capacidades normativas de las CCAA."
+   },
+   {
+    "id": "93-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: reforma de financiación con corresponsabilidad fiscal."
+   },
+   {
+    "id": "93-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: fondo transitorio para Aragón."
+   }
+  ]
+ },
+ {
+  "key": "P09-031",
+  "relaciones": [
+   {
+    "id": "93-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: reforma con principio de corresponsabilidad fiscal, sin exigencias concretas."
+   },
+   {
+    "id": "93-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: fondo complementario para Aragón."
+   },
+   {
+    "id": "154-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: capacidad fiscal plena para Galicia."
+   },
+   {
+    "id": "154-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-9",
+    "relacion": "relacionada",
+    "motivo": "Reforma de financiación autonómica con fondos y respeto normativo a CCAA."
+   }
+  ]
+ },
+ {
+  "key": "P09-032",
+  "relaciones": [
+   {
+    "id": "154-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-033",
+  "relaciones": [
+   {
+    "id": "93-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "175-1",
+    "relacion": "relacionada",
+    "motivo": "Consorcio de inversiones para Cataluña, no fondo de compensación general."
+   },
+   {
+    "id": "52-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-24",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-034",
+  "relaciones": [
+   {
+    "id": "96-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-37",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-035",
+  "relaciones": [
+   {
+    "id": "58-9",
+    "relacion": "avanza",
+    "motivo": "Punto 5: tener en cuenta las especialidades de Ceuta y Melilla en la financiación."
+   },
+   {
+    "id": "198-10",
+    "relacion": "relacionada",
+    "motivo": "Medidas de seguridad en Ceuta, no de financiación."
+   },
+   {
+    "id": "96-2",
+    "relacion": "avanza",
+    "motivo": "Recuperar bonificaciones de cuotas patronales en Ceuta y Melilla."
+   },
+   {
+    "id": "196-4",
+    "relacion": "avanza",
+    "motivo": "Puntos 6-7: plan de reactivación y ley de régimen especial fiscal para Ceuta y Melilla."
+   },
+   {
+    "id": "198-17",
+    "relacion": "avanza",
+    "motivo": "Medidas urgentes de apoyo social y económico a Ceuta."
+   },
+   {
+    "id": "91-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-11",
+    "relacion": "relacionada",
+    "motivo": "Refuerzo de seguridad en Ceuta, no apoyo financiero."
+   }
+  ]
+ },
+ {
+  "key": "P09-036",
+  "relaciones": [
+   {
+    "id": "60-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-17",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-037",
+  "relaciones": [
+   {
+    "id": "36-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-16",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-038",
+  "relaciones": [
+   {
+    "id": "154-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: quita de deuda autonómica, sin eliminar el FLA."
+   },
+   {
+    "id": "154-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 10: analizar los fondos existentes y su cumplimiento."
+   }
+  ]
+ },
+ {
+  "key": "P09-039",
+  "relaciones": [
+   {
+    "id": "154-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: mejorar participación local en impuestos del Estado, no tributos propios."
+   },
+   {
+    "id": "154-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "19-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "96-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-040",
+  "relaciones": [
+   {
+    "id": "58-9",
+    "relacion": "cumple",
+    "motivo": "Punto 1: multilateralidad en la reforma de la financiación con todas las CCAA."
+   },
+   {
+    "id": "93-3",
+    "relacion": "avanza",
+    "motivo": "Punto 2: retomar la reforma de la financiación autonómica."
+   },
+   {
+    "id": "93-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: fondo específico para Aragón."
+   },
+   {
+    "id": "154-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: quita de la deuda autonómica."
+   },
+   {
+    "id": "154-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-6",
+    "relacion": "contradice",
+    "motivo": "Punto 2: negociación bilateral con Galicia en lugar de con todas las comunidades."
+   },
+   {
+    "id": "154-5",
+    "relacion": "avanza",
+    "motivo": "Punto 1: cambiar el sistema de financiación autonómica."
+   }
+  ]
+ },
+ {
+  "key": "P09-041",
+  "relaciones": [
+   {
+    "id": "79-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "11-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "132-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "141-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-31",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-042",
+  "relaciones": [
+   {
+    "id": "52-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "96-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-043",
+  "relaciones": [
+   {
+    "id": "52-28",
+    "relacion": "cumple",
+    "motivo": "Punto 5: aplicar el Rural Proofing para evaluar el impacto rural de las leyes."
+   },
+   {
+    "id": "52-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-044",
+  "relaciones": [
+   {
+    "id": "36-24",
+    "relacion": "relacionada",
+    "motivo": "Financiación propia para Cataluña, sin consulta ciudadana."
+   },
+   {
+    "id": "175-1",
+    "relacion": "relacionada",
+    "motivo": "Consorcio Estado-Generalitat, sin consulta ciudadana."
+   },
+   {
+    "id": "18-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "18-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "96-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "30-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "18-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-30",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-045",
+  "relaciones": [
+   {
+    "id": "106-19",
+    "relacion": "relacionada",
+    "motivo": "Devolución de la reforma del Concierto vasco; no suprime el régimen foral."
+   },
+   {
+    "id": "104-3",
+    "relacion": "relacionada",
+    "motivo": "Tramitación en lectura única de la reforma del Concierto vasco."
+   },
+   {
+    "id": "106-20",
+    "relacion": "relacionada",
+    "motivo": "Aprueba la reforma del Concierto vasco, que mantiene el régimen foral."
+   },
+   {
+    "id": "146-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-046",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "74-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-42",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-047",
+  "relaciones": [
+   {
+    "id": "154-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: hacienda propia gallega, dirección opuesta al Estado unitario."
+   },
+   {
+    "id": "154-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-9",
+    "relacion": "relacionada",
+    "motivo": "Transferencia de la AP-9 a Galicia, más descentralización."
+   },
+   {
+    "id": "191-8",
+    "relacion": "relacionada",
+    "motivo": "Transferencia de la AP-9 a Galicia, más descentralización."
+   },
+   {
+    "id": "191-24",
+    "relacion": "relacionada",
+    "motivo": "Transferencia de la AP-9 a Galicia, más descentralización."
+   }
+  ]
+ },
+ {
+  "key": "P09-048",
+  "relaciones": [
+   {
+    "id": "36-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "19-1",
+    "relacion": "relacionada",
+    "motivo": "Garantía de cajeros en municipios en riesgo, sin estatuto específico."
+   }
+  ]
+ },
+ {
+  "key": "P09-049",
+  "relaciones": [
+   {
+    "id": "202-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "91-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "171-1",
+    "relacion": "contradice",
+    "motivo": "Delega en Cataluña competencias estatales de seguridad, contrario a devolverlas al Estado."
+   },
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-050",
+  "relaciones": [
+   {
+    "id": "58-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-051",
+  "relaciones": [
+   {
+    "id": "58-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: convocar la Conferencia de Presidentes para financiación, no institucionalizarla."
+   },
+   {
+    "id": "93-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-13",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-052",
+  "relaciones": [
+   {
+    "id": "58-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-053",
+  "relaciones": [
+   {
+    "id": "154-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: revisar la financiación local y participación en impuestos estatales."
+   },
+   {
+    "id": "154-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-6",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-054",
+  "relaciones": [
+   {
+    "id": "175-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "11-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-055",
+  "relaciones": [
+   {
+    "id": "93-3",
+    "relacion": "avanza",
+    "motivo": "Punto 2: retomar de inmediato la reforma de la financiación, sin suelo fiscal."
+   },
+   {
+    "id": "93-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: fondo transitorio para Aragón."
+   },
+   {
+    "id": "58-9",
+    "relacion": "avanza",
+    "motivo": "Iniciar la reforma de financiación autonómica, sin suelo fiscal."
+   },
+   {
+    "id": "154-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: quita de la deuda autonómica."
+   },
+   {
+    "id": "154-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: plena capacidad fiscal de Galicia."
+   },
+   {
+    "id": "154-5",
+    "relacion": "avanza",
+    "motivo": "Punto 1: cambiar cuanto antes el sistema de financiación."
+   }
+  ]
+ },
+ {
+  "key": "P09-056",
+  "relaciones": [
+   {
+    "id": "148-3",
+    "relacion": "avanza",
+    "motivo": "Recuperar conexiones, LAV Madrid-Talayuela y tramo Plasencia-Astorga en Extremadura."
+   },
+   {
+    "id": "161-4",
+    "relacion": "avanza",
+    "motivo": "Puntos 9 y 11: plan de inversiones y refuerzo de infraestructuras ferroviarias."
+   },
+   {
+    "id": "188-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: plan de convergencia de acceso a infraestructuras de transporte."
+   },
+   {
+    "id": "188-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: compromisos de puntualidad de Renfe."
+   },
+   {
+    "id": "188-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: protocolo de análisis de incidencias ferroviarias."
+   },
+   {
+    "id": "188-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: plan de atención a pasajeros ante incidencias."
+   }
+  ]
+ },
+ {
+  "key": "P09-057",
+  "relaciones": [
+   {
+    "id": "106-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: financiación estable de servicios de autobús transferidos a CCAA."
+   },
+   {
+    "id": "156-2",
+    "relacion": "relacionada",
+    "motivo": "Bonificación de abonos de transporte público, no fondo con el 0,25% del PIB."
+   },
+   {
+    "id": "191-27",
+    "relacion": "relacionada",
+    "motivo": "Ayudas al transporte joven en verano, no fondo estructural."
+   },
+   {
+    "id": "124-11",
+    "relacion": "relacionada",
+    "motivo": "Ayudas al transporte joven en verano, no fondo estructural."
+   },
+   {
+    "id": "49-21",
+    "relacion": "relacionada",
+    "motivo": "Ayudas al transporte joven en verano, no fondo estructural."
+   },
+   {
+    "id": "191-28",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como ley de ayudas al transporte joven."
+   },
+   {
+    "id": "124-12",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como ley de ayudas al transporte joven."
+   },
+   {
+    "id": "49-22",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como ley de ayudas al transporte joven."
+   }
+  ]
+ },
+ {
+  "key": "P09-058",
+  "relaciones": [
+   {
+    "id": "66-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: exigir gestión efectiva al ministro, sin ampliar Cercanías."
+   },
+   {
+    "id": "66-4",
+    "relacion": "avanza",
+    "motivo": "Punto 2: mejorar infraestructuras y trenes ferroviarios."
+   },
+   {
+    "id": "66-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: compromisos de puntualidad de Renfe."
+   },
+   {
+    "id": "188-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: plan de convergencia de acceso a infraestructuras."
+   },
+   {
+    "id": "188-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: compromisos de puntualidad de Renfe."
+   },
+   {
+    "id": "188-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: protocolo de incidencias ferroviarias."
+   }
+  ]
+ },
+ {
+  "key": "P09-059",
+  "relaciones": [
+   {
+    "id": "106-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: financiación estable de autobús interurbano, no urbano."
+   },
+   {
+    "id": "29-32",
+    "relacion": "relacionada",
+    "motivo": "Impulsar movilidad sostenible y bicicleta, sin fondo estatal."
+   },
+   {
+    "id": "111-2",
+    "relacion": "relacionada",
+    "motivo": "Impuesto a transporte de lujo para financiar billete único y tren."
+   },
+   {
+    "id": "188-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: mantener servicios de autobús estatal en el mapa concesional."
+   },
+   {
+    "id": "188-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-060",
+  "relaciones": [
+   {
+    "id": "148-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "114-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-79",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-78",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-77",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-76",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-75",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-74",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-061",
+  "relaciones": [
+   {
+    "id": "19-3",
+    "relacion": "avanza",
+    "motivo": "Punto 2.5: aprobar el Plan director del Corredor Atlántico."
+   },
+   {
+    "id": "60-6",
+    "relacion": "relacionada",
+    "motivo": "Alta velocidad a Navarra, no corredores Atlántico o Mediterráneo."
+   },
+   {
+    "id": "148-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "161-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-062",
+  "relaciones": [
+   {
+    "id": "19-3",
+    "relacion": "avanza",
+    "motivo": "Punto 1: planes de conservación y nuevas autovías estatales en Galicia."
+   },
+   {
+    "id": "201-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "161-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-65",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "57-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: plan de convergencia de acceso a infraestructuras."
+   }
+  ]
+ },
+ {
+  "key": "P09-063",
+  "relaciones": [
+   {
+    "id": "148-3",
+    "relacion": "avanza",
+    "motivo": "Punto 4: reactivar la DIA del LAV Madrid-Talayuela hacia Extremadura."
+   },
+   {
+    "id": "60-6",
+    "relacion": "avanza",
+    "motivo": "Alta velocidad hasta Pamplona y conexión con la Y vasca."
+   },
+   {
+    "id": "136-98",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "161-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-064",
+  "relaciones": [
+   {
+    "id": "49-21",
+    "relacion": "avanza",
+    "motivo": "Promoción del transporte público para jóvenes en verano, no gratuidad permanente."
+   },
+   {
+    "id": "49-22",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como ley de ayudas al transporte joven."
+   },
+   {
+    "id": "89-1",
+    "relacion": "relacionada",
+    "motivo": "Medidas de transporte en RDL económico, sin gratuidad por edad."
+   },
+   {
+    "id": "29-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "156-2",
+    "relacion": "relacionada",
+    "motivo": "Bonificación de abonos de transporte público."
+   },
+   {
+    "id": "91-12",
+    "relacion": "relacionada",
+    "motivo": "Medidas urgentes de transporte en RDL económico."
+   },
+   {
+    "id": "191-27",
+    "relacion": "avanza",
+    "motivo": "Promoción del transporte público para jóvenes en verano, no gratuidad permanente."
+   }
+  ]
+ },
+ {
+  "key": "P09-065",
+  "relaciones": [
+   {
+    "id": "114-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-79",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-78",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-77",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-76",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-75",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-74",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-73",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-066",
+  "relaciones": [
+   {
+    "id": "66-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "19-3",
+    "relacion": "avanza",
+    "motivo": "Punto 2.5: Plan director del Corredor Atlántico."
+   },
+   {
+    "id": "60-6",
+    "relacion": "relacionada",
+    "motivo": "Alta velocidad a Navarra, no los tres corredores."
+   },
+   {
+    "id": "161-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "148-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "114-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-067",
+  "relaciones": [
+   {
+    "id": "63-2",
+    "relacion": "avanza",
+    "motivo": "Punto 5: participación de Canarias en la gestión de puertos y aeropuertos."
+   },
+   {
+    "id": "134-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "19-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-13",
+    "relacion": "relacionada",
+    "motivo": "Avocación de la reforma de la Ley de Puertos, sin transferir gestión."
+   }
+  ]
+ },
+ {
+  "key": "P09-068",
+  "relaciones": [
+   {
+    "id": "136-98",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "161-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 12: adecuar cánones al tráfico tras la liberalización."
+   },
+   {
+    "id": "148-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-069",
+  "relaciones": [
+   {
+    "id": "188-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-7",
+    "relacion": "avanza",
+    "motivo": "Punto 6: plan nacional de renovación del parque automovilístico, sin recarga."
+   },
+   {
+    "id": "188-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-070",
+  "relaciones": [
+   {
+    "id": "188-9",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   },
+   {
+    "id": "188-8",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   },
+   {
+    "id": "188-7",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   },
+   {
+    "id": "188-6",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   },
+   {
+    "id": "188-5",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   },
+   {
+    "id": "188-4",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   },
+   {
+    "id": "188-3",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   },
+   {
+    "id": "188-2",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   }
+  ]
+ },
+ {
+  "key": "P09-071",
+  "relaciones": [
+   {
+    "id": "19-3",
+    "relacion": "avanza",
+    "motivo": "Puntos 1.7-1.8: liberar el peaje de la AP-53 y bonificar peajes."
+   },
+   {
+    "id": "29-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "156-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-28",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-072",
+  "relaciones": [
+   {
+    "id": "63-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "148-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "11-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-073",
+  "relaciones": [
+   {
+    "id": "19-3",
+    "relacion": "relacionada",
+    "motivo": "Liberar y bonificar peajes en Galicia, sin reformar el Plan de Recuperación."
+   },
+   {
+    "id": "29-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "91-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-074",
+  "relaciones": [
+   {
+    "id": "19-3",
+    "relacion": "relacionada",
+    "motivo": "Inversiones viarias y ferroviarias en Galicia, sin foco rural."
+   },
+   {
+    "id": "29-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "89-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: mantener paradas y rutas de autobús estatal."
+   },
+   {
+    "id": "188-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: corregir desequilibrios territoriales de acceso al transporte."
+   }
+  ]
+ },
+ {
+  "key": "P09-075",
+  "relaciones": [
+   {
+    "id": "111-2",
+    "relacion": "relacionada",
+    "motivo": "Impuesto a jets privados, sin suprimir vuelos domésticos."
+   },
+   {
+    "id": "136-98",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-076",
+  "relaciones": [
+   {
+    "id": "148-3",
+    "relacion": "avanza",
+    "motivo": "Recuperar conexiones convencionales y reabrir el tramo Plasencia-Astorga."
+   },
+   {
+    "id": "161-4",
+    "relacion": "avanza",
+    "motivo": "Punto 11: refuerzo de infraestructuras con atención a Cercanías."
+   },
+   {
+    "id": "111-2",
+    "relacion": "relacionada",
+    "motivo": "Impuesto para financiar mejora de la red ferroviaria."
+   },
+   {
+    "id": "188-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: plan de convergencia de acceso a infraestructuras."
+   },
+   {
+    "id": "188-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: compromisos de puntualidad de Renfe."
+   },
+   {
+    "id": "188-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: protocolo de incidencias ferroviarias."
+   }
+  ]
+ },
+ {
+  "key": "P09-077",
+  "relaciones": [
+   {
+    "id": "188-9",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   },
+   {
+    "id": "188-8",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   },
+   {
+    "id": "188-7",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   },
+   {
+    "id": "188-6",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   },
+   {
+    "id": "188-5",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   },
+   {
+    "id": "188-4",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   },
+   {
+    "id": "188-3",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   },
+   {
+    "id": "188-2",
+    "relacion": "relacionada",
+    "motivo": "Exige cumplir la Ley de Movilidad Sostenible ya aprobada."
+   }
+  ]
+ },
+ {
+  "key": "P09-078",
+  "relaciones": [
+   {
+    "id": "201-2",
+    "relacion": "relacionada",
+    "motivo": "Reducir la tasa de alcohol en conducción, seguridad vial sin carreteras 2+1."
+   },
+   {
+    "id": "19-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-65",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "57-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "161-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "63-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-079",
+  "relaciones": [
+   {
+    "id": "114-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "201-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-65",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "57-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-79",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-78",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-77",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P09-080",
+  "relaciones": [
+   {
+    "id": "201-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-65",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "57-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "114-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-79",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-78",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-77",
+    "relacion": "no_relacionada"
+   }
+  ]
+ }
+]

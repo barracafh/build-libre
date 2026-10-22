@@ -1,0 +1,1735 @@
+{
+ "party": "PSOE",
+ "temas": [
+  {
+   "tema": "impuestos",
+   "sin_contenido": false,
+   "posicion_general": "Propone una fiscalidad progresiva sin subir con carácter general los impuestos, centrada en un Pacto de Estado contra el fraude, la tributación mínima de sociedades, la evaluación de los gravámenes a banca, energéticas y grandes fortunas, la fiscalidad verde y más incentivos fiscales a familias, autónomos y pymes.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-impuestos-01",
+     "subtema": "fraude fiscal",
+     "cita": "Promover un Pacto de Estado contra el Fraude Fiscal. Consensuaremos con todas las fuerzas políticas, agentes sociales y profesionales del ámbito fiscal un plan de acción contra el fraude, la evasión y la elusión fiscal.",
+     "pagina": 38,
+     "postura": "Pactar un plan de Estado contra el fraude, la evasión y la elusión fiscal y reforzar la Agencia Tributaria.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "fraude fiscal",
+      "evasión fiscal",
+      "elusión fiscal",
+      "Agencia Tributaria",
+      "economía sumergida"
+     ]
+    },
+    {
+     "id": "PSOE-impuestos-02",
+     "subtema": "presión fiscal general",
+     "cita": "luchando contra el fraude y la economía sumergida para incrementar los ingresos sin aumentar, con carácter general, los impuestos",
+     "pagina": 24,
+     "postura": "Aumentar la recaudación mediante la lucha contra el fraude sin subir con carácter general los impuestos.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "subida de impuestos",
+      "presión fiscal",
+      "recaudación",
+      "consolidación fiscal",
+      "déficit"
+     ]
+    },
+    {
+     "id": "PSOE-impuestos-03",
+     "subtema": "IRPF familias",
+     "cita": "Aumentaremos el mínimo por descendientes y personas dependientes en el IRPF con el fin de apoyar a las familias con hijos, impulsar la natalidad y acompañar en el cuidado de las personas mayores y dependiente.",
+     "pagina": 33,
+     "postura": "Elevar el mínimo por descendientes y dependientes en el IRPF.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "IRPF",
+      "mínimo por descendientes",
+      "deducción por hijo",
+      "familias",
+      "dependencia",
+      "natalidad"
+     ]
+    },
+    {
+     "id": "PSOE-impuestos-04",
+     "subtema": "impuesto de sociedades",
+     "cita": "Continuaremos impulsando a nivel internacional y en la Unión Europea el establecimiento de una tributación mínima suficiente en el Impuesto sobre Sociedades y una justa distribución de la recaudación entre los países en los que operan los grupos transnacionales.",
+     "pagina": 39,
+     "postura": "Apoyar una tributación mínima global en el Impuesto sobre Sociedades para grupos multinacionales.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "impuesto sobre sociedades",
+      "tributación mínima",
+      "multinacionales",
+      "grandes empresas",
+      "OCDE"
+     ]
+    },
+    {
+     "id": "PSOE-impuestos-05",
+     "subtema": "gravámenes banca y energéticas",
+     "cita": "Evaluaremos la prórroga y ajustes de los gravámenes temporales sobre la banca y energéticas, para que ambos sectores sigan contribuyendo a la justicia fiscal y al sostenimiento del Estado de bienestar.",
+     "pagina": 39,
+     "postura": "Estudiar prorrogar los gravámenes temporales a banca y energéticas.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "gravamen temporal",
+      "impuesto a la banca",
+      "impuesto a las energéticas",
+      "entidades de crédito",
+      "beneficios extraordinarios"
+     ]
+    },
+    {
+     "id": "PSOE-impuestos-06",
+     "subtema": "grandes fortunas",
+     "cita": "Evaluaremos los resultados del Impuesto Temporal de Solidaridad de las Grandes Fortunas y, en su caso, avanzaremos en el debate sobre la tributación de la riqueza en el marco del modelo de financiación autonómica para acabar con la competencia fiscal desleal entre territorios.",
+     "pagina": 39,
+     "postura": "Evaluar el impuesto a grandes fortunas y armonizar la tributación de la riqueza entre comunidades.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "impuesto grandes fortunas",
+      "impuesto sobre el patrimonio",
+      "tributación de la riqueza",
+      "armonización fiscal",
+      "competencia fiscal"
+     ]
+    },
+    {
+     "id": "PSOE-impuestos-07",
+     "subtema": "fiscalidad verde",
+     "cita": "Avanzaremos en la fiscalidad verde, contribuyendo al compromiso de nuestro país con la emergencia climática y con el futuro de nuestros jóvenes. Una fiscalidad verde bajo la premisa de “quien contamina paga”",
+     "pagina": 39,
+     "postura": "Desarrollar impuestos medioambientales bajo el principio de quien contamina paga, con medidas compensatorias.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "fiscalidad verde",
+      "impuestos medioambientales",
+      "quien contamina paga",
+      "emisiones",
+      "transición ecológica"
+     ]
+    },
+    {
+     "id": "PSOE-impuestos-08",
+     "subtema": "autónomos y pymes",
+     "cita": "Impulsar una mejora de la fiscalidad de autónomos y pymes, aumentando los incentivos para impulsar su apuesta por la transición ecológica y digital.",
+     "pagina": 38,
+     "postura": "Mejorar la fiscalidad de autónomos y pymes con incentivos a la transición ecológica y digital.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "autónomos",
+      "pymes",
+      "incentivos fiscales",
+      "fiscalidad",
+      "digitalización"
+     ]
+    },
+    {
+     "id": "PSOE-impuestos-09",
+     "subtema": "mecenazgo",
+     "cita": "Culminaremos la tramitación de la nueva ley de apoyo al mecenazgo para que estas actividades constituyan un apoyo real a los sectores de la cultura, el patrimonio y la innovación social.",
+     "pagina": 39,
+     "postura": "Aprobar una nueva ley de incentivos fiscales al mecenazgo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "mecenazgo",
+      "incentivos fiscales",
+      "cultura",
+      "patrimonio",
+      "donaciones"
+     ]
+    },
+    {
+     "id": "PSOE-impuestos-10",
+     "subtema": "confesiones religiosas",
+     "cita": "El régimen fiscal de las confesiones religiosas será el mismo que el de las entidades sin ánimo de lucro.",
+     "pagina": 254,
+     "postura": "Equiparar la fiscalidad de las confesiones religiosas a la de las entidades sin ánimo de lucro.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Iglesia Católica",
+      "confesiones religiosas",
+      "régimen fiscal",
+      "exenciones",
+      "entidades sin ánimo de lucro"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "social",
+   "sin_contenido": false,
+   "posicion_general": "Propone una Ley de Familias, ampliar el permiso por nacimiento a 20 semanas y crear una prestación por crianza, consolidar el Ingreso Mínimo Vital, reforzar la dependencia y los servicios sociales, erradicar el sinhogarismo de calle en 2030 y ampliar la protección de consumidores y deudores hipotecarios.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-social-01",
+     "subtema": "ley de familias",
+     "cita": "Garantizar que todas las familias son iguales en derechos, y a promover el apoyo y la protección social que necesitan mediante el impulso de la Ley de Familias.",
+     "pagina": 173,
+     "postura": "Aprobar la Ley de Familias que reconozca la diversidad familiar y su protección social.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ley de familias",
+      "familias",
+      "diversidad familiar",
+      "protección social",
+      "monoparentales"
+     ]
+    },
+    {
+     "id": "PSOE-social-02",
+     "subtema": "permiso por nacimiento",
+     "cita": "Extender la prestación por nacimiento y cuidado (antes paternidad y maternidad) hasta las 20 semanas, incorporando una mayor flexibilidad con el trabajo a tiempo parcial de los padres y madres a partir de la semana 16.",
+     "pagina": 173,
+     "postura": "Ampliar la prestación por nacimiento y cuidado de menor hasta 20 semanas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "permiso de nacimiento",
+      "maternidad",
+      "paternidad",
+      "conciliación",
+      "prestación por nacimiento"
+     ]
+    },
+    {
+     "id": "PSOE-social-03",
+     "subtema": "prestación por crianza",
+     "cita": "Establecer una prestación por crianza para familias con personas menores a cargo.",
+     "pagina": 173,
+     "postura": "Crear una prestación por crianza para familias con menores.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "prestación por crianza",
+      "hijo a cargo",
+      "familias",
+      "infancia",
+      "pobreza infantil"
+     ]
+    },
+    {
+     "id": "PSOE-social-04",
+     "subtema": "ingreso mínimo vital",
+     "cita": "Consolidar el Ingreso Mínimo Vital y el Complemento de Ayuda a la Infancia –hasta llegar a al menos un millón de niños, niñas y adolescentes- como principales herramientas para reducir la pobreza infantil en nuestro país.",
+     "pagina": 182,
+     "postura": "Consolidar el IMV y extender el complemento de ayuda a la infancia a un millón de menores.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ingreso mínimo vital",
+      "complemento de ayuda a la infancia",
+      "pobreza infantil",
+      "renta mínima",
+      "prestaciones no contributivas"
+     ]
+    },
+    {
+     "id": "PSOE-social-05",
+     "subtema": "dependencia",
+     "cita": "Actualizar el Plan de Choque en Dependencia y, en colaboración con las Comunidades Autónomas, considerar la teleasistencia como derecho subjetivo.",
+     "pagina": 176,
+     "postura": "Renovar el plan de choque en dependencia y reconocer la teleasistencia como derecho subjetivo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "dependencia",
+      "ley de dependencia",
+      "teleasistencia",
+      "lista de espera",
+      "cuidados"
+     ]
+    },
+    {
+     "id": "PSOE-social-06",
+     "subtema": "servicios sociales",
+     "cita": "Seguir promoviendo el pacto político territorial que adapte los servicios sociales a las nuevas necesidades sociales, intensificando la cogobernanza con las comunidades autónomas y las entidades locales con una nueva ley de Servicios Sociales.",
+     "pagina": 175,
+     "postura": "Aprobar una ley estatal de servicios sociales con una cartera común.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "servicios sociales",
+      "ley de servicios sociales",
+      "cartera de servicios",
+      "comunidades autónomas",
+      "cuarto pilar"
+     ]
+    },
+    {
+     "id": "PSOE-social-07",
+     "subtema": "sinhogarismo",
+     "cita": "Trabajar por erradicar el sinhogarismo de calle en 2030, desarrollando el Acuerdo Marco e impulsando la Estrategia Nacional para la lucha contra el sinhogarismo en España 2023-2030.",
+     "pagina": 190,
+     "postura": "Erradicar el sinhogarismo de calle en 2030 con la estrategia nacional y modelos housing first.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "sinhogarismo",
+      "personas sin hogar",
+      "housing first",
+      "exclusión social",
+      "chabolismo"
+     ]
+    },
+    {
+     "id": "PSOE-social-08",
+     "subtema": "accesibilidad",
+     "cita": "Crearemos el Fondo Estatal para la Accesibilidad Universal, y fomentaremos la edición de información y materiales en formato de fácil lectura",
+     "pagina": 193,
+     "postura": "Crear un fondo estatal para la accesibilidad universal de las personas con discapacidad.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "accesibilidad universal",
+      "discapacidad",
+      "fondo estatal",
+      "lectura fácil",
+      "barreras"
+     ]
+    },
+    {
+     "id": "PSOE-social-09",
+     "subtema": "atención a la clientela",
+     "cita": "Aprobaremos una ley que regule los servicios de atención a la clientela. El proyecto de ley que presentamos desde el gobierno ha decaído como consecuencia del adelanto electoral. Nos comprometemos a volver a presentarlo",
+     "pagina": 210,
+     "postura": "Aprobar una ley de servicios de atención a la clientela con plazos y esperas máximas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "atención a la clientela",
+      "consumidores",
+      "reclamaciones",
+      "servicios básicos",
+      "protección del consumidor"
+     ]
+    },
+    {
+     "id": "PSOE-social-10",
+     "subtema": "deudores hipotecarios",
+     "cita": "Ampliaremos hasta la renta media (37.800€) el umbral para acceder a las medidas de apoyo a los afectados por la subida de tipos de interés de las hipotecas: ampliación de crédito hasta 7 años y congelación de cuota de 1 año.",
+     "pagina": 32,
+     "postura": "Extender a rentas medias las ayudas a hipotecados afectados por la subida de tipos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "hipotecas",
+      "código de buenas prácticas",
+      "tipos de interés",
+      "deudores hipotecarios",
+      "Euríbor"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "democracia",
+   "sin_contenido": false,
+   "posicion_general": "Propone blindar como derechos fundamentales conquistas como el aborto, la eutanasia o el matrimonio igualitario, reformar el artículo 49 de la Constitución, aprobar leyes de lobbies y transparencia, suprimir aforamientos no ligados al cargo, debates electorales obligatorios, reforzar el pacto antitransfuguismo y desarrollar la Ley de Memoria Democrática y la laicidad.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-democracia-01",
+     "subtema": "blindaje de derechos",
+     "cita": "Blindaremos el matrimonio igualitario, el derecho a la interrupción voluntaria del embarazo, el derecho a la muerte digna, la asistencia de víctimas de violencia de género, el sistema público de pensiones, el derecho a la asistencia sanitaria, el derecho a la seguridad climática y al acceso al agua potable como derechos fundamentales de las personas",
+     "pagina": 235,
+     "postura": "Elevar a derechos fundamentales el aborto, la eutanasia, el matrimonio igualitario o las pensiones públicas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "reforma constitucional",
+      "derechos fundamentales",
+      "aborto",
+      "eutanasia",
+      "matrimonio igualitario"
+     ]
+    },
+    {
+     "id": "PSOE-democracia-02",
+     "subtema": "artículo 49",
+     "cita": "Culminaremos la reforma del artículo 49 de la Constitución para suprimir el término “disminuidos” y reforzar la protección constitucional de los derechos de las personas con discapacidad.",
+     "pagina": 235,
+     "postura": "Reformar el artículo 49 de la Constitución sobre personas con discapacidad.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "reforma constitucional",
+      "artículo 49",
+      "discapacidad",
+      "disminuidos",
+      "Constitución"
+     ]
+    },
+    {
+     "id": "PSOE-democracia-03",
+     "subtema": "lobbies",
+     "cita": "Aprobaremos la Ley de Lobbies para dar transparencia a las actividades de los grupos de interés, creando un registro público y gratuito que permita monitorizar las actividades de influencia que se ejercen sobre el personal empleado público.",
+     "pagina": 243,
+     "postura": "Aprobar una ley de lobbies con registro público de grupos de interés.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "lobbies",
+      "grupos de interés",
+      "registro",
+      "transparencia",
+      "huella normativa"
+     ]
+    },
+    {
+     "id": "PSOE-democracia-04",
+     "subtema": "aforamientos",
+     "cita": "Defenderemos la supresión de los aforamientos de los cargos públicos en los casos ajenos al ejercicio de la actividad propia de su cargo.",
+     "pagina": 246,
+     "postura": "Suprimir los aforamientos para delitos ajenos al ejercicio del cargo.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "aforamientos",
+      "aforados",
+      "reforma constitucional",
+      "cargos públicos",
+      "privilegios"
+     ]
+    },
+    {
+     "id": "PSOE-democracia-05",
+     "subtema": "debates electorales",
+     "cita": "Reformaremos la legislación electoral para hacer obligatorios los debates electorales, de modo que la ciudadanía vea garantizado su derecho a conocer los diferentes proyectos políticos y las consecuencias de los mismos sobre sus vidas.",
+     "pagina": 247,
+     "postura": "Reformar la ley electoral para hacer obligatorios los debates electorales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "LOREG",
+      "ley electoral",
+      "debates electorales",
+      "régimen electoral",
+      "campaña electoral"
+     ]
+    },
+    {
+     "id": "PSOE-democracia-06",
+     "subtema": "transfuguismo",
+     "cita": "Reforzaremos el Pacto Antitransfuguismo, para impedir que las personas tránsfugas puedan alterar la voluntad popular evitando que puedan disfrutar de los derechos económicos y administrativos de los que disfrutan los grupos políticos elegidos por la ciudadanía",
+     "pagina": 247,
+     "postura": "Reforzar el pacto antitransfuguismo y privar a los tránsfugas de derechos económicos de grupo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "transfuguismo",
+      "tránsfugas",
+      "pacto antitransfuguismo",
+      "grupos políticos",
+      "mociones de censura"
+     ]
+    },
+    {
+     "id": "PSOE-democracia-07",
+     "subtema": "transparencia",
+     "cita": "Culminaremos la reforma de la Ley de Transparencia para incorporar las bases acordadas entre la sociedad civil y las tres administraciones",
+     "pagina": 245,
+     "postura": "Reformar la Ley de Transparencia y ampliar la publicidad activa sobre altos cargos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ley de transparencia",
+      "acceso a la información",
+      "buen gobierno",
+      "altos cargos",
+      "Consejo de Transparencia"
+     ]
+    },
+    {
+     "id": "PSOE-democracia-08",
+     "subtema": "memoria democrática",
+     "cita": "retirando símbolos y elementos contrarios a la memoria democrática, que aún permanecen en España; e impulsando la extinción de las fundaciones y la ilegalización de las asociaciones entre cuyos fines se encuentre la apología del franquismo.",
+     "pagina": 253,
+     "postura": "Retirar símbolos franquistas y extinguir fundaciones y asociaciones que hagan apología del franquismo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "memoria democrática",
+      "franquismo",
+      "Fundación Francisco Franco",
+      "exhumaciones",
+      "símbolos franquistas"
+     ]
+    },
+    {
+     "id": "PSOE-democracia-09",
+     "subtema": "Cuelgamuros",
+     "cita": "Culminaremos la resignificación del Valle de Cuelgamuros como Lugar de Memoria Democrática y procederemos a la creación de un centro de interpretación.",
+     "pagina": 253,
+     "postura": "Resignificar el Valle de Cuelgamuros como lugar de memoria democrática.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Valle de Cuelgamuros",
+      "Valle de los Caídos",
+      "memoria democrática",
+      "resignificación",
+      "lugares de memoria"
+     ]
+    },
+    {
+     "id": "PSOE-democracia-10",
+     "subtema": "laicidad",
+     "cita": "Reforzaremos las políticas de neutralidad religiosa en actos públicos y de representación del Estado, respetando todas las creencias y convicciones religiosas y cumpliendo el principio constitucional de laicidad.",
+     "pagina": 254,
+     "postura": "Reforzar la neutralidad religiosa del Estado en actos públicos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "laicidad",
+      "neutralidad religiosa",
+      "actos públicos",
+      "libertad religiosa",
+      "Acuerdos con la Santa Sede"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "transporte",
+   "sin_contenido": false,
+   "posicion_general": "Propone aprobar una Ley de Movilidad Sostenible y un fondo estatal para el transporte público, gratuidad del transporte urbano hasta los 24 años, priorizar el ferrocarril (Cercanías, alta velocidad, corredores Atlántico y Mediterráneo, 10% de mercancías en 2030), extender la liberalización ferroviaria e invertir en seguridad vial y aeropuertos.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-transporte-01",
+     "subtema": "ley de movilidad sostenible",
+     "cita": "Retomaremos y aprobaremos la Ley de Movilidad Sostenible, en la que consolidaremos la movilidad como un derecho esencial de la ciudadanía.",
+     "pagina": 77,
+     "postura": "Aprobar la Ley de Movilidad Sostenible que reconozca la movilidad como derecho.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ley de movilidad sostenible",
+      "movilidad",
+      "transporte público",
+      "derecho a la movilidad",
+      "descarbonización"
+     ]
+    },
+    {
+     "id": "PSOE-transporte-02",
+     "subtema": "financiación transporte público",
+     "cita": "Crearemos un fondo estatal de contribución a la movilidad sostenible, con fuentes estables de financiación, que plasme nuestra idea de que el Estado debe mejorar eficientemente el transporte público urbano y metropolitano",
+     "pagina": 77,
+     "postura": "Crear un fondo estatal estable para financiar el transporte público urbano y metropolitano.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "fondo de movilidad",
+      "transporte público",
+      "financiación del transporte",
+      "transporte metropolitano",
+      "autobús"
+     ]
+    },
+    {
+     "id": "PSOE-transporte-03",
+     "subtema": "gratuidad transporte",
+     "cita": "Ampliaremos los descuentos al uso del transporte público con la gratuidad total del transporte público urbano para niños y estudiantes hasta los 24 años",
+     "pagina": 78,
+     "postura": "Hacer gratuito el transporte público urbano para niños y estudiantes hasta 24 años.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "gratuidad transporte",
+      "descuentos transporte público",
+      "abono transporte",
+      "jóvenes",
+      "estudiantes"
+     ]
+    },
+    {
+     "id": "PSOE-transporte-04",
+     "subtema": "Cercanías",
+     "cita": "Nos comprometemos a mejorar la inversión en la red convencional y a aumentar las inversiones para la mejora en la infraestructura y los servicios de cercanías.",
+     "pagina": 79,
+     "postura": "Aumentar la inversión en red ferroviaria convencional y Cercanías/Rodalies.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Cercanías",
+      "Rodalies",
+      "red convencional",
+      "ferrocarril",
+      "inversión ferroviaria"
+     ]
+    },
+    {
+     "id": "PSOE-transporte-05",
+     "subtema": "alta velocidad",
+     "cita": "Seguiremos desarrollando la red de Alta Velocidad para que llegue a Asturias en este mismo año y a Almería en el 2026.",
+     "pagina": 79,
+     "postura": "Extender la alta velocidad a Asturias, Almería, Extremadura y otros corredores.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "alta velocidad",
+      "AVE",
+      "Asturias",
+      "Almería",
+      "Extremadura",
+      "infraestructuras ferroviarias"
+     ]
+    },
+    {
+     "id": "PSOE-transporte-06",
+     "subtema": "liberalización ferroviaria",
+     "cita": "Seguiremos con el proceso de apertura a diferentes operadores ferroviarios y lo extenderemos a todos los corredores para que todas las personas dispongan de más servicios y más baratos.",
+     "pagina": 80,
+     "postura": "Extender la competencia entre operadores ferroviarios a todos los corredores.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "liberalización ferroviaria",
+      "operadores ferroviarios",
+      "competencia",
+      "Renfe",
+      "alta velocidad"
+     ]
+    },
+    {
+     "id": "PSOE-transporte-07",
+     "subtema": "corredores europeos",
+     "cita": "Continuaremos la ejecución de ambos corredores, Atlántico y Mediterráneo, bajo el objetivo marcado por la Unión Europea de completar la red básica en el año 2030",
+     "pagina": 80,
+     "postura": "Completar los corredores Atlántico y Mediterráneo antes de 2030.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "corredor mediterráneo",
+      "corredor atlántico",
+      "red transeuropea",
+      "ferrocarril",
+      "infraestructuras"
+     ]
+    },
+    {
+     "id": "PSOE-transporte-08",
+     "subtema": "mercancías por ferrocarril",
+     "cita": "Nuestro objetivo es que en el año 2030 el transporte de mercancías por ferrocarril represente el 10% del total de mercancías que se mueven en nuestro país.",
+     "pagina": 80,
+     "postura": "Alcanzar en 2030 un 10% de mercancías transportadas por ferrocarril.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "transporte de mercancías",
+      "ferrocarril",
+      "autopistas ferroviarias",
+      "logística",
+      "intermodalidad"
+     ]
+    },
+    {
+     "id": "PSOE-transporte-09",
+     "subtema": "seguridad vial",
+     "cita": "Implementaremos un Plan de carreteras 2+1, con un carril por cada sentido más otro carril adicional interior dedicado al adelantamiento.",
+     "pagina": 83,
+     "postura": "Implantar carreteras 2+1 dentro de una estrategia de visión cero en seguridad vial.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "seguridad vial",
+      "carreteras",
+      "visión cero",
+      "siniestralidad",
+      "Red de Carreteras del Estado"
+     ]
+    },
+    {
+     "id": "PSOE-transporte-10",
+     "subtema": "aeropuertos",
+     "cita": "Inversiones para desarrollar el hub del aeropuerto Adolfo Suárez Madrid-Barajas y mejorar la experiencia de sus pasajeros.",
+     "pagina": 84,
+     "postura": "Invertir en ampliar Barajas, El Prat y los aeropuertos de Tenerife.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "aeropuertos",
+      "Barajas",
+      "El Prat",
+      "Aena",
+      "ampliación aeropuerto"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "justicia",
+   "sin_contenido": false,
+   "posicion_general": "Propone desarrollar el Plan Justicia 2030 con leyes de eficiencia procesal, organizativa y digital, más jueces y fiscales, reforzar la justicia gratuita y el derecho de defensa, reformar la Ley de Enjuiciamiento Criminal, renovar el CGPJ con el sistema vigente y garantizar el desalojo de okupas en 48 horas.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-justicia-01",
+     "subtema": "CGPJ",
+     "cita": "seguiremos exigiendo la inmediata renovación del Consejo General del Poder Judicial con el sistema actual de doble legitimación en su elección",
+     "pagina": 248,
+     "postura": "Renovar de inmediato el CGPJ manteniendo el sistema actual de elección parlamentaria.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "Consejo General del Poder Judicial",
+      "CGPJ",
+      "renovación",
+      "elección de vocales",
+      "independencia judicial"
+     ]
+    },
+    {
+     "id": "PSOE-justicia-02",
+     "subtema": "número de jueces",
+     "cita": "Incrementaremos el número de jueces y fiscales, para aproximarnos a las ratios de la Unión Europea de jueces/habitantes.",
+     "pagina": 248,
+     "postura": "Aumentar la plantilla de jueces y fiscales hasta ratios europeas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "jueces",
+      "fiscales",
+      "planta judicial",
+      "unidades judiciales",
+      "Administración de Justicia"
+     ]
+    },
+    {
+     "id": "PSOE-justicia-03",
+     "subtema": "justicia gratuita",
+     "cita": "Intensificaremos la asistencia jurídica gratuita y dignificación del turno de oficio, así como la actualización de los baremos para mejorar la prestación del servicio.",
+     "pagina": 248,
+     "postura": "Reforzar la justicia gratuita y actualizar los baremos del turno de oficio.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "asistencia jurídica gratuita",
+      "turno de oficio",
+      "abogados",
+      "baremos",
+      "acceso a la justicia"
+     ]
+    },
+    {
+     "id": "PSOE-justicia-04",
+     "subtema": "derecho de defensa",
+     "cita": "Promoveremos la aprobación inmediata de la Ley de Derecho de Defensa.",
+     "pagina": 248,
+     "postura": "Aprobar la Ley Orgánica del Derecho de Defensa.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ley del derecho de defensa",
+      "abogacía",
+      "derecho de defensa",
+      "colegios profesionales",
+      "garantías"
+     ]
+    },
+    {
+     "id": "PSOE-justicia-05",
+     "subtema": "eficiencia judicial",
+     "cita": "promoveremos la aprobación de las leyes de Eficiencia del Servicio Público de Justicia: Organizativa, Procesal y Digital.",
+     "pagina": 249,
+     "postura": "Aprobar las leyes de eficiencia organizativa, procesal y digital de la justicia.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "eficiencia procesal",
+      "eficiencia organizativa",
+      "eficiencia digital",
+      "tribunales de instancia",
+      "Plan Justicia 2030"
+     ]
+    },
+    {
+     "id": "PSOE-justicia-06",
+     "subtema": "enjuiciamiento criminal",
+     "cita": "Promoveremos la reforma integral de la Ley de Enjuiciamiento Criminal, modernizando y haciendo más garantista y ágil el proceso penal y los procedimientos de investigación.",
+     "pagina": 250,
+     "postura": "Aprobar una nueva Ley de Enjuiciamiento Criminal.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ley de Enjuiciamiento Criminal",
+      "proceso penal",
+      "instrucción",
+      "fiscal investigador",
+      "LECrim"
+     ]
+    },
+    {
+     "id": "PSOE-justicia-07",
+     "subtema": "trata de seres humanos",
+     "cita": "Pondremos en marcha una Ley integral contra la Trata y la Explotación de Seres Humanos, para abordar de manera global la lucha contra todas las formas de trata y de explotación",
+     "pagina": 250,
+     "postura": "Aprobar una ley integral contra la trata y la explotación de seres humanos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "trata de seres humanos",
+      "explotación",
+      "esclavitud",
+      "víctimas",
+      "Código Penal"
+     ]
+    },
+    {
+     "id": "PSOE-justicia-08",
+     "subtema": "okupación",
+     "cita": "se impulsará la reforma Legislativa normativa para garantizar el desalojo de los ocupas ilegales en un plazo máximo de 48 horas.",
+     "pagina": 251,
+     "postura": "Reformar la ley para desalojar a ocupantes ilegales en un máximo de 48 horas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "okupación",
+      "ocupación ilegal",
+      "desalojo",
+      "allanamiento",
+      "usurpación",
+      "propiedad privada"
+     ]
+    },
+    {
+     "id": "PSOE-justicia-09",
+     "subtema": "justicia de proximidad",
+     "cita": "Se aplicará un Plan de Implantación, en todo el territorio nacional, de las Oficinas de Justicia en los municipios para que los Juzgados de Paz evolucionen hacia recursos profesionalizados",
+     "pagina": 250,
+     "postura": "Transformar los juzgados de paz en oficinas de justicia municipales profesionalizadas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "juzgados de paz",
+      "oficinas de justicia",
+      "municipios",
+      "justicia rural",
+      "eficiencia organizativa"
+     ]
+    },
+    {
+     "id": "PSOE-justicia-10",
+     "subtema": "delitos de odio",
+     "cita": "Pondremos en marcha un Plan de prevención y actuación contra los delitos de odio, especialmente los cometidos en Internet.",
+     "pagina": 250,
+     "postura": "Aprobar un plan contra los delitos de odio, sobre todo en internet.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "delitos de odio",
+      "discurso de odio",
+      "internet",
+      "redes sociales",
+      "discriminación"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "campo",
+   "sin_contenido": false,
+   "posicion_general": "Propone aplicar la PAC 2023-2027 con evaluación en 2024, hacer cumplir la Ley de la Cadena Alimentaria, exigir reciprocidad a las importaciones, reforzar seguros agrarios y regadío eficiente, aprobar leyes de agricultura familiar y desperdicio alimentario, apoyar la ganadería extensiva y una pesca sostenible con reparto justo de cuotas.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-campo-01",
+     "subtema": "PAC",
+     "cita": "Seguiremos trabajando en la implementación de la nueva PAC 2023-2027, más justa, más sostenible y social. Realizaremos una evaluación intermedia en 2024.",
+     "pagina": 66,
+     "postura": "Aplicar la PAC 2023-2027 y evaluarla en 2024.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "PAC",
+      "Política Agrícola Común",
+      "plan estratégico",
+      "ayudas agrarias",
+      "jóvenes agricultores"
+     ]
+    },
+    {
+     "id": "PSOE-campo-02",
+     "subtema": "cadena alimentaria",
+     "cita": "Aseguraremos el cumplimiento de la nueva Ley de la Cadena Alimentaria, reforzando la labor de la AICA y las autoridades competentes de los gobiernos autonómicos con nuevas herramientas.",
+     "pagina": 67,
+     "postura": "Hacer cumplir la Ley de la Cadena Alimentaria reforzando la AICA.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ley de la cadena alimentaria",
+      "AICA",
+      "precios en origen",
+      "costes de producción",
+      "venta a pérdidas"
+     ]
+    },
+    {
+     "id": "PSOE-campo-03",
+     "subtema": "importaciones",
+     "cita": "Defensa ante la UE de un mayor control de las importaciones para que los productos importados cumplan los mismos estándares ambientales, sociales y laborales que los productores europeos.",
+     "pagina": 67,
+     "postura": "Exigir que las importaciones agrarias cumplan los mismos estándares que la producción europea.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "importaciones",
+      "cláusulas espejo",
+      "reciprocidad",
+      "terceros países",
+      "estándares"
+     ]
+    },
+    {
+     "id": "PSOE-campo-04",
+     "subtema": "seguros agrarios",
+     "cita": "Reforzaremos el sistema de seguros agrarios, como la mejor herramienta de gestión de riesgos, incrementando el presupuesto de ayuda estatal e introduciendo las medidas necesarias para incentivar su contratación.",
+     "pagina": 68,
+     "postura": "Aumentar la ayuda estatal a los seguros agrarios.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "seguros agrarios",
+      "gestión de riesgos",
+      "sequía",
+      "ayudas",
+      "Agroseguro"
+     ]
+    },
+    {
+     "id": "PSOE-campo-05",
+     "subtema": "desperdicio alimentario",
+     "cita": "Retomaremos la Ley contra el Desperdicio Alimentario, tal y como se encontraba en las Cortes Generales.",
+     "pagina": 68,
+     "postura": "Aprobar la Ley de prevención del desperdicio alimentario.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "desperdicio alimentario",
+      "pérdidas alimentarias",
+      "ley",
+      "donación de alimentos",
+      "economía circular"
+     ]
+    },
+    {
+     "id": "PSOE-campo-06",
+     "subtema": "agricultura familiar",
+     "cita": "Impulsaremos una Ley de Agricultura Familiar que favorezca y priorice este tipo de agricultura que genera mayor valor social y vinculación con el territorio.",
+     "pagina": 69,
+     "postura": "Aprobar una Ley de Agricultura Familiar que priorice las explotaciones familiares.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "agricultura familiar",
+      "explotaciones familiares",
+      "agricultor profesional",
+      "relevo generacional",
+      "medio rural"
+     ]
+    },
+    {
+     "id": "PSOE-campo-07",
+     "subtema": "ganadería extensiva",
+     "cita": "Impulsaremos una ganadería diversa, equilibrada y sostenible, apoyando especialmente la ganadería extensiva por sus beneficios sociales y ambientales.",
+     "pagina": 67,
+     "postura": "Apoyar especialmente la ganadería extensiva.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ganadería extensiva",
+      "ganadería",
+      "macrogranjas",
+      "razas autóctonas",
+      "sanidad animal"
+     ]
+    },
+    {
+     "id": "PSOE-campo-08",
+     "subtema": "regadío",
+     "cita": "Seguiremos impulsando un regadío moderno y sostenible, mejorando la eficiencia en el uso del agua y la energía, así como el aprovechamiento de recursos hídricos no convencionales como las aguas desaladas o las aguas depuradas regeneradas.",
+     "pagina": 68,
+     "postura": "Modernizar el regadío y usar agua desalada y regenerada.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "regadío",
+      "modernización de regadíos",
+      "agua desalada",
+      "agua regenerada",
+      "eficiencia hídrica"
+     ]
+    },
+    {
+     "id": "PSOE-campo-09",
+     "subtema": "cuotas pesqueras",
+     "cita": "Apostaremos por un reparto justo y equitativo de las cuotas y posibilidades de pesca, logrando el rendimiento máximo sostenible de las pesquerías.",
+     "pagina": 69,
+     "postura": "Defender un reparto justo de cuotas pesqueras con rendimiento máximo sostenible.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "pesca",
+      "cuotas pesqueras",
+      "Política Pesquera Común",
+      "rendimiento máximo sostenible",
+      "flota"
+     ]
+    },
+    {
+     "id": "PSOE-campo-10",
+     "subtema": "caza",
+     "cita": "Avanzaremos hacia una actividad cinegética más sostenible, en el marco de la Estrategia Nacional de Gestión Cinegética, aprobada por unanimidad entre el Gobierno de España y las comunidades autónomas.",
+     "pagina": 70,
+     "postura": "Desarrollar la Estrategia Nacional de Gestión Cinegética hacia una caza sostenible.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "caza",
+      "actividad cinegética",
+      "gestión cinegética",
+      "fauna",
+      "medio rural"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "exteriores",
+   "sin_contenido": false,
+   "posicion_general": "Propone liderar la integración europea con reforma de las reglas fiscales y mayoría cualificada en política exterior, apoyar a Ucrania, alcanzar el 0,7% de AOD en 2030, ratificar los acuerdos UE-Mercosur, Chile y México, apoyar la mediación de la ONU en el Sáhara, la solución de dos Estados y un acuerdo sobre Gibraltar.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-exteriores-01",
+     "subtema": "Ucrania",
+     "cita": "Seguiremos apoyando a Ucrania en su defensa de la paz, la libertad, su soberanía e integridad territorial y trabajaremos para lograr la paz. Seguiremos acompañándola en su camino hacia la integración europea.",
+     "pagina": 259,
+     "postura": "Mantener el apoyo a Ucrania y su camino hacia la adhesión a la UE.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Ucrania",
+      "Rusia",
+      "guerra",
+      "ayuda militar",
+      "adhesión UE"
+     ]
+    },
+    {
+     "id": "PSOE-exteriores-02",
+     "subtema": "ayuda al desarrollo",
+     "cita": "Seguiremos impulsando el refuerzo presupuestario y caminando hacia el objetivo el 0,7% de la Renta Nacional Bruta en Ayuda Oficial al Desarrollo en 2030, destinando el 10% a Ayuda Humanitaria.",
+     "pagina": 261,
+     "postura": "Alcanzar el 0,7% de la RNB en Ayuda Oficial al Desarrollo en 2030.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ayuda oficial al desarrollo",
+      "cooperación internacional",
+      "0,7%",
+      "ayuda humanitaria",
+      "AECID"
+     ]
+    },
+    {
+     "id": "PSOE-exteriores-03",
+     "subtema": "Sáhara Occidental",
+     "cita": "En relación con el Sáhara Occidental, seguiremos apoyando al Enviado Personal del Secretario General de Naciones Unidas para alcanzar una solución mutuamente aceptable en el marco de las Naciones Unidas.",
+     "pagina": 265,
+     "postura": "Apoyar la mediación de la ONU para una solución mutuamente aceptable en el Sáhara.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "Sáhara Occidental",
+      "Marruecos",
+      "Naciones Unidas",
+      "autonomía",
+      "saharauis"
+     ]
+    },
+    {
+     "id": "PSOE-exteriores-04",
+     "subtema": "Israel y Palestina",
+     "cita": "seguiremos promoviendo y apoyando los esfuerzos dirigidos a retomar las conversaciones de paz, necesarias para avanzar en la solución de los dos Estados, que permita a israelíes y palestinos vivir en paz y seguridad, libertad y democracia.",
+     "pagina": 265,
+     "postura": "Apoyar negociaciones de paz hacia la solución de dos Estados.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Palestina",
+      "Israel",
+      "solución de dos Estados",
+      "Oriente Medio",
+      "proceso de paz"
+     ]
+    },
+    {
+     "id": "PSOE-exteriores-05",
+     "subtema": "acuerdos comerciales",
+     "cita": "Avanzaremos hacia la ratificación de los acuerdos de la Unión Europea con Chile, con México y con Mercosur.",
+     "pagina": 264,
+     "postura": "Ratificar los acuerdos de la UE con Chile, México y Mercosur.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Mercosur",
+      "acuerdo comercial",
+      "Chile",
+      "México",
+      "libre comercio"
+     ]
+    },
+    {
+     "id": "PSOE-exteriores-06",
+     "subtema": "Gibraltar",
+     "cita": "Seguiremos abogando por alcanzar un acuerdo en relación a Gibraltar que cree una zona de prosperidad compartida para Gibraltar y Campo de Gibraltar, respetando la posición jurídica de España con respecto a su soberanía.",
+     "pagina": 260,
+     "postura": "Buscar un acuerdo sobre Gibraltar de prosperidad compartida sin renunciar a la soberanía.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Gibraltar",
+      "Brexit",
+      "Campo de Gibraltar",
+      "soberanía",
+      "Reino Unido"
+     ]
+    },
+    {
+     "id": "PSOE-exteriores-07",
+     "subtema": "política exterior UE",
+     "cita": "Impulsaremos la toma de decisiones en política exterior y de seguridad común por mayoría cualificada.",
+     "pagina": 260,
+     "postura": "Pasar a la mayoría cualificada en la política exterior y de seguridad común de la UE.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Unión Europea",
+      "política exterior común",
+      "mayoría cualificada",
+      "unanimidad",
+      "integración europea"
+     ]
+    },
+    {
+     "id": "PSOE-exteriores-08",
+     "subtema": "reglas fiscales UE",
+     "cita": "Impulsaremos una reforma de las reglas fiscales europeas que permita conjugar la estabilidad presupuestaria a lo largo del ciclo y la consolidación de la deuda pública con el crecimiento económico, la creación de empleo y la agenda de inversiones sociales, verdes y digitales.",
+     "pagina": 34,
+     "postura": "Reformar las reglas fiscales europeas para compatibilizar consolidación e inversión.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "reglas fiscales",
+      "Pacto de Estabilidad",
+      "gobernanza económica",
+      "deuda pública",
+      "Unión Europea"
+     ]
+    },
+    {
+     "id": "PSOE-exteriores-09",
+     "subtema": "migración en la UE",
+     "cita": "Trabajaremos para conseguir a nivel europeo la adopción de un nuevo Pacto de Migración y Asilo, que esté en línea con los valores de dignidad humana y solidaridad establecidos en nuestros tratados.",
+     "pagina": 260,
+     "postura": "Impulsar la aprobación del Pacto europeo de Migración y Asilo.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Pacto de Migración y Asilo",
+      "Unión Europea",
+      "migración",
+      "asilo",
+      "solidaridad"
+     ]
+    },
+    {
+     "id": "PSOE-exteriores-10",
+     "subtema": "OTAN",
+     "cita": "Continuaremos trabajando en el seno de la OTAN por la defensa de la paz y la seguridad, del orden internacional y de los valores democráticos.",
+     "pagina": 264,
+     "postura": "Mantener el compromiso de España con la OTAN.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "OTAN",
+      "alianza atlántica",
+      "Estados Unidos",
+      "seguridad",
+      "defensa"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "territorial",
+   "sin_contenido": false,
+   "posicion_general": "Propone aprobar en un año un nuevo sistema de financiación autonómica con corresponsabilidad fiscal, una Ley de Cohesión Territorial basada en la cogobernanza, reformar el Senado, la Ley de Bases de Régimen Local y la financiación local, y frenar la despoblación con servicios a menos de 30 minutos y desconcentración de sedes estatales.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-territorial-01",
+     "subtema": "financiación autonómica",
+     "cita": "Impulsaremos la aprobación en el plazo máximo de un año de un nuevo sistema de financiación autonómica que garantice los recursos necesarios para que la ciudadanía disfrute de servicios públicos de calidad",
+     "pagina": 234,
+     "postura": "Aprobar en un año un nuevo sistema de financiación autonómica.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "financiación autonómica",
+      "comunidades autónomas",
+      "sistema de financiación",
+      "servicios públicos",
+      "Consejo de Política Fiscal y Financiera"
+     ]
+    },
+    {
+     "id": "PSOE-territorial-02",
+     "subtema": "corresponsabilidad fiscal",
+     "cita": "reforzará, igualmente, la corresponsabilidad fiscal como elemento indispensable de gobernanza, de manera que se eviten paradojas de propiciar renuncias a la capacidad fiscal propia, al tiempo que se reclaman más recursos al sistema.",
+     "pagina": 234,
+     "postura": "Exigir corresponsabilidad fiscal a las comunidades que rebajan impuestos y piden más recursos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "corresponsabilidad fiscal",
+      "dumping fiscal",
+      "financiación autonómica",
+      "tributos cedidos",
+      "armonización"
+     ]
+    },
+    {
+     "id": "PSOE-territorial-03",
+     "subtema": "cohesión territorial",
+     "cita": "Aprobaremos una Ley de Cohesión Territorial y fomento de la colaboración que permita poner en práctica las lecciones aprendidas durante la pandemia y cubrir algunas deficiencias advertidas.",
+     "pagina": 231,
+     "postura": "Aprobar una Ley de Cohesión Territorial que regule la cooperación entre administraciones.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "cohesión territorial",
+      "cogobernanza",
+      "Conferencia de Presidentes",
+      "conferencias sectoriales",
+      "cooperación"
+     ]
+    },
+    {
+     "id": "PSOE-territorial-04",
+     "subtema": "Senado",
+     "cita": "Durante todos estos años, el PSOE ha defendido la reforma del Senado, que continúa hoy resultando necesaria para convertirlo en una verdadera cámara de representación territorial.",
+     "pagina": 232,
+     "postura": "Reformar el Senado para convertirlo en cámara territorial.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "reforma del Senado",
+      "cámara territorial",
+      "reforma constitucional",
+      "comunidades autónomas",
+      "Senado"
+     ]
+    },
+    {
+     "id": "PSOE-territorial-05",
+     "subtema": "régimen local",
+     "cita": "Una reforma en profundidad de la Ley de Bases de Régimen Local para ampliar y mejorar las capacidades de gestión de los entes locales, clarificar sus competencias y funciones, reforzar su autonomía",
+     "pagina": 232,
+     "postura": "Reformar la Ley de Bases de Régimen Local para ampliar la autonomía municipal.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ley de Bases de Régimen Local",
+      "ayuntamientos",
+      "autonomía local",
+      "municipios",
+      "racionalización"
+     ]
+    },
+    {
+     "id": "PSOE-territorial-06",
+     "subtema": "financiación local",
+     "cita": "debemos abordar la reforma y mejora del sistema de financiación local, mediante la previsión de tributos propios mínimos, adecuados al marco competencial.",
+     "pagina": 232,
+     "postura": "Reformar la financiación local con tributos propios mínimos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "financiación local",
+      "haciendas locales",
+      "ayuntamientos",
+      "tributos locales",
+      "entidades locales"
+     ]
+    },
+    {
+     "id": "PSOE-territorial-07",
+     "subtema": "pequeños municipios",
+     "cita": "La elaboración de un Estatuto de Municipios de Menor Población que tenga en cuenta las características singulares de los municipios pequeños y en riesgo de despoblación",
+     "pagina": 232,
+     "postura": "Aprobar un estatuto específico para municipios pequeños y en riesgo de despoblación.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "pequeños municipios",
+      "despoblación",
+      "reto demográfico",
+      "estatuto",
+      "España vaciada"
+     ]
+    },
+    {
+     "id": "PSOE-territorial-08",
+     "subtema": "servicios en el medio rural",
+     "cita": "Aprobaremos la cartera de servicios básicos de calidad a menos de 30 minutos del lugar de residencia.",
+     "pagina": 94,
+     "postura": "Garantizar servicios básicos a menos de 30 minutos en el medio rural.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "reto demográfico",
+      "servicios públicos",
+      "medio rural",
+      "despoblación",
+      "España vaciada"
+     ]
+    },
+    {
+     "id": "PSOE-territorial-09",
+     "subtema": "desconcentración de sedes",
+     "cita": "Continuaremos con el proceso de desconcentración de sedes de entidades públicas estatales y autonómicas.",
+     "pagina": 231,
+     "postura": "Seguir trasladando sedes de organismos estatales fuera de Madrid.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "desconcentración",
+      "sedes",
+      "organismos públicos",
+      "Administración General del Estado",
+      "territorio"
+     ]
+    },
+    {
+     "id": "PSOE-territorial-10",
+     "subtema": "rural proofing",
+     "cita": "Desarrollaremos el rural proofing, una “mirada rural” obligatoria en todas las leyes, los presupuestos y planes.",
+     "pagina": 96,
+     "postura": "Introducir una evaluación de impacto rural obligatoria en leyes y presupuestos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "mecanismo rural de garantía",
+      "rural proofing",
+      "despoblación",
+      "reto demográfico",
+      "medio rural"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "empleo",
+   "sin_contenido": false,
+   "posicion_general": "Propone un Pacto por el Pleno Empleo para bajar el paro estructural al 8%, fijar el SMI en el 60% del salario medio, extender la reducción de jornada sin merma salarial y la semana de cuatro días, aprobar el Estatuto del Becario, eliminar la brecha salarial, apoyar la negociación colectiva y consolidar la protección de autónomos.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-empleo-01",
+     "subtema": "salario mínimo",
+     "cita": "Garantizaremos en el Estatuto de los trabajadores que el SMI se acompase al 60% del salario medio; medida tambien eficaz para lograr la igualdad salarial entre hombres y mujeres.",
+     "pagina": 26,
+     "postura": "Fijar por ley en el Estatuto de los Trabajadores el SMI en el 60% del salario medio.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "salario mínimo interprofesional",
+      "SMI",
+      "Estatuto de los Trabajadores",
+      "salario medio",
+      "subida salarial"
+     ]
+    },
+    {
+     "id": "PSOE-empleo-02",
+     "subtema": "pleno empleo",
+     "cita": "Impulsaremos con los agentes sociales un Pacto por el Pleno Empleo para acelerar el círculo virtuoso de formación y colocación y, de ese modo, aprovechar el impulso de la inversión con los fondos europeos Next Generation, alinear los niveles de desempleo al 8% de paro estructural en línea con la media europea",
+     "pagina": 25,
+     "postura": "Pactar con los agentes sociales un plan para reducir el paro estructural al 8%.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "pleno empleo",
+      "desempleo",
+      "políticas activas de empleo",
+      "SEPE",
+      "diálogo social"
+     ]
+    },
+    {
+     "id": "PSOE-empleo-03",
+     "subtema": "reducción de jornada",
+     "cita": "Continuaremos impulsando el proyecto piloto de reducción de jornada laboral para empresas industriales con medidas destinadas a la reducción de las jornadas laborales sin merma salarial.",
+     "pagina": 50,
+     "postura": "Extender proyectos de reducción de jornada sin pérdida salarial.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "reducción de jornada",
+      "jornada laboral",
+      "semana de cuatro días",
+      "sin merma salarial",
+      "tiempo de trabajo"
+     ]
+    },
+    {
+     "id": "PSOE-empleo-04",
+     "subtema": "semana de cuatro días",
+     "cita": "Pondremos en marcha un Plan Nacional para que las empresas ofrezcan una mejor conciliación mediante jornadas híbridas que combinen lo presencial con lo remoto, horarios más adaptables, y la posibilidad de concentrar en cuatro días su semana laboral",
+     "pagina": 33,
+     "postura": "Impulsar un plan para jornadas híbridas, horarios flexibles y semana laboral en cuatro días.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "semana de cuatro días",
+      "conciliación",
+      "teletrabajo",
+      "flexibilidad horaria",
+      "jornada laboral"
+     ]
+    },
+    {
+     "id": "PSOE-empleo-05",
+     "subtema": "empleo juvenil",
+     "cita": "Pondremos en marcha el programa de prácticas de empresa, con el SMI y la SS cubiertos, con mentores en el sistema público de empleo y tutores en las empresas",
+     "pagina": 26,
+     "postura": "Crear prácticas en empresa remuneradas con el SMI para jóvenes parados de larga duración.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "empleo juvenil",
+      "prácticas",
+      "desempleo juvenil",
+      "garantía juvenil",
+      "formación y empleo"
+     ]
+    },
+    {
+     "id": "PSOE-empleo-06",
+     "subtema": "Estatuto del Becario",
+     "cita": "Impulsaremos la aprobación definitiva del Estatuto del Becario mediante dialogo, el acuerdo y pacto con los agentes sociales.",
+     "pagina": 128,
+     "postura": "Aprobar el Estatuto del Becario pactado con los agentes sociales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Estatuto del Becario",
+      "becarios",
+      "prácticas no laborales",
+      "precariedad",
+      "jóvenes"
+     ]
+    },
+    {
+     "id": "PSOE-empleo-07",
+     "subtema": "brecha salarial",
+     "cita": "Seguiremos avanzando en políticas que permitan eliminar la brecha salarial, profundizando en materia de transparencia salarial, potenciando las inspecciones de trabajo y e incrementando el régimen sancionador",
+     "pagina": 140,
+     "postura": "Eliminar la brecha salarial con transparencia retributiva, más inspección y sanciones.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "brecha salarial",
+      "transparencia salarial",
+      "Inspección de Trabajo",
+      "igualdad retributiva",
+      "sanciones"
+     ]
+    },
+    {
+     "id": "PSOE-empleo-08",
+     "subtema": "negociación colectiva",
+     "cita": "Apoyaremos la aplicación del Acuerdo para el Empleo y la Negociación Colectiva para que los salarios ganen poder adquisitivo, tomando en cuenta la evolución de la productividad y de los resultados de las empresas.",
+     "pagina": 32,
+     "postura": "Apoyar subidas salariales pactadas en la negociación colectiva.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "negociación colectiva",
+      "salarios",
+      "AENC",
+      "poder adquisitivo",
+      "convenios colectivos"
+     ]
+    },
+    {
+     "id": "PSOE-empleo-09",
+     "subtema": "autónomos",
+     "cita": "Consolidaremos y evaluaremos las mejoras en protección social para autónomos aprobadas en la última legislatura.",
+     "pagina": 30,
+     "postura": "Consolidar las mejoras de protección social de los autónomos.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "autónomos",
+      "cotización por ingresos reales",
+      "cese de actividad",
+      "RETA",
+      "protección social"
+     ]
+    },
+    {
+     "id": "PSOE-empleo-10",
+     "subtema": "empleo público",
+     "cita": "Culminaremos el proceso de estabilización de empleo temporal comprometido con la Unión Europea para consolidar un modelo de empleo público estable y de calidad.",
+     "pagina": 242,
+     "postura": "Completar la estabilización del empleo temporal en las administraciones.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "empleo público",
+      "interinos",
+      "temporalidad",
+      "estabilización",
+      "función pública"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "clima",
+   "sin_contenido": false,
+   "posicion_general": "Propone revisar siempre al alza los objetivos climáticos de la Ley de Cambio Climático y el PNIEC, reconocer el derecho a un medio ambiente sano, proteger el 30% del territorio y del mar en 2030, reformar la Ley de Aguas, duplicar la desalación, extender las zonas de bajas emisiones y reforzar la prevención de incendios y la economía circular.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-clima-01",
+     "subtema": "objetivos climáticos",
+     "cita": "nos comprometemos a revisar periódicamente, siempre al alza, los compromisos climáticos marcados en la Ley de Cambio Climático y Transición Energética, en el Plan Nacional Integrado de Energía y Clima",
+     "pagina": 88,
+     "postura": "Revisar al alza los objetivos de la Ley de Cambio Climático y del PNIEC.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "cambio climático",
+      "Ley de Cambio Climático",
+      "PNIEC",
+      "emisiones",
+      "neutralidad climática"
+     ]
+    },
+    {
+     "id": "PSOE-clima-02",
+     "subtema": "derecho al medio ambiente",
+     "cita": "Reconoceremos el derecho a un medio ambiente saludable y a la seguridad climática; bases para el bienestar humano, la equidad y la salud, así como garantías de prosperidad.",
+     "pagina": 87,
+     "postura": "Reconocer el derecho a un medio ambiente saludable y a la seguridad climática.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "derecho al medio ambiente",
+      "seguridad climática",
+      "justicia ambiental",
+      "reforma constitucional",
+      "medio ambiente"
+     ]
+    },
+    {
+     "id": "PSOE-clima-03",
+     "subtema": "personalidad de ecosistemas",
+     "cita": "Extenderemos el derecho a la protección del medio ambiente a elementos integrantes del patrimonio natural español que se encuentre bajo amenaza, para que cualquier persona pueda defender los intereses del ecosistema ante los tribunales, como ya hemos hecho con el Mar Menor.",
+     "pagina": 236,
+     "postura": "Extender a otros ecosistemas amenazados la personalidad jurídica reconocida al Mar Menor.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Mar Menor",
+      "personalidad jurídica",
+      "ecosistemas",
+      "patrimonio natural",
+      "acción popular"
+     ]
+    },
+    {
+     "id": "PSOE-clima-04",
+     "subtema": "espacios protegidos",
+     "cita": "Protegeremos el 30% de los espacios terrestres y el 30% de los marinos para el año 2030.",
+     "pagina": 90,
+     "postura": "Proteger el 30% de la superficie terrestre y marina en 2030.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "espacios protegidos",
+      "biodiversidad",
+      "Red Natura 2000",
+      "áreas marinas protegidas",
+      "30x30"
+     ]
+    },
+    {
+     "id": "PSOE-clima-05",
+     "subtema": "Ley de Aguas",
+     "cita": "Reformaremos la Ley de Aguas, para blindar el derecho ciudadano de acceso al agua.",
+     "pagina": 91,
+     "postura": "Reformar la Ley de Aguas para garantizar el derecho de acceso al agua.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ley de Aguas",
+      "agua",
+      "derecho al agua",
+      "planes hidrológicos",
+      "sequía"
+     ]
+    },
+    {
+     "id": "PSOE-clima-06",
+     "subtema": "desalación",
+     "cita": "Nos hemos comprometido a duplicar en 2027 la capacidad de las desaladoras, dotándolas de fuentes de energía renovable para reforzar la garantía de abastecimiento",
+     "pagina": 91,
+     "postura": "Duplicar la capacidad de desalación en 2027 y la reutilización de agua.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "desalación",
+      "desaladoras",
+      "reutilización de agua",
+      "sequía",
+      "abastecimiento"
+     ]
+    },
+    {
+     "id": "PSOE-clima-07",
+     "subtema": "zonas de bajas emisiones",
+     "cita": "Favoreceremos la extensión de las zonas de bajas emisiones.",
+     "pagina": 93,
+     "postura": "Extender las zonas de bajas emisiones en las ciudades.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "zonas de bajas emisiones",
+      "calidad del aire",
+      "contaminación",
+      "movilidad urbana",
+      "vehículos"
+     ]
+    },
+    {
+     "id": "PSOE-clima-08",
+     "subtema": "residuos y envases",
+     "cita": "Culminaremos el desarrollo de la Ley de Residuos y suelos contaminados para una economía circular, así como del nuevo reglamento de residuos y envases que nos permitirá alcanzar los ambiciosos objetivos de reducción de envases para 2025 y 2030.",
+     "pagina": 86,
+     "postura": "Desarrollar la Ley de Residuos y el reglamento de envases para reducir envases.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "residuos",
+      "envases",
+      "plásticos",
+      "economía circular",
+      "reciclaje"
+     ]
+    },
+    {
+     "id": "PSOE-clima-09",
+     "subtema": "incendios forestales",
+     "cita": "Aprobaremos las leyes básicas de bomberos forestales y de agentes forestales.",
+     "pagina": 89,
+     "postura": "Aprobar leyes básicas de bomberos forestales y agentes forestales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "bomberos forestales",
+      "agentes forestales",
+      "incendios forestales",
+      "prevención de incendios",
+      "montes"
+     ]
+    },
+    {
+     "id": "PSOE-clima-10",
+     "subtema": "humedales",
+     "cita": "Culminaremos la ejecución de los marcos prioritarios de actuaciones de Doñana, el Mar Menor, la recuperación de la Albufera de Valencia y el Delta del Ebro",
+     "pagina": 90,
+     "postura": "Completar los planes de recuperación de Doñana, Mar Menor, Albufera y Delta del Ebro.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Doñana",
+      "Mar Menor",
+      "Delta del Ebro",
+      "Albufera",
+      "humedales"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "tecnologia",
+   "sin_contenido": false,
+   "posicion_general": "Propone crear la Agencia Española de Supervisión de la Inteligencia Artificial, integrar la Carta de Derechos Digitales en el ordenamiento, regular el acceso de menores a redes sociales, aprobar una Ley de Ciberseguridad, ampliar el Kit Digital, extender el 5G rural, impulsar los semiconductores y una Ley del Espacio.",
+   "posicionamientos": [
+    {
+     "id": "PSOE-tecnologia-01",
+     "subtema": "supervisión de la IA",
+     "cita": "Pondremos en marcha la Agencia Española de Supervisión de la Inteligencia Artificial, con el fin de disponer de una autoridad para garantizar la protección de los derechos y valores democráticos",
+     "pagina": 29,
+     "postura": "Poner en marcha la Agencia Española de Supervisión de la Inteligencia Artificial.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "inteligencia artificial",
+      "AESIA",
+      "supervisión de algoritmos",
+      "regulación IA",
+      "derechos digitales"
+     ]
+    },
+    {
+     "id": "PSOE-tecnologia-02",
+     "subtema": "menores en redes",
+     "cita": "Regularemos el uso de redes sociales de menores con enfoque transversal y mediante la colaboración público-privada, impulsando su pensamiento crítico para combatir la desinformación y el uso de contenidos no adecuados según la edad.",
+     "pagina": 54,
+     "postura": "Regular el acceso y uso de redes sociales por menores.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "menores",
+      "redes sociales",
+      "protección de menores en entornos digitales",
+      "verificación de edad",
+      "pornografía"
+     ]
+    },
+    {
+     "id": "PSOE-tecnologia-03",
+     "subtema": "derechos digitales",
+     "cita": "Garantizaremos la integración de los postulados de la Carta de Derechos Digitales en el ordenamiento jurídico nacional, impulsando iniciativas para su extensión a nivel europeo e internacional.",
+     "pagina": 53,
+     "postura": "Incorporar la Carta de Derechos Digitales al ordenamiento jurídico.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Carta de Derechos Digitales",
+      "derechos digitales",
+      "neuroderechos",
+      "privacidad",
+      "ciudadanía digital"
+     ]
+    },
+    {
+     "id": "PSOE-tecnologia-04",
+     "subtema": "ciberseguridad",
+     "cita": "Reforzaremos la seguridad en el ámbito digital con el desarrollo de la Ley de Ciberseguridad para proteger adecuadamente la información relacionada con la prestación de servicios públicos por medios electrónicos.",
+     "pagina": 55,
+     "postura": "Aprobar una Ley de Ciberseguridad.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ciberseguridad",
+      "ley de ciberseguridad",
+      "ciberamenazas",
+      "servicios públicos digitales",
+      "identidad digital"
+     ]
+    },
+    {
+     "id": "PSOE-tecnologia-05",
+     "subtema": "digitalización de pymes",
+     "cita": "Ampliaremos el programa Kit Digital para poder impulsar la digitalización de las pymes de más de 50 trabajadores y autónomos.",
+     "pagina": 31,
+     "postura": "Extender el Kit Digital a pymes de más de 50 trabajadores.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Kit Digital",
+      "digitalización",
+      "pymes",
+      "autónomos",
+      "ayudas"
+     ]
+    },
+    {
+     "id": "PSOE-tecnologia-06",
+     "subtema": "5G rural",
+     "cita": "Continuaremos impulsando los despliegues 5G especialmente en zonas rurales y aisladas para evitar que se genere una nueva brecha digital.",
+     "pagina": 57,
+     "postura": "Extender el 5G a zonas rurales y aisladas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "5G",
+      "conectividad",
+      "brecha digital",
+      "zonas rurales",
+      "telecomunicaciones"
+     ]
+    },
+    {
+     "id": "PSOE-tecnologia-07",
+     "subtema": "semiconductores",
+     "cita": "Crearemos una infraestructura de país (Salas Blancas España), en cooperación internacional, que nos ponga en igualdad de condiciones con las instituciones más innovadoras del mundo en el área de semiconductores y microelectrónica.",
+     "pagina": 59,
+     "postura": "Crear infraestructuras públicas de semiconductores y microelectrónica (PERTE Chip).",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "semiconductores",
+      "PERTE Chip",
+      "microelectrónica",
+      "Chips Act",
+      "industria tecnológica"
+     ]
+    },
+    {
+     "id": "PSOE-tecnologia-08",
+     "subtema": "datos abiertos",
+     "cita": "Estableceremos un marco regulatorio “Open Data” para que empresas y ciudadanía tengan acceso a los datos de las Administraciones Públicas.",
+     "pagina": 59,
+     "postura": "Regular el acceso abierto a los datos de las Administraciones.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "datos abiertos",
+      "open data",
+      "reutilización de la información",
+      "Administraciones públicas",
+      "economía del dato"
+     ]
+    },
+    {
+     "id": "PSOE-tecnologia-09",
+     "subtema": "centros de datos",
+     "cita": "estableceremos requisitos de eficiencia energética y suministro de fuentes renovables para los proyectos de inversión e instalación de centros de procesamiento de datos u otras tecnologías intensivas en energía en España.",
+     "pagina": 56,
+     "postura": "Exigir eficiencia y renovables a los centros de datos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "centros de datos",
+      "eficiencia energética",
+      "renovables",
+      "inteligencia artificial",
+      "consumo de agua"
+     ]
+    },
+    {
+     "id": "PSOE-tecnologia-10",
+     "subtema": "espacio",
+     "cita": "Aceleraremos el despliegue completo de la Agencia Espacial Española e impulsaremos la primera Ley del Espacio en nuestro país",
+     "pagina": 119,
+     "postura": "Desplegar la Agencia Espacial Española y aprobar una Ley del Espacio.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Agencia Espacial Española",
+      "ley del espacio",
+      "sector aeroespacial",
+      "satélites",
+      "I+D"
+     ]
+    }
+   ]
+  }
+ ]
+}

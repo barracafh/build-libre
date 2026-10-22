@@ -1,0 +1,1740 @@
+{
+ "party": "SUMAR",
+ "temas": [
+  {
+   "tema": "impuestos",
+   "sin_contenido": false,
+   "posicion_general": "Propone una reforma fiscal progresiva para que contribuyan más las grandes empresas, los grandes patrimonios y las rentas del capital: impuesto permanente a grandes fortunas, mínimo estatal en sucesiones, tipo mínimo efectivo en sociedades, más tramos en el IRPF, fin de privilegios de SICAV y SOCIMI, impuestos saludables y más medios contra el fraude.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-impuestos-01",
+     "subtema": "Grandes fortunas",
+     "cita": "Implementaremos un impuesto a las grandes fortunas de forma permanente, reforzando además su progresividad, hasta llegar a tipos impositivos de al menos el 4% para los patrimonios más elevados.",
+     "pagina": 16,
+     "postura": "Hacer permanente el impuesto a las grandes fortunas con tipos de al menos el 4% para los mayores patrimonios.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "impuesto grandes fortunas",
+      "impuesto patrimonio",
+      "riqueza",
+      "progresividad",
+      "tipos impositivos"
+     ]
+    },
+    {
+     "id": "SUMAR-impuestos-02",
+     "subtema": "Sucesiones y donaciones",
+     "cita": "En el impuesto sobre sucesiones y donaciones se establecerá un mínimo en el conjunto de España que las comunidades autónomas no podrán rebajar.",
+     "pagina": 16,
+     "postura": "Fijar un mínimo estatal en el impuesto de sucesiones y donaciones que las comunidades autónomas no puedan rebajar.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "impuesto sucesiones",
+      "donaciones",
+      "armonización fiscal",
+      "comunidades autónomas",
+      "herencias"
+     ]
+    },
+    {
+     "id": "SUMAR-impuestos-03",
+     "subtema": "Impuesto de sociedades",
+     "cita": "Como medida inmediata se debe hacer efectivo el tipo del 15% sobre los beneficios de la empresa, en línea con lo establecido tanto por la OCDE en la denominada estrategia BEPS como en la Directiva 2022/2523 de la Comisión Europea",
+     "pagina": 16,
+     "postura": "Aplicar un tipo mínimo efectivo del 15% en el impuesto de sociedades y reducir deducciones y exenciones.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "impuesto sociedades",
+      "tipo mínimo",
+      "grandes empresas",
+      "deducciones",
+      "directiva 2022/2523"
+     ]
+    },
+    {
+     "id": "SUMAR-impuestos-04",
+     "subtema": "Gravámenes extraordinarios",
+     "cita": "Mantendremos los impuestos extraordinarios sobre las empresas energéticas y financieras mientras se aprueba e implementa completamente la reforma integral del impuesto de sociedades.",
+     "pagina": 16,
+     "postura": "Mantener los gravámenes extraordinarios a energéticas y entidades financieras hasta reformar el impuesto de sociedades.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "gravamen temporal",
+      "impuesto banca",
+      "impuesto energéticas",
+      "beneficios extraordinarios",
+      "entidades financieras"
+     ]
+    },
+    {
+     "id": "SUMAR-impuestos-05",
+     "subtema": "SICAV y SOCIMI",
+     "cita": "Eliminaremos los privilegios de las sociedades de inversión de capital variable (SICAV, que disfrutan de gravamen del 1%) y de las sociedades anónimas cotizadas de inversión en el mercado inmobiliario (SOCIMI, que pagan el 0%).",
+     "pagina": 16,
+     "postura": "Suprimir el régimen fiscal privilegiado de SICAV y SOCIMI.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "SICAV",
+      "SOCIMI",
+      "régimen fiscal",
+      "privilegios fiscales",
+      "sociedades de inversión"
+     ]
+    },
+    {
+     "id": "SUMAR-impuestos-06",
+     "subtema": "IRPF",
+     "cita": "ampliando el número de tramos a partir de 120.000€ y aplicando tipos marginales crecientes: del 45% marginal actual se subirá por tramos hasta llegar al 52% para rentas a partir de 300.000€.",
+     "pagina": 17,
+     "postura": "Subir el tipo marginal del IRPF hasta el 52% para rentas superiores a 300.000 euros, con nuevos tramos desde 120.000.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "IRPF",
+      "tipo marginal",
+      "rentas altas",
+      "tramos",
+      "progresividad",
+      "rentas del capital"
+     ]
+    },
+    {
+     "id": "SUMAR-impuestos-07",
+     "subtema": "Estimación objetiva",
+     "cita": "Además, es urgente eliminar el actual régimen de estimación objetiva y el régimen especial de IVA que este lleva asociado.",
+     "pagina": 17,
+     "postura": "Eliminar el régimen de estimación objetiva (módulos) del IRPF y su régimen especial de IVA.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "módulos",
+      "estimación objetiva",
+      "IRPF",
+      "IVA",
+      "autónomos"
+     ]
+    },
+    {
+     "id": "SUMAR-impuestos-08",
+     "subtema": "Transacciones financieras",
+     "cita": "Reforma de la normativa del impuesto de transacciones financieras. Para gravar también las operaciones más especulativas que actualmente no están sujetas a tributación, se incluirán no solo la compra de acciones, sino también los derivados financieros.",
+     "pagina": 17,
+     "postura": "Ampliar el impuesto sobre transacciones financieras a los derivados y operaciones especulativas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "impuesto transacciones financieras",
+      "tasa Tobin",
+      "derivados",
+      "especulación",
+      "acciones"
+     ]
+    },
+    {
+     "id": "SUMAR-impuestos-09",
+     "subtema": "Fiscalidad saludable",
+     "cita": "actuando de forma preferente en la implantación de un impuesto a las bebidas azucaradas y a los alimentos ultraprocesados no saludables y la revisión de los impuestos actuales al alcohol y el tabaco.",
+     "pagina": 17,
+     "postura": "Crear impuestos a bebidas azucaradas y ultraprocesados y revisar los impuestos sobre alcohol y tabaco.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "bebidas azucaradas",
+      "ultraprocesados",
+      "impuesto especial",
+      "alcohol",
+      "tabaco",
+      "fiscalidad saludable"
+     ]
+    },
+    {
+     "id": "SUMAR-impuestos-10",
+     "subtema": "Fraude fiscal",
+     "cita": "se igualará el plazo de prescripción administrativa y penal a cinco años o diez años en los casos de delitos agravados, y se unificarán los umbrales y penas por los diferentes delitos fiscales y delitos agravados; se equiparará la plantilla de la AEAT a la media de los países europeos de nuestro entorno",
+     "pagina": 17,
+     "postura": "Igualar plazos de prescripción, unificar penas por delitos fiscales y ampliar la plantilla de la Agencia Tributaria.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "fraude fiscal",
+      "prescripción",
+      "delito fiscal",
+      "Agencia Tributaria",
+      "AEAT",
+      "evasión"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "social",
+   "sin_contenido": false,
+   "posicion_general": "Plantea reforzar el Estado de bienestar con un ingreso mínimo más amplio, una prestación universal por crianza, una «herencia universal» para jóvenes, más financiación estatal de la dependencia, derecho subjetivo a los servicios sociales, una ley de cuidados, permisos más largos y protección de consumidores y suministros básicos.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-social-01",
+     "subtema": "Ingreso Mínimo Vital",
+     "cita": "incluir a las personas jóvenes de entre 18 y 23 años como potenciales beneficiarios de la prestación y garantizar que las menores de 30 años puedan acceder al IMV con los mismos requisitos que se exigen al resto de población adulta.",
+     "pagina": 86,
+     "postura": "Ampliar el Ingreso Mínimo Vital a jóvenes de 18 a 23 años y equiparar requisitos para menores de 30.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ingreso mínimo vital",
+      "IMV",
+      "jóvenes",
+      "prestación",
+      "pobreza",
+      "requisitos"
+     ]
+    },
+    {
+     "id": "SUMAR-social-02",
+     "subtema": "Prestación por crianza",
+     "cita": "Proponemos unificar las actuales prestaciones por hijo a cargo de la Seguridad Social (a extinguir), el complemento por ayuda a la infancia del IMV y la deducción fiscal por madre trabajadora en una nueva prestación universal por cada hijo e hija menores de 18 años que será de 200€ al mes",
+     "pagina": 93,
+     "postura": "Crear una prestación universal de 200 euros mensuales por cada hijo menor de 18 años.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "prestación por hijo",
+      "crianza",
+      "pobreza infantil",
+      "deducción maternidad",
+      "familias",
+      "infancia"
+     ]
+    },
+    {
+     "id": "SUMAR-social-03",
+     "subtema": "Herencia universal",
+     "cita": "se propone implementar, financiada con un nuevo impuesto a las grandes fortunas, una «herencia universal» de 20.000€, que se hará efectiva al cumplir los 23 años",
+     "pagina": 15,
+     "postura": "Dotar a cada joven de 20.000 euros al cumplir 23 años, financiados con un impuesto a grandes fortunas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "herencia universal",
+      "jóvenes",
+      "emancipación",
+      "grandes fortunas",
+      "desigualdad"
+     ]
+    },
+    {
+     "id": "SUMAR-social-04",
+     "subtema": "Dependencia",
+     "cita": "aseguraremos la cofinanciación del sistema de dependencia al 50% entre el Estado y las comunidades autónomas, de acuerdo con la ley. Acabaremos progresivamente con la concertación con el sector privado mercantil, potenciando los servicios públicos",
+     "pagina": 97,
+     "postura": "Financiar al 50% por el Estado la dependencia y acabar progresivamente con la concertación con empresas privadas mercantiles.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "dependencia",
+      "SAAD",
+      "financiación",
+      "residencias",
+      "concertación privada",
+      "cuidados"
+     ]
+    },
+    {
+     "id": "SUMAR-social-05",
+     "subtema": "Servicios sociales",
+     "cita": "Impulsaremos una Ley de Garantía de la Igualdad de Acceso a los Servicios Sociales, que declare estos servicios públicos como esenciales, que convierta en derecho subjetivo el acceso a los mismos",
+     "pagina": 87,
+     "postura": "Aprobar una ley que haga del acceso a los servicios sociales un derecho subjetivo y servicio esencial.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "servicios sociales",
+      "derecho subjetivo",
+      "ley servicios sociales",
+      "servicios esenciales",
+      "exclusión"
+     ]
+    },
+    {
+     "id": "SUMAR-social-06",
+     "subtema": "Cuidados",
+     "cita": "Pondremos en marcha una ley que recoja el derecho universal al cuidado y que dignifique los trabajos de cuidado, reconozca y revalorice las tareas de cuidado que asumen mayoritariamente las mujeres y apueste por un sistema público universal de cuidados",
+     "pagina": 87,
+     "postura": "Aprobar una Ley de Cuidados con derecho universal al cuidado y un sistema público de cuidados.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ley de cuidados",
+      "sistema público de cuidados",
+      "derecho al cuidado",
+      "corresponsabilidad",
+      "trabajo de cuidados"
+     ]
+    },
+    {
+     "id": "SUMAR-social-07",
+     "subtema": "Permisos de nacimiento",
+     "cita": "Se avanzará progresivamente en la ampliación del permiso por maternidad o paternidad hasta alcanzar los seis meses.",
+     "pagina": 94,
+     "postura": "Ampliar progresivamente el permiso por nacimiento hasta seis meses.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "permiso de maternidad",
+      "permiso de paternidad",
+      "permiso parental",
+      "conciliación",
+      "nacimiento"
+     ]
+    },
+    {
+     "id": "SUMAR-social-08",
+     "subtema": "Suministros básicos",
+     "cita": "Acceso garantizado a los suministros básicos de agua, energía y calefacción a todos los hogares. Se impedirá el corte de estos suministros a las familias y personas en situación de vulnerabilidad.",
+     "pagina": 20,
+     "postura": "Prohibir cortes de agua, luz y calefacción a hogares vulnerables y garantizar un consumo mínimo vital.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "cortes de suministro",
+      "pobreza energética",
+      "consumo mínimo vital",
+      "hogares vulnerables",
+      "agua",
+      "electricidad"
+     ]
+    },
+    {
+     "id": "SUMAR-social-09",
+     "subtema": "Familias monoparentales",
+     "cita": "Ley estatal de familias que reconozca las diferentes modalidades de familias, que equipare las familias monoparentales con las familias numerosas en cuanto a derechos y ayudas, y blinde los permisos y los derechos por cuidado familiar.",
+     "pagina": 96,
+     "postura": "Aprobar una ley de familias que equipare las monoparentales con las numerosas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ley de familias",
+      "familias monoparentales",
+      "familias numerosas",
+      "diversidad familiar",
+      "permisos"
+     ]
+    },
+    {
+     "id": "SUMAR-social-10",
+     "subtema": "Publicidad alimentaria infantil",
+     "cita": "Aprobación de una ley de regulación de la publicidad de alimentos no saludables dirigidos al público infantil.",
+     "pagina": 21,
+     "postura": "Regular por ley la publicidad de alimentos no saludables dirigida a menores.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "publicidad infantil",
+      "alimentos no saludables",
+      "obesidad infantil",
+      "consumo",
+      "menores"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "democracia",
+   "sin_contenido": false,
+   "posicion_general": "Propone ampliar la participación ciudadana y reformar reglas institucionales: revisar LOREG e ILP, ampliar el número de diputados, voto a los 16 años, circunscripción exterior y derogación parcial de la ley de seguridad ciudadana. En memoria democrática plantea desplegar la ley de 2022, reformar secretos oficiales, financiar exhumaciones, resignificar Cuelgamuros y una ley de bebés robados.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-democracia-01",
+     "subtema": "Ley electoral",
+     "cita": "valoraremos la oportunidad de impulsar algunas iniciativas normativas —como una ley de participación ciudadana, la revisión de la ILP, la actualización de la LOREG o la ampliación del número de diputados y diputadas para mejorar su capacidad de representación—",
+     "pagina": 117,
+     "postura": "Estudiar una ley de participación ciudadana, revisar la ILP, actualizar la LOREG y ampliar el número de diputados.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "LOREG",
+      "ley electoral",
+      "número de diputados",
+      "ILP",
+      "participación ciudadana"
+     ]
+    },
+    {
+     "id": "SUMAR-democracia-02",
+     "subtema": "Voto a los 16",
+     "cita": "Reconocimiento del derecho de sufragio a partir de los 16 años.",
+     "pagina": 102,
+     "postura": "Reconocer el derecho de voto a partir de los 16 años.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "voto a los 16",
+      "sufragio",
+      "edad electoral",
+      "jóvenes",
+      "LOREG"
+     ]
+    },
+    {
+     "id": "SUMAR-democracia-03",
+     "subtema": "Seguridad ciudadana",
+     "cita": "deberemos revisar los delitos de opinión y de odio, así como modificar o, en su caso, derogar parcialmente la ley de seguridad ciudadana.",
+     "pagina": 118,
+     "postura": "Revisar los delitos de opinión y derogar parcialmente la ley de seguridad ciudadana.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "ley mordaza",
+      "ley de seguridad ciudadana",
+      "libertad de expresión",
+      "delitos de opinión",
+      "derogación"
+     ]
+    },
+    {
+     "id": "SUMAR-democracia-04",
+     "subtema": "Participación digital",
+     "cita": "proponemos la creación de una plataforma electrónica nacional de participación ciudadana integral que permita deliberar, formular propuestas e interpelar a los cargos electos.",
+     "pagina": 117,
+     "postura": "Crear una plataforma electrónica nacional de participación ciudadana.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "participación ciudadana",
+      "plataforma participativa",
+      "democracia deliberativa",
+      "asambleas ciudadanas"
+     ]
+    },
+    {
+     "id": "SUMAR-democracia-05",
+     "subtema": "Voto exterior",
+     "cita": "Estudiaremos la creación de una circunscripción electoral exterior para ensanchar la democracia española más allá de nuestras fronteras, con una representación política proporcional a su número.",
+     "pagina": 150,
+     "postura": "Estudiar una circunscripción electoral exterior para los españoles residentes fuera.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "circunscripción exterior",
+      "voto exterior",
+      "CERA",
+      "voto rogado",
+      "ley electoral"
+     ]
+    },
+    {
+     "id": "SUMAR-democracia-06",
+     "subtema": "Secretos oficiales",
+     "cita": "la garantía del derecho al libre acceso y consulta gratuita de los archivos públicos y privados con la reforma de la Ley de Secretos Oficiales",
+     "pagina": 134,
+     "postura": "Reformar la Ley de Secretos Oficiales para garantizar el acceso libre a los archivos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "secretos oficiales",
+      "archivos",
+      "memoria democrática",
+      "transparencia",
+      "desclasificación"
+     ]
+    },
+    {
+     "id": "SUMAR-democracia-07",
+     "subtema": "Condecoraciones franquistas",
+     "cita": "la revisión y revocación de todas las condecoraciones, medallas y recompensas concedidas a personas que formaron parte del aparato de represión de la dictadura",
+     "pagina": 134,
+     "postura": "Revocar condecoraciones y recompensas a miembros del aparato represivo franquista.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "memoria democrática",
+      "condecoraciones",
+      "franquismo",
+      "medallas",
+      "represión"
+     ]
+    },
+    {
+     "id": "SUMAR-democracia-08",
+     "subtema": "Exhumaciones",
+     "cita": "Aumentaremos progresivamente la dotación presupuestaria anual prevista para las tareas de localización, exhumación e identificación de las personas desaparecidas para garantizar el derecho a la verdad, la justicia y la reparación de las víctimas",
+     "pagina": 134,
+     "postura": "Aumentar el presupuesto para localizar, exhumar e identificar a desaparecidos de la guerra y la dictadura.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "exhumaciones",
+      "fosas",
+      "desaparecidos",
+      "memoria democrática",
+      "víctimas franquismo",
+      "banco ADN"
+     ]
+    },
+    {
+     "id": "SUMAR-democracia-09",
+     "subtema": "Valle de Cuelgamuros",
+     "cita": "Resignificación profunda del Valle de Cuelgamuros como lugar de reinterpretación crítica de la guerra y la dictadura. Desarrollaremos, mediante un decreto, el nuevo régimen jurídico y patrimonial del Valle.",
+     "pagina": 135,
+     "postura": "Resignificar el Valle de Cuelgamuros con nuevo régimen jurídico y centro de interpretación.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Valle de los Caídos",
+      "Cuelgamuros",
+      "resignificación",
+      "memoria democrática",
+      "exhumaciones"
+     ]
+    },
+    {
+     "id": "SUMAR-democracia-10",
+     "subtema": "Bebés robados",
+     "cita": "Impulsaremos una ley de «bebés robados» que garantice verdad, justicia y reparación para todas las víctimas y familias.",
+     "pagina": 135,
+     "postura": "Aprobar una ley de bebés robados con verdad, justicia y reparación.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "bebés robados",
+      "ley",
+      "víctimas",
+      "memoria democrática",
+      "reparación",
+      "prescripción"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "transporte",
+   "sin_contenido": false,
+   "posicion_general": "Defiende la movilidad sostenible como derecho, con una ley de movilidad y financiación estatal estable del transporte público, abonos rebajados permanentes y prioridad al ferrocarril convencional, Cercanías y mercancías frente a la alta velocidad. Propone limitar la aviación (jets privados, vuelos cortos, tasas al queroseno) y proteger el taxi frente a las VTC.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-transporte-01",
+     "subtema": "Ley de movilidad",
+     "cita": "Impulsaremos una ley de movilidad sostenible con objetivos de descarbonización del transporte que sean ambiciosos",
+     "pagina": 80,
+     "postura": "Aprobar una ley de movilidad sostenible con objetivos ambiciosos de descarbonización del transporte.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ley de movilidad sostenible",
+      "transporte público",
+      "descarbonización",
+      "financiación transporte"
+     ]
+    },
+    {
+     "id": "SUMAR-transporte-02",
+     "subtema": "Abonos de transporte",
+     "cita": "Transformaremos en una política de transporte permanente la reducción del precio de los abonos de transporte para desplazamientos recurrentes, al trabajo o a los centros de estudio",
+     "pagina": 9,
+     "postura": "Hacer permanentes las rebajas de los abonos de transporte público.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "abonos transporte",
+      "descuentos transporte",
+      "gratuidad",
+      "transporte público",
+      "Cercanías"
+     ]
+    },
+    {
+     "id": "SUMAR-transporte-03",
+     "subtema": "Ferrocarril convencional",
+     "cita": "Redirigiremos las inversiones ferroviarias de alta velocidad a Cercanías, así como a las líneas de ferrocarril convencional, para, al menos, triplicar la inversión anual en esta red estatal en los próximos cuatro años",
+     "pagina": 81,
+     "postura": "Trasladar inversión de la alta velocidad a Cercanías y tren convencional, triplicando su inversión anual.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Cercanías",
+      "ferrocarril convencional",
+      "alta velocidad",
+      "inversión ferroviaria",
+      "Adif",
+      "Renfe"
+     ]
+    },
+    {
+     "id": "SUMAR-transporte-04",
+     "subtema": "Mercancías por tren",
+     "cita": "impulsaremos la descarbonización de las flotas y la ampliación de la red de ferrocarril de mercancías para que en 2040 el 80% de los traslados de mercancías se realicen a través de este medio.",
+     "pagina": 81,
+     "postura": "Ampliar el ferrocarril de mercancías hasta mover el 80% de las mercancías en 2040.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "mercancías",
+      "ferrocarril",
+      "transporte de mercancías",
+      "cánones",
+      "corredores ferroviarios"
+     ]
+    },
+    {
+     "id": "SUMAR-transporte-05",
+     "subtema": "Aviación privada",
+     "cita": "Limitaremos el uso de los jets privados y aplicaremos una tasa creciente sobre los viajes frecuentes en avión que entraría en vigor a partir del segundo vuelo anual.",
+     "pagina": 82,
+     "postura": "Limitar los jets privados y gravar progresivamente a los viajeros frecuentes desde el segundo vuelo anual.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "jets privados",
+      "tasa aérea",
+      "aviación",
+      "viajeros frecuentes",
+      "queroseno"
+     ]
+    },
+    {
+     "id": "SUMAR-transporte-06",
+     "subtema": "Vuelos domésticos",
+     "cita": "la eliminación de los vuelos domésticos entre ciuda- des para los que exista una alternativa ferroviaria, adecuada en términos de conectividad y seguridad, y de menos de cuatro horas de duración.",
+     "pagina": 83,
+     "postura": "Suprimir vuelos domésticos con alternativa ferroviaria de menos de cuatro horas.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "vuelos cortos",
+      "vuelos domésticos",
+      "aviación",
+      "tren",
+      "emisiones"
+     ]
+    },
+    {
+     "id": "SUMAR-transporte-07",
+     "subtema": "Taxi y VTC",
+     "cita": "Protegeremos al sector del taxi como servicio público esencial estableciendo limitaciones a las VTC a fin de evitar la competencia desleal y garantizar las mejores condiciones de trabajo.",
+     "pagina": 82,
+     "postura": "Proteger el taxi como servicio público esencial y limitar las licencias VTC.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "taxi",
+      "VTC",
+      "Uber",
+      "Cabify",
+      "competencia desleal"
+     ]
+    },
+    {
+     "id": "SUMAR-transporte-08",
+     "subtema": "Puertos y aeropuertos",
+     "cita": "Transferiremos las competencias de gestión de puertos y aeropuertos de los diferentes territorios del Estado, para que la gestión sea conjunta con las ciudades en las que se encuentran",
+     "pagina": 82,
+     "postura": "Transferir la gestión de puertos y aeropuertos para gestionarlos conjuntamente con sus ciudades.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "aeropuertos",
+      "AENA",
+      "puertos",
+      "transferencia competencias",
+      "cogestión"
+     ]
+    },
+    {
+     "id": "SUMAR-transporte-09",
+     "subtema": "Financiación transporte público",
+     "cita": "Dotaremos al fondo para la sostenibilidad del transporte público de una financiación inicial de, al menos, el 0,25% del PIB.",
+     "pagina": 82,
+     "postura": "Dotar el fondo de transporte público con al menos el 0,25% del PIB.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "financiación transporte público",
+      "fondo",
+      "transporte urbano",
+      "presupuestos"
+     ]
+    },
+    {
+     "id": "SUMAR-transporte-10",
+     "subtema": "Motor de combustión",
+     "cita": "con el objetivo de que en 2040 no circulen en España vehículos con motores de combustión interna.",
+     "pagina": 11,
+     "postura": "Que en 2040 no circulen en España vehículos con motor de combustión interna.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "coche eléctrico",
+      "motor de combustión",
+      "electrificación",
+      "vehículos",
+      "emisiones"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "justicia",
+   "sin_contenido": false,
+   "posicion_general": "Propone un plan de choque con más jueces y medios, una nueva oficina judicial y más justicia gratuita. Plantea atribuir la instrucción al fiscal, reducir competencias de la Audiencia Nacional, suprimir la justicia militar, desbloquear CGPJ y Tribunal Constitucional, nueva ley de indultos, recuperar la justicia universal y suprimir la prisión permanente revisable.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-justicia-01",
+     "subtema": "Plan de choque",
+     "cita": "la dotación temporal extraordinaria de medios a los órganos más necesitados, el incremento del número de jueces por habitante o un nuevo modelo de oficina judicial, entre otras",
+     "pagina": 123,
+     "postura": "Aprobar un plan de choque con más medios, más jueces por habitante y nueva oficina judicial.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "plan de choque justicia",
+      "jueces",
+      "oficina judicial",
+      "medios justicia",
+      "retrasos judiciales"
+     ]
+    },
+    {
+     "id": "SUMAR-justicia-02",
+     "subtema": "Instrucción fiscal",
+     "cita": "Propondremos que, en la reforma de la Ley de Enjuiciamiento Criminal, se atribuya la instrucción al Ministerio Fiscal, creando la figura del juez de garantías para el control de las medidas a adoptar que afecten a derechos fundamentales.",
+     "pagina": 128,
+     "postura": "Atribuir la instrucción penal al Ministerio Fiscal con un juez de garantías.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Ley de Enjuiciamiento Criminal",
+      "instrucción",
+      "Ministerio Fiscal",
+      "juez de garantías",
+      "proceso penal"
+     ]
+    },
+    {
+     "id": "SUMAR-justicia-03",
+     "subtema": "Audiencia Nacional",
+     "cita": "Reduciremos las competencias de la Audiencia Nacional (AN) al mínimo en las distintas materias (especialmente las penales) y suprimiremos sus competencias relativas a menores y vigilancia penitenciaria",
+     "pagina": 125,
+     "postura": "Reducir al mínimo las competencias de la Audiencia Nacional y reforzar a los TSJ.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Audiencia Nacional",
+      "TSJ",
+      "competencias judiciales",
+      "planta judicial",
+      "Tribunal Supremo"
+     ]
+    },
+    {
+     "id": "SUMAR-justicia-04",
+     "subtema": "Justicia militar",
+     "cita": "Supresión de la justicia militar e integración en la jurisdicción ordinaria. Proponemos la supresión de la Justicia Militar.",
+     "pagina": 129,
+     "postura": "Suprimir la jurisdicción militar, integrarla en la ordinaria y derogar el código penal militar.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "justicia militar",
+      "jurisdicción militar",
+      "código penal militar",
+      "jurisdicción ordinaria"
+     ]
+    },
+    {
+     "id": "SUMAR-justicia-05",
+     "subtema": "CGPJ",
+     "cita": "respaldare- mos que, una vez expirado su mandato, cesen automáticamente vocales y presidente. En cuanto a los vocales del CGPJ de procedencia judicial, mantenemos el modelo de elección parlamentaria.",
+     "pagina": 129,
+     "postura": "Mantener la elección parlamentaria de vocales judiciales del CGPJ y su cese automático al expirar el mandato.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "CGPJ",
+      "Consejo General del Poder Judicial",
+      "renovación",
+      "elección parlamentaria",
+      "LOPJ"
+     ]
+    },
+    {
+     "id": "SUMAR-justicia-06",
+     "subtema": "Tribunal Constitucional",
+     "cita": "Es también necesario modificar la Ley Orgánica del Tribunal Constitucional para evitar que el retraso en el nombramiento de magistrados suponga que su mandato resulte inferior a los nueve años",
+     "pagina": 129,
+     "postura": "Reformar la Ley Orgánica del Tribunal Constitucional para evitar bloqueos en su renovación.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Tribunal Constitucional",
+      "renovación",
+      "magistrados",
+      "LOTC",
+      "bloqueo"
+     ]
+    },
+    {
+     "id": "SUMAR-justicia-07",
+     "subtema": "Indultos",
+     "cita": "Promulgaremos una nueva ley de indultos ajustada a la realidad social actual y que refuerce la exigencia del interés público en su concesión.",
+     "pagina": 128,
+     "postura": "Aprobar una nueva ley de indultos que exija interés público.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ley de indultos",
+      "indulto",
+      "gracia",
+      "interés público"
+     ]
+    },
+    {
+     "id": "SUMAR-justicia-08",
+     "subtema": "Justicia universal",
+     "cita": "Recuperación de la justicia universal penal como medio para evitar la impunidad de acciones que atentan contra los derechos más fundamentales del ser humano",
+     "pagina": 129,
+     "postura": "Recuperar la jurisdicción universal penal.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "justicia universal",
+      "jurisdicción universal",
+      "LOPJ",
+      "crímenes internacionales",
+      "impunidad"
+     ]
+    },
+    {
+     "id": "SUMAR-justicia-09",
+     "subtema": "Justicia gratuita",
+     "cita": "incrementar los recursos destinados a ese servicio, poniendo fin a la insuficiencia y el retraso en el abono de los honorarios de los profesionales que lo prestan y aumentando el umbral de rentas para tener derecho a la justicia gratuita.",
+     "pagina": 126,
+     "postura": "Aumentar recursos del turno de oficio, pagar a tiempo a sus profesionales y elevar el umbral de renta de la justicia gratuita.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "justicia gratuita",
+      "turno de oficio",
+      "asistencia jurídica",
+      "abogados",
+      "honorarios"
+     ]
+    },
+    {
+     "id": "SUMAR-justicia-10",
+     "subtema": "Prisión permanente revisable",
+     "cita": "Se dotará a los órganos judiciales de informes de valoración de los factores que pueden tenerse en cuenta para imponer penas individualizadas que reduzcan la comisión de nuevos delitos. Se eliminará la prisión permanente revisable.",
+     "pagina": 133,
+     "postura": "Suprimir la prisión permanente revisable dentro de un nuevo Código Penal orientado a la reinserción.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "prisión permanente revisable",
+      "Código Penal",
+      "penas",
+      "reinserción",
+      "encarcelamiento"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "campo",
+   "sin_contenido": false,
+   "posicion_general": "Apuesta por la transición agroecológica y la agricultura familiar: PAC que priorice explotaciones familiares y elimine derechos históricos, intervención en el mercado de tierras, defensoría de la cadena alimentaria, freno al regadío, salida del glifosato y fin de jaulas. En pesca, defiende la artesanal, limita el arrastre en Natura 2000 y promueve compra pública de alimentos sostenibles.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-campo-01",
+     "subtema": "Glifosato",
+     "cita": "Salir de la dependencia al glifosato a cinco años vista, acompañando a los agricultores en esta transición para poner en marcha las alternativas ecológicas necesarias, y apoyar la no renovación del glifosato en el marco de la UE.",
+     "pagina": 60,
+     "postura": "Abandonar el glifosato en cinco años y apoyar su no renovación en la UE.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "glifosato",
+      "pesticidas",
+      "fitosanitarios",
+      "agricultura ecológica",
+      "UE"
+     ]
+    },
+    {
+     "id": "SUMAR-campo-02",
+     "subtema": "PAC",
+     "cita": "priorizar las explotaciones familiares agrarias de talla humana y seguir avan- zando en el camino del «dinero público para los bienes públicos», eliminando los derechos históri- cos indefendibles y facilitando la transición agroecológica.",
+     "pagina": 60,
+     "postura": "Negociar una PAC que priorice explotaciones familiares y elimine los derechos históricos.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "PAC",
+      "política agraria común",
+      "explotaciones familiares",
+      "derechos históricos",
+      "ayudas agrarias"
+     ]
+    },
+    {
+     "id": "SUMAR-campo-03",
+     "subtema": "Mercado de tierras",
+     "cita": "Estableceremos medidas restrictivas contra la adquisición de tierras agrarias por inver- sores no comunitarios",
+     "pagina": 60,
+     "postura": "Restringir la compra de tierras agrarias por inversores no comunitarios y crear bancos públicos de tierras.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "tierras agrarias",
+      "bancos de tierras",
+      "especulación",
+      "relevo generacional",
+      "inversores extranjeros"
+     ]
+    },
+    {
+     "id": "SUMAR-campo-04",
+     "subtema": "Cadena alimentaria",
+     "cita": "La creación de la figura de la defensoría de la cadena alimentaria, como existe en otros Estados miembros, con funciones similares a las del Defensor del Pueblo.",
+     "pagina": 61,
+     "postura": "Crear una defensoría de la cadena alimentaria y controlar con sanciones los incumplimientos de la ley.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ley de la cadena alimentaria",
+      "precios justos",
+      "AICA",
+      "agricultores",
+      "intermediarios"
+     ]
+    },
+    {
+     "id": "SUMAR-campo-05",
+     "subtema": "Regadío",
+     "cita": "Detendremos el crecimiento del regadío salvo cuando existan nuevos recursos proce- dentes de la reutilización de aguas residuales en las zonas costeras o la desalación",
+     "pagina": 61,
+     "postura": "Frenar la expansión del regadío salvo con agua reutilizada o desalada.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "regadío",
+      "agua",
+      "pozos ilegales",
+      "acuíferos",
+      "sequía",
+      "concesiones"
+     ]
+    },
+    {
+     "id": "SUMAR-campo-06",
+     "subtema": "Bienestar animal ganadero",
+     "cita": "En el marco de la propuesta aprobada en el Parlamento Europeo, se establecerá la elimi- nación gradual del uso de sistemas de jaulas en la producción ganadera.",
+     "pagina": 61,
+     "postura": "Eliminar gradualmente las jaulas en la producción ganadera.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "bienestar animal",
+      "jaulas",
+      "ganadería",
+      "granjas",
+      "foie gras"
+     ]
+    },
+    {
+     "id": "SUMAR-campo-07",
+     "subtema": "Seguridad laboral agraria",
+     "cita": "Nos comprometemos a ratificar el convenio número 184 de la OIT sobre la seguridad y la salud en la agricultura.",
+     "pagina": 58,
+     "postura": "Ratificar el convenio 184 de la OIT sobre seguridad y salud en la agricultura.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "convenio 184 OIT",
+      "trabajadores agrarios",
+      "seguridad laboral",
+      "agricultura",
+      "temporeros"
+     ]
+    },
+    {
+     "id": "SUMAR-campo-08",
+     "subtema": "Pesca de arrastre",
+     "cita": "Cumplimiento de la Directiva de Hábitats y la Directiva de Aves, limitando la pesca des- tructiva (como la pesca de arrastre) en la red Natura 2000",
+     "pagina": 66,
+     "postura": "Limitar la pesca de arrastre en espacios de la red Natura 2000.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "pesca de arrastre",
+      "Natura 2000",
+      "áreas marinas protegidas",
+      "pesca",
+      "biodiversidad marina"
+     ]
+    },
+    {
+     "id": "SUMAR-campo-09",
+     "subtema": "Pesca recreativa",
+     "cita": "Prohibición de la pesca recreativa de especies en situación biológica sensible y de las que están sujetas a Tac y cuotas",
+     "pagina": 65,
+     "postura": "Prohibir la pesca recreativa de especies sensibles o sujetas a cuotas.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "pesca recreativa",
+      "cuotas",
+      "TAC",
+      "pesca artesanal",
+      "especies"
+     ]
+    },
+    {
+     "id": "SUMAR-campo-10",
+     "subtema": "Compra pública alimentaria",
+     "cita": "Siempre que sea posible, se dedicará al menos un 25% de la compra pública a alimentos saludables y sostenibles procedentes de producción agroecológica, local y de tempora- da",
+     "pagina": 70,
+     "postura": "Destinar al menos el 25% de la compra pública alimentaria a productos agroecológicos, locales y de temporada.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "compra pública",
+      "comedores escolares",
+      "alimentación saludable",
+      "producto local",
+      "agroecología"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "exteriores",
+   "sin_contenido": false,
+   "posicion_general": "Propone una política exterior centrada en la paz, los derechos humanos y la justicia climática: revertir el giro sobre el Sáhara Occidental, avanzar al reconocimiento de Palestina, apoyo a Ucrania, vetar ventas de armas a violadores de derechos humanos y abolir armas nucleares. En la UE, autonomía estratégica, fin de la unanimidad y 0,7% en cooperación.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-exteriores-01",
+     "subtema": "Sáhara Occidental",
+     "cita": "Daremos marcha atrás con celeridad al cambio de posición adoptado en 2022 con respecto al Sáhara Occidental y utilizaremos todos los canales de influencia en el conflicto para apoyar plenamente el derecho a la libre determinación del pueblo del Sáhara Occidental",
+     "pagina": 141,
+     "postura": "Revertir el cambio de posición de 2022 y apoyar la autodeterminación del Sáhara Occidental.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Sáhara Occidental",
+      "autodeterminación",
+      "Marruecos",
+      "MINURSO",
+      "pueblo saharaui"
+     ]
+    },
+    {
+     "id": "SUMAR-exteriores-02",
+     "subtema": "Palestina",
+     "cita": "Abogaremos por políticas efectivas para avanzar hacia el reconocimiento del Estado palestino, teniendo siempre en consideración la voluntad de la sociedad civil palestina.",
+     "pagina": 141,
+     "postura": "Avanzar hacia el reconocimiento del Estado palestino.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Palestina",
+      "reconocimiento Estado palestino",
+      "Israel",
+      "ocupación",
+      "derecho internacional"
+     ]
+    },
+    {
+     "id": "SUMAR-exteriores-03",
+     "subtema": "Ucrania",
+     "cita": "Continuaremos con la solidaridad integral con Ucrania y fortaleceremos la vía diplomá- tica para lograr, cuando las circunstancias lo permitan, una paz justa y duradera",
+     "pagina": 141,
+     "postura": "Mantener la solidaridad con Ucrania y reforzar la vía diplomática hacia la paz.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Ucrania",
+      "Rusia",
+      "ayuda humanitaria",
+      "paz",
+      "reconstrucción"
+     ]
+    },
+    {
+     "id": "SUMAR-exteriores-04",
+     "subtema": "Exportación de armas",
+     "cita": "Revisaremos en profundidad la política de exportación de armamento, tanto a nivel estatal como europeo, para prohibir la venta de armas a países que vulneren los dere- chos humanos",
+     "pagina": 139,
+     "postura": "Prohibir la venta de armas a países que vulneren derechos humanos.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "exportación de armas",
+      "venta de armas",
+      "derechos humanos",
+      "Tratado Comercio de Armas",
+      "Arabia Saudí"
+     ]
+    },
+    {
+     "id": "SUMAR-exteriores-05",
+     "subtema": "Armas nucleares",
+     "cita": "Lideraremos los esfuerzos internacionales destinados a abolir las armas nucleares, impulsando la ratificación del Tratado sobre la Prohibición de Armas Nucleares",
+     "pagina": 138,
+     "postura": "Ratificar el Tratado sobre la Prohibición de Armas Nucleares.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "armas nucleares",
+      "TPAN",
+      "desarme",
+      "no proliferación",
+      "tratado"
+     ]
+    },
+    {
+     "id": "SUMAR-exteriores-06",
+     "subtema": "OTAN y autonomía europea",
+     "cita": "Promoveremos el desplazamiento progresivo de las garantías de seguridad de la OTAN hacia una autonomía estratégica integral al servicio de la ciudadanía europea y no de la industria armamentística",
+     "pagina": 139,
+     "postura": "Sustituir progresivamente las garantías de la OTAN por una autonomía estratégica europea.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "OTAN",
+      "autonomía estratégica",
+      "defensa europea",
+      "industria armamentística",
+      "seguridad"
+     ]
+    },
+    {
+     "id": "SUMAR-exteriores-07",
+     "subtema": "Acuerdo UE-Mercosur",
+     "cita": "Aseguraremos que los tratados comerciales con la región contribuyan al desarrollo mu- tuo y garanticen la prevalencia de los derechos humanos y ambientales sobre el poder de las grandes corporaciones. En ese sentido, renegociaremos el Acuerdo UE-Mercosur",
+     "pagina": 140,
+     "postura": "Renegociar el acuerdo UE-Mercosur para priorizar derechos humanos, laborales y biodiversidad.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "Mercosur",
+      "tratados comerciales",
+      "libre comercio",
+      "América Latina",
+      "derechos humanos"
+     ]
+    },
+    {
+     "id": "SUMAR-exteriores-08",
+     "subtema": "Unanimidad en la UE",
+     "cita": "Apostaremos por abandonar el requisito de la unanimidad en materia de política ex- terior y de seguridad común.",
+     "pagina": 140,
+     "postura": "Suprimir la unanimidad en la política exterior y de seguridad común de la UE.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "unanimidad",
+      "PESC",
+      "Unión Europea",
+      "Consejo",
+      "reforma tratados"
+     ]
+    },
+    {
+     "id": "SUMAR-exteriores-09",
+     "subtema": "Reglas fiscales europeas",
+     "cita": "Impulsaremos una superación del Pacto de Estabilidad y Crecimiento para fomentar y no penalizar las inversiones públicas y los gastos asociados a las mismas",
+     "pagina": 144,
+     "postura": "Superar el Pacto de Estabilidad y Crecimiento para no penalizar la inversión pública.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Pacto de Estabilidad",
+      "reglas fiscales",
+      "austeridad",
+      "déficit",
+      "inversión pública"
+     ]
+    },
+    {
+     "id": "SUMAR-exteriores-10",
+     "subtema": "Ayuda al desarrollo",
+     "cita": "Aseguraremos el cumplimiento del compromiso de dedicar el 0,7% del PNB a la ayuda oficial al desarrollo (AOD), alcanzándose, al menos, el 0,55% del PNB al final de la próxima legislatura para llegar al objetivo final de 0,7% en 2030.",
+     "pagina": 148,
+     "postura": "Alcanzar el 0,55% del PNB en ayuda al desarrollo en la legislatura y el 0,7% en 2030.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "ayuda al desarrollo",
+      "AOD",
+      "0,7%",
+      "cooperación internacional",
+      "AECID"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "territorial",
+   "sin_contenido": false,
+   "posicion_general": "Concibe España como realidad plurinacional y propone un nuevo pacto territorial, reforma inmediata de la financiación autonómica y local con suelo fiscal, reforma del CPFF, diálogo bilateral con Cataluña con acuerdo votado por su ciudadanía y promoción del plurilingüismo. Para la España vaciada plantea servicios a menos de 30 minutos e incentivos a empleados públicos rurales.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-territorial-01",
+     "subtema": "Plurinacionalidad",
+     "cita": "España es una realidad plurinacional, un país de países, en el que todas las naciones y comunidades políticas deben desarrollarse en un marco igualitario y solidario.",
+     "pagina": 120,
+     "postura": "Reconocer el carácter plurinacional de España mediante un nuevo pacto territorial.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "plurinacionalidad",
+      "pacto territorial",
+      "modelo territorial",
+      "Estado autonómico",
+      "naciones"
+     ]
+    },
+    {
+     "id": "SUMAR-territorial-02",
+     "subtema": "Financiación autonómica",
+     "cita": "acordando un nuevo modelo que incluya un suelo fiscal para prestar unos servicios públicos de calidad, ya que el actual está caducado desde 2014.",
+     "pagina": 121,
+     "postura": "Reformar de inmediato la financiación autonómica con un suelo fiscal.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "financiación autonómica",
+      "suelo fiscal",
+      "comunidades autónomas",
+      "infrafinanciación",
+      "deuda autonómica"
+     ]
+    },
+    {
+     "id": "SUMAR-territorial-03",
+     "subtema": "Consejo de Política Fiscal",
+     "cita": "Deben cambiarse las reglas de votación para que el Gobierno central no tenga garantizada la aprobación de sus propuestas",
+     "pagina": 18,
+     "postura": "Reformar el Consejo de Política Fiscal y Financiera para que el Gobierno no tenga mayoría garantizada.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Consejo de Política Fiscal y Financiera",
+      "CPFF",
+      "comunidades autónomas",
+      "cogobernanza",
+      "Conferencia de Presidentes"
+     ]
+    },
+    {
+     "id": "SUMAR-territorial-04",
+     "subtema": "Mesa de diálogo Cataluña",
+     "cita": "Hay que avanzar hacia un nuevo pacto territorial entre Catalunya y el Estado alcanzado a través del diálogo, la negociación y el acuerdo. Un diálogo bilateral, de Gobierno a Gobierno, en la mesa de diálogo.",
+     "pagina": 121,
+     "postura": "Negociar un nuevo pacto entre Cataluña y el Estado en la mesa de diálogo bilateral.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Cataluña",
+      "mesa de diálogo",
+      "Generalitat",
+      "desjudicialización",
+      "pacto territorial"
+     ]
+    },
+    {
+     "id": "SUMAR-territorial-05",
+     "subtema": "Consulta en Cataluña",
+     "cita": "El acuerdo surgido de la negociación entre la Generalitat de Catalunya y el Gobierno del Estado tiene que ser votado por la ciudadanía de Catalunya.",
+     "pagina": 122,
+     "postura": "Someter a votación de la ciudadanía catalana el acuerdo entre Generalitat y Gobierno.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "referéndum",
+      "consulta",
+      "Cataluña",
+      "Estatut",
+      "votación"
+     ]
+    },
+    {
+     "id": "SUMAR-territorial-06",
+     "subtema": "Lenguas cooficiales",
+     "cita": "La pluralidad lingüística no se debe limitar a las comunidades autónomas con lengua propia, sino que su promoción y uso debe extenderse al conjunto de España y sus instituciones, así como al marco de la UE.",
+     "pagina": 121,
+     "postura": "Extender el uso de las lenguas cooficiales a las instituciones del Estado y de la UE.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "lenguas cooficiales",
+      "plurilingüismo",
+      "catalán",
+      "euskera",
+      "gallego",
+      "Congreso"
+     ]
+    },
+    {
+     "id": "SUMAR-territorial-07",
+     "subtema": "Gobiernos locales",
+     "cita": "Para ello aprobaremos de forma inmediata una ley de gobiernos locales y financiación local, y aseguraremos el reconocimiento a la capacidad y la legitimidad de los gobiernos locales para formar parte del modelo de gobernanza multinivel",
+     "pagina": 121,
+     "postura": "Aprobar una ley de gobiernos locales y financiación local.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "financiación local",
+      "ayuntamientos",
+      "municipalismo",
+      "régimen local",
+      "gobernanza multinivel"
+     ]
+    },
+    {
+     "id": "SUMAR-territorial-08",
+     "subtema": "Servicios en el medio rural",
+     "cita": "El objetivo de esta medida es que todos los habitantes del medio rural tengan acceso a los servicios esenciales en un tiempo máximo de treinta minutos.",
+     "pagina": 58,
+     "postura": "Garantizar servicios esenciales a menos de 30 minutos para toda la población rural.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "despoblación",
+      "España vaciada",
+      "medio rural",
+      "servicios públicos",
+      "reto demográfico"
+     ]
+    },
+    {
+     "id": "SUMAR-territorial-09",
+     "subtema": "Empleo público rural",
+     "cita": "Refuerzo de la presencia de las Administraciones públicas, con beneficios fiscales o in- centivos económicos a los empleados públicos que se comprometan a trabajar y residir en las zonas rurales un mínimo de cinco años.",
+     "pagina": 58,
+     "postura": "Incentivar fiscalmente a empleados públicos que residan cinco años en zonas rurales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "despoblación",
+      "empleados públicos",
+      "incentivos fiscales",
+      "zonas rurales",
+      "España vaciada"
+     ]
+    },
+    {
+     "id": "SUMAR-territorial-10",
+     "subtema": "Inversiones radiales",
+     "cita": "Implementaremos un fondo de compensación territorial por el efecto histórico de las inver- siones en infraestructuras de transporte radiales, con el objetivo de compensar a las comunidades autónomas afectadas por este fenómeno.",
+     "pagina": 82,
+     "postura": "Crear un fondo de compensación para comunidades perjudicadas por las inversiones radiales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "fondo de compensación",
+      "inversiones territorializadas",
+      "infraestructuras radiales",
+      "corredor mediterráneo",
+      "comunidades autónomas"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "empleo",
+   "sin_contenido": false,
+   "posicion_general": "Propone culminar un Estatuto del Trabajo del siglo XXI: jornada máxima de 37,5 horas en 2024 hacia 32, SMI por encima del IPC, más protección frente al despido y las deslocalizaciones, encarecer horas extra impagadas, reducir la temporalidad pública, derechos para autónomos dependientes, libertad sindical en la Guardia Civil y mejores prestaciones por incapacidad temporal.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-empleo-01",
+     "subtema": "Jornada laboral",
+     "cita": "En 2024 se establecerá por ley una jornada laboral máxima de 37,5 horas y se abrirá un proceso de diálogo social para seguir reduciendo la jornada hasta alcanzar las 32 horas semanales.",
+     "pagina": 7,
+     "postura": "Fijar por ley una jornada máxima de 37,5 horas en 2024 y avanzar hacia 32 horas sin bajar salarios.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "reducción de jornada",
+      "37,5 horas",
+      "32 horas",
+      "jornada laboral",
+      "Estatuto de los Trabajadores"
+     ]
+    },
+    {
+     "id": "SUMAR-empleo-02",
+     "subtema": "Salario mínimo",
+     "cita": "Subiremos el salario mínimo interprofesional por encima del IPC anual para mantener la ganancia de poder adquisitivo de las personas que lo cobran.",
+     "pagina": 7,
+     "postura": "Subir el SMI por encima del IPC cada año.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "salario mínimo",
+      "SMI",
+      "IPC",
+      "poder adquisitivo",
+      "salarios"
+     ]
+    },
+    {
+     "id": "SUMAR-empleo-03",
+     "subtema": "Despido",
+     "cita": "Ello implica el derecho del trabajador a la readmisión o a la indemniza- ción por despido improcedente, incluyendo el cese durante el periodo de prueba. En ambos casos, se reconocerá el derecho a una indemnización adicional que compense efectivamente el daño causado",
+     "pagina": 27,
+     "postura": "Reforzar la causalidad del despido con opción de readmisión e indemnización adicional disuasoria.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "despido",
+      "indemnización",
+      "despido improcedente",
+      "readmisión",
+      "Carta Social Europea"
+     ]
+    },
+    {
+     "id": "SUMAR-empleo-04",
+     "subtema": "Deslocalizaciones",
+     "cita": "Las empresas que decidan el traslado de su actividad industrial, productiva o de negocio a territorios que no formen parte de los Estados miembros de la Unión Europea o de los Estados sig- natarios del Acuerdo sobre el Espacio Económico Europeo no podrán adoptar medidas de despido colectivo",
+     "pagina": 27,
+     "postura": "Prohibir despidos colectivos a empresas que deslocalicen su actividad fuera de la UE y el EEE.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "deslocalización",
+      "despido colectivo",
+      "ERE",
+      "ayudas públicas",
+      "industria"
+     ]
+    },
+    {
+     "id": "SUMAR-empleo-05",
+     "subtema": "Horas extraordinarias",
+     "cita": "el incremento del 100% del precio de la hora extraordinaria que no se haya pagado ni compensado con tiempos de descanso equivalentes",
+     "pagina": 24,
+     "postura": "Incrementar un 100% el precio de las horas extra no pagadas ni compensadas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "horas extraordinarias",
+      "horas extra",
+      "registro de jornada",
+      "desconexión digital",
+      "tiempo de trabajo"
+     ]
+    },
+    {
+     "id": "SUMAR-empleo-06",
+     "subtema": "Libertad sindical Guardia Civil",
+     "cita": "Extenderemos el derecho de libertad sindical a los miembros de la Guardia Civil.",
+     "pagina": 33,
+     "postura": "Reconocer el derecho de sindicación a los guardias civiles.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Guardia Civil",
+      "libertad sindical",
+      "sindicatos",
+      "asociaciones profesionales",
+      "derechos"
+     ]
+    },
+    {
+     "id": "SUMAR-empleo-07",
+     "subtema": "Temporalidad pública",
+     "cita": "para que, al final de la legislatura, el porcentaje de temporalidad del empleo público sea análogo al del empleo privado, o incluso menor.",
+     "pagina": 35,
+     "postura": "Reducir la temporalidad del empleo público al nivel del privado al final de la legislatura.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "temporalidad",
+      "empleo público",
+      "interinos",
+      "estabilización",
+      "EBEP"
+     ]
+    },
+    {
+     "id": "SUMAR-empleo-08",
+     "subtema": "Autónomos dependientes",
+     "cita": "Reconoceremos a las personas autónomas dependientes de un cliente el derecho a las condi- ciones económicas y de jornada máxima previstas en el convenio colectivo aplicable a dicha em- presa-cliente.",
+     "pagina": 30,
+     "postura": "Aplicar a los autónomos dependientes las condiciones del convenio de la empresa cliente.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "autónomos",
+      "TRADE",
+      "falsos autónomos",
+      "convenio colectivo",
+      "cotización"
+     ]
+    },
+    {
+     "id": "SUMAR-empleo-09",
+     "subtema": "Incapacidad temporal",
+     "cita": "se valorará el incremento de la cuantía de la prestación por incapacidad común al 75% desde el primer día, y al 100% por contingen- cias profesionales.",
+     "pagina": 35,
+     "postura": "Estudiar elevar la prestación por incapacidad temporal común al 75% desde el primer día.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "incapacidad temporal",
+      "baja laboral",
+      "mutuas",
+      "prestación",
+      "Seguridad Social"
+     ]
+    },
+    {
+     "id": "SUMAR-empleo-10",
+     "subtema": "CV ciego",
+     "cita": "Implantación del CV ciego. No constarán imágenes personales, la edad ni el sexo de candidatos y las candidatas a un proceso de selección.",
+     "pagina": 26,
+     "postura": "Implantar el currículum ciego en los procesos de selección.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "CV ciego",
+      "currículum anónimo",
+      "discriminación",
+      "selección de personal",
+      "igualdad"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "clima",
+   "sin_contenido": false,
+   "posicion_general": "Propone elevar la ambición de la Ley de Cambio Climático (55% menos emisiones y 90% renovable en 2030, neutralidad en 2040), abandonar inversiones y publicidad de combustibles fósiles, sustituir calderas antiguas, reformar la Ley de Costas, gestión pública del agua, cierre de pozos ilegales, plan para el Mar Menor, proteger al lobo y cerrar incineradoras.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-clima-01",
+     "subtema": "Ley de Cambio Climático",
+     "cita": "Modificar la Ley de Cambio Climático y Transición Energética para aumentar su ambición marcándose estos objetivos: ● 55% de reducción de emisiones en 2030.",
+     "pagina": 41,
+     "postura": "Reformar la Ley de Cambio Climático para reducir emisiones un 55% en 2030 y alcanzar neutralidad en 2040.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ley de Cambio Climático",
+      "emisiones",
+      "objetivos climáticos",
+      "neutralidad climática",
+      "renovables"
+     ]
+    },
+    {
+     "id": "SUMAR-clima-02",
+     "subtema": "Combustibles fósiles",
+     "cita": "Detención de las nuevas inversiones y subvenciones al gas natural y a otros combusti- bles fósiles.",
+     "pagina": 42,
+     "postura": "Detener nuevas inversiones y subvenciones al gas natural y demás fósiles.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "combustibles fósiles",
+      "gas natural",
+      "subvenciones",
+      "descarbonización",
+      "hidrocarburos"
+     ]
+    },
+    {
+     "id": "SUMAR-clima-03",
+     "subtema": "Publicidad de fósiles",
+     "cita": "Prohibición de la publicidad y los patrocinios de combustibles fósiles, por ser produc- tos nocivos para la salud",
+     "pagina": 43,
+     "postura": "Prohibir la publicidad y el patrocinio de combustibles fósiles.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "publicidad",
+      "combustibles fósiles",
+      "patrocinio",
+      "petroleras",
+      "prohibición"
+     ]
+    },
+    {
+     "id": "SUMAR-clima-04",
+     "subtema": "Calderas fósiles",
+     "cita": "con la obligatoriedad de sustituir las calderas con más de 15 años, acompañado de ayudas para los hogares de menor renta.",
+     "pagina": 41,
+     "postura": "Obligar a sustituir calderas fósiles de más de 15 años con ayudas a hogares de menor renta.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "calderas",
+      "bomba de calor",
+      "calefacción",
+      "gas",
+      "edificios",
+      "eficiencia energética"
+     ]
+    },
+    {
+     "id": "SUMAR-clima-05",
+     "subtema": "Ley de Costas",
+     "cita": "Reformaremos la Ley de Costas para ampliar de 20 metros a 100 metros la zona de servidumbre de protección, y reorientaremos las polí- ticas urbanísticas no autorizando nuevas construcciones en zonas de riesgo por inundaciones o por aumento del nivel del mar.",
+     "pagina": 52,
+     "postura": "Ampliar la servidumbre de protección costera de 20 a 100 metros y vetar construir en zonas inundables.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ley de Costas",
+      "servidumbre de protección",
+      "litoral",
+      "inundaciones",
+      "urbanismo"
+     ]
+    },
+    {
+     "id": "SUMAR-clima-06",
+     "subtema": "Gestión pública del agua",
+     "cita": "Estableceremos el carácter público de la gestión del ciclo integral del agua a través de una ley orgánica, evitando cualquier atisbo de privatización del recurso o su gestión.",
+     "pagina": 49,
+     "postura": "Establecer por ley orgánica la gestión pública del ciclo integral del agua.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "agua",
+      "gestión pública",
+      "privatización",
+      "ciclo integral del agua",
+      "derecho humano al agua"
+     ]
+    },
+    {
+     "id": "SUMAR-clima-07",
+     "subtema": "Pozos ilegales",
+     "cita": "analizando el estado del casi millón de pozos ilegales de España y procediendo a su clausura en el caso de que no cumplan las normativas para ser regularizados.",
+     "pagina": 49,
+     "postura": "Clausurar los pozos ilegales no regularizables y controlar los consumos de los autorizados.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "pozos ilegales",
+      "acuíferos",
+      "aguas subterráneas",
+      "Doñana",
+      "regadío"
+     ]
+    },
+    {
+     "id": "SUMAR-clima-08",
+     "subtema": "Mar Menor",
+     "cita": "proponemos un plan na- cional urgente en el ámbito de la cuenca del Mar Menor, con la adecuada dotación presupuestaria para revertir su catástrofe ecológica y regenerarlo.",
+     "pagina": 52,
+     "postura": "Aprobar un plan nacional urgente con presupuesto para regenerar el Mar Menor.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Mar Menor",
+      "regeneración",
+      "nitratos",
+      "agricultura intensiva",
+      "Campo de Cartagena"
+     ]
+    },
+    {
+     "id": "SUMAR-clima-09",
+     "subtema": "Lobo ibérico",
+     "cita": "Revisión del Catálogo Español de Especies Amenazadas con la inclusión del lobo ibérico o la tórtola europea",
+     "pagina": 52,
+     "postura": "Incluir al lobo ibérico en el Catálogo Español de Especies Amenazadas.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "lobo",
+      "especies amenazadas",
+      "LESPRE",
+      "biodiversidad",
+      "ganadería extensiva"
+     ]
+    },
+    {
+     "id": "SUMAR-clima-10",
+     "subtema": "Incineradoras",
+     "cita": "Cierre progresivo de incineradoras con el 2030 como fecha máxima.",
+     "pagina": 54,
+     "postura": "Cerrar todas las incineradoras de residuos antes de 2030.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "incineradoras",
+      "residuos",
+      "economía circular",
+      "Ley de residuos",
+      "reciclaje"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "tecnologia",
+   "sin_contenido": false,
+   "posicion_general": "Propone elevar la inversión en I+D+i al 3% del PIB en 2027 y al 4% en 2030, un estatuto del personal investigador y un ministerio único de ciencia y universidades. En digitalización plantea neutralidad de la red, internet como servicio universal, transición al software libre, control público de los datos, auditoría algorítmica y límites a la concentración de medios.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-tecnologia-01",
+     "subtema": "Inversión en I+D+i",
+     "cita": "se establece el objetivo de alcanzar una inversión en ciencia e innovación del 3% del PIB en 2027 (que correspondería a un 1,75% de inversión privada y un 1,25% de inversión pública) y del 4% en 2030",
+     "pagina": 166,
+     "postura": "Alcanzar una inversión en I+D+i del 3% del PIB en 2027 y del 4% en 2030.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "I+D+i",
+      "inversión en ciencia",
+      "presupuesto ciencia",
+      "investigación",
+      "innovación"
+     ]
+    },
+    {
+     "id": "SUMAR-tecnologia-02",
+     "subtema": "Personal investigador",
+     "cita": "Cuidado de las personas dedicadas a la ciencia a través de un estatuto del personal de investigación.",
+     "pagina": 165,
+     "postura": "Aprobar un estatuto del personal de investigación que reduzca la precariedad.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "estatuto personal investigador",
+      "precariedad",
+      "carrera investigadora",
+      "Ley de la Ciencia",
+      "investigadores"
+     ]
+    },
+    {
+     "id": "SUMAR-tecnologia-03",
+     "subtema": "Ministerio de Ciencia",
+     "cita": "En la misma línea, las competencias de ciencia y universidades estarán en un solo Ministerio.",
+     "pagina": 166,
+     "postura": "Unificar ciencia y universidades en un solo ministerio.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Ministerio de Ciencia",
+      "universidades",
+      "estructura del Gobierno",
+      "CSIC",
+      "gobernanza"
+     ]
+    },
+    {
+     "id": "SUMAR-tecnologia-04",
+     "subtema": "Neutralidad de la red",
+     "cita": "La ley debe garantizar la protección de datos, la neutralidad en la red y la definición de Internet como un servicio universal gratuito para el conjunto de la ciudadanía.",
+     "pagina": 179,
+     "postura": "Garantizar por ley la neutralidad de la red e Internet como servicio universal gratuito.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "neutralidad de la red",
+      "Internet",
+      "servicio universal",
+      "banda ancha",
+      "telecomunicaciones"
+     ]
+    },
+    {
+     "id": "SUMAR-tecnologia-05",
+     "subtema": "Software libre",
+     "cita": "Dinero público, código libre y soberanía tecnológica. Se trabajará en un plan de transición hacia el software libre en todas las herramientas y servicios digitales, buscando hacerlos más robustos, seguros, escalables y sostenibles.",
+     "pagina": 180,
+     "postura": "Migrar las administraciones al software libre y exigir código abierto en la contratación pública.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "software libre",
+      "código abierto",
+      "administración digital",
+      "contratación pública",
+      "soberanía tecnológica"
+     ]
+    },
+    {
+     "id": "SUMAR-tecnologia-06",
+     "subtema": "Explotación de datos",
+     "cita": "ninguna empresa podrá explotar los datos sin autorización previa de este organismo regulador y sin asegurar que la explotación de los datos beneficie, más allá de la empresa en cuestión, a la sociedad en su conjunto.",
+     "pagina": 180,
+     "postura": "Exigir autorización de un organismo público para que las empresas exploten datos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "protección de datos",
+      "datos personales",
+      "privacidad",
+      "big data",
+      "regulación"
+     ]
+    },
+    {
+     "id": "SUMAR-tecnologia-07",
+     "subtema": "Agencia de Transición Digital",
+     "cita": "Creación de una Agencia Pública para la Transición Digital. Se debe promover el despliegue de una agencia que permita la gestión de sistemas de tecnologías libres",
+     "pagina": 181,
+     "postura": "Crear una Agencia Pública para la Transición Digital.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "agencia digital",
+      "transición digital",
+      "derechos digitales",
+      "inteligencia artificial",
+      "algoritmos"
+     ]
+    },
+    {
+     "id": "SUMAR-tecnologia-08",
+     "subtema": "Auditoría algorítmica",
+     "cita": "Con la auditoría algorítmica, sistema de verificación con un contenido mínimo determinado reglamentariamente, la empresa deberá demostrar que el sistema de inteligencia artificial utilizado en el ámbito laboral no incorpora sesgos que puedan traducirse en discriminación.",
+     "pagina": 26,
+     "postura": "Obligar a las empresas a auditar sus algoritmos laborales para demostrar que no discriminan.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "algoritmos",
+      "inteligencia artificial",
+      "auditoría algorítmica",
+      "discriminación",
+      "derechos laborales"
+     ]
+    },
+    {
+     "id": "SUMAR-tecnologia-09",
+     "subtema": "Reconocimiento facial",
+     "cita": "debiendo la empresa abstenerse del uso de dispositivos de reconocimiento facial (o similares), que impliquen la captación de imágenes, incluidos datos biométricos, de la persona trabajadora dentro de su domicilio",
+     "pagina": 26,
+     "postura": "Prohibir el control por reconocimiento facial de los teletrabajadores en su domicilio.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "reconocimiento facial",
+      "datos biométricos",
+      "teletrabajo",
+      "intimidad",
+      "videovigilancia"
+     ]
+    },
+    {
+     "id": "SUMAR-tecnologia-10",
+     "subtema": "Concentración de medios",
+     "cita": "desarrollar una normativa destinada a impedir los monopolios en los medios de comunicación con la limitación del porcentaje de un mismo ámbito comunicacional (o en todos ellos), que puede tener un mismo grupo o empresa",
+     "pagina": 181,
+     "postura": "Limitar por ley la concentración de propiedad en los medios de comunicación.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "concentración de medios",
+      "medios de comunicación",
+      "monopolios",
+      "pluralismo",
+      "telecomunicaciones"
+     ]
+    }
+   ]
+  }
+ ]
+}
