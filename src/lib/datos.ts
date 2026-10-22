@@ -420,3 +420,28 @@ let cacheTemas: DatosTemas | undefined;
 // What the topic pages read: the committed data/temas.json, so the build does not regroup every
 // vote for each page. A test keeps it equal to datosTemas().
 export const temas = (): DatosTemas => (cacheTemas ??= leer("data", "temas.json"));
+
+// ---------- Escáner político (/escaner) ----------
+// The 2023 manifestos of PP, PSOE, Sumar and Vox against the Pleno votes: literal quotes per topic,
+// each linked (blind AI judgement on the official bulletin text) to the votes that fulfil or
+// contradict it. Built by scripts/escaner.ts from docs/programas-2023/posiciones/ into
+// data/escaner.json. A party's vote there is the majority of the deputies elected on its 2023 list.
+export type VotoEscaner = "S" | "N" | "A" | "D" | "";
+export type DatosEscaner = {
+  total: number; conTema: number; desde: string; hasta: string; amplias: number; tipos: Record<string, number>;
+  partidos: { id: string; nombre: string; art: string; full: string; color: string }[];
+  grupos: Record<string, string>;
+  temas: { id: string; nombre: string; votaciones: number; frases: number; programa: number; sentidos: Record<string, Record<string, number>> }[];
+  posiciones: Record<string, string>; cortas: Record<string, string>;
+  frases: { id: string; tema: string; partido: string; cita: string; pagina: number; postura: string; subtema: string;
+    enlaces: { v: string; s: "apoya" | "contradice"; rel: string; motivo: string }[] }[];
+  votaciones: Record<string, {
+    fecha: string; tipo: string; titulo: string; url: string; aprobada: boolean; proponente: string;
+    si: number; no: number; abst: number; novota: number;
+    conteo: Record<string, Record<string, number>>; votos: Record<string, VotoEscaner>; porque: Record<string, string>;
+    noticias: { medio: string; titular: string; url: string; fecha: string }[];
+  }>;
+};
+
+let cacheEscaner: DatosEscaner | undefined;
+export const escaner = (): DatosEscaner => (cacheEscaner ??= leer("data", "escaner.json"));
