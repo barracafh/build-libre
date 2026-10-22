@@ -44,6 +44,9 @@ export function PaginaTema({ slug }: { slug: string }) {
           />
         }
       />
+      <p className="max-w-[72ch] text-sm text-muted-foreground">
+        Instantánea del {fecha(d.instantanea.fecha)}, commit {d.instantanea.commit.slice(0, 7)}.
+      </p>
     </main>
   );
 }
