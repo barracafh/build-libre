@@ -85,7 +85,7 @@ export function FichaGrupo({ iniciativas, partidos, codigo, elegir, filtrar, abr
                               }`,
                             })
                           }
-                          className="min-h-8 min-w-8 rounded px-1 underline underline-offset-2 hover:bg-muted focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none"
+                          className="min-h-11 min-w-11 rounded px-1 underline underline-offset-2 hover:bg-muted focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none"
                         >
                           {n}
                         </button>

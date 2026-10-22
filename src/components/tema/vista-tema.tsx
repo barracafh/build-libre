@@ -55,7 +55,7 @@ export function VistaTema({ iniciativas, partidos }: { iniciativas: Iniciativa[]
       </ul>
 
       <section id="matriz" aria-labelledby="h-matriz" className="flex scroll-mt-4 flex-col gap-3">
-        <h2 id="h-matriz" className="text-xl lg:text-2xl">
+        <h2 id="h-matriz" tabIndex={-1} className="text-xl lg:text-2xl">
           Cómo votó cada grupo en cada iniciativa
         </h2>
         <p className="max-w-[72ch] text-(--text-secondary)">
@@ -72,7 +72,12 @@ export function VistaTema({ iniciativas, partidos }: { iniciativas: Iniciativa[]
               </span>
               <button
                 type="button"
-                onClick={() => setFiltro(null)}
+                aria-label={`Quitar filtro: ${filtro.texto}`}
+                onClick={() => {
+                  // The button goes away with the filter: keep focus at the top of the results.
+                  document.getElementById("h-matriz")?.focus();
+                  setFiltro(null);
+                }}
                 className="min-h-11 rounded-full border border-(--muted-foreground) bg-background px-4 focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none"
               >
                 Quitar filtro ×
