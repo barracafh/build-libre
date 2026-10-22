@@ -1,0 +1,316 @@
+{
+ "party": "ERC",
+ "pages": 132,
+ "language": "ca",
+ "categories": [
+  {
+   "title": "Portada, índex i presentació (Portada, índice y presentación)",
+   "pages": [
+    1,
+    6
+   ],
+   "words": 1897,
+   "topics": [],
+   "note": "Portada, índice del programa y presentación de su estructura."
+  },
+  {
+   "title": "I. Compromís en defensa de Catalunya (Compromiso en defensa de Cataluña)",
+   "pages": [
+    7,
+    8
+   ],
+   "words": 1150,
+   "topics": [
+    "territorial",
+    "democracia"
+   ],
+   "note": "Relato frente a la derecha y compromiso de defender Cataluña en Madrid."
+  },
+  {
+   "title": "1. Monarquia o República: República Catalana i democràcia (Monarquía o República: República catalana y democracia)",
+   "pages": [
+    9,
+    11
+   ],
+   "words": 1616,
+   "topics": [
+    "territorial",
+    "democracia"
+   ],
+   "note": "Crítica al régimen del 78, autodeterminación y República Catalana."
+  },
+  {
+   "title": "L'Europa i el món dels pobles i els drets (La Europa y el mundo de los pueblos y los derechos)",
+   "pages": [
+    12,
+    14
+   ],
+   "words": 1501,
+   "topics": [
+    "exteriores"
+   ],
+   "note": "Unión Europea, gobernanza global y acción exterior catalana."
+  },
+  {
+   "title": "2. Repressió o llibertat: drets, antifeixisme i justícia (Represión o libertad: derechos, antifascismo y justicia)",
+   "pages": [
+    15,
+    21
+   ],
+   "words": 3627,
+   "topics": [
+    "justicia",
+    "democracia"
+   ],
+   "note": "Libertades civiles, lucha antifascista, represión y reforma de la justicia."
+  },
+  {
+   "title": "Administracions públiques (Administraciones públicas)",
+   "pages": [
+    22,
+    24
+   ],
+   "words": 1564,
+   "topics": [
+    "democracia",
+    "territorial"
+   ],
+   "note": "Función pública, transparencia y competencias de las administraciones catalanas."
+  },
+  {
+   "title": "Seguretat ciutadana (Seguridad ciudadana)",
+   "pages": [
+    25,
+    27
+   ],
+   "words": 1677,
+   "topics": [
+    "seguridad"
+   ],
+   "note": "Modelo policial, Mossos d'Esquadra y ley mordaza."
+  },
+  {
+   "title": "Cooperació (Cooperación)",
+   "pages": [
+    28,
+    30
+   ],
+   "words": 1568,
+   "topics": [
+    "exteriores"
+   ],
+   "note": "Cooperación internacional al desarrollo y solidaridad."
+  },
+  {
+   "title": "Laïcitat i memòria (Laicidad y memoria)",
+   "pages": [
+    31,
+    35
+   ],
+   "words": 2312,
+   "topics": [
+    "democracia"
+   ],
+   "note": "Estado laico, acuerdos con la Iglesia y memoria democrática."
+  },
+  {
+   "title": "3. Discriminació o igualtat: ciutadania (Discriminación o igualdad: ciudadanía)",
+   "pages": [
+    36,
+    44
+   ],
+   "words": 4609,
+   "topics": [
+    "inmigracion",
+    "igualdad"
+   ],
+   "note": "Extranjería, derechos de personas migrantes, antirracismo y asilo."
+  },
+  {
+   "title": "Feminismes, LGTBI i joventut (Feminismos, LGTBI y juventud)",
+   "pages": [
+    45,
+    53
+   ],
+   "words": 4683,
+   "topics": [
+    "igualdad",
+    "social"
+   ],
+   "note": "Igualdad de género, violencia machista, derechos LGTBI y políticas de juventud."
+  },
+  {
+   "title": "4. Desigualtat o justícia social: drets socials (Desigualdad o justicia social: derechos sociales)",
+   "pages": [
+    54,
+    59
+   ],
+   "words": 3255,
+   "topics": [
+    "social"
+   ],
+   "note": "Pobreza, dependencia, servicios sociales y renta garantizada."
+  },
+  {
+   "title": "Salut i esports (Salud y deportes)",
+   "pages": [
+    60,
+    64
+   ],
+   "words": 2212,
+   "topics": [
+    "sanidad",
+    "cultura"
+   ],
+   "note": "Sanidad pública, salud mental y deporte, selecciones catalanas."
+  },
+  {
+   "title": "5. Dèficit o prosperitat: economia (Déficit o prosperidad: economía)",
+   "pages": [
+    65,
+    72
+   ],
+   "words": 4188,
+   "topics": [
+    "impuestos",
+    "territorial"
+   ],
+   "note": "Fiscalidad, déficit fiscal, financiación de Cataluña e infraestructuras económicas."
+  },
+  {
+   "title": "Agricultura, ramaderia, silvicultura i pesca (Agricultura, ganadería, silvicultura y pesca)",
+   "pages": [
+    73,
+    74
+   ],
+   "words": 1135,
+   "topics": [
+    "campo"
+   ],
+   "note": "Sector primario, PAC, ganadería, bosques y pesca."
+  },
+  {
+   "title": "Empresa, consum, comerç i turisme (Empresa, consumo, comercio y turismo)",
+   "pages": [
+    75,
+    83
+   ],
+   "words": 4406,
+   "topics": [
+    "empleo",
+    "social",
+    "impuestos"
+   ],
+   "note": "Pymes, derechos de consumidores, comercio de proximidad y turismo."
+  },
+  {
+   "title": "Recerca i societat digital (Investigación y sociedad digital)",
+   "pages": [
+    84,
+    87
+   ],
+   "words": 1962,
+   "topics": [
+    "tecnologia"
+   ],
+   "note": "I+D+i civil, transferencia de conocimiento, digitalización y espionaje Pegasus."
+  },
+  {
+   "title": "6. Precarietat o treball digne: treball, autònoms i economia social (Precariedad o trabajo digno: trabajo, autónomos y economía social)",
+   "pages": [
+    88,
+    94
+   ],
+   "words": 3645,
+   "topics": [
+    "empleo"
+   ],
+   "note": "Salarios, reforma laboral, autónomos y economía social y solidaria."
+  },
+  {
+   "title": "Pensions (Pensiones)",
+   "pages": [
+    95,
+    96
+   ],
+   "words": 1084,
+   "topics": [
+    "pensiones"
+   ],
+   "note": "Sistema público de pensiones y su gestión."
+  },
+  {
+   "title": "6. Especulació o sostenibilitat: medi ambient, energia i drets animals (Especulación o sostenibilidad: medio ambiente, energía y derechos animales)",
+   "pages": [
+    97,
+    106
+   ],
+   "words": 5047,
+   "topics": [
+    "clima",
+    "energia"
+   ],
+   "note": "Emergencia climática, transición energética, renovables y bienestar animal."
+  },
+  {
+   "title": "Territori (Territorio)",
+   "pages": [
+    107,
+    112
+   ],
+   "words": 3326,
+   "topics": [
+    "transporte",
+    "territorial"
+   ],
+   "note": "Infraestructuras, Rodalies, movilidad, agua y ordenación territorial."
+  },
+  {
+   "title": "Habitatge (Vivienda)",
+   "pages": [
+    113,
+    115
+   ],
+   "words": 1249,
+   "topics": [
+    "vivienda"
+   ],
+   "note": "Derecho a la vivienda, alquiler y lucha contra la especulación."
+  },
+  {
+   "title": "7. Uniformitat o diversitat: cultura, política lingüística i comunicació audiovisual (Uniformidad o diversidad: cultura, política lingüística y comunicación audiovisual)",
+   "pages": [
+    116,
+    125
+   ],
+   "words": 5544,
+   "topics": [
+    "cultura",
+    "territorial"
+   ],
+   "note": "Cultura, oficialidad del catalán y medios audiovisuales."
+  },
+  {
+   "title": "Educació i universitats (Educación y universidades)",
+   "pages": [
+    126,
+    131
+   ],
+   "words": 2205,
+   "topics": [
+    "educacion"
+   ],
+   "note": "Modelo de escuela catalana, equidad educativa y universidades."
+  },
+  {
+   "title": "Contraportada (Contraportada)",
+   "pages": [
+    132,
+    132
+   ],
+   "words": 15,
+   "topics": [],
+   "note": "Contraportada sin contenido programático."
+  }
+ ]
+}

@@ -1,0 +1,3204 @@
+[
+ {
+  "key": "P06-000",
+  "relaciones": [
+   {
+    "id": "124-7",
+    "relacion": "relacionada",
+    "motivo": "Amplía deducciones de autónomos en estimación directa; no toca módulos"
+   },
+   {
+    "id": "174-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-15",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: régimen de franquicia de IVA para autónomos; no elimina módulos"
+   },
+   {
+    "id": "174-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-61",
+    "relacion": "relacionada",
+    "motivo": "Medidas fiscales para autónomos; no aborda la estimación objetiva"
+   },
+   {
+    "id": "169-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-29",
+    "relacion": "relacionada",
+    "motivo": "Punto 22 no visible; PNL fiscal sobre autónomos y clase media"
+   }
+  ]
+ },
+ {
+  "key": "P06-001",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "avanza",
+    "motivo": "Punto 5: suprime privilegios fiscales de SOCIMI, no menciona SICAV"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-002",
+  "relaciones": [
+   {
+    "id": "98-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-003",
+  "relaciones": [
+   {
+    "id": "118-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-004",
+  "relaciones": [
+   {
+    "id": "169-45",
+    "relacion": "relacionada",
+    "motivo": "Texto de este punto no disponible; moción fiscal general, posible relación"
+   },
+   {
+    "id": "169-44",
+    "relacion": "relacionada",
+    "motivo": "Texto de este punto no disponible; moción fiscal general, posible relación"
+   },
+   {
+    "id": "169-43",
+    "relacion": "relacionada",
+    "motivo": "Texto de este punto no disponible; moción fiscal general, posible relación"
+   },
+   {
+    "id": "169-42",
+    "relacion": "relacionada",
+    "motivo": "Texto de este punto no disponible; moción fiscal general, posible relación"
+   },
+   {
+    "id": "169-41",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-39",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-38",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-005",
+  "relaciones": [
+   {
+    "id": "202-1",
+    "relacion": "cumple",
+    "motivo": "Insta a completar e implementar el Pacto Europeo de Migración y Asilo"
+   },
+   {
+    "id": "101-18",
+    "relacion": "cumple",
+    "motivo": "Punto 5: cumplir el Pacto de Migración y Asilo"
+   },
+   {
+    "id": "101-17",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: coordinación europea contra mafias, sin mención al Pacto"
+   },
+   {
+    "id": "101-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-15",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: política migratoria homologable con Europa"
+   },
+   {
+    "id": "101-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-63",
+    "relacion": "relacionada",
+    "motivo": "Reparto de menores migrantes; cita el Pacto en la motivación"
+   },
+   {
+    "id": "166-3",
+    "relacion": "relacionada",
+    "motivo": "Invoca el Pacto para rechazar la regularización masiva"
+   }
+  ]
+ },
+ {
+  "key": "P06-006",
+  "relaciones": [
+   {
+    "id": "36-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-22",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-21",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-007",
+  "relaciones": [
+   {
+    "id": "198-1",
+    "relacion": "contradice",
+    "motivo": "Pide retorno de todos los menores no acompañados y paralizar su reparto"
+   },
+   {
+    "id": "60-7",
+    "relacion": "relacionada",
+    "motivo": "Pide publicar datos del registro de menores no acompañados"
+   },
+   {
+    "id": "106-16",
+    "relacion": "relacionada",
+    "motivo": "Tramitar como ley el RDL sobre menores en contingencias migratorias"
+   },
+   {
+    "id": "106-15",
+    "relacion": "avanza",
+    "motivo": "RDL de garantía del interés superior de la infancia migrante"
+   },
+   {
+    "id": "95-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "91-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "63-3",
+    "relacion": "contradice",
+    "motivo": "Punto 6: devolución de todos los menores no acompañados"
+   }
+  ]
+ },
+ {
+  "key": "P06-008",
+  "relaciones": [
+   {
+    "id": "202-1",
+    "relacion": "cumple",
+    "motivo": "Implementación urgente del Pacto Europeo de Migración y Asilo"
+   },
+   {
+    "id": "166-3",
+    "relacion": "relacionada",
+    "motivo": "Invoca el Pacto para rechazar la regularización"
+   },
+   {
+    "id": "101-18",
+    "relacion": "cumple",
+    "motivo": "Punto 5: cumplir el Pacto de Migración y Asilo"
+   },
+   {
+    "id": "101-17",
+    "relacion": "avanza",
+    "motivo": "Punto 4: coordinación con autoridades europeas frente a mafias"
+   },
+   {
+    "id": "101-16",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: Frontex y plan de rutas del Mediterráneo y Atlántico"
+   },
+   {
+    "id": "101-15",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: política migratoria homologable con Europa"
+   },
+   {
+    "id": "101-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-63",
+    "relacion": "relacionada",
+    "motivo": "Reparto de menores; menciona mecanismos de solidaridad del Pacto"
+   }
+  ]
+ },
+ {
+  "key": "P06-009",
+  "relaciones": [
+   {
+    "id": "36-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: suspender cooperación con países que no colaboren"
+   },
+   {
+    "id": "36-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: endurecer penas a mafias, sin cooperación con África"
+   },
+   {
+    "id": "36-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-22",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-21",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-010",
+  "relaciones": [
+   {
+    "id": "36-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: suspender cooperación con países que no colaboren"
+   },
+   {
+    "id": "36-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: lista de países seguros"
+   },
+   {
+    "id": "36-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: subvenciones a ONG y penas a mafias"
+   },
+   {
+    "id": "36-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: mensaje de que nunca regularizarán su situación"
+   },
+   {
+    "id": "36-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: acabar con el efecto llamada"
+   },
+   {
+    "id": "36-4",
+    "relacion": "cumple",
+    "motivo": "Punto 1: expulsión inmediata de todos los que entren ilegalmente"
+   },
+   {
+    "id": "36-22",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-21",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-011",
+  "relaciones": [
+   {
+    "id": "91-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-012",
+  "relaciones": [
+   {
+    "id": "95-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "91-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-17",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-013",
+  "relaciones": [
+   {
+    "id": "198-1",
+    "relacion": "relacionada",
+    "motivo": "Exige pruebas de edad antes de trasladar menores, sin métodos no invasivos"
+   },
+   {
+    "id": "60-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-15",
+    "relacion": "relacionada",
+    "motivo": "RDL sobre menores migrantes en contingencias extraordinarias"
+   },
+   {
+    "id": "91-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "95-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-16",
+    "relacion": "relacionada",
+    "motivo": "Tramitar como ley el RDL sobre menores migrantes"
+   },
+   {
+    "id": "63-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-014",
+  "relaciones": [
+   {
+    "id": "60-7",
+    "relacion": "relacionada",
+    "motivo": "Refuerza cumplimiento de acuerdos migratorios con terceros países"
+   },
+   {
+    "id": "36-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: condiciona cooperación a colaboración en control migratorio"
+   },
+   {
+    "id": "36-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: lista de países seguros incluyendo Marruecos y Argelia"
+   },
+   {
+    "id": "36-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-22",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-015",
+  "relaciones": [
+   {
+    "id": "85-6",
+    "relacion": "cumple",
+    "motivo": "Puntos 4 y 7: sin ayudas a irregulares ni subvenciones a ONG"
+   },
+   {
+    "id": "60-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "63-3",
+    "relacion": "avanza",
+    "motivo": "Punto 5: eliminar subvenciones a ONG que faciliten la inmigración ilegal"
+   },
+   {
+    "id": "166-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-7",
+    "relacion": "avanza",
+    "motivo": "Punto 4: eliminar subvenciones a ONG que faciliten inmigración ilegal"
+   },
+   {
+    "id": "36-6",
+    "relacion": "avanza",
+    "motivo": "Punto 3: mensaje de que no recibirán ninguna ayuda pública"
+   }
+  ]
+ },
+ {
+  "key": "P06-016",
+  "relaciones": [
+   {
+    "id": "36-9",
+    "relacion": "avanza",
+    "motivo": "Punto 6: presionar a países que no colaboran en retornos"
+   },
+   {
+    "id": "36-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: lista de países seguros para denegar protección"
+   },
+   {
+    "id": "36-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: subvenciones a ONG y penas a mafias"
+   },
+   {
+    "id": "36-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: mensaje de no regularización ni ayudas"
+   },
+   {
+    "id": "36-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: acabar con el efecto llamada"
+   },
+   {
+    "id": "36-4",
+    "relacion": "avanza",
+    "motivo": "Punto 1: expulsión inmediata de irregulares; no aborda delincuentes"
+   },
+   {
+    "id": "36-22",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-21",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-017",
+  "relaciones": [
+   {
+    "id": "92-2",
+    "relacion": "cumple",
+    "motivo": "Proposición para impedir el empadronamiento de inmigrantes ilegales"
+   },
+   {
+    "id": "60-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-6",
+    "relacion": "avanza",
+    "motivo": "Punto 3: evitar fraude en empadronamiento de inmigrantes ilegales"
+   },
+   {
+    "id": "36-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-018",
+  "relaciones": [
+   {
+    "id": "202-1",
+    "relacion": "relacionada",
+    "motivo": "Procedimientos fronterizos del Pacto, no plataformas externas"
+   },
+   {
+    "id": "166-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-63",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-18",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: cumplir el Pacto de Migración y Asilo"
+   },
+   {
+    "id": "101-17",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: coordinación europea en materia migratoria"
+   },
+   {
+    "id": "101-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-019",
+  "relaciones": [
+   {
+    "id": "60-7",
+    "relacion": "cumple",
+    "motivo": "Colaboración de Frontex y más agentes en control de flujos"
+   },
+   {
+    "id": "101-18",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: cumplir el Pacto de Migración y Asilo"
+   },
+   {
+    "id": "101-17",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: coordinación europea contra mafias"
+   },
+   {
+    "id": "101-16",
+    "relacion": "cumple",
+    "motivo": "Punto 3: despliegue de Frontex en la ruta canaria"
+   },
+   {
+    "id": "101-15",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: política migratoria ordenada"
+   },
+   {
+    "id": "101-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "63-3",
+    "relacion": "avanza",
+    "motivo": "Misión marítima y defensa de fronteras, sin mención a Frontex"
+   },
+   {
+    "id": "202-1",
+    "relacion": "relacionada",
+    "motivo": "Recursos para triaje y procedimientos en frontera del Pacto"
+   }
+  ]
+ },
+ {
+  "key": "P06-020",
+  "relaciones": [
+   {
+    "id": "85-6",
+    "relacion": "cumple",
+    "motivo": "Punto 6: expulsar a inmigrantes legales con delitos graves o reiterados"
+   },
+   {
+    "id": "166-3",
+    "relacion": "cumple",
+    "motivo": "Punto 2: expulsión de extranjeros por delitos graves o reincidentes"
+   },
+   {
+    "id": "63-3",
+    "relacion": "cumple",
+    "motivo": "Punto 4: expulsar a inmigrantes legales con delitos graves o reiterados"
+   },
+   {
+    "id": "169-56",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley de extranjería; contenido no visible"
+   },
+   {
+    "id": "169-7",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley de extranjería; contenido no visible"
+   },
+   {
+    "id": "169-6",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley de extranjería; contenido no visible"
+   },
+   {
+    "id": "169-3",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley de extranjería; contenido no visible"
+   },
+   {
+    "id": "169-5",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a ley de extranjería; contenido no visible"
+   }
+  ]
+ },
+ {
+  "key": "P06-021",
+  "relaciones": [
+   {
+    "id": "98-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: competencias estatales sobre permisos, sin simplificación"
+   },
+   {
+    "id": "98-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-7",
+    "relacion": "avanza",
+    "motivo": "Reforzar personal de oficinas de extranjería y asilo"
+   },
+   {
+    "id": "166-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-022",
+  "relaciones": [
+   {
+    "id": "60-7",
+    "relacion": "relacionada",
+    "motivo": "Recursos urgentes para servicios de acogida, sin sanidad"
+   },
+   {
+    "id": "91-3",
+    "relacion": "avanza",
+    "motivo": "Financiación de la atención sanitaria a migrantes llegados a Canarias"
+   },
+   {
+    "id": "95-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-6",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-023",
+  "relaciones": [
+   {
+    "id": "60-7",
+    "relacion": "relacionada",
+    "motivo": "Control de flujos con Frontex y fuerzas de seguridad, sin bloqueo naval"
+   },
+   {
+    "id": "91-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-16",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: despliegue de Frontex en la ruta canaria"
+   },
+   {
+    "id": "101-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-024",
+  "relaciones": [
+   {
+    "id": "60-7",
+    "relacion": "relacionada",
+    "motivo": "Pide explicar programas de migración circular, no ampliarlos"
+   },
+   {
+    "id": "166-3",
+    "relacion": "relacionada",
+    "motivo": "Rechaza regularización masiva; no trata vías legales"
+   },
+   {
+    "id": "36-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-025",
+  "relaciones": [
+   {
+    "id": "166-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-026",
+  "relaciones": [
+   {
+    "id": "202-1",
+    "relacion": "relacionada",
+    "motivo": "Aplicar el Pacto; sin corredores humanitarios ni reasentamiento"
+   },
+   {
+    "id": "166-3",
+    "relacion": "relacionada",
+    "motivo": "Invoca el Pacto para rechazar la regularización"
+   },
+   {
+    "id": "56-63",
+    "relacion": "relacionada",
+    "motivo": "Reparto de menores; cita mecanismos obligatorios de ayuda del Pacto"
+   },
+   {
+    "id": "101-18",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: cumplir el Pacto de Migración y Asilo"
+   },
+   {
+    "id": "101-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-027",
+  "relaciones": [
+   {
+    "id": "131-1",
+    "relacion": "contradice",
+    "motivo": "Restringe la regularización por arraigo de inmigrantes"
+   },
+   {
+    "id": "106-11",
+    "relacion": "contradice",
+    "motivo": "Punto 2: prioridad nacional en la contratación laboral"
+   },
+   {
+    "id": "85-6",
+    "relacion": "contradice",
+    "motivo": "Deroga el reglamento de extranjería y pide expulsiones"
+   },
+   {
+    "id": "166-3",
+    "relacion": "relacionada",
+    "motivo": "Rechaza la regularización masiva sin requisitos"
+   },
+   {
+    "id": "56-63",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-028",
+  "relaciones": [
+   {
+    "id": "198-1",
+    "relacion": "avanza",
+    "motivo": "Retorno de todos los menores no acompañados; no cierra centros"
+   },
+   {
+    "id": "63-3",
+    "relacion": "avanza",
+    "motivo": "Punto 6: devolución de todos los menores no acompañados"
+   },
+   {
+    "id": "85-6",
+    "relacion": "avanza",
+    "motivo": "Puntos 8 y 9: devolver menores y cerrar centros de acogida"
+   },
+   {
+    "id": "60-7",
+    "relacion": "relacionada",
+    "motivo": "Publicar datos del registro de menores no acompañados"
+   },
+   {
+    "id": "36-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-6",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-029",
+  "relaciones": [
+   {
+    "id": "60-7",
+    "relacion": "relacionada",
+    "motivo": "Visados de tránsito para frenar solicitudes de asilo en aeropuertos"
+   },
+   {
+    "id": "98-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-030",
+  "relaciones": [
+   {
+    "id": "164-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: reducir plazos de procedimientos de expulsión"
+   },
+   {
+    "id": "164-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: expulsar condenados por delitos graves, no radicalización"
+   },
+   {
+    "id": "164-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: expulsar condenados por delitos graves, no radicalización"
+   },
+   {
+    "id": "164-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: expulsar condenados por delitos graves, no radicalización"
+   },
+   {
+    "id": "164-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: ejecutar órdenes de expulsión, sin mención a radicalización"
+   },
+   {
+    "id": "166-3",
+    "relacion": "relacionada",
+    "motivo": "Expulsión por delitos graves, sin mención a radicalización"
+   }
+  ]
+ },
+ {
+  "key": "P06-031",
+  "relaciones": [
+   {
+    "id": "60-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-032",
+  "relaciones": [
+   {
+    "id": "131-1",
+    "relacion": "avanza",
+    "motivo": "Restringe la regularización por arraigo, no la suprime"
+   },
+   {
+    "id": "166-3",
+    "relacion": "avanza",
+    "motivo": "Punto 1: renunciar a la regularización masiva"
+   },
+   {
+    "id": "85-6",
+    "relacion": "avanza",
+    "motivo": "Deroga reglamento que flexibiliza el arraigo; sin ayudas a irregulares"
+   },
+   {
+    "id": "60-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-6",
+    "relacion": "avanza",
+    "motivo": "Punto 3: mensaje de que nunca podrán regularizar su situación"
+   }
+  ]
+ },
+ {
+  "key": "P06-033",
+  "relaciones": [
+   {
+    "id": "106-11",
+    "relacion": "relacionada",
+    "motivo": "Retorno de talento español y homologación rigurosa, no inmigración cualificada"
+   },
+   {
+    "id": "60-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "132-15",
+    "relacion": "relacionada",
+    "motivo": "Moción sobre política migratoria; texto no disponible"
+   },
+   {
+    "id": "101-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-034",
+  "relaciones": [
+   {
+    "id": "60-7",
+    "relacion": "avanza",
+    "motivo": "Más control de flujos irregulares con Frontex y agentes"
+   },
+   {
+    "id": "197-1",
+    "relacion": "relacionada",
+    "motivo": "Incluir lucha contra inmigración ilegal en Defensa; nada sobre salvar vidas"
+   },
+   {
+    "id": "98-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: control de flujos y fronteras"
+   },
+   {
+    "id": "98-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-035",
+  "relaciones": [
+   {
+    "id": "101-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-036",
+  "relaciones": [
+   {
+    "id": "166-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "92-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "95-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-037",
+  "relaciones": [
+   {
+    "id": "106-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: homologación sanitaria con control exhaustivo, no acelerada"
+   },
+   {
+    "id": "131-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-038",
+  "relaciones": [
+   {
+    "id": "63-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-039",
+  "relaciones": [
+   {
+    "id": "46-21",
+    "relacion": "relacionada",
+    "motivo": "Enmienda de texto alternativo a ILP de regularización; contenido no visible"
+   },
+   {
+    "id": "166-3",
+    "relacion": "contradice",
+    "motivo": "Punto 1: renunciar a la regularización masiva"
+   },
+   {
+    "id": "131-1",
+    "relacion": "contradice",
+    "motivo": "Restringe la regularización por arraigo"
+   },
+   {
+    "id": "85-6",
+    "relacion": "contradice",
+    "motivo": "Deroga el reglamento de extranjería y pide expulsiones"
+   },
+   {
+    "id": "60-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-040",
+  "relaciones": [
+   {
+    "id": "60-7",
+    "relacion": "avanza",
+    "motivo": "Emergencia para contratar recursos para servicios de acogida desbordados"
+   },
+   {
+    "id": "98-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-041",
+  "relaciones": [
+   {
+    "id": "36-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: cooperación con países de origen condicionada"
+   },
+   {
+    "id": "36-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: países seguros de origen de las mafias"
+   },
+   {
+    "id": "36-7",
+    "relacion": "avanza",
+    "motivo": "Punto 4: endurecer penas contra mafias, no en origen"
+   },
+   {
+    "id": "36-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-22",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-21",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-042",
+  "relaciones": [
+   {
+    "id": "131-1",
+    "relacion": "contradice",
+    "motivo": "Restringe el arraigo y critica la reforma del reglamento de extranjería"
+   },
+   {
+    "id": "166-3",
+    "relacion": "relacionada",
+    "motivo": "Rechaza la regularización masiva sin requisitos"
+   },
+   {
+    "id": "101-18",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: cumplir el marco europeo de migración"
+   },
+   {
+    "id": "101-17",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: coordinación europea contra mafias"
+   },
+   {
+    "id": "101-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-15",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: política migratoria ordenada según acuerdo de un grupo"
+   },
+   {
+    "id": "101-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-043",
+  "relaciones": [
+   {
+    "id": "11-4",
+    "relacion": "avanza",
+    "motivo": "Punto 2: vetar indultos a cargos públicos por delitos en el ejercicio"
+   },
+   {
+    "id": "11-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "76-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "38-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "44-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-044",
+  "relaciones": [
+   {
+    "id": "146-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "27-1",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la LOPJ; título truncado"
+   },
+   {
+    "id": "183-10",
+    "relacion": "avanza",
+    "motivo": "Punto 5: dotar a la Justicia de todos los medios personales necesarios"
+   },
+   {
+    "id": "154-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "186-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-045",
+  "relaciones": [
+   {
+    "id": "21-2",
+    "relacion": "avanza",
+    "motivo": "Proposición sobre jurisdicción universal; solo título disponible"
+   },
+   {
+    "id": "85-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: acudir al Tribunal Penal Internacional, no jurisdicción universal"
+   },
+   {
+    "id": "85-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "11-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "38-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "192-56",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-046",
+  "relaciones": [
+   {
+    "id": "11-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "44-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "76-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "50-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "11-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "50-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "167-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-22",
+    "relacion": "relacionada",
+    "motivo": "Penaliza terapias de conversión; no plan contra delitos de odio"
+   }
+  ]
+ },
+ {
+  "key": "P06-047",
+  "relaciones": [
+   {
+    "id": "196-15",
+    "relacion": "contradice",
+    "motivo": "Cambia la elección de vocales judiciales a elección por jueces"
+   },
+   {
+    "id": "24-2",
+    "relacion": "contradice",
+    "motivo": "Reforma para que los jueces elijan a los vocales judiciales"
+   },
+   {
+    "id": "26-15",
+    "relacion": "contradice",
+    "motivo": "Punto 2: vocales judiciales elegidos por jueces, fin del sistema actual"
+   },
+   {
+    "id": "52-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-41",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-39",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-38",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: suprimir el artículo 570 bis LOPJ"
+   }
+  ]
+ },
+ {
+  "key": "P06-048",
+  "relaciones": [
+   {
+    "id": "85-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "11-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-64",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-63",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "15-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-049",
+  "relaciones": [
+   {
+    "id": "162-2",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la LOTC sobre recurso previo y ejecución"
+   },
+   {
+    "id": "50-2",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la LOTC: recurso previo contra leyes orgánicas"
+   },
+   {
+    "id": "133-2",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la LOTC sobre conflictos competenciales"
+   },
+   {
+    "id": "85-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-050",
+  "relaciones": [
+   {
+    "id": "154-3",
+    "relacion": "cumple",
+    "motivo": "Punto 5: renunciar a atribuir la instrucción al Ministerio Fiscal"
+   },
+   {
+    "id": "52-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-41",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-39",
+    "relacion": "cumple",
+    "motivo": "Punto 4: mantener la instrucción en los jueces"
+   },
+   {
+    "id": "52-38",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-36",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: despolitización de la justicia"
+   }
+  ]
+ },
+ {
+  "key": "P06-051",
+  "relaciones": [
+   {
+    "id": "11-4",
+    "relacion": "avanza",
+    "motivo": "Punto 2: regulación del indulto que lo limite"
+   },
+   {
+    "id": "154-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "76-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "76-38",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "76-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "76-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "76-31",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-052",
+  "relaciones": [
+   {
+    "id": "50-2",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la LOTC sobre recurso previo, no renovación"
+   },
+   {
+    "id": "162-2",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la LOTC sobre recurso previo y ejecución"
+   },
+   {
+    "id": "133-2",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la LOTC sobre conflictos competenciales"
+   },
+   {
+    "id": "196-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-053",
+  "relaciones": [
+   {
+    "id": "56-65",
+    "relacion": "relacionada",
+    "motivo": "Reforma de LOPJ y Estatuto Fiscal; no visible mandato del Fiscal General"
+   },
+   {
+    "id": "56-64",
+    "relacion": "relacionada",
+    "motivo": "Reforma de LOPJ y Estatuto Fiscal; no visible mandato del Fiscal General"
+   },
+   {
+    "id": "54-13",
+    "relacion": "relacionada",
+    "motivo": "Reforma de LOPJ y Estatuto Fiscal; no visible mandato del Fiscal General"
+   },
+   {
+    "id": "54-12",
+    "relacion": "relacionada",
+    "motivo": "Reforma de LOPJ y Estatuto Fiscal; no visible mandato del Fiscal General"
+   },
+   {
+    "id": "53-1",
+    "relacion": "relacionada",
+    "motivo": "Reforma de LOPJ y Estatuto Fiscal; no visible mandato del Fiscal General"
+   },
+   {
+    "id": "118-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: garantizar independencia del próximo fiscal general"
+   },
+   {
+    "id": "183-10",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: neutralidad del Ministerio Fiscal, sin reforma estructural"
+   }
+  ]
+ },
+ {
+  "key": "P06-054",
+  "relaciones": [
+   {
+    "id": "186-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "173-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-055",
+  "relaciones": [
+   {
+    "id": "196-15",
+    "relacion": "cumple",
+    "motivo": "Cambio del modelo para que jueces elijan a los vocales judiciales"
+   },
+   {
+    "id": "24-2",
+    "relacion": "cumple",
+    "motivo": "Reforma para que los jueces elijan a los doce vocales judiciales"
+   },
+   {
+    "id": "52-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-41",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-39",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-38",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: suprimir el artículo 570 bis LOPJ"
+   },
+   {
+    "id": "52-37",
+    "relacion": "cumple",
+    "motivo": "Punto 2: los doce vocales judiciales elegidos por jueces"
+   }
+  ]
+ },
+ {
+  "key": "P06-056",
+  "relaciones": [
+   {
+    "id": "183-10",
+    "relacion": "avanza",
+    "motivo": "Punto 2: solo los doce vocales judiciales elegidos por jueces"
+   },
+   {
+    "id": "196-15",
+    "relacion": "avanza",
+    "motivo": "Elección de vocales judiciales por jueces, no todos los vocales"
+   },
+   {
+    "id": "154-3",
+    "relacion": "avanza",
+    "motivo": "Punto 7: doce vocales judiciales elegidos por jueces"
+   },
+   {
+    "id": "52-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-41",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-39",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-38",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: suprimir el artículo 570 bis LOPJ"
+   }
+  ]
+ },
+ {
+  "key": "P06-057",
+  "relaciones": [
+   {
+    "id": "154-3",
+    "relacion": "contradice",
+    "motivo": "Punto 5: renunciar a atribuir la instrucción al Ministerio Fiscal"
+   },
+   {
+    "id": "52-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-41",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-39",
+    "relacion": "contradice",
+    "motivo": "Punto 4: mantener la instrucción en los jueces"
+   },
+   {
+    "id": "52-38",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-36",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-058",
+  "relaciones": [
+   {
+    "id": "146-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "27-1",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la LOPJ; título truncado"
+   },
+   {
+    "id": "183-10",
+    "relacion": "avanza",
+    "motivo": "Punto 5: dotar de todos los medios personales necesarios"
+   },
+   {
+    "id": "118-18",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas de totalidad al proyecto de ampliación de carreras judicial y fiscal"
+   },
+   {
+    "id": "186-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-16",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: desistir de modificar el acceso a la carrera judicial"
+   },
+   {
+    "id": "82-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-059",
+  "relaciones": [
+   {
+    "id": "38-2",
+    "relacion": "relacionada",
+    "motivo": "Prohíbe el proxenetismo; no ley integral contra la trata"
+   },
+   {
+    "id": "192-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "192-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "11-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-060",
+  "relaciones": [
+   {
+    "id": "165-2",
+    "relacion": "contradice",
+    "motivo": "Amplía los supuestos de prisión permanente revisable"
+   },
+   {
+    "id": "107-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "11-2",
+    "relacion": "contradice",
+    "motivo": "Introduce prisión permanente revisable para violaciones conjuntas"
+   },
+   {
+    "id": "169-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "38-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "44-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "167-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "192-56",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-061",
+  "relaciones": [
+   {
+    "id": "50-1",
+    "relacion": "relacionada",
+    "motivo": "Redefine competencias de la Audiencia Nacional en crimen organizado"
+   },
+   {
+    "id": "154-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "27-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-13",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-062",
+  "relaciones": [
+   {
+    "id": "102-2",
+    "relacion": "contradice",
+    "motivo": "Garantiza secciones especializadas en violencia sobre la mujer"
+   },
+   {
+    "id": "186-2",
+    "relacion": "relacionada",
+    "motivo": "Refuerza el Instituto de las Mujeres y su papel procesal"
+   },
+   {
+    "id": "118-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-22",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-063",
+  "relaciones": [
+   {
+    "id": "146-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "76-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "76-38",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "76-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "76-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "76-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "76-30",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-064",
+  "relaciones": [
+   {
+    "id": "50-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-65",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-64",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "54-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "54-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "53-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-065",
+  "relaciones": [
+   {
+    "id": "44-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "107-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "167-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "192-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "192-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "11-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "38-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-066",
+  "relaciones": [
+   {
+    "id": "154-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "102-2",
+    "relacion": "relacionada",
+    "motivo": "Organización de secciones de violencia en Tribunales de Instancia"
+   },
+   {
+    "id": "76-40",
+    "relacion": "avanza",
+    "motivo": "Ley de eficiencia del servicio público de justicia; no incluye la digital"
+   },
+   {
+    "id": "76-38",
+    "relacion": "avanza",
+    "motivo": "Ley de eficiencia del servicio público de justicia; no incluye la digital"
+   },
+   {
+    "id": "76-33",
+    "relacion": "avanza",
+    "motivo": "Ley de eficiencia del servicio público de justicia; no incluye la digital"
+   },
+   {
+    "id": "76-32",
+    "relacion": "avanza",
+    "motivo": "Ley de eficiencia del servicio público de justicia; no incluye la digital"
+   },
+   {
+    "id": "76-31",
+    "relacion": "avanza",
+    "motivo": "Ley de eficiencia del servicio público de justicia; no incluye la digital"
+   },
+   {
+    "id": "76-30",
+    "relacion": "avanza",
+    "motivo": "Ley de eficiencia del servicio público de justicia; no incluye la digital"
+   }
+  ]
+ },
+ {
+  "key": "P06-067",
+  "relaciones": [
+   {
+    "id": "186-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "173-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "76-40",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-068",
+  "relaciones": [
+   {
+    "id": "146-57",
+    "relacion": "relacionada",
+    "motivo": "Reforma de los MASC para eficiencia, sin más jueces"
+   },
+   {
+    "id": "183-10",
+    "relacion": "avanza",
+    "motivo": "Punto 5: dotar de medios personales, materiales y tecnológicos"
+   },
+   {
+    "id": "186-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-069",
+  "relaciones": [
+   {
+    "id": "154-3",
+    "relacion": "contradice",
+    "motivo": "Punto 5: retirar el Proyecto de Ley Orgánica de Enjuiciamiento Criminal"
+   },
+   {
+    "id": "59-2",
+    "relacion": "relacionada",
+    "motivo": "Multirreincidencia; modifica parcialmente la LECrim"
+   },
+   {
+    "id": "159-23",
+    "relacion": "relacionada",
+    "motivo": "Multirreincidencia; modifica parcialmente la LECrim"
+   },
+   {
+    "id": "159-2",
+    "relacion": "relacionada",
+    "motivo": "Enmienda a ley de multirreincidencia que modifica la LECrim"
+   },
+   {
+    "id": "159-1",
+    "relacion": "relacionada",
+    "motivo": "Enmienda a ley de multirreincidencia que modifica la LECrim"
+   },
+   {
+    "id": "159-3",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a ley de multirreincidencia que modifica la LECrim"
+   },
+   {
+    "id": "159-22",
+    "relacion": "relacionada",
+    "motivo": "Dictamen de ley de multirreincidencia que modifica la LECrim"
+   },
+   {
+    "id": "169-56",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la antigua ley de multirreincidencia"
+   }
+  ]
+ },
+ {
+  "key": "P06-070",
+  "relaciones": [
+   {
+    "id": "196-15",
+    "relacion": "contradice",
+    "motivo": "Sustituye la elección parlamentaria de vocales judiciales"
+   },
+   {
+    "id": "24-2",
+    "relacion": "contradice",
+    "motivo": "Reforma para que los jueces elijan a los vocales judiciales"
+   },
+   {
+    "id": "26-15",
+    "relacion": "contradice",
+    "motivo": "Punto 2: vocales judiciales elegidos por jueces"
+   },
+   {
+    "id": "183-10",
+    "relacion": "contradice",
+    "motivo": "Punto 2: vocales judiciales elegidos por jueces"
+   },
+   {
+    "id": "154-3",
+    "relacion": "contradice",
+    "motivo": "Punto 7: vocales judiciales elegidos por jueces"
+   },
+   {
+    "id": "52-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-41",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-40",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-071",
+  "relaciones": [
+   {
+    "id": "102-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-072",
+  "relaciones": [
+   {
+    "id": "11-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "44-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "38-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "165-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "167-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "192-56",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-073",
+  "relaciones": [
+   {
+    "id": "11-4",
+    "relacion": "avanza",
+    "motivo": "Punto 2: regulación restrictiva del indulto, sin motivación"
+   },
+   {
+    "id": "186-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "102-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "107-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "59-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "119-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "44-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-23",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-074",
+  "relaciones": [
+   {
+    "id": "76-40",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la planta judicial en Tribunales de Instancia; juzgados de paz no visibles"
+   },
+   {
+    "id": "76-38",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la planta judicial en Tribunales de Instancia; juzgados de paz no visibles"
+   },
+   {
+    "id": "76-33",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la planta judicial en Tribunales de Instancia; juzgados de paz no visibles"
+   },
+   {
+    "id": "76-32",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la planta judicial en Tribunales de Instancia; juzgados de paz no visibles"
+   },
+   {
+    "id": "76-31",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la planta judicial en Tribunales de Instancia; juzgados de paz no visibles"
+   },
+   {
+    "id": "76-30",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la planta judicial en Tribunales de Instancia; juzgados de paz no visibles"
+   },
+   {
+    "id": "76-29",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la planta judicial en Tribunales de Instancia; juzgados de paz no visibles"
+   },
+   {
+    "id": "76-28",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la planta judicial en Tribunales de Instancia; juzgados de paz no visibles"
+   }
+  ]
+ },
+ {
+  "key": "P06-075",
+  "relaciones": [
+   {
+    "id": "26-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-57",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: excluir desahucios del requisito MASC, no okupación"
+   },
+   {
+    "id": "185-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-076",
+  "relaciones": [
+   {
+    "id": "107-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "44-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "167-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "192-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "192-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "11-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-22",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-077",
+  "relaciones": [
+   {
+    "id": "11-2",
+    "relacion": "cumple",
+    "motivo": "Endurece delitos sexuales y recupera distinción agresión/abuso de la LO 10/2022"
+   },
+   {
+    "id": "107-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-22",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "122-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-078",
+  "relaciones": [
+   {
+    "id": "154-3",
+    "relacion": "contradice",
+    "motivo": "Punto 5: retirar el Proyecto de Ley Orgánica de Enjuiciamiento Criminal"
+   },
+   {
+    "id": "52-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-41",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-39",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: el proyecto de LECrim debe mantener la instrucción judicial"
+   },
+   {
+    "id": "52-38",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-36",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-079",
+  "relaciones": [
+   {
+    "id": "165-2",
+    "relacion": "cumple",
+    "motivo": "Prisión permanente revisable para asesinato con ocultación del cadáver"
+   },
+   {
+    "id": "107-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "119-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "11-2",
+    "relacion": "relacionada",
+    "motivo": "Prisión permanente para violaciones conjuntas, no ocultación de cadáver"
+   },
+   {
+    "id": "191-22",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P06-080",
+  "relaciones": [
+   {
+    "id": "44-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "107-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "167-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "192-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "192-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "165-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "38-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ }
+]

@@ -1,0 +1,325 @@
+{
+ "party": "SUMAR",
+ "pages": 182,
+ "language": "es",
+ "categories": [
+  {
+   "title": "Portada e índice",
+   "pages": [
+    1,
+    5
+   ],
+   "words": 1092,
+   "topics": [],
+   "note": "Portada e índice general del programa"
+  },
+  {
+   "title": "Economía",
+   "pages": [
+    6,
+    22
+   ],
+   "words": 10766,
+   "topics": [
+    "empleo",
+    "impuestos",
+    "social"
+   ],
+   "note": "Empleo, inflación, industria, fiscalidad, protección social, Europa y consumo con derechos"
+  },
+  {
+   "title": "Trabajo decente. Mejorar la vida de las personas trabajadoras",
+   "pages": [
+    23,
+    35
+   ],
+   "words": 8688,
+   "topics": [
+    "empleo",
+    "social"
+   ],
+   "note": "Usos del tiempo, derechos laborales, autónomos, economía social, empleo público"
+  },
+  {
+   "title": "La transición ecológica justa, el desafío de nuestro tiempo",
+   "pages": [
+    36,
+    56
+   ],
+   "words": 12178,
+   "topics": [
+    "clima",
+    "energia"
+   ],
+   "note": "Crisis climática, renovables, agua, biodiversidad, economía circular, bienestar animal"
+  },
+  {
+   "title": "Por un mundo rural vivo y activo",
+   "pages": [
+    57,
+    71
+   ],
+   "words": 9004,
+   "topics": [
+    "campo",
+    "territorial",
+    "clima"
+   ],
+   "note": "Agricultura, ganadería, pesca, alimentación saludable y servicios en el medio rural"
+  },
+  {
+   "title": "Hábitat para la vida: Ciudades y pueblos habitables; Derecho a la vivienda",
+   "pages": [
+    72,
+    79
+   ],
+   "words": 5527,
+   "topics": [
+    "vivienda",
+    "territorial"
+   ],
+   "note": "Agenda urbana, vivienda pública, alquiler asequible, desahucios y regulación del mercado"
+  },
+  {
+   "title": "Movilidad sostenible",
+   "pages": [
+    80,
+    83
+   ],
+   "words": 2123,
+   "topics": [
+    "transporte",
+    "clima"
+   ],
+   "note": "Transporte público, ferrocarril y movilidad sostenible"
+  },
+  {
+   "title": "Políticas de bienestar y de cuidados",
+   "pages": [
+    84,
+    88
+   ],
+   "words": 2578,
+   "topics": [
+    "social"
+   ],
+   "note": "Introducción del bloque de bienestar; sistema de cuidados y dependencia"
+  },
+  {
+   "title": "El derecho a la salud",
+   "pages": [
+    89,
+    92
+   ],
+   "words": 2436,
+   "topics": [
+    "sanidad"
+   ],
+   "note": "Sanidad pública, atención primaria, salud mental"
+  },
+  {
+   "title": "Protección de los derechos de los niños y las niñas y de sus familias",
+   "pages": [
+    93,
+    96
+   ],
+   "words": 2312,
+   "topics": [
+    "social",
+    "educacion"
+   ],
+   "note": "Infancia, pobreza infantil, prestación por crianza, familias"
+  },
+  {
+   "title": "Envejecer con autonomía y seguridad",
+   "pages": [
+    97,
+    99
+   ],
+   "words": 1612,
+   "topics": [
+    "pensiones",
+    "social"
+   ],
+   "note": "Personas mayores, pensiones, autonomía y soledad no deseada"
+  },
+  {
+   "title": "Inclusión de personas con discapacidad",
+   "pages": [
+    100,
+    101
+   ],
+   "words": 885,
+   "topics": [
+    "social",
+    "igualdad"
+   ],
+   "note": "Derechos y accesibilidad de personas con discapacidad"
+  },
+  {
+   "title": "Un país para jóvenes",
+   "pages": [
+    102,
+    103
+   ],
+   "words": 1050,
+   "topics": [
+    "empleo",
+    "vivienda",
+    "educacion"
+   ],
+   "note": "Emancipación juvenil, empleo, vivienda y participación de los jóvenes"
+  },
+  {
+   "title": "Migraciones. Frenar el racismo y la xenofobia",
+   "pages": [
+    104,
+    105
+   ],
+   "words": 826,
+   "topics": [
+    "inmigracion",
+    "igualdad"
+   ],
+   "note": "Regularización, derechos de migrantes y lucha contra el racismo"
+  },
+  {
+   "title": "Feminismos e igualdad",
+   "pages": [
+    106,
+    116
+   ],
+   "words": 6547,
+   "topics": [
+    "igualdad"
+   ],
+   "note": "Feminismo del 99%, violencias machistas, derechos LGTBI+"
+  },
+  {
+   "title": "Democracia de calidad",
+   "pages": [
+    117,
+    122
+   ],
+   "words": 3174,
+   "topics": [
+    "democracia",
+    "territorial"
+   ],
+   "note": "Democratización, transparencia, buen gobierno y modelo territorial"
+  },
+  {
+   "title": "Un país más justo",
+   "pages": [
+    123,
+    135
+   ],
+   "words": 8791,
+   "topics": [
+    "justicia",
+    "seguridad",
+    "democracia"
+   ],
+   "note": "Modelo de justicia, seguridad y prevención, memoria democrática"
+  },
+  {
+   "title": "Una política exterior para cuidar la democracia y el planeta",
+   "pages": [
+    136,
+    142
+   ],
+   "words": 2950,
+   "topics": [
+    "exteriores",
+    "defensa"
+   ],
+   "note": "Política exterior, paz, derechos humanos y seguridad internacional"
+  },
+  {
+   "title": "Una Europa que proteja a las personas",
+   "pages": [
+    143,
+    146
+   ],
+   "words": 1986,
+   "topics": [
+    "exteriores"
+   ],
+   "note": "Reforma de la UE, Europa social y verde"
+  },
+  {
+   "title": "Una política de desarrollo a favor de la justicia global",
+   "pages": [
+    147,
+    148
+   ],
+   "words": 997,
+   "topics": [
+    "exteriores"
+   ],
+   "note": "Cooperación internacional al desarrollo"
+  },
+  {
+   "title": "Una política de movilidad humana con los derechos humanos en el centro",
+   "pages": [
+    149,
+    150
+   ],
+   "words": 786,
+   "topics": [
+    "inmigracion",
+    "exteriores"
+   ],
+   "note": "Asilo, refugio y política migratoria con derechos humanos"
+  },
+  {
+   "title": "Derecho a la educación y sistema educativo",
+   "pages": [
+    151,
+    158
+   ],
+   "words": 4030,
+   "topics": [
+    "educacion"
+   ],
+   "note": "Introducción del bloque educativo; escuela pública, FP, profesorado"
+  },
+  {
+   "title": "Universidad, ciencia e innovación",
+   "pages": [
+    159,
+    166
+   ],
+   "words": 4928,
+   "topics": [
+    "educacion",
+    "tecnologia"
+   ],
+   "note": "Universidad pública, precariedad investigadora, financiación de la ciencia"
+  },
+  {
+   "title": "Cultura y deporte",
+   "pages": [
+    167,
+    177
+   ],
+   "words": 7081,
+   "topics": [
+    "cultura"
+   ],
+   "note": "Política cultural, trabajo cultural, deporte para todas las personas"
+  },
+  {
+   "title": "Digitalización con derechos",
+   "pages": [
+    178,
+    182
+   ],
+   "words": 3183,
+   "topics": [
+    "tecnologia"
+   ],
+   "note": "Derechos digitales, inteligencia artificial, brecha y alfabetización digital"
+  }
+ ]
+}

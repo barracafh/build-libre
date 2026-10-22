@@ -1,0 +1,573 @@
+{
+ "party": "PSOE",
+ "promesas": [
+  {
+   "id": "PSOE-01",
+   "cita": "Ampliaremos hasta la renta media (37.800€) el umbral para acceder a las medidas de apoyo a los afectados por la subida de tipos de interés de las hipotecas: ampliación de crédito hasta 7 años y congelación de cuota de 1 año.",
+   "pagina": 32,
+   "resumen": "Elevar a 37.800 euros de renta el umbral para acogerse a las medidas de ampliación de plazo y congelación de cuota hipotecaria.",
+   "objeto": "umbral de renta del Código de Buenas Prácticas hipotecario",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "hipotecas",
+    "código de buenas prácticas",
+    "subida tipos de interés",
+    "deudores hipotecarios",
+    "congelación cuota",
+    "real decreto-ley"
+   ]
+  },
+  {
+   "id": "PSOE-02",
+   "cita": "Adoptaremos, fruto del diálogo con las entidades financieras del país, mejoras aplicables a todos los préstamos hipotecarios, dirigidas a facilitar la amortización anticipada de los créditos, la conversión de las hipotecas a tipo fijo, la restructuración de los préstamos hipotecarios o la solicitud de la dación en pago.",
+   "pagina": 32,
+   "resumen": "Acordar con la banca mejoras para todos los préstamos hipotecarios: amortización anticipada, paso a tipo fijo, reestructuración y dación en pago.",
+   "objeto": "condiciones de los préstamos hipotecarios",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "préstamos hipotecarios",
+    "dación en pago",
+    "amortización anticipada",
+    "hipoteca tipo fijo",
+    "entidades financieras",
+    "deudores hipotecarios"
+   ]
+  },
+  {
+   "id": "PSOE-03",
+   "cita": "Aprobaremos un plan estratégico para el impulso de la vivienda rural en zonas de reto demográfico.",
+   "pagina": 95,
+   "resumen": "Aprobar un plan estratégico de vivienda rural en zonas de reto demográfico.",
+   "objeto": "plan estratégico de vivienda rural",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "vivienda rural",
+    "reto demográfico",
+    "despoblación",
+    "plan estratégico vivienda",
+    "medio rural"
+   ]
+  },
+  {
+   "id": "PSOE-04",
+   "cita": "Desarrollaremos parques públicos de vivienda asequible y que fomenten el alquiler social.",
+   "pagina": 95,
+   "resumen": "Desarrollar parques públicos de vivienda asequible orientados al alquiler social en el medio rural.",
+   "objeto": "parques públicos de vivienda asequible rural",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "baja",
+   "palabras_clave": [
+    "vivienda pública",
+    "alquiler social",
+    "vivienda asequible",
+    "medio rural",
+    "parque público de vivienda"
+   ]
+  },
+  {
+   "id": "PSOE-05",
+   "cita": "Daremos continuidad al Bono Joven de Alquiler para que se convierta en una medida a largo plazo ampliando la financiación para llegar a toda la población joven.",
+   "pagina": 131,
+   "resumen": "Mantener el Bono Alquiler Joven como medida permanente y ampliar su financiación para cubrir a toda la población joven.",
+   "objeto": "Bono Alquiler Joven y su financiación",
+   "tipo": "presupuestaria",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "bono alquiler joven",
+    "alquiler",
+    "jóvenes",
+    "ayudas alquiler",
+    "emancipación",
+    "presupuestos"
+   ]
+  },
+  {
+   "id": "PSOE-06",
+   "cita": "Queremos construir 183.000 viviendas públicas para alquiler y garantizando que la mitad vaya destinada a jóvenes, ampliando la dotación y el número de receptores del Bono de Alquiler Joven.",
+   "pagina": 131,
+   "resumen": "Construir 183.000 viviendas públicas de alquiler, la mitad para jóvenes.",
+   "objeto": "183.000 viviendas públicas de alquiler",
+   "tipo": "resultado",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "vivienda pública",
+    "alquiler",
+    "183.000 viviendas",
+    "jóvenes",
+    "bono alquiler joven",
+    "parque público de vivienda"
+   ]
+  },
+  {
+   "id": "PSOE-07",
+   "cita": "Desarrollaremos y aplicaremos la nueva línea de avales del Instituto de Crédito Oficial (ICO) de 2.500 millones de euros para ayudar a los jóvenes menores de 35 años.",
+   "pagina": 226,
+   "resumen": "Aplicar una línea de avales ICO de 2.500 millones que cubra el 20% de la hipoteca de la primera vivienda de menores de 35 años.",
+   "objeto": "línea de avales ICO para hipotecas jóvenes",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "avales ICO",
+    "hipoteca jóvenes",
+    "primera vivienda",
+    "compra vivienda",
+    "jóvenes",
+    "aval 20%"
+   ]
+  },
+  {
+   "id": "PSOE-08",
+   "cita": "El 30% de las viviendas promovidas a través de cualquiera de las líneas del Plan de Vivienda para el Alquiler Asequible serán destinadas a jóvenes de entre 18 y 35 años.",
+   "pagina": 226,
+   "resumen": "Reservar el 30% de las viviendas del Plan de Vivienda para el Alquiler Asequible a jóvenes de 18 a 35 años.",
+   "objeto": "cuota juvenil del Plan de Alquiler Asequible",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "alquiler asequible",
+    "plan de vivienda",
+    "jóvenes",
+    "vivienda pública",
+    "reserva jóvenes"
+   ]
+  },
+  {
+   "id": "PSOE-09",
+   "cita": "Daremos ayudas directas para el acceso a la vivienda habitual en régimen cooperativo o en promociones de cohousing.",
+   "pagina": 226,
+   "resumen": "Conceder ayudas directas para acceder a vivienda habitual en cooperativas o promociones de cohousing.",
+   "objeto": "ayudas a vivienda cooperativa y cohousing",
+   "tipo": "presupuestaria",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "cooperativas de vivienda",
+    "cohousing",
+    "ayudas vivienda",
+    "jóvenes",
+    "plan estatal de vivienda"
+   ]
+  },
+  {
+   "id": "PSOE-10",
+   "cita": "Crearemos, en coordinación con los bancos, una cuenta de ahorro bonificada para la compra de una primera vivienda. Podrán abrirla jóvenes de hasta 39 años, y tanto los rendimientos que genere como las aportaciones anuales estarán exentas de tributación en el IRPF, con un límite anual 2.000 euros y un total de 30.000 euros.",
+   "pagina": 226,
+   "resumen": "Crear una cuenta ahorro vivienda para menores de 39 años con exención en IRPF de aportaciones y rendimientos, hasta 2.000 euros anuales y 30.000 totales.",
+   "objeto": "cuenta ahorro vivienda con exención en IRPF",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "cuenta ahorro vivienda",
+    "IRPF",
+    "deducción vivienda",
+    "primera vivienda",
+    "jóvenes",
+    "fiscalidad vivienda"
+   ]
+  },
+  {
+   "id": "PSOE-11",
+   "cita": "Desarrollaremos un plan de vivienda asequible dimensionada a la demanda no satisfecha de jóvenes y vulnerables, mediante la adquisición de suelo para construcción de viviendas de alquiler social",
+   "pagina": 226,
+   "resumen": "Aprobar un plan de vivienda asequible basado en la adquisición pública de suelo para viviendas de alquiler social.",
+   "objeto": "plan de vivienda asequible y adquisición de suelo",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "vivienda asequible",
+    "suelo público",
+    "alquiler social",
+    "jóvenes",
+    "plan de vivienda"
+   ]
+  },
+  {
+   "id": "PSOE-12",
+   "cita": "Reforzaremos las ayudas directas para el alquiler de vivienda habitual contempladas en los Planes Estatales de Vivienda.",
+   "pagina": 226,
+   "resumen": "Aumentar las ayudas directas al alquiler de vivienda habitual de los Planes Estatales de Vivienda.",
+   "objeto": "ayudas al alquiler del Plan Estatal de Vivienda",
+   "tipo": "presupuestaria",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "plan estatal de vivienda",
+    "ayudas alquiler",
+    "alquiler",
+    "vivienda habitual",
+    "presupuestos"
+   ]
+  },
+  {
+   "id": "PSOE-13",
+   "cita": "El objetivo será alcanzar el 20% de vivienda pública en régimen de alquiler en los próximos años, situándonos en la media de viviendas que disponen países de la Unión Europea como Francia, Países Bajos o Alemania.",
+   "pagina": 222,
+   "resumen": "Alcanzar un 20% de vivienda pública en alquiler en los próximos años.",
+   "objeto": "porcentaje de vivienda pública de alquiler",
+   "tipo": "resultado",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "vivienda pública",
+    "alquiler social",
+    "parque público de vivienda",
+    "20% vivienda pública",
+    "ley vivienda"
+   ]
+  },
+  {
+   "id": "PSOE-14",
+   "cita": "50.000 viviendas promovidas directamente por el Estado a través de la Entidad Pública Estatal de Suelo (Sepes), de las que 30.000 pertenecen a actuaciones en diferentes desarrollos, y 20.000 corresponden a suelos provenientes de 50 antiguas instalaciones militares.",
+   "pagina": 222,
+   "resumen": "Promover 50.000 viviendas de alquiler asequible a través de Sepes, 20.000 en suelos de antiguas instalaciones militares.",
+   "objeto": "viviendas promovidas por Sepes",
+   "tipo": "resultado",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "Sepes",
+    "alquiler asequible",
+    "vivienda pública",
+    "suelo público",
+    "instalaciones militares",
+    "plan de vivienda"
+   ]
+  },
+  {
+   "id": "PSOE-15",
+   "cita": "63.000 viviendas con recursos de los fondos europeos adscritos al Plan de Recuperación, Transformación y Resiliencia",
+   "pagina": 222,
+   "resumen": "Financiar 63.000 viviendas de alquiler asequible con fondos europeos del Plan de Recuperación.",
+   "objeto": "viviendas financiadas con fondos Next Generation",
+   "tipo": "presupuestaria",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "fondos europeos",
+    "plan de recuperación",
+    "alquiler asequible",
+    "vivienda pública",
+    "Next Generation"
+   ]
+  },
+  {
+   "id": "PSOE-16",
+   "cita": "50.000 viviendas procedentes de la Sareb: o 15.000 que posibilitarán la conformación de alquileres sociales. o 15.000 que se construirán en suelo de la entidad.",
+   "pagina": 223,
+   "resumen": "Destinar 50.000 viviendas de la Sareb a alquiler social, construcción en su suelo y cesión a comunidades autónomas y entes locales.",
+   "objeto": "viviendas de la Sareb para alquiler social",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "Sareb",
+    "alquiler social",
+    "vivienda pública",
+    "viviendas vacías",
+    "banco malo"
+   ]
+  },
+  {
+   "id": "PSOE-17",
+   "cita": "Aseguraremos que las reservas obligatorias de suelo para vivienda de protección oficial en los nuevos desarrollos urbanísticos destinen, por lo menos, el 50% a la construcción de viviendas en régimen de alquiler social y alquiler asequible.",
+   "pagina": 223,
+   "resumen": "Destinar al menos el 50% de la reserva obligatoria de suelo para VPO a vivienda en alquiler social o asequible.",
+   "objeto": "reservas de suelo para VPO en alquiler",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "reserva de suelo",
+    "vivienda protegida",
+    "VPO",
+    "alquiler social",
+    "ley del suelo",
+    "urbanismo"
+   ]
+  },
+  {
+   "id": "PSOE-18",
+   "cita": "Impediremos cualquier posibilidad de incorporarse al mercado libre mediante procesos de descalificación y/o privatización de vivienda para un uso social, garantizando que no pueda venderse a ningún fondo de inversión.",
+   "pagina": 223,
+   "resumen": "Prohibir la descalificación y la venta a fondos de inversión de la vivienda protegida o de uso social.",
+   "objeto": "descalificación y venta de vivienda social",
+   "tipo": "legislativa",
+   "direccion": "reducir_suprimir",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "descalificación vivienda protegida",
+    "vivienda social",
+    "fondos de inversión",
+    "parque público de vivienda",
+    "ley vivienda"
+   ]
+  },
+  {
+   "id": "PSOE-19",
+   "cita": "Regularemos y diversificaremos los contratos de arrendamientos para recoger las peculiaridades de cada situación, de manera que se atienda al arrendador/a y al arrendatario/a y a la situación concreta que se pretende regular, sobre todo en el caso de arrendamientos temporales para uso como primera vivienda.",
+   "pagina": 222,
+   "resumen": "Regular distintos tipos de contrato de arrendamiento, en particular los temporales usados como primera vivienda.",
+   "objeto": "regulación de contratos de arrendamiento temporales",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "arrendamientos urbanos",
+    "alquiler temporal",
+    "LAU",
+    "contratos de alquiler",
+    "alquiler de temporada"
+   ]
+  },
+  {
+   "id": "PSOE-20",
+   "cita": "Desarrollaremos las medidas contempladas para la contención de los precios de la vivienda.",
+   "pagina": 221,
+   "resumen": "Aplicar las medidas de contención de precios previstas en la Ley de Vivienda.",
+   "objeto": "medidas de contención de precios de la Ley de Vivienda",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "ley vivienda",
+    "zonas tensionadas",
+    "contención precios alquiler",
+    "límite alquiler",
+    "índice de precios"
+   ]
+  },
+  {
+   "id": "PSOE-21",
+   "cita": "Estableceremos mecanismos ágiles y modelos de acuerdo entre entidades bancarias y administraciones (estatal, autonómicas y locales) para movilizar las viviendas vacías y destinarlas a uso social.",
+   "pagina": 223,
+   "resumen": "Crear mecanismos de acuerdo entre bancos y administraciones para movilizar viviendas vacías hacia uso social.",
+   "objeto": "acuerdos banca-administraciones sobre viviendas vacías",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "viviendas vacías",
+    "entidades bancarias",
+    "uso social",
+    "alquiler social",
+    "movilización vivienda"
+   ]
+  },
+  {
+   "id": "PSOE-22",
+   "cita": "Estableceremos programas de incentivos rehabilitación, entre otras finalidades, para que los propietarios puedan poner viviendas en el mercado de alquiler asequible",
+   "pagina": 223,
+   "resumen": "Crear programas de incentivos a la rehabilitación para que los propietarios incorporen viviendas al alquiler asequible.",
+   "objeto": "incentivos a rehabilitación para alquiler asequible",
+   "tipo": "presupuestaria",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "rehabilitación vivienda",
+    "alquiler asequible",
+    "incentivos propietarios",
+    "viviendas vacías",
+    "ayudas rehabilitación"
+   ]
+  },
+  {
+   "id": "PSOE-23",
+   "cita": "Reforzaremos las medidas adoptadas en materia social, en la articulación de soluciones habitacionales y las procedimentales previstas en la Ley de Enjuiciamiento Civil y en la Ley de Arrendamientos Urbanos.",
+   "pagina": 224,
+   "resumen": "Reforzar las medidas sociales y procesales sobre desahucios y alternativa habitacional en la LEC y la LAU.",
+   "objeto": "medidas de protección en LEC y LAU",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "desahucios",
+    "Ley de Enjuiciamiento Civil",
+    "Ley de Arrendamientos Urbanos",
+    "vulnerabilidad",
+    "alternativa habitacional",
+    "suspensión desahucios"
+   ]
+  },
+  {
+   "id": "PSOE-24",
+   "cita": "Impulsaremos el diseño de un Plan de Acción por las Administraciones Públicas competentes, con dotación económica suficiente, para la erradicación del chabolismo y de los asentamientos segregados, incluyendo la participación de la población gitana en el diseño del mismo.",
+   "pagina": 224,
+   "resumen": "Diseñar un plan de acción con dotación económica para erradicar el chabolismo y los asentamientos segregados.",
+   "objeto": "plan de erradicación del chabolismo",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "chabolismo",
+    "asentamientos segregados",
+    "infravivienda",
+    "población gitana",
+    "plan de acción"
+   ]
+  },
+  {
+   "id": "PSOE-25",
+   "cita": "promoveremos la creación de una red de recursos residenciales a modo de viviendas normalizadas en entornos barriales, utilizando metodologías como housing first o housing led",
+   "pagina": 224,
+   "resumen": "Crear una red de viviendas normalizadas para personas sin hogar con metodologías housing first o housing led.",
+   "objeto": "red de vivienda para personas sin hogar",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "baja",
+   "palabras_clave": [
+    "sinhogarismo",
+    "housing first",
+    "personas sin hogar",
+    "vivienda social",
+    "exclusión residencial"
+   ]
+  },
+  {
+   "id": "PSOE-26",
+   "cita": "Trabajar por erradicar el sinhogarismo de calle en 2030, desarrollando el Acuerdo Marco e impulsando la Estrategia Nacional para la lucha contra el sinhogarismo en España 2023-2030.",
+   "pagina": 190,
+   "resumen": "Erradicar el sinhogarismo de calle en 2030 mediante la Estrategia Nacional contra el sinhogarismo 2023-2030.",
+   "objeto": "sinhogarismo de calle en 2030",
+   "tipo": "resultado",
+   "direccion": "reducir_suprimir",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "sinhogarismo",
+    "personas sin hogar",
+    "estrategia nacional sinhogarismo",
+    "exclusión residencial",
+    "vivienda"
+   ]
+  },
+  {
+   "id": "PSOE-27",
+   "cita": "El objetivo es poder rehabilitar más de 500.000 viviendas en esta legislatura.",
+   "pagina": 225,
+   "resumen": "Rehabilitar más de 500.000 viviendas durante la legislatura.",
+   "objeto": "número de viviendas rehabilitadas",
+   "tipo": "resultado",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "rehabilitación vivienda",
+    "eficiencia energética",
+    "500.000 viviendas",
+    "fondos europeos",
+    "rehabilitación edificios"
+   ]
+  },
+  {
+   "id": "PSOE-28",
+   "cita": "Desarrollaremos normativas que permitan cambios de usos de edificios según las necesidades habitacionales, en coordinación con los ayuntamientos, para reconvertir edificios públicos y privados no utilizados.",
+   "pagina": 225,
+   "resumen": "Aprobar normas que permitan cambiar el uso de edificios sin utilizar para convertirlos en vivienda.",
+   "objeto": "normativa de cambio de uso a vivienda",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "cambio de uso",
+    "edificios vacíos",
+    "vivienda",
+    "urbanismo",
+    "conversión locales en vivienda"
+   ]
+  },
+  {
+   "id": "PSOE-29",
+   "cita": "Desarrollaremos una regulación sobre nuevas modalidades residenciales como el alojamiento temporal, el “cohousing”, los apartamentos dotacionales, las viviendas intergeneracionales y las cooperativas de cesión de uso",
+   "pagina": 225,
+   "resumen": "Regular nuevas modalidades residenciales: alojamiento temporal, cohousing, apartamentos dotacionales, viviendas intergeneracionales y cooperativas de cesión de uso.",
+   "objeto": "regulación de nuevas modalidades residenciales",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "cohousing",
+    "cooperativas de cesión de uso",
+    "alojamientos dotacionales",
+    "vivienda intergeneracional",
+    "regulación vivienda"
+   ]
+  },
+  {
+   "id": "PSOE-30",
+   "cita": "Habilitar un programa nacional de ayudas y subvenciones para la mejora de la accesibilidad, habitabilidad y eficiencia energética de las viviendas que priorice a aquellas familias con hijos e hijas a cargo con menos ingresos.",
+   "pagina": 184,
+   "resumen": "Crear un programa nacional de ayudas para accesibilidad, habitabilidad y eficiencia energética de viviendas, priorizando familias con hijos y bajos ingresos.",
+   "objeto": "programa nacional de ayudas a mejora de viviendas",
+   "tipo": "presupuestaria",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "rehabilitación vivienda",
+    "ayudas eficiencia energética",
+    "accesibilidad",
+    "pobreza infantil",
+    "familias con hijos"
+   ]
+  },
+  {
+   "id": "PSOE-31",
+   "cita": "se impulsará la reforma Legislativa normativa para garantizar el desalojo de los ocupas ilegales en un plazo máximo de 48 horas.",
+   "pagina": 251,
+   "resumen": "Reformar la ley para garantizar el desalojo de ocupantes ilegales en un máximo de 48 horas.",
+   "objeto": "plazo de desalojo por ocupación ilegal",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "okupación",
+    "ocupación ilegal",
+    "desalojo 48 horas",
+    "Ley de Enjuiciamiento Civil",
+    "desahucio exprés",
+    "propiedad privada"
+   ]
+  }
+ ]
+}

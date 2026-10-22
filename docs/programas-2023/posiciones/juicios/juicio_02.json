@@ -1,0 +1,3136 @@
+[
+ {
+  "key": "P02-000",
+  "relaciones": [
+   {
+    "id": "40-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "115-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-001",
+  "relaciones": [
+   {
+    "id": "188-20",
+    "relacion": "avanza",
+    "motivo": "Aprueba la Ley del Cine, pero no la de enseñanzas artísticas superiores."
+   },
+   {
+    "id": "188-19",
+    "relacion": "avanza",
+    "motivo": "Aprueba la Ley del Cine, pero no la de enseñanzas artísticas superiores."
+   },
+   {
+    "id": "172-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-002",
+  "relaciones": [
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-003",
+  "relaciones": [
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-20",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-004",
+  "relaciones": [
+   {
+    "id": "29-33",
+    "relacion": "relacionada",
+    "motivo": "Promueve el legado cultural español en el exterior, sin medidas concretas sobre el Instituto Cervantes."
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "135-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-005",
+  "relaciones": [
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "135-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-006",
+  "relaciones": [
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "115-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "73-2",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como ley de la reforma de RTVE; no crea el consejo pedido."
+   },
+   {
+    "id": "73-1",
+    "relacion": "relacionada",
+    "motivo": "Reforma el régimen de RTVE, pero no crea consejo de medios ni estatuto de la información."
+   }
+  ]
+ },
+ {
+  "key": "P02-007",
+  "relaciones": [
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "115-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-58",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-008",
+  "relaciones": [
+   {
+    "id": "40-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "71-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "relacionada",
+    "motivo": "La Ley del Cine refuerza derechos de propiedad intelectual de autores, sin crear oficina."
+   }
+  ]
+ },
+ {
+  "key": "P02-009",
+  "relaciones": [
+   {
+    "id": "29-33",
+    "relacion": "avanza",
+    "motivo": "Punto 3: nuevo currículo con mayor valor formativo de la Historia."
+   }
+  ]
+ },
+ {
+  "key": "P02-010",
+  "relaciones": [
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "135-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "relacionada",
+    "motivo": "Ley del Cine reordena ayudas al audiovisual; no trata mecenazgo."
+   },
+   {
+    "id": "188-19",
+    "relacion": "relacionada",
+    "motivo": "Ley del Cine reordena ayudas al audiovisual; no trata mecenazgo."
+   }
+  ]
+ },
+ {
+  "key": "P02-011",
+  "relaciones": [
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "135-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-012",
+  "relaciones": [
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-013",
+  "relaciones": [
+   {
+    "id": "188-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "71-2",
+    "relacion": "relacionada",
+    "motivo": "Modifica la Ley del Deporte sobre representación internacional; no la desarrolla."
+   },
+   {
+    "id": "13-2",
+    "relacion": "relacionada",
+    "motivo": "Modifica la Ley del Deporte sobre convocatorias de selecciones; no la desarrolla."
+   },
+   {
+    "id": "40-58",
+    "relacion": "relacionada",
+    "motivo": "Subcomisión para el Estatuto del Deportista previsto en la Ley del Deporte; no es desarrollo reglamentario."
+   },
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-27",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de la subcomisión del Estatuto del Deportista; no es desarrollo reglamentario."
+   },
+   {
+    "id": "106-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-014",
+  "relaciones": [
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "135-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-015",
+  "relaciones": [
+   {
+    "id": "47-2",
+    "relacion": "relacionada",
+    "motivo": "Protege el patrimonio histórico frente al vandalismo, sin plan nacional ni mecenazgo."
+   },
+   {
+    "id": "135-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-33",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: recuperación de monumentos de la Hispanidad; no es plan nacional de patrimonio."
+   },
+   {
+    "id": "71-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-016",
+  "relaciones": [
+   {
+    "id": "29-33",
+    "relacion": "cumple",
+    "motivo": "Políticas culturales y diplomáticas que reconozcan y defiendan el legado histórico de España."
+   },
+   {
+    "id": "172-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "166-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-017",
+  "relaciones": []
+ },
+ {
+  "key": "P02-018",
+  "relaciones": [
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-019",
+  "relaciones": [
+   {
+    "id": "188-20",
+    "relacion": "cumple",
+    "motivo": "Aprueba la nueva Ley del Cine y de la Cultura Audiovisual."
+   },
+   {
+    "id": "188-19",
+    "relacion": "cumple",
+    "motivo": "Aprueba la nueva Ley del Cine y de la Cultura Audiovisual."
+   },
+   {
+    "id": "40-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "73-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-020",
+  "relaciones": [
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "135-1",
+    "relacion": "relacionada",
+    "motivo": "Derogar la protección de la tauromaquia afecta a una tradición; no promociona fiestas locales."
+   },
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-021",
+  "relaciones": [
+   {
+    "id": "135-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-022",
+  "relaciones": [
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-20",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-023",
+  "relaciones": [
+   {
+    "id": "47-2",
+    "relacion": "relacionada",
+    "motivo": "Reforma la Ley de Patrimonio Histórico en sanciones; no es una nueva ley."
+   },
+   {
+    "id": "135-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-024",
+  "relaciones": [
+   {
+    "id": "135-1",
+    "relacion": "avanza",
+    "motivo": "Toma en consideración de la derogación de la Ley 18/2013; no suprime financiación."
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "73-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "73-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-025",
+  "relaciones": [
+   {
+    "id": "135-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-026",
+  "relaciones": [
+   {
+    "id": "13-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "71-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-58",
+    "relacion": "relacionada",
+    "motivo": "Subcomisión sobre derechos laborales de deportistas; no es ley de profesiones del deporte."
+   },
+   {
+    "id": "73-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "73-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-027",
+  "relaciones": [
+   {
+    "id": "135-1",
+    "relacion": "relacionada",
+    "motivo": "Derogación de la ley de tauromaquia; no trata la conservación de la raza."
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-028",
+  "relaciones": [
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "135-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "172-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-029",
+  "relaciones": [
+   {
+    "id": "40-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "115-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "135-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "73-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "73-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-17",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-030",
+  "relaciones": [
+   {
+    "id": "166-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "71-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-20",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-031",
+  "relaciones": [
+   {
+    "id": "47-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-33",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-032",
+  "relaciones": [
+   {
+    "id": "103-13",
+    "relacion": "avanza",
+    "motivo": "Punto 4: informe de la AIReF sobre sostenibilidad del plan de gasto en defensa."
+   },
+   {
+    "id": "103-12",
+    "relacion": "avanza",
+    "motivo": "Punto 3: detallar calendario y presupuesto del aumento del gasto en defensa."
+   },
+   {
+    "id": "103-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: consentimiento previo del Congreso al aumento del gasto; no es auditoría."
+   },
+   {
+    "id": "103-10",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: plan plurianual de inversiones en defensa ante el Congreso; no es auditoría."
+   },
+   {
+    "id": "185-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-27",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: rechaza recortes de la PAC para gasto en defensa; no audita programas."
+   }
+  ]
+ },
+ {
+  "key": "P02-033",
+  "relaciones": [
+   {
+    "id": "202-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-30",
+    "relacion": "contradice",
+    "motivo": "Punto 5: abandonar la OTAN, excluyendo cualquier protección de la Alianza."
+   },
+   {
+    "id": "185-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-28",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-034",
+  "relaciones": [
+   {
+    "id": "185-30",
+    "relacion": "avanza",
+    "motivo": "Punto 5: abandonar la OTAN, pero sin construir autonomía estratégica europea."
+   },
+   {
+    "id": "185-29",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: denunciar acuerdos de bases con EEUU; no plantea alternativa europea."
+   },
+   {
+    "id": "185-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-27",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: rechaza destinar fondos de la UE al rearme europeo."
+   },
+   {
+    "id": "185-26",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: revertir el aumento del gasto militar."
+   },
+   {
+    "id": "103-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-035",
+  "relaciones": [
+   {
+    "id": "185-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-27",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: rechaza financiar compra de armamento europeo con recortes de la PAC."
+   },
+   {
+    "id": "185-26",
+    "relacion": "contradice",
+    "motivo": "Punto 1: revertir el aumento del gasto militar y renunciar a nuevas ampliaciones."
+   },
+   {
+    "id": "40-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-19",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-036",
+  "relaciones": [
+   {
+    "id": "185-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-037",
+  "relaciones": [
+   {
+    "id": "103-13",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: informe de la AIReF sobre el plan de gasto en defensa."
+   },
+   {
+    "id": "103-12",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: detallar calendario y financiación del aumento del gasto."
+   },
+   {
+    "id": "103-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: consentimiento del Congreso para subir el gasto hasta el 1,5% del PIB."
+   },
+   {
+    "id": "103-10",
+    "relacion": "avanza",
+    "motivo": "Punto 1: plan plurianual de inversiones en defensa según compromisos UE y OTAN."
+   },
+   {
+    "id": "69-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-038",
+  "relaciones": [
+   {
+    "id": "40-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "112-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-29",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-039",
+  "relaciones": [
+   {
+    "id": "185-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-24",
+    "relacion": "relacionada",
+    "motivo": "Revoca una compra de material militar y contratos con Israel; no prioriza empresas nacionales."
+   },
+   {
+    "id": "112-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "69-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-040",
+  "relaciones": [
+   {
+    "id": "112-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-28",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: apuesta por el diálogo y la negociación para la paz, sin mencionar Ucrania."
+   },
+   {
+    "id": "185-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-26",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: revertir el gasto militar, que incluye ayuda militar."
+   },
+   {
+    "id": "69-1",
+    "relacion": "relacionada",
+    "motivo": "Control parlamentario del envío de ayuda militar al extranjero."
+   }
+  ]
+ },
+ {
+  "key": "P02-041",
+  "relaciones": [
+   {
+    "id": "197-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "69-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-042",
+  "relaciones": [
+   {
+    "id": "103-13",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: informe de la AIReF sobre el plan de gasto en defensa."
+   },
+   {
+    "id": "103-12",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: detallar calendario y financiación del aumento del gasto."
+   },
+   {
+    "id": "103-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: consentimiento del Congreso para subir el gasto hasta el 1,5% del PIB."
+   },
+   {
+    "id": "103-10",
+    "relacion": "avanza",
+    "motivo": "Punto 1: plan plurianual de inversiones en defensa según compromisos UE y OTAN."
+   },
+   {
+    "id": "69-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-043",
+  "relaciones": [
+   {
+    "id": "69-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-044",
+  "relaciones": [
+   {
+    "id": "69-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-045",
+  "relaciones": [
+   {
+    "id": "40-24",
+    "relacion": "avanza",
+    "motivo": "Suspende el comercio de armas con Israel; no es prohibición general."
+   },
+   {
+    "id": "112-2",
+    "relacion": "avanza",
+    "motivo": "Introduce la figura del embargo de armas por vulneraciones de derechos humanos."
+   },
+   {
+    "id": "202-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "69-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-046",
+  "relaciones": [
+   {
+    "id": "69-1",
+    "relacion": "relacionada",
+    "motivo": "Refuerza el control parlamentario de misiones y ayuda militar en el exterior."
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "112-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-53",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-047",
+  "relaciones": [
+   {
+    "id": "103-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "197-1",
+    "relacion": "relacionada",
+    "motivo": "Incluye la inmigración ilegal entre los cometidos de la Defensa Nacional; no es nueva estrategia."
+   },
+   {
+    "id": "124-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-048",
+  "relaciones": [
+   {
+    "id": "185-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "69-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-049",
+  "relaciones": [
+   {
+    "id": "40-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "69-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "112-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-050",
+  "relaciones": [
+   {
+    "id": "185-30",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: abandonar la OTAN; no trata la defensa europea."
+   },
+   {
+    "id": "185-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-27",
+    "relacion": "contradice",
+    "motivo": "Punto 2: rechaza destinar fondos de la UE al rearme europeo."
+   },
+   {
+    "id": "185-26",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: revertir el gasto militar nacional."
+   },
+   {
+    "id": "103-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: consentimiento del Congreso antes de compromisos de defensa con la UE."
+   }
+  ]
+ },
+ {
+  "key": "P02-051",
+  "relaciones": [
+   {
+    "id": "103-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: consentimiento del Congreso antes de compromisos de defensa con la UE."
+   },
+   {
+    "id": "103-10",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: plan de inversiones según compromisos UE y OTAN."
+   },
+   {
+    "id": "185-30",
+    "relacion": "contradice",
+    "motivo": "Punto 5: abandonar la OTAN y pedir su disolución."
+   },
+   {
+    "id": "185-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-27",
+    "relacion": "contradice",
+    "motivo": "Punto 2: rechaza destinar fondos de la UE al rearme europeo."
+   }
+  ]
+ },
+ {
+  "key": "P02-052",
+  "relaciones": [
+   {
+    "id": "69-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-053",
+  "relaciones": [
+   {
+    "id": "103-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-10",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: plan de inversiones según compromisos OTAN; no trata el flanco sur."
+   },
+   {
+    "id": "185-30",
+    "relacion": "contradice",
+    "motivo": "Punto 5: abandonar la OTAN y pedir su disolución."
+   },
+   {
+    "id": "185-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-27",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-054",
+  "relaciones": [
+   {
+    "id": "40-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "69-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-055",
+  "relaciones": [
+   {
+    "id": "69-1",
+    "relacion": "relacionada",
+    "motivo": "Control parlamentario del envío de ayuda militar a aliados."
+   },
+   {
+    "id": "40-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-30",
+    "relacion": "contradice",
+    "motivo": "Punto 5: abandonar la OTAN, alejándose de los aliados."
+   },
+   {
+    "id": "185-29",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: denunciar acuerdos de bases con EEUU."
+   },
+   {
+    "id": "185-28",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: diálogo y negociación para la paz, sin mencionar Ucrania."
+   },
+   {
+    "id": "185-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-26",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: revertir el gasto militar, que incluye ayuda militar."
+   },
+   {
+    "id": "197-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-056",
+  "relaciones": [
+   {
+    "id": "69-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-057",
+  "relaciones": [
+   {
+    "id": "69-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-29",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-058",
+  "relaciones": [
+   {
+    "id": "197-1",
+    "relacion": "relacionada",
+    "motivo": "Incluye la inmigración ilegal entre los cometidos de la Defensa Nacional; no es nueva estrategia."
+   },
+   {
+    "id": "196-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "103-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-059",
+  "relaciones": [
+   {
+    "id": "103-13",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: informe de la AIReF sobre el plan de gasto en defensa."
+   },
+   {
+    "id": "103-12",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: detallar calendario y financiación del aumento del gasto."
+   },
+   {
+    "id": "103-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: consentimiento del Congreso para subir el gasto hasta el 1,5% del PIB."
+   },
+   {
+    "id": "103-10",
+    "relacion": "avanza",
+    "motivo": "Punto 1: plan plurianual de inversiones en defensa según compromisos UE y OTAN."
+   },
+   {
+    "id": "185-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-27",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: rechaza recortes de la PAC para gasto en defensa."
+   }
+  ]
+ },
+ {
+  "key": "P02-060",
+  "relaciones": [
+   {
+    "id": "69-1",
+    "relacion": "relacionada",
+    "motivo": "Refuerza el control parlamentario de misiones y ayuda militar en el exterior."
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-061",
+  "relaciones": [
+   {
+    "id": "202-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-28",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-062",
+  "relaciones": [
+   {
+    "id": "69-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-063",
+  "relaciones": [
+   {
+    "id": "197-1",
+    "relacion": "relacionada",
+    "motivo": "Reforma la Ley de Defensa Nacional con enfoque migratorio; no es estrategia de seguridad humana."
+   },
+   {
+    "id": "202-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-29",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-064",
+  "relaciones": [
+   {
+    "id": "124-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: control parlamentario del Plan Industrial y Tecnológico de Defensa."
+   },
+   {
+    "id": "124-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: control parlamentario del Plan Industrial y Tecnológico de Defensa."
+   },
+   {
+    "id": "124-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: control parlamentario del Plan Industrial y Tecnológico de Defensa."
+   },
+   {
+    "id": "124-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: control parlamentario del Plan Industrial y Tecnológico de Defensa."
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-29",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-065",
+  "relaciones": [
+   {
+    "id": "124-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: control parlamentario del Plan Industrial y Tecnológico de Defensa."
+   },
+   {
+    "id": "124-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: control parlamentario del Plan Industrial y Tecnológico de Defensa."
+   },
+   {
+    "id": "124-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: control parlamentario del Plan Industrial y Tecnológico de Defensa."
+   },
+   {
+    "id": "124-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: control parlamentario del Plan Industrial y Tecnológico de Defensa."
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-29",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-066",
+  "relaciones": [
+   {
+    "id": "69-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-9",
+    "relacion": "relacionada",
+    "motivo": "Segundo bloque: reconoce la labor militar en Ceuta y condena los cruces ilegales."
+   },
+   {
+    "id": "202-8",
+    "relacion": "avanza",
+    "motivo": "Punto 3: condición de agentes de la autoridad a militares desplegados en Ceuta."
+   },
+   {
+    "id": "202-7",
+    "relacion": "avanza",
+    "motivo": "Puntos 1, 2 y 4: dotar de medios a las Fuerzas Armadas desplegadas en Ceuta."
+   },
+   {
+    "id": "79-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-29",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-067",
+  "relaciones": [
+   {
+    "id": "52-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-41",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-39",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-38",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-068",
+  "relaciones": [
+   {
+    "id": "169-54",
+    "relacion": "relacionada",
+    "motivo": "Tramitar un decreto-ley como proyecto de ley; no limita su uso."
+   },
+   {
+    "id": "198-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-26",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-069",
+  "relaciones": [
+   {
+    "id": "198-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-22",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-070",
+  "relaciones": [
+   {
+    "id": "43-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-6",
+    "relacion": "cumple",
+    "motivo": "Punto 6: derogar las restricciones de la última reforma de la ley de seguridad ciudadana."
+   },
+   {
+    "id": "43-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: cumplir resoluciones internacionales sobre derechos políticos."
+   },
+   {
+    "id": "43-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: comisión sobre guerra judicial; no revisa delitos de opinión."
+   },
+   {
+    "id": "43-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 3 sin texto disponible; PNL sobre guerra judicial y derechos."
+   },
+   {
+    "id": "43-20",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-071",
+  "relaciones": [
+   {
+    "id": "191-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: derogar restricciones de la ley de seguridad ciudadana; no trata delitos de odio."
+   },
+   {
+    "id": "43-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-072",
+  "relaciones": [
+   {
+    "id": "67-1",
+    "relacion": "cumple",
+    "motivo": "Reforma la LOREG para hacer inelegibles a condenados por terrorismo."
+   },
+   {
+    "id": "189-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "179-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "57-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-41",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-073",
+  "relaciones": [
+   {
+    "id": "43-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-20",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-074",
+  "relaciones": [
+   {
+    "id": "52-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-41",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-39",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-38",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "148-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-075",
+  "relaciones": [
+   {
+    "id": "24-1",
+    "relacion": "avanza",
+    "motivo": "Reforma la ley de secretos oficiales con plazos de desclasificación; no es ley nueva."
+   },
+   {
+    "id": "43-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-7",
+    "relacion": "cumple",
+    "motivo": "Punto 7: nueva ley de secretos oficiales que sustituya la vigente."
+   },
+   {
+    "id": "43-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-076",
+  "relaciones": [
+   {
+    "id": "196-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "102-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "189-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "122-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "104-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-077",
+  "relaciones": [
+   {
+    "id": "133-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "95-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "95-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "95-19",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: reforzar independencia de Fiscalía y Oficina de Conflictos; no de esos organismos."
+   }
+  ]
+ },
+ {
+  "key": "P02-078",
+  "relaciones": [
+   {
+    "id": "19-5",
+    "relacion": "relacionada",
+    "motivo": "Moción sobre el desarrollo de la Ley de Memoria Democrática."
+   },
+   {
+    "id": "40-4",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre aplicación de políticas de memoria democrática."
+   },
+   {
+    "id": "85-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-53",
+    "relacion": "relacionada",
+    "motivo": "Modifica la Ley de Memoria Democrática en reconocimientos; no trata Cuelgamuros."
+   },
+   {
+    "id": "169-54",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como ley de la reforma de Memoria Democrática."
+   },
+   {
+    "id": "191-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-18",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-079",
+  "relaciones": [
+   {
+    "id": "102-1",
+    "relacion": "contradice",
+    "motivo": "Enmienda de devolución al proyecto de ley de grupos de interés."
+   },
+   {
+    "id": "198-16",
+    "relacion": "avanza",
+    "motivo": "Regula transparencia de grupos de interés; no consta huella legislativa por ley."
+   },
+   {
+    "id": "116-2",
+    "relacion": "avanza",
+    "motivo": "Regula los grupos de interés en el Reglamento del Congreso."
+   },
+   {
+    "id": "139-19",
+    "relacion": "relacionada",
+    "motivo": "Texto alternativo a la regulación de grupos de interés en el Congreso; contenido no disponible."
+   },
+   {
+    "id": "132-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "148-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-080",
+  "relaciones": [
+   {
+    "id": "148-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "67-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-081",
+  "relaciones": [
+   {
+    "id": "122-1",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la actividad legislativa sobre plazos de enmiendas; no prohíbe enmiendas intrusas."
+   },
+   {
+    "id": "183-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "116-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "9-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "9-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "9-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-54",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-082",
+  "relaciones": [
+   {
+    "id": "196-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "148-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "104-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "16-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "102-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-083",
+  "relaciones": [
+   {
+    "id": "191-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-41",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-39",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-084",
+  "relaciones": [
+   {
+    "id": "102-1",
+    "relacion": "contradice",
+    "motivo": "Enmienda de devolución al proyecto de ley de grupos de interés."
+   },
+   {
+    "id": "198-16",
+    "relacion": "cumple",
+    "motivo": "Decreto-ley de transparencia e integridad de las actividades de los grupos de interés."
+   },
+   {
+    "id": "116-2",
+    "relacion": "avanza",
+    "motivo": "Regula los grupos de interés solo en el Congreso."
+   },
+   {
+    "id": "139-19",
+    "relacion": "relacionada",
+    "motivo": "Texto alternativo a la regulación de grupos de interés en el Congreso; contenido no disponible."
+   },
+   {
+    "id": "132-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-085",
+  "relaciones": [
+   {
+    "id": "189-2",
+    "relacion": "relacionada",
+    "motivo": "Reforma la LOREG sobre voto por correo; no amplía diputados ni participación."
+   },
+   {
+    "id": "67-1",
+    "relacion": "relacionada",
+    "motivo": "Reforma la LOREG sobre inelegibilidad; no amplía diputados ni participación."
+   },
+   {
+    "id": "179-2",
+    "relacion": "relacionada",
+    "motivo": "Reforma la LOREG para el senador de Formentera; actualización puntual."
+   },
+   {
+    "id": "183-16",
+    "relacion": "relacionada",
+    "motivo": "Lectura única de la reforma de la LOREG sobre Formentera."
+   },
+   {
+    "id": "188-18",
+    "relacion": "relacionada",
+    "motivo": "Votación de conjunto de la reforma de la LOREG sobre Formentera."
+   },
+   {
+    "id": "57-1",
+    "relacion": "relacionada",
+    "motivo": "Reforma electoral sobre elecciones europeas; contenido no disponible."
+   },
+   {
+    "id": "185-41",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-086",
+  "relaciones": [
+   {
+    "id": "189-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "179-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "67-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "57-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-41",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P02-087",
+  "relaciones": [
+   {
+    "id": "159-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: mérito e independencia en nombramientos policiales; no en esos organismos."
+   },
+   {
+    "id": "23-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ }
+]

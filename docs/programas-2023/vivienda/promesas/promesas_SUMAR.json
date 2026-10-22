@@ -1,0 +1,677 @@
+{
+ "party": "SUMAR",
+ "promesas": [
+  {
+   "id": "SUMAR-01",
+   "cita": "Invertiremos sostenidamente, durante diez años, el 1% del PIB en construcción, compra, movili- zación y rehabilitación de vivienda para generar un verdadero parque de alquiler protegido, social, sostenible y asequible de más dos millones de viviendas protegidas en los siguientes diez años.",
+   "pagina": 76,
+   "resumen": "Invertir el 1% del PIB anual durante diez años para crear un parque de más de dos millones de viviendas protegidas de alquiler.",
+   "objeto": "Inversión pública en vivienda protegida de alquiler",
+   "tipo": "presupuestaria",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "inversión vivienda",
+    "vivienda protegida",
+    "parque público de vivienda",
+    "alquiler social",
+    "presupuestos vivienda",
+    "SEPES"
+   ]
+  },
+  {
+   "id": "SUMAR-02",
+   "cita": "Adoptaremos medidas en materia fiscal que incluyan condicionar los beneficios fiscales en el impuesto de sociedades para las SOCIMIS, EDAVS, y las sociedades y fondos de inversión inmo- biliarios en función del valor social y la aportación al interés general de los proyectos que realicen.",
+   "pagina": 76,
+   "resumen": "Condicionar los beneficios fiscales en el impuesto de sociedades de SOCIMI y fondos inmobiliarios al valor social de sus proyectos.",
+   "objeto": "Régimen fiscal de SOCIMI y fondos inmobiliarios",
+   "tipo": "legislativa",
+   "direccion": "reducir_suprimir",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "SOCIMI",
+    "impuesto de sociedades",
+    "fondos de inversión inmobiliaria",
+    "beneficios fiscales",
+    "vivienda",
+    "fiscalidad"
+   ]
+  },
+  {
+   "id": "SUMAR-03",
+   "cita": "Redu- ciremos también el IVA para proyectos de vivienda de alquiler social y asequible.",
+   "pagina": 76,
+   "resumen": "Reducir el IVA aplicable a proyectos de vivienda de alquiler social y asequible.",
+   "objeto": "IVA de proyectos de vivienda de alquiler social",
+   "tipo": "legislativa",
+   "direccion": "reducir_suprimir",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "IVA vivienda",
+    "alquiler social",
+    "vivienda asequible",
+    "tipo reducido IVA",
+    "construcción vivienda"
+   ]
+  },
+  {
+   "id": "SUMAR-04",
+   "cita": "Estableceremos un gravamen sobre los suelos disponibles para urbanización ociosos.",
+   "pagina": 76,
+   "resumen": "Crear un impuesto sobre el suelo urbanizable disponible que permanezca sin uso.",
+   "objeto": "Gravamen sobre suelo urbanizable ocioso",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "suelo ocioso",
+    "gravamen suelo",
+    "suelo urbanizable",
+    "impuesto suelo",
+    "especulación suelo"
+   ]
+  },
+  {
+   "id": "SUMAR-05",
+   "cita": "Coordi- naremos los patrimonios públicos de suelo (PPS) de las diferentes administraciones a través de un «banco de suelo» con la capacidad de comprar suelos adicionales a los PPS a través de una línea de crédito del ICO.",
+   "pagina": 76,
+   "resumen": "Crear un banco de suelo que coordine los patrimonios públicos de suelo y compre suelo con una línea de crédito del ICO.",
+   "objeto": "Banco de suelo con línea ICO",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "banco de suelo",
+    "patrimonio público de suelo",
+    "ICO",
+    "suelo vivienda",
+    "línea de crédito"
+   ]
+  },
+  {
+   "id": "SUMAR-06",
+   "cita": "Declararemos servicios de interés general el conjunto de actividades vinculadas a la provisión de viviendas destinadas a políticas sociales.",
+   "pagina": 76,
+   "resumen": "Declarar servicio de interés general las actividades de provisión de vivienda destinada a políticas sociales.",
+   "objeto": "Calificación legal de la provisión de vivienda social",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "servicio de interés general",
+    "vivienda social",
+    "política de vivienda",
+    "ley vivienda",
+    "servicio público de vivienda"
+   ]
+  },
+  {
+   "id": "SUMAR-07",
+   "cita": "Prohibiremos de forma expresa la venta de patrimonio público de suelo y vivienda de las Admi- nistraciones (específicamente el correspondiente a la Sareb, Adif y Defensa), salvo su transmisión gratuita a entidades públicas",
+   "pagina": 76,
+   "resumen": "Prohibir la venta de suelo y vivienda públicos (Sareb, Adif, Defensa), salvo cesión gratuita a entidades públicas.",
+   "objeto": "Venta de patrimonio público de suelo y vivienda",
+   "tipo": "legislativa",
+   "direccion": "reducir_suprimir",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "Sareb",
+    "Adif",
+    "patrimonio público de suelo",
+    "venta vivienda pública",
+    "Defensa",
+    "vivienda pública"
+   ]
+  },
+  {
+   "id": "SUMAR-08",
+   "cita": "Realizaremos las modificaciones legales oportunas para que las Administraciones públicas dis- pongan de capacidad para ejercer derechos de tanteo y retracto.",
+   "pagina": 76,
+   "resumen": "Modificar la ley para que las Administraciones puedan ejercer derechos de tanteo y retracto sobre viviendas.",
+   "objeto": "Derechos de tanteo y retracto públicos",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "tanteo y retracto",
+    "compra pública vivienda",
+    "ley vivienda",
+    "administraciones públicas",
+    "parque público"
+   ]
+  },
+  {
+   "id": "SUMAR-09",
+   "cita": "Estableceremos limitaciones al alquiler turístico, de habitaciones y de temporada para que no se conviertan en una opción que sortee la aplicación de la Ley de Vivienda.",
+   "pagina": 77,
+   "resumen": "Limitar el alquiler turístico, de habitaciones y de temporada para que no eluda la Ley de Vivienda.",
+   "objeto": "Regulación de alquiler turístico, de temporada y habitaciones",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "alquiler turístico",
+    "pisos turísticos",
+    "alquiler de temporada",
+    "alquiler de habitaciones",
+    "ley vivienda"
+   ]
+  },
+  {
+   "id": "SUMAR-10",
+   "cita": "Aumentaremos la duración mínima de los contratos de arrendamiento de vivienda tendiendo a que sean indefinidos con causas de resolución excepcionales para proteger al propietario.",
+   "pagina": 77,
+   "resumen": "Ampliar la duración mínima de los contratos de alquiler de vivienda, tendiendo a contratos indefinidos.",
+   "objeto": "Duración mínima de contratos de arrendamiento (LAU)",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "arrendamientos urbanos",
+    "LAU",
+    "duración contrato alquiler",
+    "alquiler indefinido",
+    "inquilinos"
+   ]
+  },
+  {
+   "id": "SUMAR-11",
+   "cita": "Crearemos juzgados especializados en la materia para resolver los conflictos que genere el de- recho a la vivienda.",
+   "pagina": 77,
+   "resumen": "Crear juzgados especializados en conflictos sobre el derecho a la vivienda.",
+   "objeto": "Juzgados especializados en vivienda",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "juzgados vivienda",
+    "desahucios",
+    "planta judicial",
+    "derecho a la vivienda",
+    "conflictos alquiler"
+   ]
+  },
+  {
+   "id": "SUMAR-12",
+   "cita": "Crearemos un registro obligatorio de fianzas del alquiler y aumentaremos las capacidades de inspección.",
+   "pagina": 77,
+   "resumen": "Crear un registro obligatorio de fianzas de alquiler y ampliar la inspección.",
+   "objeto": "Registro estatal de fianzas de alquiler",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "fianzas alquiler",
+    "registro de fianzas",
+    "inspección vivienda",
+    "alquiler",
+    "arrendamientos"
+   ]
+  },
+  {
+   "id": "SUMAR-13",
+   "cita": "Impulsaremos un registro de viviendas vacías en coordinación con las comunidades autónomas y los ayuntamientos.",
+   "pagina": 77,
+   "resumen": "Crear un registro de viviendas vacías coordinado con comunidades autónomas y ayuntamientos.",
+   "objeto": "Registro de viviendas vacías",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "viviendas vacías",
+    "registro viviendas vacías",
+    "vivienda vacía",
+    "censo viviendas",
+    "comunidades autónomas"
+   ]
+  },
+  {
+   "id": "SUMAR-14",
+   "cita": "Modificaremos la Ley 12/2023 de Vivienda para incluir: el alquiler social obligatorio para grandes tenedores, la dación en pago, obligaciones de resultado para las Administraciones públicas en ma- teria de vivienda alternativa frente a los desahucios",
+   "pagina": 77,
+   "resumen": "Reformar la Ley 12/2023 de Vivienda para incluir alquiler social obligatorio de grandes tenedores, dación en pago y vivienda alternativa ante desahucios.",
+   "objeto": "Ley 12/2023 por el derecho a la vivienda",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "ley vivienda",
+    "Ley 12/2023",
+    "grandes tenedores",
+    "dación en pago",
+    "desahucios",
+    "alquiler social"
+   ]
+  },
+  {
+   "id": "SUMAR-15",
+   "cita": "Habilitaremos al Estado Central o a las Administracione locales a instar a la comunidad autóno- ma que no lo haya hecho a declarar zona de mercado tensionado",
+   "pagina": 77,
+   "resumen": "Permitir que el Estado o los ayuntamientos insten a la comunidad autónoma a declarar zonas de mercado tensionado.",
+   "objeto": "Procedimiento de declaración de zona tensionada",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "zona tensionada",
+    "mercado tensionado",
+    "ley vivienda",
+    "regulación alquiler",
+    "ayuntamientos"
+   ]
+  },
+  {
+   "id": "SUMAR-16",
+   "cita": "reformaremos el sistema de incentivos fiscales de la Ley de Vivienda, beneficiando fiscalmente solo a los propietarios que alquilen sus viviendas al precio igual o por debajo del índice de referencia",
+   "pagina": 77,
+   "resumen": "Limitar los incentivos fiscales de la Ley de Vivienda a propietarios que alquilen a precio igual o inferior al índice de referencia.",
+   "objeto": "Incentivos fiscales al alquiler (IRPF)",
+   "tipo": "legislativa",
+   "direccion": "reducir_suprimir",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "incentivos fiscales alquiler",
+    "IRPF alquiler",
+    "índice de referencia",
+    "ley vivienda",
+    "reducción rendimientos alquiler"
+   ]
+  },
+  {
+   "id": "SUMAR-17",
+   "cita": "Convertiremos la Sareb en una herramienta pública que tenga como objetivo garantizar el derecho a la vivienda. Para ello sus competencias deberían depender del ministerio que tenga las competencias a nivel estatal en materia de vivienda",
+   "pagina": 77,
+   "resumen": "Adscribir la Sareb al ministerio con competencias en vivienda y orientarla a alquiler social.",
+   "objeto": "Adscripción y funciones de la Sareb",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "Sareb",
+    "ministerio vivienda",
+    "alquiler social",
+    "banco malo",
+    "vivienda pública"
+   ]
+  },
+  {
+   "id": "SUMAR-18",
+   "cita": "Crearemos un bono de emergencia para los hogares hipotecados a tipo variable para la com- pra de su vivienda habitual que sufren la fuerte alza de los tipos de interés decidida por el BCE. La cuantía del bono será de 1.000€ por hogar",
+   "pagina": 77,
+   "resumen": "Crear un bono de 1.000 euros por hogar con hipoteca variable de vivienda habitual, financiado con el impuesto a la banca.",
+   "objeto": "Bono de emergencia para hipotecados",
+   "tipo": "presupuestaria",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "bono hipotecados",
+    "hipoteca variable",
+    "tipos de interés",
+    "impuesto banca",
+    "vivienda habitual",
+    "ayuda hipoteca"
+   ]
+  },
+  {
+   "id": "SUMAR-19",
+   "cita": "de promover la portabilidad de hipotecas —por novación o subrogación—, obligando a que las entidades de crédito publiquen en la CNMC sus ofertas de crédito hipotecario y los perfiles asociados",
+   "pagina": 78,
+   "resumen": "Establecer la portabilidad obligatoria de hipotecas variables a fijas y obligar a los bancos a publicar sus ofertas en la CNMC.",
+   "objeto": "Portabilidad obligatoria de hipotecas",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "portabilidad hipotecas",
+    "hipoteca variable",
+    "subrogación",
+    "novación",
+    "CNMC",
+    "crédito hipotecario"
+   ]
+  },
+  {
+   "id": "SUMAR-20",
+   "cita": "estableciendo un pago mensual a cuenta en el IRPF del 0,1% de los ingresos percibidos por alquileres, para conocer con precisión casi censal y en tiempo real cómo evoluciona el precio de los alquileres en España.",
+   "pagina": 78,
+   "resumen": "Crear un pago mensual a cuenta del IRPF del 0,1% de los ingresos por alquiler para medir precios.",
+   "objeto": "Pago a cuenta IRPF sobre rentas del alquiler",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "IRPF alquiler",
+    "pago a cuenta",
+    "precios alquiler",
+    "información alquileres",
+    "rendimientos inmobiliarios"
+   ]
+  },
+  {
+   "id": "SUMAR-21",
+   "cita": "estableciendo un recargo en el impuesto de sociedades para los fondos y empresas que alquilen viviendas por encima de los precios de referen- cia.",
+   "pagina": 78,
+   "resumen": "Aplicar un recargo en el impuesto de sociedades a empresas que alquilen viviendas por encima del precio de referencia.",
+   "objeto": "Recargo en impuesto de sociedades por alquiler caro",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "impuesto de sociedades",
+    "recargo",
+    "fondos de inversión",
+    "precio de referencia",
+    "alquiler"
+   ]
+  },
+  {
+   "id": "SUMAR-22",
+   "cita": "haremos obligatoria la declaración de zona de mercado tensionado en las áreas geográficas en las que se cumplan objetivamente los requisitos que la Ley de Vivienda establece",
+   "pagina": 78,
+   "resumen": "Hacer obligatoria la declaración de zona tensionada donde se cumplan los requisitos de la Ley de Vivienda.",
+   "objeto": "Declaración obligatoria de zonas tensionadas",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "zona tensionada",
+    "mercado tensionado",
+    "regulación alquiler",
+    "ley vivienda",
+    "control alquileres"
+   ]
+  },
+  {
+   "id": "SUMAR-23",
+   "cita": "Incrementaremos las ayudas al alquiler a nivel nacional mejorando la gestión del bono de alquiler joven para garantizar el pago mensual a las personas beneficiarias",
+   "pagina": 78,
+   "resumen": "Aumentar las ayudas estatales al alquiler y garantizar el pago mensual del bono alquiler joven.",
+   "objeto": "Ayudas al alquiler y bono alquiler joven",
+   "tipo": "presupuestaria",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "bono alquiler joven",
+    "ayudas alquiler",
+    "plan estatal vivienda",
+    "jóvenes",
+    "alquiler"
+   ]
+  },
+  {
+   "id": "SUMAR-24",
+   "cita": "estableceremos la posibilidad de que los consumidores puedan acogerse a medidas de reestructuración y quitas de la deuda hipotecaria.",
+   "pagina": 78,
+   "resumen": "Permitir que los deudores hipotecarios accedan a reestructuración y quitas de su deuda.",
+   "objeto": "Reestructuración y quitas de deuda hipotecaria",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "deuda hipotecaria",
+    "quitas",
+    "reestructuración",
+    "código de buenas prácticas",
+    "hipotecas"
+   ]
+  },
+  {
+   "id": "SUMAR-25",
+   "cita": "Implementaremos la estrategia nacional para la erradicación del sinhogarismo, basado en el modelo «Housing First», garantizando el derecho subjetivo a la vivienda.",
+   "pagina": 78,
+   "resumen": "Aplicar la estrategia nacional contra el sinhogarismo según el modelo Housing First.",
+   "objeto": "Estrategia nacional contra el sinhogarismo",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "sinhogarismo",
+    "Housing First",
+    "personas sin hogar",
+    "estrategia nacional",
+    "derecho a la vivienda"
+   ]
+  },
+  {
+   "id": "SUMAR-26",
+   "cita": "Crearemos un programa de protección para arrendatarios vulnerables que permitirá facilitar el acceso a alquileres sociales en el mercado libre, así como a la red pública de alojamientos y pisos tutelados",
+   "pagina": 78,
+   "resumen": "Crear un programa de protección para inquilinos vulnerables con acceso a alquiler social y alojamientos públicos.",
+   "objeto": "Programa para arrendatarios vulnerables",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "arrendatarios vulnerables",
+    "alquiler social",
+    "vulnerabilidad",
+    "pisos tutelados",
+    "inquilinos"
+   ]
+  },
+  {
+   "id": "SUMAR-27",
+   "cita": "Desarrollaremos una carta de derechos de los inquilinos, dotaremos jurídicamente a las asociaciones y sindicatos de personas inquilinas de capacidad de representación en las negociaciones colectivas con los propietarios",
+   "pagina": 78,
+   "resumen": "Aprobar una carta de derechos de los inquilinos y reconocer capacidad de representación a sus asociaciones y sindicatos.",
+   "objeto": "Carta de derechos de inquilinos",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "inquilinos",
+    "sindicato de inquilinos",
+    "derechos inquilinos",
+    "arrendamientos urbanos",
+    "negociación colectiva alquiler"
+   ]
+  },
+  {
+   "id": "SUMAR-28",
+   "cita": "Crearemos un banco público para que contrarreste el oligopolio bancario y se pueda rebajar el coste de las hipotecas. Crearlo a partir del ICO y de la red de oficinas de Correos.",
+   "pagina": 79,
+   "resumen": "Crear un banco público a partir del ICO y de Correos para abaratar las hipotecas.",
+   "objeto": "Banca pública (ICO y Correos)",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "banca pública",
+    "ICO",
+    "Correos",
+    "hipotecas",
+    "crédito hipotecario"
+   ]
+  },
+  {
+   "id": "SUMAR-29",
+   "cita": "Estableceremos un marco normativo que favorezca la figura de las Asociaciones de Vivienda, que tiene éxito en Europa, como un modelo de gestión y provisión de vivienda asequible por organizaciones sin ánimo de lucro",
+   "pagina": 79,
+   "resumen": "Regular las Asociaciones de Vivienda sin ánimo de lucro como proveedoras de vivienda asequible.",
+   "objeto": "Marco legal de Asociaciones de Vivienda",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "asociaciones de vivienda",
+    "vivienda asequible",
+    "sin ánimo de lucro",
+    "vivienda social",
+    "cooperativas"
+   ]
+  },
+  {
+   "id": "SUMAR-30",
+   "cita": "Reconoceremos el derecho subjetivo a la vivienda de forma progresiva incluyendo a diferentes colectivos, empezando por las personas en situación de sinhogarismo.",
+   "pagina": 79,
+   "resumen": "Reconocer legalmente el derecho subjetivo a la vivienda, empezando por personas sin hogar.",
+   "objeto": "Derecho subjetivo a la vivienda",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "derecho subjetivo vivienda",
+    "sinhogarismo",
+    "derecho a la vivienda",
+    "ley vivienda",
+    "artículo 47"
+   ]
+  },
+  {
+   "id": "SUMAR-31",
+   "cita": "Desarrollaremos una normativa específica para que en suelo urbano consolidado se garantice una reserva del 30% para vivienda protegida.",
+   "pagina": 79,
+   "resumen": "Aprobar una norma que reserve el 30% del suelo urbano consolidado a vivienda protegida.",
+   "objeto": "Reserva de suelo para vivienda protegida",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "reserva vivienda protegida",
+    "suelo urbano",
+    "ley del suelo",
+    "vivienda protegida",
+    "30%"
+   ]
+  },
+  {
+   "id": "SUMAR-32",
+   "cita": "Modificaremos la Ley del Suelo en coordinación con las comunidades autónomas y entidades lo- cales para apostar por el desarrollo de ciudades más compactas",
+   "pagina": 73,
+   "resumen": "Reformar la Ley del Suelo para favorecer ciudades compactas con nuevos estándares de dotaciones.",
+   "objeto": "Ley del Suelo",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "ley del suelo",
+    "urbanismo",
+    "suelo",
+    "rehabilitación urbana",
+    "dotaciones"
+   ]
+  },
+  {
+   "id": "SUMAR-33",
+   "cita": "Proponemos la creación de un banco de recursos de suelo e inmuebles públicos en desuso y el fomento de los comunes urbanos. Se implementarán estrategias para la dotación de suelo público destinado al desarrollo de vivienda social pública",
+   "pagina": 73,
+   "resumen": "Crear un banco de suelo e inmuebles públicos en desuso destinados, entre otros usos, a vivienda social.",
+   "objeto": "Banco de suelo e inmuebles públicos en desuso",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "suelo público",
+    "inmuebles en desuso",
+    "vivienda social",
+    "banco de suelo",
+    "patrimonio público"
+   ]
+  },
+  {
+   "id": "SUMAR-34",
+   "cita": "Impulsaremos la creación de un programa estatal de rehabilitación y mejora de los barrios donde se concentra la población más vulnerable de nuestras áreas urbanas.",
+   "pagina": 72,
+   "resumen": "Crear un programa estatal con ayudas anuales para rehabilitar barrios vulnerables, incluida la rehabilitación de viviendas.",
+   "objeto": "Programa estatal de barrios vulnerables",
+   "tipo": "presupuestaria",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "rehabilitación barrios",
+    "barrios vulnerables",
+    "rehabilitación viviendas",
+    "regeneración urbana",
+    "ayudas"
+   ]
+  },
+  {
+   "id": "SUMAR-35",
+   "cita": "La rehabilitación de 500.000 viviendas 100% eléctricas al año, un 3% del parque inmobiliario de primera vivienda, con el compromiso público de ejecutar la rehabilitación de 250.000 viviendas adicionales al año que pertenezcan a familias vulnerables",
+   "pagina": 47,
+   "resumen": "Rehabilitar 500.000 viviendas al año y otras 250.000 de familias vulnerables con ejecución pública.",
+   "objeto": "Ritmo anual de rehabilitación de viviendas",
+   "tipo": "resultado",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "rehabilitación viviendas",
+    "eficiencia energética",
+    "rehabilitación energética",
+    "familias vulnerables",
+    "fondos europeos"
+   ]
+  },
+  {
+   "id": "SUMAR-36",
+   "cita": "Iniciativa pública de construcción de vivienda nueva y de compra y reforma de vivienda en desuso para alquiler.",
+   "pagina": 58,
+   "resumen": "Construir vivienda pública y comprar y reformar vivienda vacía para alquiler en zonas rurales.",
+   "objeto": "Vivienda pública de alquiler en medio rural",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "baja",
+   "palabras_clave": [
+    "vivienda rural",
+    "despoblación",
+    "vivienda en desuso",
+    "alquiler",
+    "vivienda pública"
+   ]
+  },
+  {
+   "id": "SUMAR-37",
+   "cita": "pondremos en marcha un plan de ayuda a la emancipación juvenil con un paquete de medidas urgentes para facilitar el acceso a la vivienda de las personas jóvenes en todas las comunidades autónomas.",
+   "pagina": 103,
+   "resumen": "Aprobar un plan de ayuda a la emancipación juvenil para facilitar el acceso de los jóvenes a la vivienda.",
+   "objeto": "Plan de emancipación juvenil",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "emancipación juvenil",
+    "vivienda jóvenes",
+    "bono alquiler joven",
+    "jóvenes",
+    "acceso vivienda"
+   ]
+  }
+ ]
+}

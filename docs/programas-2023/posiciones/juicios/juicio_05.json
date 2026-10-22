@@ -1,0 +1,3167 @@
+[
+ {
+  "key": "P05-000",
+  "relaciones": [
+   {
+    "id": "112-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-106",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-105",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-104",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-103",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-102",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-101",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-100",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-001",
+  "relaciones": [
+   {
+    "id": "101-5",
+    "relacion": "avanza",
+    "motivo": "Reafirma integridad territorial de Ucrania y apoyo europeo, sin mencionar sanciones ni ayuda concreta"
+   },
+   {
+    "id": "40-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-8",
+    "relacion": "avanza",
+    "motivo": "Punto 4: condena la invasión rusa y envía ayuda militar a Ucrania; no menciona sanciones"
+   },
+   {
+    "id": "40-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-002",
+  "relaciones": [
+   {
+    "id": "94-1",
+    "relacion": "relacionada",
+    "motivo": "Nacionalidad para saharauis nacidos bajo administración española, no para nietos de españoles"
+   },
+   {
+    "id": "196-3",
+    "relacion": "relacionada",
+    "motivo": "Dictamen sobre nacionalidad de saharauis; no afecta a nietos de españoles"
+   },
+   {
+    "id": "196-1",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a la ley de nacionalidad saharaui; no trata nietos de españoles"
+   },
+   {
+    "id": "196-2",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a la ley de nacionalidad saharaui; no trata nietos de españoles"
+   },
+   {
+    "id": "154-26",
+    "relacion": "relacionada",
+    "motivo": "Avocación de la ley de nacionalidad saharaui; no trata nietos de españoles"
+   },
+   {
+    "id": "41-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-003",
+  "relaciones": [
+   {
+    "id": "142-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: cumplir compromiso de gasto con la OTAN; no aborda autonomía estratégica europea"
+   }
+  ]
+ },
+ {
+  "key": "P05-004",
+  "relaciones": [
+   {
+    "id": "101-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "148-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: usar la exigencia de unanimidad en el Consejo para defender la PAC"
+   },
+   {
+    "id": "142-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-005",
+  "relaciones": [
+   {
+    "id": "49-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: más cooperación con campamentos de refugiados saharauis"
+   },
+   {
+    "id": "49-6",
+    "relacion": "avanza",
+    "motivo": "Punto 6: apoyar la misión de la ONU para el referéndum con neutralidad"
+   },
+   {
+    "id": "49-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: espacio aéreo y marítimo del Sáhara salvaguardando soberanía española"
+   },
+   {
+    "id": "49-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-2",
+    "relacion": "avanza",
+    "motivo": "Punto 2: recuperar la neutralidad activa sobre el Sáhara, sin mencionar autodeterminación"
+   },
+   {
+    "id": "49-1",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: comunicar a Marruecos la posición del Congreso sobre el Sáhara"
+   },
+   {
+    "id": "40-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-006",
+  "relaciones": [
+   {
+    "id": "183-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "15-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "15-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-106",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-105",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-104",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-103",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-102",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-007",
+  "relaciones": [
+   {
+    "id": "166-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "41-1",
+    "relacion": "relacionada",
+    "motivo": "Reforma la Ley de Acción Exterior sobre control parlamentario, no sobre organismos autonómicos"
+   },
+   {
+    "id": "103-2",
+    "relacion": "contradice",
+    "motivo": "Pide defender y reforzar la cooperación al desarrollo de comunidades autónomas y entidades locales"
+   },
+   {
+    "id": "112-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "198-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-008",
+  "relaciones": [
+   {
+    "id": "148-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: invoca la unanimidad en el Consejo para defender intereses agrarios"
+   },
+   {
+    "id": "183-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: apoyar reforma de Tratados para la soberanía europea, sin citar unanimidad"
+   },
+   {
+    "id": "191-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-009",
+  "relaciones": [
+   {
+    "id": "41-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "112-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-010",
+  "relaciones": [
+   {
+    "id": "183-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-011",
+  "relaciones": [
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: dotar de medios a jueces y policía para proteger a las mujeres, sin citar la ley"
+   },
+   {
+    "id": "142-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-11",
+    "relacion": "contradice",
+    "motivo": "Punto 3: revertir los efectos de la Ley Orgánica de garantía integral de la libertad sexual"
+   },
+   {
+    "id": "142-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-012",
+  "relaciones": [
+   {
+    "id": "142-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: destituir a la ministra de Igualdad, no suprimir el ministerio"
+   },
+   {
+    "id": "142-16",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: traspasar el sistema COMETA de Igualdad a Interior"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-13",
+    "relacion": "cumple",
+    "motivo": "Punto 5: suprimir el Ministerio de Igualdad"
+   },
+   {
+    "id": "142-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-013",
+  "relaciones": [
+   {
+    "id": "151-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "160-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-60",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-57",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-014",
+  "relaciones": [
+   {
+    "id": "36-38",
+    "relacion": "avanza",
+    "motivo": "Crea la subcomisión para renovar y actualizar el Pacto de Estado"
+   },
+   {
+    "id": "95-5",
+    "relacion": "cumple",
+    "motivo": "Aprobación del informe de renovación y actualización del Pacto de Estado"
+   },
+   {
+    "id": "95-22",
+    "relacion": "cumple",
+    "motivo": "Aprobación del informe de renovación y actualización del Pacto de Estado"
+   },
+   {
+    "id": "95-2",
+    "relacion": "cumple",
+    "motivo": "Aprobación del informe de renovación y actualización del Pacto de Estado"
+   },
+   {
+    "id": "95-6",
+    "relacion": "relacionada",
+    "motivo": "Voto particular al informe de renovación del Pacto de Estado; contenido no disponible"
+   },
+   {
+    "id": "95-4",
+    "relacion": "relacionada",
+    "motivo": "Voto particular al informe de renovación del Pacto de Estado; contenido no disponible"
+   },
+   {
+    "id": "95-3",
+    "relacion": "relacionada",
+    "motivo": "Voto particular al informe de renovación del Pacto de Estado; contenido no disponible"
+   },
+   {
+    "id": "95-1",
+    "relacion": "relacionada",
+    "motivo": "Voto particular al informe de renovación del Pacto de Estado; contenido no disponible"
+   }
+  ]
+ },
+ {
+  "key": "P05-015",
+  "relaciones": [
+   {
+    "id": "58-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-38",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-016",
+  "relaciones": [
+   {
+    "id": "191-15",
+    "relacion": "relacionada",
+    "motivo": "Estrategia contra terapias de conversión LGTBI; no es una nueva ley trans"
+   },
+   {
+    "id": "121-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-38",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-017",
+  "relaciones": [
+   {
+    "id": "79-25",
+    "relacion": "cumple",
+    "motivo": "Punto 2: coordinar con CCAA el acceso a la salud reproductiva en igualdad sin obstrucción por objeción"
+   },
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-018",
+  "relaciones": [
+   {
+    "id": "56-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-60",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-54",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-019",
+  "relaciones": [
+   {
+    "id": "121-3",
+    "relacion": "relacionada",
+    "motivo": "Defensa de derechos LGTBI en Hungría y en el exterior"
+   },
+   {
+    "id": "191-15",
+    "relacion": "avanza",
+    "motivo": "Estrategia estatal contra terapias de conversión en el marco de los derechos LGTBI"
+   },
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-60",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-57",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-020",
+  "relaciones": [
+   {
+    "id": "56-61",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; la ley impone presencia equilibrada por sexo"
+   },
+   {
+    "id": "56-60",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; la ley impone presencia equilibrada por sexo"
+   },
+   {
+    "id": "56-59",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; la ley impone presencia equilibrada por sexo"
+   },
+   {
+    "id": "56-58",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; la ley impone presencia equilibrada por sexo"
+   },
+   {
+    "id": "56-57",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; la ley impone presencia equilibrada por sexo"
+   },
+   {
+    "id": "56-56",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; la ley impone presencia equilibrada por sexo"
+   },
+   {
+    "id": "56-55",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; la ley impone presencia equilibrada por sexo"
+   },
+   {
+    "id": "56-54",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; la ley impone presencia equilibrada por sexo"
+   }
+  ]
+ },
+ {
+  "key": "P05-021",
+  "relaciones": [
+   {
+    "id": "121-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: defender el liderazgo español en derechos LGTBI"
+   },
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-022",
+  "relaciones": [
+   {
+    "id": "130-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "130-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "130-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "130-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "130-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "148-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-023",
+  "relaciones": [
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-024",
+  "relaciones": [
+   {
+    "id": "134-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-025",
+  "relaciones": [
+   {
+    "id": "134-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: dotar de medios al Poder Judicial para proteger a las mujeres, sin juzgados específicos"
+   },
+   {
+    "id": "142-13",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-026",
+  "relaciones": [
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-027",
+  "relaciones": [
+   {
+    "id": "56-61",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; votarlas no equivale a aprobar la ley"
+   },
+   {
+    "id": "56-60",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; votarlas no equivale a aprobar la ley"
+   },
+   {
+    "id": "56-59",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; votarlas no equivale a aprobar la ley"
+   },
+   {
+    "id": "56-58",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; votarlas no equivale a aprobar la ley"
+   },
+   {
+    "id": "56-57",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; votarlas no equivale a aprobar la ley"
+   },
+   {
+    "id": "56-56",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; votarlas no equivale a aprobar la ley"
+   },
+   {
+    "id": "56-55",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; votarlas no equivale a aprobar la ley"
+   },
+   {
+    "id": "56-54",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; votarlas no equivale a aprobar la ley"
+   }
+  ]
+ },
+ {
+  "key": "P05-028",
+  "relaciones": [
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-60",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-55",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-029",
+  "relaciones": [
+   {
+    "id": "191-15",
+    "relacion": "avanza",
+    "motivo": "Estrategia contra terapias de conversión en el marco de su futura regulación penal; prohibir su promoción"
+   },
+   {
+    "id": "121-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-030",
+  "relaciones": [
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-12",
+    "relacion": "contradice",
+    "motivo": "Punto 4: suspender el Pacto de Estado contra la Violencia de Género"
+   },
+   {
+    "id": "142-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-10",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: derogar la Ley Integral de Violencia de Género"
+   }
+  ]
+ },
+ {
+  "key": "P05-031",
+  "relaciones": [
+   {
+    "id": "134-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-032",
+  "relaciones": [
+   {
+    "id": "160-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "109-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-033",
+  "relaciones": [
+   {
+    "id": "151-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-60",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-55",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-034",
+  "relaciones": [
+   {
+    "id": "79-25",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: seguir desarrollando políticas de igualdad de género, sin planes ni inspecciones"
+   },
+   {
+    "id": "56-61",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; afecta a presencia equilibrada en empresas"
+   },
+   {
+    "id": "56-60",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; afecta a presencia equilibrada en empresas"
+   },
+   {
+    "id": "56-59",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; afecta a presencia equilibrada en empresas"
+   },
+   {
+    "id": "56-58",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; afecta a presencia equilibrada en empresas"
+   },
+   {
+    "id": "56-57",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; afecta a presencia equilibrada en empresas"
+   },
+   {
+    "id": "56-56",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; afecta a presencia equilibrada en empresas"
+   },
+   {
+    "id": "56-55",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; afecta a presencia equilibrada en empresas"
+   }
+  ]
+ },
+ {
+  "key": "P05-035",
+  "relaciones": [
+   {
+    "id": "68-5",
+    "relacion": "avanza",
+    "motivo": "Medidas contra la violencia digital de género, incluir referencias explícitas en la legislación"
+   },
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-036",
+  "relaciones": [
+   {
+    "id": "148-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "160-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-60",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-57",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-037",
+  "relaciones": [
+   {
+    "id": "79-25",
+    "relacion": "avanza",
+    "motivo": "Punto 2: garantizar acceso a la salud reproductiva en igualdad en el SNS frente a la objeción"
+   },
+   {
+    "id": "58-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "121-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "160-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "130-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-038",
+  "relaciones": [
+   {
+    "id": "56-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-60",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-54",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-039",
+  "relaciones": [
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-12",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: suspender el Pacto de Estado contra la Violencia de Género"
+   },
+   {
+    "id": "142-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-10",
+    "relacion": "cumple",
+    "motivo": "Punto 2: derogar la Ley Orgánica 1/2004 de Violencia de Género"
+   }
+  ]
+ },
+ {
+  "key": "P05-040",
+  "relaciones": [
+   {
+    "id": "134-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-041",
+  "relaciones": [
+   {
+    "id": "134-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: transparencia sobre excarcelaciones y rebajas por la ley del solo sí es sí"
+   },
+   {
+    "id": "79-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-042",
+  "relaciones": [
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "avanza",
+    "motivo": "Punto 7: eliminar subvenciones concedidas al amparo de la Ley de Igualdad"
+   },
+   {
+    "id": "142-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-13",
+    "relacion": "avanza",
+    "motivo": "Punto 5: suprimir el Ministerio de Igualdad"
+   },
+   {
+    "id": "142-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-043",
+  "relaciones": [
+   {
+    "id": "56-61",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; regula presencia equilibrada en dirección"
+   },
+   {
+    "id": "56-60",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; regula presencia equilibrada en dirección"
+   },
+   {
+    "id": "56-59",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; regula presencia equilibrada en dirección"
+   },
+   {
+    "id": "56-58",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; regula presencia equilibrada en dirección"
+   },
+   {
+    "id": "56-57",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; regula presencia equilibrada en dirección"
+   },
+   {
+    "id": "56-56",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; regula presencia equilibrada en dirección"
+   },
+   {
+    "id": "56-55",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; regula presencia equilibrada en dirección"
+   },
+   {
+    "id": "56-54",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de paridad, contenido no disponible; regula presencia equilibrada en dirección"
+   }
+  ]
+ },
+ {
+  "key": "P05-044",
+  "relaciones": [
+   {
+    "id": "154-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "148-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "121-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-61",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-045",
+  "relaciones": [
+   {
+    "id": "151-3",
+    "relacion": "relacionada",
+    "motivo": "Combatir el negacionismo en cumplimiento del Pacto renovado, sin financiación"
+   },
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-13",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: auditar el gasto estatal en políticas contra la violencia de género"
+   },
+   {
+    "id": "142-12",
+    "relacion": "contradice",
+    "motivo": "Punto 4: suspender el Pacto de Estado contra la Violencia de Género"
+   },
+   {
+    "id": "142-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-046",
+  "relaciones": [
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-047",
+  "relaciones": [
+   {
+    "id": "85-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: destituir a la ministra de Igualdad"
+   },
+   {
+    "id": "142-16",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: traspasar el sistema COMETA a Interior"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-13",
+    "relacion": "contradice",
+    "motivo": "Punto 5: suprimir el Ministerio de Igualdad"
+   },
+   {
+    "id": "142-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-048",
+  "relaciones": [
+   {
+    "id": "56-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-60",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "56-54",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-049",
+  "relaciones": [
+   {
+    "id": "151-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-38",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-13",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-050",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-051",
+  "relaciones": [
+   {
+    "id": "139-18",
+    "relacion": "relacionada",
+    "motivo": "Proyecto que modifica LGT, IRPF, Sociedades, Patrimonio y Sucesiones; contenido visible técnico"
+   },
+   {
+    "id": "151-13",
+    "relacion": "relacionada",
+    "motivo": "Avocación del proyecto que modifica LGT, Patrimonio y Sucesiones; contenido técnico"
+   },
+   {
+    "id": "124-7",
+    "relacion": "avanza",
+    "motivo": "Puntos 3 y 4: bonificar 99 % Sucesiones a grupos I y II y excluir relevo familiar"
+   },
+   {
+    "id": "93-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-9",
+    "relacion": "avanza",
+    "motivo": "Punto 2: derogar el impuesto de Sucesiones y Donaciones; no toca Patrimonio ni plusvalía"
+   },
+   {
+    "id": "169-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-29",
+    "relacion": "relacionada",
+    "motivo": "Punto no visible en el texto disponible de medidas de rebaja fiscal"
+   },
+   {
+    "id": "169-28",
+    "relacion": "relacionada",
+    "motivo": "Punto no visible en el texto disponible de medidas de rebaja fiscal"
+   }
+  ]
+ },
+ {
+  "key": "P05-052",
+  "relaciones": [
+   {
+    "id": "33-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: revisar la contratación centralizada para reducir la presión fiscal"
+   },
+   {
+    "id": "33-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-18",
+    "relacion": "avanza",
+    "motivo": "Refuerza recaudación y lucha contra la evasión (prescripción, criptoactivos, DAC 8)"
+   },
+   {
+    "id": "151-13",
+    "relacion": "relacionada",
+    "motivo": "Avocación del proyecto que modifica LGT, Patrimonio y Sucesiones; contenido técnico"
+   },
+   {
+    "id": "19-7",
+    "relacion": "relacionada",
+    "motivo": "Estrategia fiscal para reducir deuda, sin referencia al fraude"
+   },
+   {
+    "id": "177-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-053",
+  "relaciones": [
+   {
+    "id": "34-12",
+    "relacion": "cumple",
+    "motivo": "Deflactar el IRPF al menos en los tres primeros tramos y mínimos"
+   },
+   {
+    "id": "174-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-14",
+    "relacion": "cumple",
+    "motivo": "Punto 1: deflactar el IRPF para compensar la progresividad en frío"
+   },
+   {
+    "id": "169-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-29",
+    "relacion": "relacionada",
+    "motivo": "Punto no visible en el texto disponible de medidas de rebaja fiscal"
+   },
+   {
+    "id": "169-28",
+    "relacion": "relacionada",
+    "motivo": "Punto no visible en el texto disponible de medidas de rebaja fiscal"
+   }
+  ]
+ },
+ {
+  "key": "P05-054",
+  "relaciones": [
+   {
+    "id": "139-18",
+    "relacion": "relacionada",
+    "motivo": "Proyecto que modifica LGT, IRPF, Sociedades, Patrimonio y Sucesiones; contenido visible técnico"
+   },
+   {
+    "id": "151-13",
+    "relacion": "relacionada",
+    "motivo": "Avocación del proyecto que modifica LGT, Patrimonio y Sucesiones; contenido técnico"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-055",
+  "relaciones": [
+   {
+    "id": "174-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-14",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: deflactar el IRPF; no afecta al tipo marginal máximo"
+   },
+   {
+    "id": "146-62",
+    "relacion": "contradice",
+    "motivo": "Punto 4: IRPF con tipo máximo del 25 % por encima de 70.000 euros"
+   },
+   {
+    "id": "146-61",
+    "relacion": "contradice",
+    "motivo": "Punto 4: IRPF con tipo máximo del 25 % por encima de 70.000 euros"
+   },
+   {
+    "id": "93-1",
+    "relacion": "contradice",
+    "motivo": "Punto 6: IRPF del 15 % y 25 %, rebajando la tributación de rentas altas"
+   },
+   {
+    "id": "98-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-13",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: elevar el mínimo exento del IRPF"
+   }
+  ]
+ },
+ {
+  "key": "P05-056",
+  "relaciones": [
+   {
+    "id": "92-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-057",
+  "relaciones": [
+   {
+    "id": "88-99",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley del impuesto mínimo global; contenido no disponible"
+   },
+   {
+    "id": "88-98",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley del impuesto mínimo global; contenido no disponible"
+   },
+   {
+    "id": "88-97",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley del impuesto mínimo global; contenido no disponible"
+   },
+   {
+    "id": "88-96",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley del impuesto mínimo global; contenido no disponible"
+   },
+   {
+    "id": "88-95",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley del impuesto mínimo global; contenido no disponible"
+   },
+   {
+    "id": "88-91",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley del impuesto mínimo global; contenido no disponible"
+   },
+   {
+    "id": "88-90",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley del impuesto mínimo global; contenido no disponible"
+   },
+   {
+    "id": "88-103",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley del impuesto mínimo global; contenido no disponible"
+   }
+  ]
+ },
+ {
+  "key": "P05-058",
+  "relaciones": [
+   {
+    "id": "174-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-14",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: deflactar el IRPF, sin reducirlo a dos tipos"
+   },
+   {
+    "id": "98-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-13",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: elevar el mínimo exento del IRPF"
+   },
+   {
+    "id": "98-12",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: deflactar la tarifa del IRPF, sin dos tipos"
+   },
+   {
+    "id": "98-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-059",
+  "relaciones": [
+   {
+    "id": "144-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "130-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-060",
+  "relaciones": [
+   {
+    "id": "46-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-14",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: deflactar el IRPF, sin citar mínimos por descendientes"
+   },
+   {
+    "id": "169-50",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-49",
+    "relacion": "cumple",
+    "motivo": "Punto 3: actualizar el IRPF a la inflación duplicando los mínimos por descendientes"
+   },
+   {
+    "id": "169-48",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-061",
+  "relaciones": [
+   {
+    "id": "98-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-10",
+    "relacion": "avanza",
+    "motivo": "Punto 1: recuperar el IVA del 2 % para alimentos básicos hasta fin de 2025"
+   },
+   {
+    "id": "169-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-29",
+    "relacion": "relacionada",
+    "motivo": "Punto no visible en el texto disponible de medidas de rebaja fiscal"
+   }
+  ]
+ },
+ {
+  "key": "P05-062",
+  "relaciones": [
+   {
+    "id": "139-18",
+    "relacion": "relacionada",
+    "motivo": "Proyecto que modifica parcialmente Sociedades, con contenido técnico"
+   },
+   {
+    "id": "151-13",
+    "relacion": "relacionada",
+    "motivo": "Avocación del proyecto que modifica LGT, Patrimonio y Sucesiones; contenido técnico"
+   },
+   {
+    "id": "124-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-29",
+    "relacion": "relacionada",
+    "motivo": "Punto no visible en el texto disponible de medidas de rebaja fiscal"
+   },
+   {
+    "id": "169-28",
+    "relacion": "relacionada",
+    "motivo": "Punto no visible en el texto disponible de medidas de rebaja fiscal"
+   },
+   {
+    "id": "169-27",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-063",
+  "relaciones": [
+   {
+    "id": "115-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-064",
+  "relaciones": [
+   {
+    "id": "93-1",
+    "relacion": "cumple",
+    "motivo": "Punto 1: reducir el IVA general al 18 % y el reducido al 8 %"
+   },
+   {
+    "id": "98-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "98-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: rebajar el IVA de electricidad y gas, no tipos generales"
+   },
+   {
+    "id": "98-10",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: IVA reducido para alimentos básicos, no tipos generales"
+   },
+   {
+    "id": "169-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: IVA del 5 % en suministros energéticos, no tipos generales"
+   }
+  ]
+ },
+ {
+  "key": "P05-065",
+  "relaciones": [
+   {
+    "id": "124-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "115-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-066",
+  "relaciones": [
+   {
+    "id": "139-18",
+    "relacion": "relacionada",
+    "motivo": "Proyecto que modifica LGT, IRPF, Sociedades, Patrimonio y Sucesiones; contenido visible técnico"
+   },
+   {
+    "id": "151-13",
+    "relacion": "relacionada",
+    "motivo": "Avocación del proyecto que modifica LGT, Patrimonio y Sucesiones; contenido técnico"
+   },
+   {
+    "id": "124-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: bonificar 99 % Sucesiones a familiares directos, sin armonización"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-067",
+  "relaciones": [
+   {
+    "id": "139-18",
+    "relacion": "relacionada",
+    "motivo": "Modifica la prescripción en la Ley General Tributaria, sin plantilla ni penas"
+   },
+   {
+    "id": "151-13",
+    "relacion": "relacionada",
+    "motivo": "Avocación del proyecto que modifica LGT, Patrimonio y Sucesiones; contenido técnico"
+   },
+   {
+    "id": "169-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-26",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-068",
+  "relaciones": [
+   {
+    "id": "146-62",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-069",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-070",
+  "relaciones": [
+   {
+    "id": "88-99",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-98",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-103",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-071",
+  "relaciones": [
+   {
+    "id": "115-5",
+    "relacion": "relacionada",
+    "motivo": "Puntos 3 y 4: neutralidad de la Agencia Tributaria y controles anticorrupción"
+   },
+   {
+    "id": "161-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-072",
+  "relaciones": [
+   {
+    "id": "185-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-29",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "111-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "106-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-073",
+  "relaciones": [
+   {
+    "id": "46-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-1",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: reducir tipos del IRPF cuatro puntos por hijo, sin deducción por nacimiento"
+   },
+   {
+    "id": "174-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: PGE con deflactación del IRPF y deducción por maternidad"
+   }
+  ]
+ },
+ {
+  "key": "P05-074",
+  "relaciones": [
+   {
+    "id": "56-77",
+    "relacion": "relacionada",
+    "motivo": "Objetivos de estabilidad y deuda del Gobierno; no consta un mayor equilibrio"
+   },
+   {
+    "id": "154-29",
+    "relacion": "relacionada",
+    "motivo": "Objetivos de estabilidad y deuda del Gobierno; no consta un mayor equilibrio"
+   },
+   {
+    "id": "193-20",
+    "relacion": "relacionada",
+    "motivo": "Objetivos de estabilidad y deuda del Gobierno; no consta un mayor equilibrio"
+   },
+   {
+    "id": "151-18",
+    "relacion": "relacionada",
+    "motivo": "Objetivos de estabilidad y deuda del Gobierno; no consta un mayor equilibrio"
+   },
+   {
+    "id": "26-16",
+    "relacion": "relacionada",
+    "motivo": "Objetivos de estabilidad y deuda del Gobierno; no consta un mayor equilibrio"
+   },
+   {
+    "id": "192-50",
+    "relacion": "relacionada",
+    "motivo": "Objetivos de estabilidad y deuda del Gobierno; no consta un mayor equilibrio"
+   },
+   {
+    "id": "19-7",
+    "relacion": "avanza",
+    "motivo": "Estrategia fiscal a medio plazo para situar la deuda en senda descendente"
+   },
+   {
+    "id": "15-5",
+    "relacion": "relacionada",
+    "motivo": "Objetivos de estabilidad y deuda del Gobierno; no consta un mayor equilibrio"
+   }
+  ]
+ },
+ {
+  "key": "P05-075",
+  "relaciones": [
+   {
+    "id": "124-7",
+    "relacion": "contradice",
+    "motivo": "Punto 3: bonificar el 99 % de Sucesiones a grupos I y II"
+   },
+   {
+    "id": "169-9",
+    "relacion": "contradice",
+    "motivo": "Punto 2: derogar el impuesto de Sucesiones y Donaciones"
+   },
+   {
+    "id": "169-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-29",
+    "relacion": "relacionada",
+    "motivo": "Punto no visible en el texto disponible de medidas de rebaja fiscal"
+   },
+   {
+    "id": "169-28",
+    "relacion": "relacionada",
+    "motivo": "Punto no visible en el texto disponible de medidas de rebaja fiscal"
+   },
+   {
+    "id": "169-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-25",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-076",
+  "relaciones": [
+   {
+    "id": "169-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-29",
+    "relacion": "relacionada",
+    "motivo": "Punto no visible en el texto disponible de medidas de rebaja fiscal"
+   },
+   {
+    "id": "169-28",
+    "relacion": "relacionada",
+    "motivo": "Punto no visible en el texto disponible de medidas de rebaja fiscal"
+   },
+   {
+    "id": "169-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-24",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-077",
+  "relaciones": [
+   {
+    "id": "26-16",
+    "relacion": "relacionada",
+    "motivo": "Objetivos de estabilidad y deuda del Gobierno; no consta un mayor equilibrio"
+   },
+   {
+    "id": "151-18",
+    "relacion": "relacionada",
+    "motivo": "Objetivos de estabilidad y deuda del Gobierno; no consta un mayor equilibrio"
+   },
+   {
+    "id": "154-29",
+    "relacion": "relacionada",
+    "motivo": "Objetivos de estabilidad y deuda del Gobierno; no consta un mayor equilibrio"
+   },
+   {
+    "id": "193-20",
+    "relacion": "relacionada",
+    "motivo": "Objetivos de estabilidad y deuda del Gobierno; no consta un mayor equilibrio"
+   },
+   {
+    "id": "109-12",
+    "relacion": "relacionada",
+    "motivo": "Presentar PGE y objetivos de estabilidad, sin presupuesto base cero"
+   },
+   {
+    "id": "109-11",
+    "relacion": "relacionada",
+    "motivo": "Presentar PGE y objetivos de estabilidad, sin presupuesto base cero"
+   },
+   {
+    "id": "109-10",
+    "relacion": "relacionada",
+    "motivo": "Presentar PGE y objetivos de estabilidad, sin presupuesto base cero"
+   },
+   {
+    "id": "192-50",
+    "relacion": "relacionada",
+    "motivo": "Objetivos de estabilidad y deuda del Gobierno; no consta un mayor equilibrio"
+   }
+  ]
+ },
+ {
+  "key": "P05-078",
+  "relaciones": [
+   {
+    "id": "202-2",
+    "relacion": "avanza",
+    "motivo": "Impulsar un instrumento europeo de contribución de energéticas sobre beneficios extraordinarios"
+   },
+   {
+    "id": "34-2",
+    "relacion": "avanza",
+    "motivo": "Ley para gravar los beneficios extraordinarios de la gran banca"
+   },
+   {
+    "id": "96-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-99",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley del impuesto mínimo global; contenido no disponible"
+   },
+   {
+    "id": "88-98",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley del impuesto mínimo global; contenido no disponible"
+   },
+   {
+    "id": "88-97",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley del impuesto mínimo global; contenido no disponible"
+   },
+   {
+    "id": "88-96",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley del impuesto mínimo global; contenido no disponible"
+   },
+   {
+    "id": "88-95",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley del impuesto mínimo global; contenido no disponible"
+   }
+  ]
+ },
+ {
+  "key": "P05-079",
+  "relaciones": [
+   {
+    "id": "139-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-45",
+    "relacion": "relacionada",
+    "motivo": "Punto 7.15 no visible en el texto disponible"
+   },
+   {
+    "id": "169-44",
+    "relacion": "relacionada",
+    "motivo": "Punto 7.14 no visible en el texto disponible"
+   },
+   {
+    "id": "169-43",
+    "relacion": "relacionada",
+    "motivo": "Punto 7.13 no visible en el texto disponible"
+   },
+   {
+    "id": "169-42",
+    "relacion": "relacionada",
+    "motivo": "Punto 6 no visible en el texto disponible"
+   },
+   {
+    "id": "169-41",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-080",
+  "relaciones": [
+   {
+    "id": "111-2",
+    "relacion": "avanza",
+    "motivo": "Nuevo impuesto a emisiones de jets privados y yates de lujo"
+   },
+   {
+    "id": "88-66",
+    "relacion": "contradice",
+    "motivo": "Puntos 3 y 4a: derogar políticas climáticas y suspender el comercio de derechos de CO2"
+   },
+   {
+    "id": "88-65",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-64",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-63",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-62",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-60",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-081",
+  "relaciones": [
+   {
+    "id": "169-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-43",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-41",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-39",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-38",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P05-082",
+  "relaciones": [
+   {
+    "id": "202-2",
+    "relacion": "avanza",
+    "motivo": "Impulsar contribución europea de energéticas sobre beneficios extraordinarios"
+   },
+   {
+    "id": "34-2",
+    "relacion": "avanza",
+    "motivo": "Ley para gravar los beneficios extraordinarios de la gran banca"
+   },
+   {
+    "id": "96-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "82-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "130-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   }
+  ]
+ }
+]

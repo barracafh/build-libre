@@ -1,0 +1,167 @@
+{
+ "party": "BNG",
+ "promesas": [
+  {
+   "id": "BNG-01",
+   "cita": "Aumentar o investimento destinado á vivenda até alcanzar os 250 euros por habitante.",
+   "pagina": 15,
+   "resumen": "Elevar la inversión pública en vivienda hasta 250 euros por habitante.",
+   "objeto": "Inversión pública en vivienda por habitante",
+   "tipo": "presupuestaria",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "inversión vivienda",
+    "presupuestos vivienda",
+    "vivienda pública",
+    "gasto vivienda",
+    "Galicia"
+   ]
+  },
+  {
+   "id": "BNG-02",
+   "cita": "Incrementar as reservas mínimas de solo de vivenda protexida, especialmente para actuacións de renovación e rexeneración urbanas.",
+   "pagina": 15,
+   "resumen": "Aumentar las reservas mínimas de suelo para vivienda protegida, en especial en renovación urbana.",
+   "objeto": "Reservas mínimas de suelo para vivienda protegida",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "reserva suelo",
+    "vivienda protegida",
+    "ley del suelo",
+    "regeneración urbana",
+    "suelo"
+   ]
+  },
+  {
+   "id": "BNG-03",
+   "cita": "Transferir de forma gratuíta as vivendas, solos e promocións da SAREB, de forma que permitan aumentar a oferta de parque público de vivenda do IGVS alí onde exista demanda.",
+   "pagina": 15,
+   "resumen": "Transferir gratis viviendas, suelos y promociones de la Sareb en Galicia al parque público del IGVS.",
+   "objeto": "Activos de la Sareb en Galicia",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "Sareb",
+    "transferencia viviendas",
+    "vivienda pública",
+    "Galicia",
+    "IGVS"
+   ]
+  },
+  {
+   "id": "BNG-04",
+   "cita": "Evitar a degradación, o alleamento e a privatización do patrimonio público do solo e da vivenda, nomeadamente de entidades estatais como ADIF, INVIED ou Portos do Estado, procurando o seu uso como vivendas e espazos públicos e a cesión ás CCAA.",
+   "pagina": 15,
+   "resumen": "Impedir la venta de suelo y vivienda de ADIF, INVIED y Puertos del Estado y cederlos a las comunidades autónomas.",
+   "objeto": "Patrimonio público de suelo y vivienda estatal",
+   "tipo": "ejecutiva",
+   "direccion": "mantener",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "Adif",
+    "INVIED",
+    "Puertos del Estado",
+    "patrimonio público suelo",
+    "cesión comunidades autónomas"
+   ]
+  },
+  {
+   "id": "BNG-05",
+   "cita": "Ampliar os criterios de recargo do IBI de forma que promovan unha maior mobilización da vivenda baleira.",
+   "pagina": 15,
+   "resumen": "Ampliar los supuestos del recargo del IBI sobre viviendas vacías.",
+   "objeto": "Recargo del IBI a viviendas vacías",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "IBI",
+    "recargo IBI",
+    "viviendas vacías",
+    "haciendas locales",
+    "vivienda vacía"
+   ]
+  },
+  {
+   "id": "BNG-06",
+   "cita": "Incorporar nos programas estatais de vivenda medidas e recursos para mobilizar a vivenda baleira cara á súa ocupación e cara ao aluguer accesíbel",
+   "pagina": 15,
+   "resumen": "Incluir en los planes estatales de vivienda medidas y fondos para movilizar vivienda vacía hacia alquiler asequible.",
+   "objeto": "Plan Estatal de Vivienda y vivienda vacía",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "plan estatal vivienda",
+    "vivienda vacía",
+    "alquiler asequible",
+    "movilización vivienda",
+    "ayudas vivienda"
+   ]
+  },
+  {
+   "id": "BNG-07",
+   "cita": "Modificar os criterios e a xestión de axudas á",
+   "pagina": 16,
+   "resumen": "Cambiar los criterios de las ayudas a rehabilitación y eficiencia energética de viviendas, incluidos fondos europeos.",
+   "objeto": "Ayudas a rehabilitación de vivienda",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "rehabilitación vivienda",
+    "eficiencia energética",
+    "fondos europeos",
+    "ayudas rehabilitación",
+    "vulnerables"
+   ]
+  },
+  {
+   "id": "BNG-08",
+   "cita": "Modificar os criterios do bono xove de vivenda, para adecualo á realidade dos pisos compartidos.",
+   "pagina": 16,
+   "resumen": "Cambiar los requisitos del bono alquiler joven para incluir pisos compartidos.",
+   "objeto": "Requisitos del bono alquiler joven",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "bono alquiler joven",
+    "jóvenes",
+    "pisos compartidos",
+    "ayudas alquiler",
+    "vivienda jóvenes"
+   ]
+  },
+  {
+   "id": "BNG-09",
+   "cita": "Garantir o acceso da mocidade como un dos actores prioritarios ao parque de vivenda pública.",
+   "pagina": 63,
+   "resumen": "Dar prioridad a los jóvenes en el acceso al parque de vivienda pública.",
+   "objeto": "Acceso juvenil a vivienda pública",
+   "tipo": "ejecutiva",
+   "direccion": "crear_ampliar",
+   "competencia": "indirecta",
+   "verificabilidad": "baja",
+   "palabras_clave": [
+    "vivienda jóvenes",
+    "vivienda pública",
+    "emancipación",
+    "jóvenes",
+    "parque público"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,316 @@
+{
+ "party": "JUNTS",
+ "pages": 151,
+ "language": "ca",
+ "categories": [
+  {
+   "title": "Per Catalunya: portada, presentació, índex i candidatura (Por Cataluña: portada, presentación, índice y candidatura)",
+   "pages": [
+    1,
+    8
+   ],
+   "words": 1232,
+   "topics": [],
+   "note": "Portada, índice, mensaje 'Ja n'hi ha prou', coalición y candidatos."
+  },
+  {
+   "title": "1.a Perquè ja n'hi ha prou (Porque ya basta)",
+   "pages": [
+    9,
+    21
+   ],
+   "words": 3888,
+   "topics": [
+    "territorial",
+    "democracia"
+   ],
+   "note": "Vulneración de derechos, memorial de agravios y pérdida de autogobierno."
+  },
+  {
+   "title": "1.b Perquè cal fer front a la repressió politicojudicial i impulsar una regeneració democràtica (Frente a la represión político-judicial y regeneración democrática)",
+   "pages": [
+    22,
+    27
+   ],
+   "words": 1937,
+   "topics": [
+    "democracia",
+    "justicia",
+    "territorial"
+   ],
+   "note": "Represión judicial, amnistía, denuncia internacional y regeneración democrática."
+  },
+  {
+   "title": "1.c Perquè cal perseverar en l'acció exterior (Perseverar en la acción exterior)",
+   "pages": [
+    28,
+    33
+   ],
+   "words": 2019,
+   "topics": [
+    "exteriores",
+    "territorial"
+   ],
+   "note": "Cataluña en la UE, catalán oficial y acción exterior."
+  },
+  {
+   "title": "2.a-b Dèficit fiscal i de finançament i dèficit estructural d'inversions (Déficit fiscal, de financiación y de inversiones)",
+   "pages": [
+    34,
+    40
+   ],
+   "words": 2052,
+   "topics": [
+    "territorial",
+    "impuestos"
+   ],
+   "note": "Déficit fiscal, infrafinanciación, FLA e inversión estatal incumplida."
+  },
+  {
+   "title": "2.c Dèficit d'infraestructures (Déficit de infraestructuras)",
+   "pages": [
+    41,
+    47
+   ],
+   "words": 2261,
+   "topics": [
+    "transporte",
+    "territorial"
+   ],
+   "note": "Aeropuertos, Rodalies, ferrocarril, puertos, agua y carreteras."
+  },
+  {
+   "title": "2.c.vii Tecnologies de la informació i de la comunicació (Tecnologías de la información y la comunicación)",
+   "pages": [
+    48,
+    53
+   ],
+   "words": 1503,
+   "topics": [
+    "tecnologia"
+   ],
+   "note": "Telecomunicaciones, plataformas digitales, IA, ciberseguridad y administración digital."
+  },
+  {
+   "title": "2.d.i-iii Política econòmica, fiscal i financera (Política económica, fiscal y financiera)",
+   "pages": [
+    54,
+    62
+   ],
+   "words": 3276,
+   "topics": [
+    "impuestos"
+   ],
+   "note": "Política económica, rebajas fiscales, desigualdades y financiación productiva."
+  },
+  {
+   "title": "2.d.iv Polítiques d'ocupació i treball autònom (Políticas de empleo y trabajo autónomo)",
+   "pages": [
+    63,
+    74
+   ],
+   "words": 3981,
+   "topics": [
+    "empleo"
+   ],
+   "note": "Reforma laboral, salarios, políticas activas, autónomos y TRADE."
+  },
+  {
+   "title": "2.d.v.1 Polítiques sectorials: agricultura (Políticas sectoriales: agricultura)",
+   "pages": [
+    75,
+    79
+   ],
+   "words": 1721,
+   "topics": [
+    "campo"
+   ],
+   "note": "Agricultura, regadíos, cadena alimentaria y pesca."
+  },
+  {
+   "title": "2.d.v.2-6 Comerç, indústria, turisme, competitivitat empresarial i pimes (Comercio, industria, turismo, competitividad y pymes)",
+   "pages": [
+    80,
+    86
+   ],
+   "words": 2460,
+   "topics": [
+    "empleo",
+    "impuestos"
+   ],
+   "note": "Comercio, industria, turismo, competitividad, pymes y emprendedores."
+  },
+  {
+   "title": "2.d.7 Model energètic (Modelo energético)",
+   "pages": [
+    87,
+    91
+   ],
+   "words": 1394,
+   "topics": [
+    "energia",
+    "clima"
+   ],
+   "note": "Eficiencia, renovables, vehículo eléctrico, nucleares y subasta eléctrica."
+  },
+  {
+   "title": "3.A.i-ii Pobresa, inclusió social i suport a les famílies (Pobreza, inclusión social y apoyo a familias)",
+   "pages": [
+    92,
+    95
+   ],
+   "words": 1363,
+   "topics": [
+    "social"
+   ],
+   "note": "Pobreza, inclusión, trabajo digno y apoyo a familias con hijos."
+  },
+  {
+   "title": "3.A.iii-iv Polítiques d'habitatge social i per als joves (Vivienda social y políticas para jóvenes)",
+   "pages": [
+    96,
+    101
+   ],
+   "words": 2138,
+   "topics": [
+    "vivienda",
+    "social"
+   ],
+   "note": "Vivienda social, alquiler y políticas de juventud."
+  },
+  {
+   "title": "3.A.v Pensions (Pensiones)",
+   "pages": [
+    102,
+    104
+   ],
+   "words": 1132,
+   "topics": [
+    "pensiones"
+   ],
+   "note": "Sistema de pensiones y competencias catalanas."
+  },
+  {
+   "title": "3.A.vi-viii Gent gran, dependència, discapacitat i tercer sector (Mayores, dependencia, discapacidad y tercer sector)",
+   "pages": [
+    105,
+    109
+   ],
+   "words": 1685,
+   "topics": [
+    "social"
+   ],
+   "note": "Dependencia, discapacidad, tercer sector y voluntariado."
+  },
+  {
+   "title": "3.A.ix-x Cooperació al desenvolupament i fluxos migratoris (Cooperación al desarrollo y flujos migratorios)",
+   "pages": [
+    110,
+    110
+   ],
+   "words": 300,
+   "topics": [
+    "inmigracion",
+    "exteriores"
+   ],
+   "note": "Cooperación internacional, inmigración y acogida de refugiados."
+  },
+  {
+   "title": "3.A.xi Salut (Salud)",
+   "pages": [
+    111,
+    112
+   ],
+   "words": 759,
+   "topics": [
+    "sanidad"
+   ],
+   "note": "Sanidad, financiación sanitaria y competencias."
+  },
+  {
+   "title": "3.A.xii Igualtat (Igualdad)",
+   "pages": [
+    113,
+    115
+   ],
+   "words": 1064,
+   "topics": [
+    "igualdad"
+   ],
+   "note": "Igualdad de género, violencia machista y LGTBI."
+  },
+  {
+   "title": "3.A.xiii Ensenyament (Enseñanza)",
+   "pages": [
+    116,
+    120
+   ],
+   "words": 1647,
+   "topics": [
+    "educacion"
+   ],
+   "note": "Educación, universidades, becas y competencias educativas."
+  },
+  {
+   "title": "3.A.xiv Una administració pública al servei del ciutadà (Administración pública al servicio del ciudadano)",
+   "pages": [
+    121,
+    122
+   ],
+   "words": 616,
+   "topics": [
+    "democracia"
+   ],
+   "note": "Modernización y eficiencia de la administración pública."
+  },
+  {
+   "title": "3.A.xv Una Administració de justícia al servei del ciutadà (Administración de justicia al servicio del ciudadano)",
+   "pages": [
+    123,
+    130
+   ],
+   "words": 2589,
+   "topics": [
+    "justicia"
+   ],
+   "note": "Reforma de la justicia, poder judicial y competencias catalanas."
+  },
+  {
+   "title": "3.A.xvi Seguretat i defensa; emergències i protecció civil (Seguridad y defensa; emergencias y protección civil)",
+   "pages": [
+    131,
+    135
+   ],
+   "words": 1746,
+   "topics": [
+    "seguridad",
+    "defensa"
+   ],
+   "note": "Mossos, seguridad, defensa, emergencias y protección civil."
+  },
+  {
+   "title": "3.A.xvii Esport i 3.B Drets i polítiques culturals i lingüístiques (Deporte y políticas culturales y lingüísticas)",
+   "pages": [
+    136,
+    143
+   ],
+   "words": 2330,
+   "topics": [
+    "cultura"
+   ],
+   "note": "Deporte, selecciones, cultura, lengua catalana y medios de comunicación."
+  },
+  {
+   "title": "3.C Drets i polítiques mediambientals i animals (Políticas medioambientales y animales)",
+   "pages": [
+    144,
+    151
+   ],
+   "words": 2367,
+   "topics": [
+    "clima"
+   ],
+   "note": "Naturaleza, medio ambiente, cambio climático y bienestar animal."
+  }
+ ]
+}

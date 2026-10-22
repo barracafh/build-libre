@@ -1,0 +1,3147 @@
+[
+ {
+  "key": "P03-000",
+  "relaciones": [
+   {
+    "id": "124-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "148-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "104-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-001",
+  "relaciones": [
+   {
+    "id": "159-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "116-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "139-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-34",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-002",
+  "relaciones": [
+   {
+    "id": "24-1",
+    "relacion": "avanza",
+    "motivo": "Fija plazos máximos de clasificación y cancelación automática de secretos, mejorando el acceso."
+   },
+   {
+    "id": "43-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-7",
+    "relacion": "cumple",
+    "motivo": "Punto 7: nueva Ley de Secretos Oficiales y acceso a información con solo límites constitucionales y temporales."
+   },
+   {
+    "id": "43-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-003",
+  "relaciones": [
+   {
+    "id": "19-5",
+    "relacion": "relacionada",
+    "motivo": "Moción sobre el despliegue de la Ley de Memoria Democrática; dirección no visible."
+   },
+   {
+    "id": "40-4",
+    "relacion": "contradice",
+    "motivo": "Pide garantizar la aplicación de las políticas de memoria democrática, contrario a derogarlas."
+   },
+   {
+    "id": "85-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-53",
+    "relacion": "contradice",
+    "motivo": "Convalida un RDL que amplía la Ley de Memoria Democrática en lugar de derogarla."
+   },
+   {
+    "id": "169-54",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como proyecto de ley del RDL que modifica la Ley de Memoria."
+   },
+   {
+    "id": "191-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-18",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-004",
+  "relaciones": [
+   {
+    "id": "19-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-18",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-005",
+  "relaciones": [
+   {
+    "id": "191-26",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "162-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "17-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "133-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "16-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "189-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-006",
+  "relaciones": [
+   {
+    "id": "179-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "189-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "112-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "125-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "125-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "67-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-007",
+  "relaciones": [
+   {
+    "id": "159-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-31",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-29",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-008",
+  "relaciones": [
+   {
+    "id": "19-5",
+    "relacion": "relacionada",
+    "motivo": "Moción sobre despliegue de la Ley de Memoria Democrática, que regula esta materia."
+   },
+   {
+    "id": "40-4",
+    "relacion": "relacionada",
+    "motivo": "Aplicación de políticas de memoria democrática; no menciona condecoraciones."
+   },
+   {
+    "id": "85-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-53",
+    "relacion": "relacionada",
+    "motivo": "Modifica la Ley de Memoria sobre reconocimientos, no sobre condecoraciones franquistas."
+   },
+   {
+    "id": "169-54",
+    "relacion": "relacionada",
+    "motivo": "Tramitación del RDL que modifica la Ley de Memoria."
+   },
+   {
+    "id": "191-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-18",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-009",
+  "relaciones": [
+   {
+    "id": "19-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-53",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-18",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-010",
+  "relaciones": [
+   {
+    "id": "131-2",
+    "relacion": "cumple",
+    "motivo": "Proposición de ley de creación de una Oficina de prevención de la corrupción."
+   },
+   {
+    "id": "159-8",
+    "relacion": "relacionada",
+    "motivo": "Pide cumplir GRECO y proteger denunciantes, sin crear una oficina anticorrupción."
+   },
+   {
+    "id": "43-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-011",
+  "relaciones": [
+   {
+    "id": "70-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-13",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-012",
+  "relaciones": [
+   {
+    "id": "19-5",
+    "relacion": "relacionada",
+    "motivo": "Moción sobre despliegue de la Ley de Memoria Democrática; no menciona bebés robados."
+   },
+   {
+    "id": "40-4",
+    "relacion": "relacionada",
+    "motivo": "Aplicación de políticas de memoria; no menciona bebés robados."
+   },
+   {
+    "id": "85-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-53",
+    "relacion": "relacionada",
+    "motivo": "Modifica la Ley de Memoria sobre otro aspecto (reconocimientos)."
+   },
+   {
+    "id": "169-54",
+    "relacion": "relacionada",
+    "motivo": "Tramitación del RDL que modifica la Ley de Memoria."
+   },
+   {
+    "id": "191-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-18",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-013",
+  "relaciones": [
+   {
+    "id": "19-5",
+    "relacion": "relacionada",
+    "motivo": "Moción sobre despliegue de la Ley de Memoria Democrática; no menciona Cuelgamuros."
+   },
+   {
+    "id": "40-4",
+    "relacion": "relacionada",
+    "motivo": "Aplicación de políticas de memoria; no menciona Cuelgamuros."
+   },
+   {
+    "id": "33-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-53",
+    "relacion": "relacionada",
+    "motivo": "Modifica la Ley de Memoria sobre reconocimientos, no sobre Cuelgamuros."
+   },
+   {
+    "id": "43-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-014",
+  "relaciones": [
+   {
+    "id": "196-5",
+    "relacion": "avanza",
+    "motivo": "Reforma para ampliar declaraciones de bienes e intereses de diputados y jefe de la oposición."
+   },
+   {
+    "id": "43-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-7",
+    "relacion": "avanza",
+    "motivo": "Punto 7: modificar la Ley de Transparencia para ampliar el acceso a la información pública."
+   },
+   {
+    "id": "43-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-015",
+  "relaciones": [
+   {
+    "id": "17-1",
+    "relacion": "cumple",
+    "motivo": "Votación de conjunto de la reforma del artículo 49 de la Constitución."
+   },
+   {
+    "id": "16-1",
+    "relacion": "avanza",
+    "motivo": "Toma en consideración de la reforma del artículo 49 de la Constitución."
+   },
+   {
+    "id": "169-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "162-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "179-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-16",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-016",
+  "relaciones": [
+   {
+    "id": "43-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "43-20",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-017",
+  "relaciones": [
+   {
+    "id": "189-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "67-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "112-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "125-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "125-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "179-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-18",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-018",
+  "relaciones": [
+   {
+    "id": "162-2",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la LOTC sobre otros aspectos, no sobre requisitos de los magistrados."
+   },
+   {
+    "id": "159-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "133-2",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la LOTC sobre conflictos de competencia, no sobre requisitos de magistrados."
+   },
+   {
+    "id": "50-2",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la LOTC sobre recurso previo, no sobre requisitos de magistrados."
+   },
+   {
+    "id": "52-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-41",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-40",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-39",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-019",
+  "relaciones": [
+   {
+    "id": "200-4",
+    "relacion": "cumple",
+    "motivo": "Punto 10: implantar una prueba única de acceso a la Universidad en todo el territorio."
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "cumple",
+    "motivo": "Punto 5: implantación de una prueba única de acceso a la Universidad."
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-020",
+  "relaciones": [
+   {
+    "id": "185-37",
+    "relacion": "avanza",
+    "motivo": "Pide suprimir la disposición adicional cuarta de la LOMLOE, sin derogarla entera."
+   },
+   {
+    "id": "129-1",
+    "relacion": "avanza",
+    "motivo": "Modifica la LOMLOE en escolarización de alumnado con necesidades especiales, sin derogarla."
+   },
+   {
+    "id": "191-14",
+    "relacion": "relacionada",
+    "motivo": "Impulsa la educación afectivo-sexual con contenidos de la LOMLOE."
+   },
+   {
+    "id": "66-9",
+    "relacion": "cumple",
+    "motivo": "Punto 2: promover la derogación de la LOMLOE."
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "avanza",
+    "motivo": "Punto 6: garantizar derecho de los padres y evitar imposiciones ideológicas o afectivo-sexuales."
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-021",
+  "relaciones": [
+   {
+    "id": "40-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "202-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "115-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-022",
+  "relaciones": [
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: sistema de becas universitarias, no reducción de tasas."
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-7",
+    "relacion": "avanza",
+    "motivo": "Pide avanzar hacia la gratuidad de la educación superior con fondos del rearme."
+   },
+   {
+    "id": "185-37",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-023",
+  "relaciones": [
+   {
+    "id": "118-7",
+    "relacion": "cumple",
+    "motivo": "Pide plazas públicas y universalidad de la educación gratuita desde 0-3 hasta la universidad."
+   },
+   {
+    "id": "200-8",
+    "relacion": "relacionada",
+    "motivo": "Restituir fondos al Ministerio de Educación, sin medidas de escolarización."
+   },
+   {
+    "id": "200-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-9",
+    "relacion": "avanza",
+    "motivo": "Punto II.4: gratuidad del primer ciclo 0-3 en todos los centros, cofinanciada."
+   },
+   {
+    "id": "200-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "129-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-024",
+  "relaciones": [
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: impulso a la FP dual, sin referencia a red pública."
+   },
+   {
+    "id": "200-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "115-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-025",
+  "relaciones": [
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "cumple",
+    "motivo": "Punto 3: sistema de acceso a la función pública docente de carácter nacional."
+   },
+   {
+    "id": "185-37",
+    "relacion": "cumple",
+    "motivo": "Punto 6: sistema nacional de acceso a la función pública docente."
+   },
+   {
+    "id": "188-21",
+    "relacion": "relacionada",
+    "motivo": "Devolución del proyecto sobre condiciones docentes, sin tratar el sistema de acceso."
+   }
+  ]
+ },
+ {
+  "key": "P03-026",
+  "relaciones": [
+   {
+    "id": "200-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-027",
+  "relaciones": [
+   {
+    "id": "129-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-028",
+  "relaciones": [
+   {
+    "id": "200-4",
+    "relacion": "cumple",
+    "motivo": "Punto 10: prueba única de acceso a la Universidad con contenidos comunes."
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "cumple",
+    "motivo": "Punto 5: prueba única de acceso a la Universidad en todo el territorio."
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-029",
+  "relaciones": [
+   {
+    "id": "118-7",
+    "relacion": "cumple",
+    "motivo": "Pide plazas públicas y educación gratuita desde 0-3."
+   },
+   {
+    "id": "200-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-9",
+    "relacion": "avanza",
+    "motivo": "Punto II.4: gratuidad 0-3 en todos los centros, no específicamente pública."
+   },
+   {
+    "id": "200-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-030",
+  "relaciones": [
+   {
+    "id": "129-1",
+    "relacion": "avanza",
+    "motivo": "Refuerza la elección de las familias en escolarización de necesidades especiales."
+   },
+   {
+    "id": "185-37",
+    "relacion": "avanza",
+    "motivo": "Punto 1: derecho de los padres a elegir centros de educación especial."
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "avanza",
+    "motivo": "Punto 6: derecho de los padres a elegir la educación y acceso a diferenciada."
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-031",
+  "relaciones": [
+   {
+    "id": "129-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-21",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-032",
+  "relaciones": [
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "cumple",
+    "motivo": "Punto 3: impedir pasar de curso y titular con asignaturas suspensas."
+   },
+   {
+    "id": "200-4",
+    "relacion": "cumple",
+    "motivo": "Punto 3: impedir pasar de curso y conseguir titulaciones con suspensos."
+   },
+   {
+    "id": "164-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-033",
+  "relaciones": [
+   {
+    "id": "200-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "avanza",
+    "motivo": "Punto 5: becas en etapas universitaria y preuniversitaria, no todas las etapas."
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-034",
+  "relaciones": [
+   {
+    "id": "118-7",
+    "relacion": "avanza",
+    "motivo": "Pide avanzar hacia la gratuidad de la educación superior."
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: becas universitarias, no tasas ni gratuidad por créditos."
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-21",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-035",
+  "relaciones": [
+   {
+    "id": "200-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-37",
+    "relacion": "avanza",
+    "motivo": "Punto 6: prestigio, condiciones y acceso nacional docente, sin estatuto completo."
+   },
+   {
+    "id": "188-21",
+    "relacion": "relacionada",
+    "motivo": "Devolución del proyecto sobre condiciones del profesorado."
+   },
+   {
+    "id": "202-19",
+    "relacion": "relacionada",
+    "motivo": "Avocación del proyecto sobre condiciones del profesorado."
+   },
+   {
+    "id": "118-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-036",
+  "relaciones": [
+   {
+    "id": "129-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: libertad de los padres para elegir educación, sin cheque escolar."
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-037",
+  "relaciones": [
+   {
+    "id": "200-4",
+    "relacion": "cumple",
+    "motivo": "Punto 11: español como lengua vehicular y derecho a escolarizar en español."
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "avanza",
+    "motivo": "Punto 6: evitar la exclusión del español en el sistema educativo."
+   },
+   {
+    "id": "66-12",
+    "relacion": "avanza",
+    "motivo": "Punto 5: enseñanza del español en todo el territorio nacional."
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-21",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-038",
+  "relaciones": [
+   {
+    "id": "129-1",
+    "relacion": "cumple",
+    "motivo": "Modifica la LOMLOE para proteger la escolarización en centros especiales y la voluntad familiar."
+   },
+   {
+    "id": "185-37",
+    "relacion": "cumple",
+    "motivo": "Puntos 1-2: protección de centros de educación especial y elección de los padres."
+   },
+   {
+    "id": "200-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-9",
+    "relacion": "avanza",
+    "motivo": "Punto II.4: plan de inclusión en centros ordinarios o de educación especial."
+   },
+   {
+    "id": "200-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-039",
+  "relaciones": [
+   {
+    "id": "118-7",
+    "relacion": "avanza",
+    "motivo": "Pide avanzar hacia la gratuidad de libros de texto y material escolar."
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "avanza",
+    "motivo": "Punto 4: deducciones fiscales por gastos en material escolar."
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-040",
+  "relaciones": [
+   {
+    "id": "185-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "129-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-6",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-041",
+  "relaciones": [
+   {
+    "id": "200-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "cumple",
+    "motivo": "Punto 5: sistema de becas universitarias y preuniversitarias como ascensor social."
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-37",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-042",
+  "relaciones": [
+   {
+    "id": "185-37",
+    "relacion": "avanza",
+    "motivo": "Punto 4: reducir ratios en aulas con alumnado con necesidades específicas."
+   },
+   {
+    "id": "118-7",
+    "relacion": "avanza",
+    "motivo": "Pide contratar profesorado para reducir ratios por aula."
+   },
+   {
+    "id": "200-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-21",
+    "relacion": "relacionada",
+    "motivo": "Devolución del proyecto educativo sobre condiciones docentes y ratios."
+   }
+  ]
+ },
+ {
+  "key": "P03-043",
+  "relaciones": [
+   {
+    "id": "114-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "115-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-044",
+  "relaciones": [
+   {
+    "id": "118-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "129-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-045",
+  "relaciones": [
+   {
+    "id": "185-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-7",
+    "relacion": "avanza",
+    "motivo": "Pide destinar 10.500 millones a incrementar la inversión educativa."
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-046",
+  "relaciones": [
+   {
+    "id": "129-1",
+    "relacion": "avanza",
+    "motivo": "Protege la opción de educación especial dentro de la escolarización inclusiva."
+   },
+   {
+    "id": "185-37",
+    "relacion": "avanza",
+    "motivo": "Apoyo especializado y mantenimiento de centros de educación especial."
+   },
+   {
+    "id": "200-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-9",
+    "relacion": "cumple",
+    "motivo": "Punto II.4: plan de inclusión para alumnos en centros ordinarios o especiales."
+   },
+   {
+    "id": "200-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-047",
+  "relaciones": [
+   {
+    "id": "33-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "191-14",
+    "relacion": "avanza",
+    "motivo": "Cooperar en protocolos contra violencia sexual, ciberbullying y cualquier violencia."
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-048",
+  "relaciones": [
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: deducciones por comedor escolar, no comedores gratuitos."
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-049",
+  "relaciones": [
+   {
+    "id": "129-1",
+    "relacion": "avanza",
+    "motivo": "Defiende la escolarización en centros de educación especial."
+   },
+   {
+    "id": "200-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-9",
+    "relacion": "avanza",
+    "motivo": "Punto II.4: plan de inclusión que incluye centros de educación especial."
+   },
+   {
+    "id": "200-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-37",
+    "relacion": "avanza",
+    "motivo": "Financiación de centros especiales y profesionales PT y AL."
+   },
+   {
+    "id": "40-58",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-050",
+  "relaciones": [
+   {
+    "id": "185-37",
+    "relacion": "cumple",
+    "motivo": "Punto 9: plan estatal contra el adoctrinamiento ideológico en las aulas."
+   },
+   {
+    "id": "191-14",
+    "relacion": "relacionada",
+    "motivo": "Educación afectivo-sexual en las aulas, tema ideológico debatido."
+   },
+   {
+    "id": "164-1",
+    "relacion": "relacionada",
+    "motivo": "Educación sexual con enfoque de género y combate al negacionismo."
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "cumple",
+    "motivo": "Punto 6: evitar imposiciones y adoctrinamientos ideológicos."
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-051",
+  "relaciones": [
+   {
+    "id": "118-7",
+    "relacion": "cumple",
+    "motivo": "Pide universalidad de la educación gratuita desde 0-3."
+   },
+   {
+    "id": "200-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-9",
+    "relacion": "cumple",
+    "motivo": "Punto II.4: garantizar la gratuidad 0-3 en todos los centros educativos."
+   },
+   {
+    "id": "200-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-052",
+  "relaciones": [
+   {
+    "id": "191-14",
+    "relacion": "relacionada",
+    "motivo": "Impulsa educación afectivo-sexual y sensibilización de familias, sin consentimiento previo."
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "avanza",
+    "motivo": "Punto 6: derecho de los padres y evitar imposiciones afectivo-sexuales."
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-1",
+    "relacion": "contradice",
+    "motivo": "Pide educación sexual obligatoria y transversal en todas las etapas."
+   }
+  ]
+ },
+ {
+  "key": "P03-053",
+  "relaciones": [
+   {
+    "id": "118-7",
+    "relacion": "relacionada",
+    "motivo": "Inversión educativa incluida la universitaria, sin fijar 1% del PIB."
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-21",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-054",
+  "relaciones": []
+ },
+ {
+  "key": "P03-055",
+  "relaciones": [
+   {
+    "id": "185-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "40-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-056",
+  "relaciones": [
+   {
+    "id": "118-7",
+    "relacion": "cumple",
+    "motivo": "Pide contratar profesorado suficiente para reducir los ratios por aula."
+   },
+   {
+    "id": "185-37",
+    "relacion": "avanza",
+    "motivo": "Punto 4: reducir ratios en aulas con alumnado con necesidades específicas."
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-057",
+  "relaciones": [
+   {
+    "id": "191-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-37",
+    "relacion": "avanza",
+    "motivo": "Pide reformar la LOMLOE suprimiendo su disposición adicional cuarta."
+   },
+   {
+    "id": "200-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-9",
+    "relacion": "relacionada",
+    "motivo": "Punto II.4: medidas educativas y desarrollo de la LOMLOE, sin reforma general."
+   },
+   {
+    "id": "200-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-4",
+    "relacion": "relacionada",
+    "motivo": "Pide derogar la LOMLOE, no reformarla ni un acuerdo social."
+   }
+  ]
+ },
+ {
+  "key": "P03-058",
+  "relaciones": [
+   {
+    "id": "33-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "114-2",
+    "relacion": "relacionada",
+    "motivo": "Modifica la LOSU sobre prácticas académicas, no financiación por resultados."
+   },
+   {
+    "id": "66-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "66-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-059",
+  "relaciones": [
+   {
+    "id": "162-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-18",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-060",
+  "relaciones": [
+   {
+    "id": "146-61",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: eliminar cuota a autónomos con ingresos bajo el SMI, no tarifa cero nuevos."
+   },
+   {
+    "id": "159-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: cotización de autónomos por ingresos reales."
+   },
+   {
+    "id": "159-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-19",
+    "relacion": "relacionada",
+    "motivo": "Punto 11: cuota reducida en pluriactividad."
+   },
+   {
+    "id": "159-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-16",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-061",
+  "relaciones": [
+   {
+    "id": "137-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-79",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-78",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-77",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-76",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-75",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-062",
+  "relaciones": [
+   {
+    "id": "129-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "129-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-79",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-78",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-77",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-76",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-75",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-74",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-063",
+  "relaciones": [
+   {
+    "id": "159-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-064",
+  "relaciones": [
+   {
+    "id": "159-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-18",
+    "relacion": "relacionada",
+    "motivo": "Punto 10: carga de la prueba en litigios de falsos autónomos."
+   },
+   {
+    "id": "159-17",
+    "relacion": "relacionada",
+    "motivo": "Punto 9: perseguir falsos autónomos."
+   },
+   {
+    "id": "159-16",
+    "relacion": "avanza",
+    "motivo": "Punto 8: regular los TRADE con registro, indemnización y desempleo."
+   },
+   {
+    "id": "159-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-065",
+  "relaciones": [
+   {
+    "id": "88-56",
+    "relacion": "relacionada",
+    "motivo": "Aumentar indemnización por despido improcedente, sin cuentas individuales."
+   },
+   {
+    "id": "159-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-16",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-066",
+  "relaciones": [
+   {
+    "id": "130-10",
+    "relacion": "relacionada",
+    "motivo": "Devolución del proyecto de reducción de jornada y registro horario."
+   },
+   {
+    "id": "137-1",
+    "relacion": "relacionada",
+    "motivo": "Reducción de jornada a 35 horas, sin plan de semana de cuatro días."
+   },
+   {
+    "id": "23-2",
+    "relacion": "relacionada",
+    "motivo": "Reducción progresiva de jornada a 38,5 horas."
+   },
+   {
+    "id": "169-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-44",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-43",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-42",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-41",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-067",
+  "relaciones": [
+   {
+    "id": "159-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: cotización de autónomos por ingresos reales, no aplazamiento."
+   },
+   {
+    "id": "159-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-19",
+    "relacion": "relacionada",
+    "motivo": "Punto 11: cuota reducida en pluriactividad, no aplazamiento."
+   },
+   {
+    "id": "159-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-068",
+  "relaciones": [
+   {
+    "id": "88-56",
+    "relacion": "avanza",
+    "motivo": "Aumentar la indemnización por despido improcedente para que sea disuasoria."
+   },
+   {
+    "id": "132-3",
+    "relacion": "avanza",
+    "motivo": "Título: despido restaurativo y disuasorio por ley; texto no disponible."
+   },
+   {
+    "id": "159-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-17",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-069",
+  "relaciones": [
+   {
+    "id": "49-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "96-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "23-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-070",
+  "relaciones": [
+   {
+    "id": "23-2",
+    "relacion": "avanza",
+    "motivo": "Reducción progresiva empezando por 38,5 horas en 2024."
+   },
+   {
+    "id": "137-1",
+    "relacion": "avanza",
+    "motivo": "Reducción de la jornada máxima ordinaria a 35 horas semanales."
+   },
+   {
+    "id": "130-10",
+    "relacion": "contradice",
+    "motivo": "Devolución del proyecto de ley de reducción de jornada máxima."
+   },
+   {
+    "id": "33-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "69-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-29",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-071",
+  "relaciones": [
+   {
+    "id": "69-3",
+    "relacion": "relacionada",
+    "motivo": "Devolución de proyecto sobre incapacidad permanente, no temporal."
+   },
+   {
+    "id": "13-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-17",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-072",
+  "relaciones": [
+   {
+    "id": "137-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-073",
+  "relaciones": [
+   {
+    "id": "23-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-49",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-48",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-47",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-46",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "29-44",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-074",
+  "relaciones": [
+   {
+    "id": "49-9",
+    "relacion": "avanza",
+    "motivo": "Punto 1: reducir cargas burocráticas y fiscales sobre las empresas."
+   },
+   {
+    "id": "49-13",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: incentivos fiscales a la contratación indefinida."
+   },
+   {
+    "id": "49-12",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: reducciones de cotización por contratar ciertos colectivos."
+   },
+   {
+    "id": "49-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-10",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: bonificar cotizaciones por contratación indefinida."
+   },
+   {
+    "id": "146-61",
+    "relacion": "relacionada",
+    "motivo": "Bonificaciones a la contratación por autónomos y rebajas fiscales."
+   },
+   {
+    "id": "162-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-075",
+  "relaciones": [
+   {
+    "id": "159-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: cotización por ingresos reales."
+   },
+   {
+    "id": "159-21",
+    "relacion": "relacionada",
+    "motivo": "Punto 13: incorporar organizaciones de autónomos al CES."
+   },
+   {
+    "id": "159-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-19",
+    "relacion": "avanza",
+    "motivo": "Punto 11: evitar doble cotización en pluriactividad."
+   },
+   {
+    "id": "159-18",
+    "relacion": "relacionada",
+    "motivo": "Punto 10: inversión de carga de la prueba en falsos autónomos."
+   },
+   {
+    "id": "159-17",
+    "relacion": "relacionada",
+    "motivo": "Punto 9: persecución de falsos autónomos."
+   },
+   {
+    "id": "159-16",
+    "relacion": "avanza",
+    "motivo": "Punto 8: regulación de TRADE con indemnización y prestación de desempleo."
+   },
+   {
+    "id": "159-15",
+    "relacion": "avanza",
+    "motivo": "Punto 7: cuota cero en enfermedad grave y bonificaciones a sustitutos."
+   }
+  ]
+ },
+ {
+  "key": "P03-076",
+  "relaciones": [
+   {
+    "id": "130-10",
+    "relacion": "contradice",
+    "motivo": "Devolución del proyecto de reducción de jornada."
+   },
+   {
+    "id": "137-1",
+    "relacion": "avanza",
+    "motivo": "Reducción de jornada máxima a 35 horas semanales."
+   },
+   {
+    "id": "23-2",
+    "relacion": "avanza",
+    "motivo": "Reducción progresiva de jornada empezando por 38,5 horas."
+   },
+   {
+    "id": "58-10",
+    "relacion": "relacionada",
+    "motivo": "Título sobre reducir el tiempo de trabajo; texto no disponible."
+   },
+   {
+    "id": "146-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "129-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-79",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-077",
+  "relaciones": [
+   {
+    "id": "49-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: reducción general de cargas sobre las empresas."
+   },
+   {
+    "id": "49-13",
+    "relacion": "avanza",
+    "motivo": "Punto 5: incentivos fiscales a la contratación indefinida."
+   },
+   {
+    "id": "49-12",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: reducciones de cotización para contratar ciertos colectivos."
+   },
+   {
+    "id": "49-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-10",
+    "relacion": "cumple",
+    "motivo": "Punto 2: bonificar 100% el primer año y 50% el segundo en contratos indefinidos."
+   },
+   {
+    "id": "146-61",
+    "relacion": "avanza",
+    "motivo": "Punto 7: bonificación 100% y 50% a nuevos empleos creados por autónomos."
+   },
+   {
+    "id": "159-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-21",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-078",
+  "relaciones": [
+   {
+    "id": "162-1",
+    "relacion": "relacionada",
+    "motivo": "Derechos laborales en procesos de deslocalización productiva."
+   },
+   {
+    "id": "137-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-079",
+  "relaciones": [
+   {
+    "id": "13-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-79",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-78",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-77",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-76",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-75",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-74",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-73",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-080",
+  "relaciones": [
+   {
+    "id": "159-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-21",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-17",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "159-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-081",
+  "relaciones": [
+   {
+    "id": "88-79",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-78",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-77",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-76",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-75",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-74",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-73",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "88-72",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P03-082",
+  "relaciones": [
+   {
+    "id": "49-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "49-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-61",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-45",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-44",
+    "relacion": "no_relacionada"
+   }
+  ]
+ }
+]

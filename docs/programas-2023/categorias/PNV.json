@@ -1,0 +1,210 @@
+{
+ "party": "PNV",
+ "pages": 52,
+ "language": "es",
+ "categories": [
+  {
+   "title": "Portada e índice",
+   "pages": [
+    1,
+    2
+   ],
+   "words": 144,
+   "topics": [],
+   "note": "Portada e índice del programa."
+  },
+  {
+   "title": "01. Análisis de la XIV Legislatura (2019-2023)",
+   "pages": [
+    3,
+    4
+   ],
+   "words": 802,
+   "topics": [
+    "territorial",
+    "democracia"
+   ],
+   "note": "Balance de la legislatura y papel del Grupo Vasco en Madrid."
+  },
+  {
+   "title": "02. Al lado de las personas y su bienestar. Más autogobierno, más Europa y Agenda 2030",
+   "pages": [
+    5,
+    6
+   ],
+   "words": 1079,
+   "topics": [
+    "territorial",
+    "social",
+    "exteriores"
+   ],
+   "note": "Autogobierno, Concierto Económico, Agenda 2030 y plurinacionalidad."
+  },
+  {
+   "title": "03. Liderar derechos y libertades",
+   "pages": [
+    7,
+    11
+   ],
+   "words": 2862,
+   "topics": [
+    "democracia",
+    "justicia",
+    "inmigracion"
+   ],
+   "note": "Derechos humanos, euskera, justicia, ley mordaza, migración y cooperación."
+  },
+  {
+   "title": "04. Ética en la acción pública",
+   "pages": [
+    12,
+    13
+   ],
+   "words": 1037,
+   "topics": [
+    "democracia",
+    "seguridad"
+   ],
+   "note": "Transparencia, secretos oficiales, control del CNI y participación."
+  },
+  {
+   "title": "05. Horizonte económico: fondos europeos y fiscalidad justa y redistributiva",
+   "pages": [
+    14,
+    18
+   ],
+   "words": 2865,
+   "topics": [
+    "impuestos",
+    "exteriores",
+    "territorial"
+   ],
+   "note": "Fondos Next Generation, gestión con CC.AA. y fiscalidad."
+  },
+  {
+   "title": "06. Lucha contra el cambio climático, sostenibilidad ambiental y energética",
+   "pages": [
+    19,
+    25
+   ],
+   "words": 2837,
+   "topics": [
+    "clima",
+    "energia"
+   ],
+   "note": "Transición energética, renovables, medio ambiente y sostenibilidad."
+  },
+  {
+   "title": "07. Igualdad",
+   "pages": [
+    26,
+    27
+   ],
+   "words": 728,
+   "topics": [
+    "igualdad"
+   ],
+   "note": "Igualdad de género, violencia machista y derechos LGTBI."
+  },
+  {
+   "title": "08. El empleo, nuevos retos",
+   "pages": [
+    28,
+    31
+   ],
+   "words": 2417,
+   "topics": [
+    "empleo"
+   ],
+   "note": "Mercado laboral, políticas activas de empleo y formación."
+  },
+  {
+   "title": "09. Pensiones justas y dignas",
+   "pages": [
+    32,
+    34
+   ],
+   "words": 1147,
+   "topics": [
+    "pensiones"
+   ],
+   "note": "Sostenibilidad y suficiencia del sistema de pensiones."
+  },
+  {
+   "title": "10. Europa: retos y oportunidades",
+   "pages": [
+    35,
+    36
+   ],
+   "words": 942,
+   "topics": [
+    "exteriores"
+   ],
+   "note": "Unión Europea, gobernanza europea y presencia vasca."
+  },
+  {
+   "title": "11. Apuesta por la industria, colaboración público-privada, pymes, autónomos, innovación e internacionalización",
+   "pages": [
+    37,
+    41
+   ],
+   "words": 2065,
+   "topics": [
+    "empleo",
+    "tecnologia",
+    "impuestos"
+   ],
+   "note": "Industria, cooperativismo, ciberseguridad, pymes, autónomos, turismo y comercio."
+  },
+  {
+   "title": "11. (cont.) Agricultura y pesca",
+   "pages": [
+    42,
+    44
+   ],
+   "words": 1050,
+   "topics": [
+    "campo"
+   ],
+   "note": "Relevo generacional agrario, PAC, pesca y FEMPA."
+  },
+  {
+   "title": "12. Políticas sociales para reducir la desigualdad y proteger el Estado del Bienestar",
+   "pages": [
+    45,
+    47
+   ],
+   "words": 1056,
+   "topics": [
+    "social",
+    "sanidad",
+    "vivienda"
+   ],
+   "note": "Pobreza, vivienda, sanidad, cannabis medicinal y discapacidad."
+  },
+  {
+   "title": "13. Un modelo de aprendizaje para el futuro",
+   "pages": [
+    48,
+    49
+   ],
+   "words": 808,
+   "topics": [
+    "educacion"
+   ],
+   "note": "Educación, formación profesional y universidad."
+  },
+  {
+   "title": "14. Infraestructuras del transporte para el desarrollo sostenible",
+   "pages": [
+    50,
+    52
+   ],
+   "words": 701,
+   "topics": [
+    "transporte"
+   ],
+   "note": "Tren de alta velocidad, ferrocarril, puertos y aeropuertos."
+  }
+ ]
+}

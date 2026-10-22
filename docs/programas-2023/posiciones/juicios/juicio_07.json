@@ -1,0 +1,3211 @@
+[
+ {
+  "key": "P07-000",
+  "relaciones": [
+   {
+    "id": "21-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "38-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "44-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "11-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "167-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "165-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "192-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "192-55",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-001",
+  "relaciones": [
+   {
+    "id": "36-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-24",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como proyecto de ley del RDL de revalorización de pensiones."
+   },
+   {
+    "id": "164-23",
+    "relacion": "relacionada",
+    "motivo": "RDL de revalorización de pensiones; no consta medida específica sobre este punto."
+   },
+   {
+    "id": "60-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-002",
+  "relaciones": [
+   {
+    "id": "193-8",
+    "relacion": "avanza",
+    "motivo": "RDL de jubilación parcial anticipada del personal laboral de las Administraciones; alcance parcial."
+   },
+   {
+    "id": "193-9",
+    "relacion": "relacionada",
+    "motivo": "Tramitar como ley el RDL de jubilación parcial anticipada."
+   },
+   {
+    "id": "199-2",
+    "relacion": "relacionada",
+    "motivo": "Jubilación anticipada sin coeficientes reductores, otra modalidad."
+   },
+   {
+    "id": "68-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: jubilación anticipada de policías, no jubilación parcial."
+   },
+   {
+    "id": "68-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-1",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: analizar mejora de jubilación parcial de abogados y procuradores."
+   }
+  ]
+ },
+ {
+  "key": "P07-003",
+  "relaciones": [
+   {
+    "id": "164-23",
+    "relacion": "relacionada",
+    "motivo": "RDL de revalorización de pensiones; no consta medida específica sobre este punto."
+   },
+   {
+    "id": "164-24",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como proyecto de ley del RDL de revalorización de pensiones."
+   },
+   {
+    "id": "60-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-23",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-004",
+  "relaciones": [
+   {
+    "id": "164-24",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como proyecto de ley del RDL de revalorización de pensiones."
+   },
+   {
+    "id": "164-23",
+    "relacion": "avanza",
+    "motivo": "Revaloriza las pensiones, pero sin incluirlo en la Constitución."
+   },
+   {
+    "id": "36-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "89-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "89-1",
+    "relacion": "relacionada",
+    "motivo": "RDL ómnibus con medidas de Seguridad Social; no reforma constitucional."
+   }
+  ]
+ },
+ {
+  "key": "P07-005",
+  "relaciones": [
+   {
+    "id": "60-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-20",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-006",
+  "relaciones": [
+   {
+    "id": "164-24",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como proyecto de ley del RDL de revalorización de pensiones."
+   },
+   {
+    "id": "164-23",
+    "relacion": "avanza",
+    "motivo": "RDL de revalorización de pensiones públicas, incluidas presumiblemente mínimas."
+   },
+   {
+    "id": "36-23",
+    "relacion": "relacionada",
+    "motivo": "Excluye complementos autonómicos del cómputo de rentas de pensiones no contributivas."
+   },
+   {
+    "id": "60-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-007",
+  "relaciones": []
+ },
+ {
+  "key": "P07-008",
+  "relaciones": [
+   {
+    "id": "36-23",
+    "relacion": "relacionada",
+    "motivo": "Excluye complementos autonómicos del cómputo de rentas en pensiones no contributivas."
+   },
+   {
+    "id": "164-24",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como proyecto de ley del RDL de revalorización de pensiones."
+   },
+   {
+    "id": "164-23",
+    "relacion": "relacionada",
+    "motivo": "RDL de revalorización de pensiones; no consta medida específica sobre este punto."
+   },
+   {
+    "id": "60-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-009",
+  "relaciones": [
+   {
+    "id": "60-3",
+    "relacion": "relacionada",
+    "motivo": "Defiende la caja única de la Seguridad Social, no aborda ingresos."
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-23",
+    "relacion": "relacionada",
+    "motivo": "RDL de revalorización de pensiones; no consta medida específica sobre este punto."
+   },
+   {
+    "id": "96-2",
+    "relacion": "relacionada",
+    "motivo": "Bonificación de cuotas patronales en Ceuta y Melilla, afecta a ingresos por cotización."
+   },
+   {
+    "id": "164-24",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como proyecto de ley del RDL de revalorización de pensiones."
+   },
+   {
+    "id": "33-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-36",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-010",
+  "relaciones": [
+   {
+    "id": "33-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-3",
+    "relacion": "relacionada",
+    "motivo": "Caja única y rechazo a pactos territoriales sobre Seguridad Social; no recorta gasto autonómico."
+   },
+   {
+    "id": "164-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-34",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-011",
+  "relaciones": [
+   {
+    "id": "33-1",
+    "relacion": "avanza",
+    "motivo": "Mejora de jubilación de abogados y procuradores mutualistas (autónomos profesionales)."
+   },
+   {
+    "id": "13-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-60",
+    "relacion": "relacionada",
+    "motivo": "Jubilación con 40 años cotizados, no específica de autónomos."
+   },
+   {
+    "id": "199-2",
+    "relacion": "relacionada",
+    "motivo": "Elimina coeficientes reductores con 40 años cotizados, alcance general."
+   },
+   {
+    "id": "68-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-012",
+  "relaciones": [
+   {
+    "id": "36-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-1",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: tratamiento fiscal del ahorro de mutualistas, no exención de pensiones."
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-013",
+  "relaciones": [
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "89-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-24",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como proyecto de ley del RDL de revalorización de pensiones."
+   },
+   {
+    "id": "89-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-23",
+    "relacion": "relacionada",
+    "motivo": "RDL de revalorización de pensiones; no consta medida específica sobre este punto."
+   },
+   {
+    "id": "60-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-014",
+  "relaciones": [
+   {
+    "id": "96-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "89-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-33",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-015",
+  "relaciones": [
+   {
+    "id": "164-24",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como proyecto de ley del RDL de revalorización de pensiones."
+   },
+   {
+    "id": "164-23",
+    "relacion": "cumple",
+    "motivo": "RDL que aplica la revalorización de las pensiones públicas."
+   },
+   {
+    "id": "60-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-23",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-016",
+  "relaciones": [
+   {
+    "id": "199-2",
+    "relacion": "relacionada",
+    "motivo": "Elimina penalización a carreras largas; afecta a contributividad."
+   },
+   {
+    "id": "36-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-1",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: computar cotizaciones de mutualidades a efectos de pensión."
+   },
+   {
+    "id": "89-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-017",
+  "relaciones": [
+   {
+    "id": "68-4",
+    "relacion": "cumple",
+    "motivo": "Punto 4: estudios y cambios legislativos para jubilación anticipada de policías y guardias civiles."
+   },
+   {
+    "id": "68-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: regreso a activo de agentes en segunda actividad o reserva."
+   },
+   {
+    "id": "68-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-2",
+    "relacion": "relacionada",
+    "motivo": "Jubilación anticipada sin penalización de alcance general."
+   },
+   {
+    "id": "13-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-018",
+  "relaciones": [
+   {
+    "id": "36-23",
+    "relacion": "avanza",
+    "motivo": "Permite compatibilizar pensión no contributiva con complementos autonómicos."
+   },
+   {
+    "id": "164-24",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como proyecto de ley del RDL de revalorización de pensiones."
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-23",
+    "relacion": "relacionada",
+    "motivo": "RDL de revalorización de pensiones; no consta medida específica sobre este punto."
+   },
+   {
+    "id": "60-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-019",
+  "relaciones": [
+   {
+    "id": "164-23",
+    "relacion": "relacionada",
+    "motivo": "RDL de revalorización de pensiones; no consta medida específica sobre este punto."
+   },
+   {
+    "id": "89-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "89-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-3",
+    "relacion": "relacionada",
+    "motivo": "Financiación y caja única de la Seguridad Social, sin gastos impropios."
+   },
+   {
+    "id": "193-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-020",
+  "relaciones": [
+   {
+    "id": "36-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-16",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-021",
+  "relaciones": [
+   {
+    "id": "199-2",
+    "relacion": "relacionada",
+    "motivo": "Jubilación anticipada sin penalización por carrera larga, no por penosidad."
+   },
+   {
+    "id": "13-5",
+    "relacion": "avanza",
+    "motivo": "Coeficientes reductores para minería y transformación de piedra."
+   },
+   {
+    "id": "193-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: jubilación anticipada de policías y guardias civiles."
+   },
+   {
+    "id": "68-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-022",
+  "relaciones": [
+   {
+    "id": "164-24",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como proyecto de ley del RDL de revalorización de pensiones."
+   },
+   {
+    "id": "164-23",
+    "relacion": "avanza",
+    "motivo": "RDL que aplica la revalorización de las pensiones."
+   },
+   {
+    "id": "33-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "185-36",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-023",
+  "relaciones": [
+   {
+    "id": "33-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "60-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-024",
+  "relaciones": [
+   {
+    "id": "89-4",
+    "relacion": "relacionada",
+    "motivo": "Tramitar como ley el RDL de compatibilidad pensión-trabajo."
+   },
+   {
+    "id": "89-3",
+    "relacion": "avanza",
+    "motivo": "RDL que mejora la compatibilidad de la pensión con el trabajo, no específico para médicos."
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-60",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-025",
+  "relaciones": [
+   {
+    "id": "36-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-24",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como proyecto de ley del RDL de revalorización de pensiones."
+   },
+   {
+    "id": "60-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-23",
+    "relacion": "relacionada",
+    "motivo": "RDL de revalorización de pensiones; no consta medida específica sobre este punto."
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "96-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-026",
+  "relaciones": [
+   {
+    "id": "33-1",
+    "relacion": "avanza",
+    "motivo": "Comisión para estudiar traslado de mutualistas alternativos al RETA y mejorar su jubilación."
+   },
+   {
+    "id": "199-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-16",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley sobre mutualidades alternativas; contenido no disponible."
+   },
+   {
+    "id": "193-15",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley sobre mutualidades alternativas; contenido no disponible."
+   },
+   {
+    "id": "193-14",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley sobre mutualidades alternativas; contenido no disponible."
+   },
+   {
+    "id": "193-12",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley sobre mutualidades alternativas; contenido no disponible."
+   },
+   {
+    "id": "185-20",
+    "relacion": "avanza",
+    "motivo": "Proposición que modifica la LGSS respecto a las mutualidades alternativas."
+   },
+   {
+    "id": "185-15",
+    "relacion": "avanza",
+    "motivo": "Proposición que modifica la LGSS respecto a las mutualidades alternativas."
+   }
+  ]
+ },
+ {
+  "key": "P07-027",
+  "relaciones": [
+   {
+    "id": "104-1",
+    "relacion": "relacionada",
+    "motivo": "Gratuidad de productos ópticos; amplía prestaciones, no ley de equidad."
+   },
+   {
+    "id": "101-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-028",
+  "relaciones": [
+   {
+    "id": "19-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: cartera de servicios común, sin detallar contenidos."
+   },
+   {
+    "id": "104-1",
+    "relacion": "avanza",
+    "motivo": "Incluye gratuidad de productos ópticos; no aborda exclusiones."
+   },
+   {
+    "id": "200-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "80-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "90-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-51",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-029",
+  "relaciones": [
+   {
+    "id": "52-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-030",
+  "relaciones": [
+   {
+    "id": "79-25",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: evitar que la objeción obstruya la salud reproductiva."
+   },
+   {
+    "id": "83-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-031",
+  "relaciones": [
+   {
+    "id": "19-6",
+    "relacion": "avanza",
+    "motivo": "Punto 3: ley de atención integral a enfermos de ELA; sin centro de investigación."
+   },
+   {
+    "id": "193-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "91-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "177-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-032",
+  "relaciones": [
+   {
+    "id": "169-51",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: atender necesidades de financiación del SNS, sin cifra."
+   },
+   {
+    "id": "91-3",
+    "relacion": "relacionada",
+    "motivo": "Financiación extraordinaria de atención sanitaria a migrantes en Canarias."
+   },
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-3",
+    "relacion": "avanza",
+    "motivo": "Punto 1: incrementar partidas de sanidad en los PGE, sin cuantía."
+   }
+  ]
+ },
+ {
+  "key": "P07-033",
+  "relaciones": [
+   {
+    "id": "142-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-034",
+  "relaciones": [
+   {
+    "id": "104-1",
+    "relacion": "relacionada",
+    "motivo": "Amplía gratuidad de salud visual en el sistema público."
+   },
+   {
+    "id": "101-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-035",
+  "relaciones": [
+   {
+    "id": "79-25",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: evitar que la objeción obstruya la salud reproductiva."
+   },
+   {
+    "id": "200-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "90-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-51",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-036",
+  "relaciones": [
+   {
+    "id": "104-1",
+    "relacion": "avanza",
+    "motivo": "Incluye la óptica en la sanidad pública, no el resto."
+   },
+   {
+    "id": "19-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: cartera de servicios común, sin detallar contenidos."
+   },
+   {
+    "id": "80-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-6",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-037",
+  "relaciones": [
+   {
+    "id": "19-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "80-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-038",
+  "relaciones": [
+   {
+    "id": "164-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "181-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-039",
+  "relaciones": [
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-3",
+    "relacion": "avanza",
+    "motivo": "Punto 1: incrementar partidas de sanidad en los PGE, sin fijar 7% del PIB."
+   },
+   {
+    "id": "169-51",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: atender necesidades de financiación del SNS, sin cifra."
+   },
+   {
+    "id": "19-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: suficiencia de la atención sanitaria, sin cifra de inversión."
+   }
+  ]
+ },
+ {
+  "key": "P07-040",
+  "relaciones": [
+   {
+    "id": "19-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-041",
+  "relaciones": [
+   {
+    "id": "101-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-042",
+  "relaciones": [
+   {
+    "id": "13-3",
+    "relacion": "avanza",
+    "motivo": "Pacto de Estado de salud mental con plan de prevención del suicidio juvenil."
+   },
+   {
+    "id": "58-8",
+    "relacion": "avanza",
+    "motivo": "Punto 6: reforzar estrategia de salud mental priorizando prevención del suicidio."
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-15",
+    "relacion": "relacionada",
+    "motivo": "Subcomisión de salud mental."
+   }
+  ]
+ },
+ {
+  "key": "P07-043",
+  "relaciones": [
+   {
+    "id": "101-3",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a la ley de la Agencia Estatal de Salud Pública."
+   },
+   {
+    "id": "101-19",
+    "relacion": "cumple",
+    "motivo": "Dictamen de la ley que crea la Agencia Estatal de Salud Pública."
+   },
+   {
+    "id": "101-2",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a la ley de la Agencia Estatal de Salud Pública."
+   },
+   {
+    "id": "101-1",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a la ley de la Agencia Estatal de Salud Pública."
+   },
+   {
+    "id": "128-6",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas del Senado a la ley de la Agencia Estatal de Salud Pública."
+   },
+   {
+    "id": "128-9",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a la ley de la Agencia Estatal de Salud Pública."
+   },
+   {
+    "id": "128-8",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a la ley de la Agencia Estatal de Salud Pública."
+   },
+   {
+    "id": "128-7",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a la ley de la Agencia Estatal de Salud Pública."
+   }
+  ]
+ },
+ {
+  "key": "P07-044",
+  "relaciones": [
+   {
+    "id": "33-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-51",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "80-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "91-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "19-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-045",
+  "relaciones": [
+   {
+    "id": "90-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-51",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-046",
+  "relaciones": [
+   {
+    "id": "13-3",
+    "relacion": "avanza",
+    "motivo": "Reducir espera en salud mental con atención a menores de 21, sin plazo de 15 días."
+   },
+   {
+    "id": "70-11",
+    "relacion": "relacionada",
+    "motivo": "Protección digital de la salud mental juvenil."
+   },
+   {
+    "id": "33-15",
+    "relacion": "relacionada",
+    "motivo": "Subcomisión de salud mental."
+   },
+   {
+    "id": "58-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: reforzar estrategia nacional de salud mental."
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-047",
+  "relaciones": [
+   {
+    "id": "52-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-048",
+  "relaciones": [
+   {
+    "id": "19-6",
+    "relacion": "cumple",
+    "motivo": "Punto 5: plan con tarjeta sanitaria única e historia clínica digital unificada."
+   },
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "cumple",
+    "motivo": "Punto 4: tarjeta sanitaria única e historia clínica digital unificada."
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "80-3",
+    "relacion": "avanza",
+    "motivo": "Funcionamiento estatal de la tarjeta sanitaria e interoperabilidad de historias clínicas."
+   }
+  ]
+ },
+ {
+  "key": "P07-049",
+  "relaciones": [
+   {
+    "id": "90-2",
+    "relacion": "avanza",
+    "motivo": "Ley de medidas contra la violencia en el ámbito sanitario, no plan nacional."
+   },
+   {
+    "id": "52-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "19-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-050",
+  "relaciones": [
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "90-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-23",
+    "relacion": "relacionada",
+    "motivo": "Medidas urgentes ante falta de médicos en primaria, sin plazas de grado."
+   }
+  ]
+ },
+ {
+  "key": "P07-051",
+  "relaciones": [
+   {
+    "id": "101-3",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a la ley de la Agencia Estatal de Salud Pública."
+   },
+   {
+    "id": "101-19",
+    "relacion": "avanza",
+    "motivo": "Crea la Agencia Estatal de Salud Pública; participación autonómica no verificada."
+   },
+   {
+    "id": "101-2",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a la ley de la Agencia Estatal de Salud Pública."
+   },
+   {
+    "id": "101-1",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a la ley de la Agencia Estatal de Salud Pública."
+   },
+   {
+    "id": "128-6",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a la ley de la Agencia Estatal de Salud Pública."
+   },
+   {
+    "id": "128-9",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a la ley de la Agencia Estatal de Salud Pública."
+   },
+   {
+    "id": "128-8",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a la ley de la Agencia Estatal de Salud Pública."
+   },
+   {
+    "id": "128-7",
+    "relacion": "relacionada",
+    "motivo": "Enmiendas a la ley de la Agencia Estatal de Salud Pública."
+   }
+  ]
+ },
+ {
+  "key": "P07-052",
+  "relaciones": [
+   {
+    "id": "151-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "19-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-51",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "142-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-053",
+  "relaciones": [
+   {
+    "id": "19-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "104-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "91-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-054",
+  "relaciones": [
+   {
+    "id": "200-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "104-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-51",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "26-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "91-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "124-19",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-055",
+  "relaciones": [
+   {
+    "id": "19-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "164-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-056",
+  "relaciones": [
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "avanza",
+    "motivo": "Punto 2: reducir listas de espera, sin ley de tiempos máximos."
+   },
+   {
+    "id": "58-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "146-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "91-18",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-057",
+  "relaciones": [
+   {
+    "id": "164-1",
+    "relacion": "contradice",
+    "motivo": "Refuerza la aplicación de la ley de salud sexual y de interrupción del embarazo."
+   },
+   {
+    "id": "104-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "169-51",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "33-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-25",
+    "relacion": "contradice",
+    "motivo": "Defiende derechos sexuales y reproductivos y su acceso efectivo."
+   },
+   {
+    "id": "19-6",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-058",
+  "relaciones": [
+   {
+    "id": "13-3",
+    "relacion": "cumple",
+    "motivo": "Pacto de Estado de salud mental con refuerzo de especialistas."
+   },
+   {
+    "id": "33-15",
+    "relacion": "relacionada",
+    "motivo": "Subcomisión de salud mental."
+   },
+   {
+    "id": "58-8",
+    "relacion": "avanza",
+    "motivo": "Punto 6: reforzar la estrategia nacional de salud mental."
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-059",
+  "relaciones": [
+   {
+    "id": "52-23",
+    "relacion": "relacionada",
+    "motivo": "MIR de cuarto año en primaria y homologaciones; sin nuevas plazas MIR."
+   },
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "19-6",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-060",
+  "relaciones": [
+   {
+    "id": "128-7",
+    "relacion": "relacionada",
+    "motivo": "Ley de la Agencia de Salud Pública que modifica la Ley General de Salud Pública."
+   },
+   {
+    "id": "101-3",
+    "relacion": "relacionada",
+    "motivo": "Ley de la Agencia de Salud Pública que modifica la Ley General de Salud Pública."
+   },
+   {
+    "id": "101-19",
+    "relacion": "relacionada",
+    "motivo": "Ley de la Agencia de Salud Pública que modifica la Ley General de Salud Pública."
+   },
+   {
+    "id": "101-2",
+    "relacion": "relacionada",
+    "motivo": "Ley de la Agencia de Salud Pública que modifica la Ley General de Salud Pública."
+   },
+   {
+    "id": "101-1",
+    "relacion": "relacionada",
+    "motivo": "Ley de la Agencia de Salud Pública que modifica la Ley General de Salud Pública."
+   },
+   {
+    "id": "128-6",
+    "relacion": "relacionada",
+    "motivo": "Ley de la Agencia de Salud Pública que modifica la Ley General de Salud Pública."
+   },
+   {
+    "id": "128-9",
+    "relacion": "relacionada",
+    "motivo": "Ley de la Agencia de Salud Pública que modifica la Ley General de Salud Pública."
+   },
+   {
+    "id": "128-8",
+    "relacion": "relacionada",
+    "motivo": "Ley de la Agencia de Salud Pública que modifica la Ley General de Salud Pública."
+   }
+  ]
+ },
+ {
+  "key": "P07-061",
+  "relaciones": [
+   {
+    "id": "19-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: cartera de servicios común, sin detallar bucodental."
+   },
+   {
+    "id": "33-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "193-18",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "90-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-19",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-062",
+  "relaciones": [
+   {
+    "id": "52-23",
+    "relacion": "avanza",
+    "motivo": "Prioriza resolver homologación de títulos extracomunitarios; no aborda nacionalidad."
+   },
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "200-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-063",
+  "relaciones": [
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "cumple",
+    "motivo": "Punto 2: reducir listas con incentivos y reforzando conciertos con la privada."
+   },
+   {
+    "id": "58-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "52-23",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "13-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-064",
+  "relaciones": [
+   {
+    "id": "142-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-065",
+  "relaciones": [
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "avanza",
+    "motivo": "Punto 2: reducir listas de espera, sin fijar tiempos máximos."
+   },
+   {
+    "id": "58-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "83-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-066",
+  "relaciones": [
+   {
+    "id": "58-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "58-4",
+    "relacion": "contradice",
+    "motivo": "Punto 2: reforzar conciertos con la sanidad privada."
+   },
+   {
+    "id": "58-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "19-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "101-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-067",
+  "relaciones": [
+   {
+    "id": "68-4",
+    "relacion": "avanza",
+    "motivo": "Punto 4: jubilación anticipada de policías y guardias civiles."
+   },
+   {
+    "id": "68-3",
+    "relacion": "avanza",
+    "motivo": "Punto 3: ley de retribuciones de las FCSE."
+   },
+   {
+    "id": "68-2",
+    "relacion": "avanza",
+    "motivo": "Punto 2: reconocer equiparación a agentes en segunda actividad o reserva."
+   },
+   {
+    "id": "68-1",
+    "relacion": "avanza",
+    "motivo": "Punto 1: informe para cuantificar la equiparación salarial pendiente."
+   },
+   {
+    "id": "151-11",
+    "relacion": "avanza",
+    "motivo": "Equiparación salarial, profesión de riesgo y resarcimiento de gastos de agentes."
+   },
+   {
+    "id": "121-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "121-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "121-6",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-068",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "cumple",
+    "motivo": "Punto 6: medidas contra ocupación ilegal, incluida protección frente a mafias."
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "50-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-069",
+  "relaciones": [
+   {
+    "id": "77-2",
+    "relacion": "relacionada",
+    "motivo": "Condición de agentes de autoridad de funcionarios de prisiones, no reinserción."
+   },
+   {
+    "id": "185-39",
+    "relacion": "relacionada",
+    "motivo": "Condición de agentes de autoridad de funcionarios de prisiones, no reinserción."
+   },
+   {
+    "id": "185-2",
+    "relacion": "relacionada",
+    "motivo": "Condición de agentes de autoridad de funcionarios de prisiones, no reinserción."
+   },
+   {
+    "id": "185-1",
+    "relacion": "relacionada",
+    "motivo": "Condición de agentes de autoridad de funcionarios de prisiones, no reinserción."
+   },
+   {
+    "id": "185-38",
+    "relacion": "relacionada",
+    "motivo": "Condición de agentes de autoridad de funcionarios de prisiones, no reinserción."
+   },
+   {
+    "id": "47-1",
+    "relacion": "relacionada",
+    "motivo": "Condición de agentes de autoridad de funcionarios de prisiones, no reinserción."
+   },
+   {
+    "id": "79-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-58",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-070",
+  "relaciones": [
+   {
+    "id": "183-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: penas por atentado y resistencia a agentes."
+   },
+   {
+    "id": "183-8",
+    "relacion": "avanza",
+    "motivo": "Punto 6: armas no letales para la Guardia Civil frente al narcotráfico."
+   },
+   {
+    "id": "183-7",
+    "relacion": "avanza",
+    "motivo": "Punto 5: recursos materiales a FCSE contra el narcotráfico."
+   },
+   {
+    "id": "183-6",
+    "relacion": "avanza",
+    "motivo": "Punto 4: más plantillas contra organizaciones de narcotráfico y blanqueo."
+   },
+   {
+    "id": "183-5",
+    "relacion": "avanza",
+    "motivo": "Punto 3: restablecer OCON-Sur y reforzar plan del Campo de Gibraltar."
+   },
+   {
+    "id": "183-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: profesión de riesgo de policías y guardias civiles."
+   },
+   {
+    "id": "183-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 1 sin texto disponible; moción sobre FCSE y narcotráfico."
+   },
+   {
+    "id": "119-2",
+    "relacion": "avanza",
+    "motivo": "Tipifica transporte de combustible destinado al narcotráfico."
+   }
+  ]
+ },
+ {
+  "key": "P07-071",
+  "relaciones": [
+   {
+    "id": "183-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-59",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-072",
+  "relaciones": [
+   {
+    "id": "47-1",
+    "relacion": "cumple",
+    "motivo": "Reconoce a funcionarios de prisiones como agentes de la autoridad."
+   },
+   {
+    "id": "185-39",
+    "relacion": "cumple",
+    "motivo": "Reconoce a funcionarios de prisiones como agentes de la autoridad."
+   },
+   {
+    "id": "185-2",
+    "relacion": "relacionada",
+    "motivo": "Enmienda a la ley de agentes de autoridad penitenciarios; texto no disponible."
+   },
+   {
+    "id": "185-1",
+    "relacion": "relacionada",
+    "motivo": "Enmienda a la ley de agentes de autoridad penitenciarios; texto no disponible."
+   },
+   {
+    "id": "185-38",
+    "relacion": "cumple",
+    "motivo": "Dictamen de la ley que reconoce a funcionarios de prisiones como agentes de la autoridad."
+   },
+   {
+    "id": "77-2",
+    "relacion": "cumple",
+    "motivo": "Reconoce a funcionarios penitenciarios como agentes de la autoridad."
+   },
+   {
+    "id": "151-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: estudiar profesión de riesgo para empleados penitenciarios."
+   },
+   {
+    "id": "183-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-073",
+  "relaciones": [
+   {
+    "id": "174-7",
+    "relacion": "avanza",
+    "motivo": "Punto 7: revisar medidas a menores que usan armas blancas."
+   },
+   {
+    "id": "174-6",
+    "relacion": "avanza",
+    "motivo": "Punto 6: endurecer penas del Código Penal por armas prohibidas."
+   },
+   {
+    "id": "174-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: detención de quien exhiba armas blancas."
+   },
+   {
+    "id": "174-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: sanciones administrativas por armas en la ley de seguridad ciudadana."
+   },
+   {
+    "id": "174-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: controles en la compra de armas blancas."
+   },
+   {
+    "id": "174-2",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: ampliar armas blancas prohibidas."
+   },
+   {
+    "id": "174-1",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: plan contra el uso de armas blancas en delitos violentos."
+   },
+   {
+    "id": "151-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 11: herramientas contra crimen organizado y delincuencia grave."
+   }
+  ]
+ },
+ {
+  "key": "P07-074",
+  "relaciones": [
+   {
+    "id": "26-12",
+    "relacion": "avanza",
+    "motivo": "Sanciones contra actos de enaltecimiento terrorista; sin imprescriptibilidad."
+   },
+   {
+    "id": "174-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-075",
+  "relaciones": [
+   {
+    "id": "174-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: endurece sanciones por armas en la ley de seguridad ciudadana."
+   },
+   {
+    "id": "174-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "85-9",
+    "relacion": "avanza",
+    "motivo": "Reforma de la ley de seguridad ciudadana con enfoque garantista, no derogación."
+   }
+  ]
+ },
+ {
+  "key": "P07-076",
+  "relaciones": [
+   {
+    "id": "68-4",
+    "relacion": "avanza",
+    "motivo": "Punto 4: jubilación anticipada de policías y guardias civiles."
+   },
+   {
+    "id": "68-3",
+    "relacion": "avanza",
+    "motivo": "Punto 3: ley de retribuciones para evitar desigualdades con otras policías."
+   },
+   {
+    "id": "68-2",
+    "relacion": "avanza",
+    "motivo": "Punto 2: reconocer equiparación a agentes en segunda actividad o reserva."
+   },
+   {
+    "id": "68-1",
+    "relacion": "avanza",
+    "motivo": "Punto 1: informe sobre cantidades pendientes de equiparación con policías autonómicas."
+   },
+   {
+    "id": "151-11",
+    "relacion": "avanza",
+    "motivo": "Punto 1: culminar equiparación salarial con policías autonómicas; sin Fuerzas Armadas."
+   },
+   {
+    "id": "183-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-077",
+  "relaciones": [
+   {
+    "id": "70-30",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "141-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "11-6",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-078",
+  "relaciones": [
+   {
+    "id": "26-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-079",
+  "relaciones": [
+   {
+    "id": "174-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "174-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "119-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-080",
+  "relaciones": [
+   {
+    "id": "185-39",
+    "relacion": "cumple",
+    "motivo": "Reconoce a funcionarios de prisiones como agentes de la autoridad."
+   },
+   {
+    "id": "185-2",
+    "relacion": "relacionada",
+    "motivo": "Enmienda a la ley de agentes de autoridad penitenciarios; texto no disponible."
+   },
+   {
+    "id": "185-1",
+    "relacion": "relacionada",
+    "motivo": "Enmienda a la ley de agentes de autoridad penitenciarios; texto no disponible."
+   },
+   {
+    "id": "185-38",
+    "relacion": "cumple",
+    "motivo": "Dictamen de la ley que reconoce a funcionarios de prisiones como agentes de la autoridad."
+   },
+   {
+    "id": "47-1",
+    "relacion": "cumple",
+    "motivo": "Reconoce a funcionarios de prisiones como agentes de la autoridad."
+   },
+   {
+    "id": "77-2",
+    "relacion": "cumple",
+    "motivo": "Reconoce a funcionarios penitenciarios como agentes de la autoridad."
+   },
+   {
+    "id": "151-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: estudiar profesión de riesgo para empleados penitenciarios."
+   },
+   {
+    "id": "183-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-081",
+  "relaciones": [
+   {
+    "id": "151-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-53",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-082",
+  "relaciones": [
+   {
+    "id": "26-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-56",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-55",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-54",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-53",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-083",
+  "relaciones": [
+   {
+    "id": "151-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 11: herramientas contra crimen organizado y delincuencia grave."
+   },
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "68-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-084",
+  "relaciones": [
+   {
+    "id": "85-9",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la ley de seguridad ciudadana, no ley de prevención comunitaria."
+   },
+   {
+    "id": "85-8",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la ley de seguridad ciudadana, no ley de prevención comunitaria."
+   },
+   {
+    "id": "71-1",
+    "relacion": "relacionada",
+    "motivo": "Reforma de la ley de seguridad ciudadana, no ley de prevención comunitaria."
+   },
+   {
+    "id": "160-2",
+    "relacion": "relacionada",
+    "motivo": "Seguridad ciudadana en espacio público con enfoque prohibitivo."
+   },
+   {
+    "id": "79-59",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-58",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-57",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "79-56",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-085",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "cumple",
+    "motivo": "Punto 3: reformar hurto y estafa para reducir la multirreincidencia."
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-11",
+    "relacion": "cumple",
+    "motivo": "Punto 10: endurecer penas de hurto y estafa por multirreincidencia."
+   },
+   {
+    "id": "174-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "key": "P07-086",
+  "relaciones": [
+   {
+    "id": "151-11",
+    "relacion": "cumple",
+    "motivo": "Punto 5: aumentar penas por atentado, resistencia y desobediencia a agentes."
+   },
+   {
+    "id": "183-9",
+    "relacion": "cumple",
+    "motivo": "Punto 7: aumentar penas por atentado, resistencia y desobediencia a agentes."
+   },
+   {
+    "id": "183-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "183-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ }
+]

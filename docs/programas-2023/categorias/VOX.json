@@ -1,0 +1,291 @@
+{
+ "party": "VOX",
+ "pages": 178,
+ "language": "es",
+ "categories": [
+  {
+   "title": "Portada e índice",
+   "pages": [
+    1,
+    5
+   ],
+   "words": 124,
+   "topics": [],
+   "note": "Portada e índice"
+  },
+  {
+   "title": "Igualdad entre españoles",
+   "pages": [
+    6,
+    13
+   ],
+   "words": 1472,
+   "topics": [
+    "territorial",
+    "democracia",
+    "igualdad"
+   ],
+   "note": "Estado unitario, recentralización y supresión de organismos ideológicos"
+  },
+  {
+   "title": "Unidad de España",
+   "pages": [
+    14,
+    19
+   ],
+   "words": 926,
+   "topics": [
+    "territorial",
+    "justicia",
+    "democracia"
+   ],
+   "note": "Delitos de sedición y referéndum, defensa de la unidad nacional"
+  },
+  {
+   "title": "Empleo y salarios dignos",
+   "pages": [
+    20,
+    29
+   ],
+   "words": 1565,
+   "topics": [
+    "empleo",
+    "impuestos"
+   ],
+   "note": "SMI, cotizaciones, FP dual y empleo de españoles"
+  },
+  {
+   "title": "Educación en libertad",
+   "pages": [
+    30,
+    37
+   ],
+   "words": 1376,
+   "topics": [
+    "educacion"
+   ],
+   "note": "Libertad educativa, PIN parental, evaluación nacional y universidad"
+  },
+  {
+   "title": "Acceso a la vivienda",
+   "pages": [
+    38,
+    45
+   ],
+   "words": 1414,
+   "topics": [
+    "vivienda",
+    "seguridad"
+   ],
+   "note": "Ocupación ilegal, ayudas a compra y derogar ley de vivienda"
+  },
+  {
+   "title": "Producido en España",
+   "pages": [
+    46,
+    53
+   ],
+   "words": 1417,
+   "topics": [
+    "campo",
+    "empleo",
+    "exteriores"
+   ],
+   "note": "Proteccionismo comercial, cadena alimentaria y producto nacional"
+  },
+  {
+   "title": "Salud",
+   "pages": [
+    54,
+    61
+   ],
+   "words": 1280,
+   "topics": [
+    "sanidad"
+   ],
+   "note": "Sistema Nacional de Salud único, profesionales y listas de espera"
+  },
+  {
+   "title": "Protección social de los españoles",
+   "pages": [
+    62,
+    71
+   ],
+   "words": 1584,
+   "topics": [
+    "social",
+    "pensiones"
+   ],
+   "note": "Mayores, dependencia, pensiones, discapacidad y prioridad nacional"
+  },
+  {
+   "title": "Fiscalidad para la prosperidad",
+   "pages": [
+    72,
+    87
+   ],
+   "words": 3335,
+   "topics": [
+    "impuestos",
+    "empleo"
+   ],
+   "note": "IRPF tipo único, Sociedades, gasto público y pymes"
+  },
+  {
+   "title": "Seguridad y Defensa",
+   "pages": [
+    88,
+    97
+   ],
+   "words": 1575,
+   "topics": [
+    "defensa",
+    "seguridad"
+   ],
+   "note": "Soberanía, Fuerzas Armadas, policía y equiparación salarial"
+  },
+  {
+   "title": "Inmigración e Identidad Nacional",
+   "pages": [
+    98,
+    105
+   ],
+   "words": 1382,
+   "topics": [
+    "inmigracion",
+    "seguridad"
+   ],
+   "note": "Deportaciones, bloqueo naval, mafias y nacionalidad"
+  },
+  {
+   "title": "España Verde",
+   "pages": [
+    106,
+    113
+   ],
+   "words": 1494,
+   "topics": [
+    "clima",
+    "campo",
+    "energia"
+   ],
+   "note": "Medio ambiente sin ideología, agua, incendios y costas"
+  },
+  {
+   "title": "Reindustrialización y soberanía energética",
+   "pages": [
+    114,
+    123
+   ],
+   "words": 1491,
+   "topics": [
+    "energia",
+    "empleo"
+   ],
+   "note": "Soberanía energética, nuclear, pantanos e industria"
+  },
+  {
+   "title": "Despolitización de la Justicia",
+   "pages": [
+    124,
+    131
+   ],
+   "words": 1270,
+   "topics": [
+    "justicia",
+    "democracia"
+   ],
+   "note": "Independencia judicial, indultos y competencias de justicia"
+  },
+  {
+   "title": "Unión Europea",
+   "pages": [
+    132,
+    139
+   ],
+   "words": 1389,
+   "topics": [
+    "exteriores",
+    "campo"
+   ],
+   "note": "Soberanía frente a Bruselas, PAC y gasto comunitario"
+  },
+  {
+   "title": "Iberosfera",
+   "pages": [
+    140,
+    145
+   ],
+   "words": 982,
+   "topics": [
+    "exteriores",
+    "inmigracion"
+   ],
+   "note": "Relaciones con Iberoamérica y Carta de Madrid"
+  },
+  {
+   "title": "España rural",
+   "pages": [
+    146,
+    152
+   ],
+   "words": 1138,
+   "topics": [
+    "campo",
+    "territorial",
+    "cultura"
+   ],
+   "note": "Plan Nacional del Agua, despoblación y tradiciones rurales"
+  },
+  {
+   "title": "Libertad de expresión",
+   "pages": [
+    153,
+    159
+   ],
+   "words": 950,
+   "topics": [
+    "democracia",
+    "tecnologia"
+   ],
+   "note": "Libertad de expresión, plataformas digitales y memoria histórica"
+  },
+  {
+   "title": "Perspectiva de Familia",
+   "pages": [
+    160,
+    167
+   ],
+   "words": 1220,
+   "topics": [
+    "social",
+    "igualdad"
+   ],
+   "note": "Supresión Ministerio de Igualdad, natalidad y conciliación"
+  },
+  {
+   "title": "Dignidad humana",
+   "pages": [
+    168,
+    177
+   ],
+   "words": 1743,
+   "topics": [
+    "social",
+    "sanidad",
+    "igualdad"
+   ],
+   "note": "Aborto, eutanasia, maternidad subrogada y ley trans"
+  },
+  {
+   "title": "Contraportada",
+   "pages": [
+    178,
+    178
+   ],
+   "words": 11,
+   "topics": [],
+   "note": "Contraportada sin contenido programático"
+  }
+ ]
+}

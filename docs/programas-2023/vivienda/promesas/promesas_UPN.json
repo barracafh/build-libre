@@ -1,0 +1,43 @@
+{
+ "party": "UPN",
+ "promesas": [
+  {
+   "id": "UPN-01",
+   "cita": "Establecimiento de normativa que garantice el reconocimiento efectivo a la propiedad privada de las viviendas y la lucha contra la ocupación ilegal.",
+   "pagina": 6,
+   "resumen": "Aprobar normativa que proteja la propiedad privada de la vivienda frente a la ocupación ilegal.",
+   "objeto": "normativa contra la ocupación ilegal",
+   "tipo": "legislativa",
+   "direccion": "crear_ampliar",
+   "competencia": "directa",
+   "verificabilidad": "media",
+   "palabras_clave": [
+    "okupación",
+    "ocupación ilegal",
+    "propiedad privada",
+    "desalojo",
+    "allanamiento",
+    "usurpación"
+   ]
+  },
+  {
+   "id": "UPN-02",
+   "cita": "Derogación de la Ley de Vivienda y respeto a las competencias que en la materia tiene la Co- munidad Foral de Navarra.",
+   "pagina": 6,
+   "resumen": "Derogar la Ley estatal de Vivienda.",
+   "objeto": "Ley 12/2023 por el derecho a la vivienda",
+   "tipo": "legislativa",
+   "direccion": "derogar",
+   "competencia": "directa",
+   "verificabilidad": "alta",
+   "palabras_clave": [
+    "ley vivienda",
+    "derogación",
+    "Ley 12/2023",
+    "competencias autonómicas",
+    "Navarra",
+    "alquiler"
+   ]
+  }
+ ]
+}

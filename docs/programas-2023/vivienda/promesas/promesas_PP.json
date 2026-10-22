@@ -1,0 +1,261 @@
+{
+  "party": "PP",
+  "promesas": [
+    {
+      "id": "PP-01",
+      "cita": "Bonificaremos el Impuesto de Transmisiones y de Actos Jurídicos Documentados o el IBI por compra de una vivienda en el rural",
+      "pagina": 32,
+      "resumen": "Bonificar el ITP-AJD o el IBI en la compra de vivienda en el medio rural.",
+      "objeto": "ITP-AJD e IBI en compra de vivienda rural",
+      "tipo": "legislativa",
+      "direccion": "reducir_suprimir",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "ITP",
+        "actos jurídicos documentados",
+        "IBI",
+        "vivienda rural",
+        "despoblación",
+        "fiscalidad vivienda"
+      ]
+    },
+    {
+      "id": "PP-02",
+      "cita": "PROPONDREMOS UN PACTO DE ESTADO SOBRE LA VIVIENDA que cuente con la participación e implicación de las Comunidades Autónomas y entidades locales.",
+      "pagina": 33,
+      "resumen": "Proponer un Pacto de Estado sobre la vivienda con comunidades autónomas y entidades locales.",
+      "objeto": "Pacto de Estado sobre la vivienda",
+      "tipo": "ejecutiva",
+      "direccion": "crear_ampliar",
+      "competencia": "indirecta",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "pacto de estado vivienda",
+        "vivienda",
+        "comunidades autónomas",
+        "suelo",
+        "alquiler"
+      ]
+    },
+    {
+      "id": "PP-03",
+      "cita": "Derogaremos la ley de vivienda, que ha generado inseguridad jurídica y no resuelve ninguno de los problemas de fondo del mercado de la vivienda.",
+      "pagina": 34,
+      "resumen": "Derogar la Ley 12/2023 por el derecho a la vivienda.",
+      "objeto": "Ley 12/2023 por el derecho a la vivienda",
+      "tipo": "legislativa",
+      "direccion": "derogar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "ley vivienda",
+        "derogación",
+        "Ley 12/2023",
+        "derecho a la vivienda",
+        "alquiler"
+      ]
+    },
+    {
+      "id": "PP-04",
+      "cita": "LLEVAREMOS A CABO UN PROGRAMA DE AVALES DESTINADO A JÓVENES de hasta 35 años, a fin de garantizar la concesión de créditos hipotecarios por valor de hasta un 95% de la totalidad del precio de la vivienda.",
+      "pagina": 34,
+      "resumen": "Crear un programa de avales para menores de 35 años que cubra hipotecas de hasta el 95% del precio.",
+      "objeto": "Programa de avales hipotecarios para jóvenes",
+      "tipo": "ejecutiva",
+      "direccion": "crear_ampliar",
+      "competencia": "indirecta",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "avales ICO",
+        "hipoteca jóvenes",
+        "primera vivienda",
+        "avales",
+        "compra vivienda",
+        "jóvenes"
+      ]
+    },
+    {
+      "id": "PP-05",
+      "cita": "IMPULSAREMOS UNA LEY DE SEGURIDAD JURÍDICA EN MATERIA DE URBANISMO, que garantice la perdurabilidad de los planes urbanísticos cuando se impugnen cuestiones no estructurantes de los mismos.",
+      "pagina": 34,
+      "resumen": "Aprobar una ley de seguridad jurídica urbanística que evite anular planes por impugnaciones de aspectos no estructurantes.",
+      "objeto": "Ley de seguridad jurídica en urbanismo",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "seguridad jurídica urbanismo",
+        "planes urbanísticos",
+        "ley del suelo",
+        "nulidad planeamiento",
+        "urbanismo"
+      ]
+    },
+    {
+      "id": "PP-06",
+      "cita": "MOVILIZAREMOS EL SUELO DE TITULARIDAD PÚBLICA destinado a redes públicas de vivienda, tanto",
+      "pagina": 34,
+      "resumen": "Movilizar suelo público patrimonial y demanial para promover vivienda en alquiler asequible.",
+      "objeto": "Suelo público para vivienda en alquiler asequible",
+      "tipo": "ejecutiva",
+      "direccion": "crear_ampliar",
+      "competencia": "indirecta",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "suelo público",
+        "alquiler asequible",
+        "vivienda pública",
+        "SEPES",
+        "promoción vivienda"
+      ]
+    },
+    {
+      "id": "PP-07",
+      "cita": "APROBAREMOS UN PAQUETE DE MEDIDAS “ANTI-OKUPACIÓN” para permitir que los desalojos se produzcan en un plazo máximo de 24 horas;",
+      "pagina": 82,
+      "resumen": "Aprobar medidas antiokupación para que los desalojos de ocupantes ilegales se produzcan en un máximo de 24 horas.",
+      "objeto": "Plazo de desalojo de viviendas okupadas",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "okupación",
+        "desalojo 24 horas",
+        "ocupación ilegal",
+        "Ley de Enjuiciamiento",
+        "allanamiento",
+        "usurpación"
+      ]
+    },
+    {
+      "id": "PP-08",
+      "cita": "CREAREMOS UNIDADES DE LAS FUERZAS Y CUERPOS DE SEGURIDAD DEL ESTADO ESPECIALIZADAS EN LA LUCHA CONTRA LA OCUPACIÓN ILEGAL,",
+      "pagina": 82,
+      "resumen": "Crear unidades policiales especializadas contra la ocupación ilegal y de actuación inmediata.",
+      "objeto": "Unidades policiales contra la okupación",
+      "tipo": "ejecutiva",
+      "direccion": "crear_ampliar",
+      "competencia": "indirecta",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "okupación",
+        "Fuerzas y Cuerpos de Seguridad",
+        "ocupación ilegal",
+        "unidades especializadas",
+        "policía"
+      ]
+    },
+    {
+      "id": "PP-09",
+      "cita": "REFORZAREMOS LAS PENAS POR DELITO DE USURPACIÓN en el Código Penal con hasta 3 años de cárcel.",
+      "pagina": 82,
+      "resumen": "Elevar las penas del delito de usurpación en el Código Penal hasta 3 años de prisión.",
+      "objeto": "Penas del delito de usurpación",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "usurpación",
+        "Código Penal",
+        "okupación",
+        "penas",
+        "ocupación ilegal"
+      ]
+    },
+    {
+      "id": "PP-10",
+      "cita": "mejoraremos la protección legal frente a la actuación de las mafias, introduciendo el supuesto de que la ocupación ilegal se realice por un grupo organizado o siguiendo sus instrucciones",
+      "pagina": 82,
+      "resumen": "Introducir en el Código Penal el supuesto de ocupación ilegal cometida por grupo organizado.",
+      "objeto": "Tipo penal de okupación por grupo organizado",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "mafias okupación",
+        "usurpación",
+        "grupo organizado",
+        "Código Penal",
+        "okupación"
+      ]
+    },
+    {
+      "id": "PP-11",
+      "cita": "DOTAREMOS A LAS COMUNIDADES DE PROPIETARIOS DE MEDIOS DE DEFENSA JURÍDICA en la Ley sobre Propiedad Horizontal para la protección de la convivencia vecinal, legitimándolas para realizar acciones preventivas contra la ocupación ilegal",
+      "pagina": 82,
+      "resumen": "Reformar la Ley de Propiedad Horizontal para legitimar a las comunidades de propietarios a actuar contra la okupación.",
+      "objeto": "Ley de Propiedad Horizontal y okupación",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "propiedad horizontal",
+        "comunidades de propietarios",
+        "okupación",
+        "ocupación ilegal",
+        "legitimación"
+      ]
+    },
+    {
+      "id": "PP-12",
+      "cita": "PROMOVEREMOS LA MODIFICACIÓN DE LA LEY DE BASES DEL RÉGIMEN LOCAL con el fin de que la inscripción de un ocupante ilegal en el padrón municipal se considere nula",
+      "pagina": 82,
+      "resumen": "Modificar la Ley de Bases del Régimen Local para que el empadronamiento de ocupantes ilegales sea nulo.",
+      "objeto": "Empadronamiento de ocupantes ilegales en LBRL",
+      "tipo": "legislativa",
+      "direccion": "reducir_suprimir",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "padrón",
+        "empadronamiento okupas",
+        "Ley de Bases del Régimen Local",
+        "okupación",
+        "ocupación ilegal"
+      ]
+    },
+    {
+      "id": "PP-13",
+      "cita": "IMPULSAREMOS REFOR- MAS DE LA LEGISLACIÓN TRIBUTARIA para que se puedan devolver las cantidades abonadas por el propietario en concepto de IBI y en el Impuesto sobre el Patrimonio por el periodo que haya durado la ocupación;",
+      "pagina": 83,
+      "resumen": "Reformar la legislación tributaria para devolver al propietario el IBI y el Patrimonio pagados durante la ocupación.",
+      "objeto": "IBI y Patrimonio de viviendas okupadas",
+      "tipo": "legislativa",
+      "direccion": "reducir_suprimir",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "IBI",
+        "impuesto sobre el patrimonio",
+        "okupación",
+        "devolución",
+        "vivienda ocupada",
+        "fiscalidad"
+      ]
+    },
+    {
+      "id": "PP-14",
+      "cita": "para que la vivienda ocupada sea considerada como residencia habitual de su propietario si lo era antes de la privación ilegítima de su posesión,",
+      "pagina": 83,
+      "resumen": "Mantener la consideración de residencia habitual y sus beneficios fiscales a la vivienda okupada del propietario.",
+      "objeto": "Residencia habitual fiscal de vivienda okupada",
+      "tipo": "legislativa",
+      "direccion": "mantener",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "vivienda habitual",
+        "beneficios fiscales",
+        "okupación",
+        "IRPF",
+        "vivienda ocupada"
+      ]
+    }
+  ]
+}

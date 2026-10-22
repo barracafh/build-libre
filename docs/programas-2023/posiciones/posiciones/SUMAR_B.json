@@ -1,0 +1,1441 @@
+{
+ "party": "SUMAR",
+ "temas": [
+  {
+   "tema": "vivienda",
+   "sin_contenido": false,
+   "posicion_general": "Propone un parque público de alquiler de dos millones de viviendas con una inversión del 1% del PIB, regular los precios del alquiler en todas las zonas tensionadas, ampliar la Ley de Vivienda, limitar el alquiler turístico y de temporada, cambiar la fiscalidad de SOCIMIs y ayudar a hipotecados.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-vivienda-01",
+     "subtema": "vivienda pública",
+     "cita": "Invertiremos sostenidamente, durante diez años, el 1% del PIB en construcción, compra, movili- zación y rehabilitación de vivienda para generar un verdadero parque de alquiler protegido, social, sostenible y asequible de más dos millones de viviendas protegidas en los siguientes diez años.",
+     "pagina": 76,
+     "postura": "Invertir el 1% del PIB durante diez años para crear un parque de más de dos millones de viviendas protegidas de alquiler.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "vivienda pública",
+      "parque público",
+      "alquiler social",
+      "vivienda protegida",
+      "inversión"
+     ]
+    },
+    {
+     "id": "SUMAR-vivienda-02",
+     "subtema": "fiscalidad SOCIMIs",
+     "cita": "Adoptaremos medidas en materia fiscal que incluyan condicionar los beneficios fiscales en el impuesto de sociedades para las SOCIMIS, EDAVS, y las sociedades y fondos de inversión inmo- biliarios en función del valor social y la aportación al interés general de los proyectos que realicen.",
+     "pagina": 76,
+     "postura": "Condicionar los beneficios fiscales de SOCIMIs y fondos inmobiliarios en el impuesto de sociedades a su aportación social.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "SOCIMI",
+      "fondos de inversión",
+      "impuesto de sociedades",
+      "beneficios fiscales",
+      "vivienda"
+     ]
+    },
+    {
+     "id": "SUMAR-vivienda-03",
+     "subtema": "suelo público",
+     "cita": "Prohibiremos de forma expresa la venta de patrimonio público de suelo y vivienda de las Admi- nistraciones (específicamente el correspondiente a la Sareb, Adif y Defensa)",
+     "pagina": 76,
+     "postura": "Prohibir la venta de suelo y vivienda públicos, incluidos los de Sareb, Adif y Defensa.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "suelo público",
+      "patrimonio público",
+      "Sareb",
+      "venta",
+      "vivienda"
+     ]
+    },
+    {
+     "id": "SUMAR-vivienda-04",
+     "subtema": "alquiler turístico",
+     "cita": "Estableceremos limitaciones al alquiler turístico, de habitaciones y de temporada para que no se conviertan en una opción que sortee la aplicación de la Ley de Vivienda.",
+     "pagina": 77,
+     "postura": "Limitar el alquiler turístico, de habitaciones y de temporada.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "alquiler turístico",
+      "viviendas turísticas",
+      "alquiler de temporada",
+      "Ley de Vivienda"
+     ]
+    },
+    {
+     "id": "SUMAR-vivienda-05",
+     "subtema": "duración contratos",
+     "cita": "Aumentaremos la duración mínima de los contratos de arrendamiento de vivienda tendiendo a que sean indefinidos con causas de resolución excepcionales para proteger al propietario.",
+     "pagina": 77,
+     "postura": "Alargar la duración mínima de los contratos de alquiler hacia contratos indefinidos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "arrendamientos urbanos",
+      "contrato de alquiler",
+      "duración",
+      "inquilinos",
+      "LAU"
+     ]
+    },
+    {
+     "id": "SUMAR-vivienda-06",
+     "subtema": "Ley de Vivienda y desahucios",
+     "cita": "Modificaremos la Ley 12/2023 de Vivienda para incluir: el alquiler social obligatorio para grandes tenedores, la dación en pago, obligaciones de resultado para las Administraciones públicas en ma- teria de vivienda alternativa frente a los desahucios,",
+     "pagina": 77,
+     "postura": "Reformar la Ley de Vivienda para imponer alquiler social obligatorio a grandes tenedores, dación en pago y vivienda alternativa ante desahucios.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ley de Vivienda",
+      "grandes tenedores",
+      "dación en pago",
+      "desahucios",
+      "alquiler social"
+     ]
+    },
+    {
+     "id": "SUMAR-vivienda-07",
+     "subtema": "control de alquileres",
+     "cita": "haremos obligatoria la declaración de zona de mercado tensionado en las áreas geográficas en las que se cumplan objetivamente los requisitos que la Ley de Vivienda establece, aplicando así la regulación de alquileres a todas las zonas de mercado tensionado",
+     "pagina": 78,
+     "postura": "Declarar obligatoriamente las zonas tensionadas y aplicar en todas ellas la regulación de precios del alquiler.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "zona tensionada",
+      "control de alquileres",
+      "precio del alquiler",
+      "índice de referencia",
+      "Ley de Vivienda"
+     ]
+    },
+    {
+     "id": "SUMAR-vivienda-08",
+     "subtema": "hipotecas",
+     "cita": "Crearemos un bono de emergencia para los hogares hipotecados a tipo variable para la com- pra de su vivienda habitual que sufren la fuerte alza de los tipos de interés decidida por el BCE.",
+     "pagina": 77,
+     "postura": "Crear un bono de 1.000 euros para hogares con hipoteca variable financiado con el impuesto a la banca.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "hipotecas",
+      "tipo variable",
+      "bono",
+      "tipos de interés",
+      "impuesto a la banca"
+     ]
+    },
+    {
+     "id": "SUMAR-vivienda-09",
+     "subtema": "Sareb",
+     "cita": "Convertiremos la Sareb en una herramienta pública que tenga como objetivo garantizar el derecho a la vivienda.",
+     "pagina": 77,
+     "postura": "Convertir la Sareb en instrumento público de vivienda dependiente del ministerio competente.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Sareb",
+      "vivienda pública",
+      "alquiler social",
+      "banco malo"
+     ]
+    },
+    {
+     "id": "SUMAR-vivienda-10",
+     "subtema": "reserva de suelo",
+     "cita": "Desarrollaremos una normativa específica para que en suelo urbano consolidado se garantice una reserva del 30% para vivienda protegida.",
+     "pagina": 79,
+     "postura": "Reservar el 30% del suelo urbano consolidado para vivienda protegida.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "suelo urbano",
+      "reserva",
+      "vivienda protegida",
+      "urbanismo"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "igualdad",
+   "sin_contenido": false,
+   "posicion_general": "Propone reforzar los planes de igualdad y las inspecciones laborales, garantizar el aborto en la sanidad pública, aprobar una ley integral contra la trata, blindar el Pacto de Estado contra la Violencia de Género, cumplir la ley trans y LGTBI+, reforzar el Ministerio de Igualdad y reformar el artículo 49 de la Constitución.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-igualdad-01",
+     "subtema": "brecha salarial",
+     "cita": "Se ampliarán y se fortalecerán los planes de igualdad, así como la formación en torno a estos, se promoverá la figura del responsable del plan de igualdad para monitorizar su cumplimiento y se incrementarán las inspecciones laborales para garantizar su aplicación.",
+     "pagina": 108,
+     "postura": "Ampliar los planes de igualdad en las empresas y aumentar las inspecciones laborales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "planes de igualdad",
+      "brecha salarial",
+      "inspección de trabajo",
+      "igualdad laboral",
+      "mujeres"
+     ]
+    },
+    {
+     "id": "SUMAR-igualdad-02",
+     "subtema": "aborto",
+     "cita": "Será una priori- dad garantizar el acceso efectivo al derecho al aborto desde los servicios públicos de salud en todo el territorio y en condiciones de igualdad.",
+     "pagina": 111,
+     "postura": "Garantizar el aborto en la sanidad pública en todo el territorio.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "aborto",
+      "interrupción voluntaria del embarazo",
+      "derechos reproductivos",
+      "sanidad pública"
+     ]
+    },
+    {
+     "id": "SUMAR-igualdad-03",
+     "subtema": "trata",
+     "cita": "Se tramitará una ley integral contra la trata de personas que cubra todas y cada una de las distintas formas de trata,",
+     "pagina": 110,
+     "postura": "Aprobar una ley integral contra la trata de personas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "trata de personas",
+      "ley integral",
+      "explotación sexual",
+      "prostitución",
+      "víctimas"
+     ]
+    },
+    {
+     "id": "SUMAR-igualdad-04",
+     "subtema": "violencia económica",
+     "cita": "el impago de pensiones alimenticias puede considerarse como violencia económica y como tal debería estar tipificada como una modalidad más de violencia de género.",
+     "pagina": 110,
+     "postura": "Tipificar el impago de pensiones alimenticias como violencia económica de género.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "violencia económica",
+      "pensiones alimenticias",
+      "violencia de género",
+      "Código Penal"
+     ]
+    },
+    {
+     "id": "SUMAR-igualdad-05",
+     "subtema": "Pacto de Estado",
+     "cita": "Continuaremos por la senda del acuer- do adoptado por la Conferencia Sectorial de Igualdad en relación con el Pacto de Estado contra la Violencia de Género, para blindar el marco de actuación conjunta",
+     "pagina": 111,
+     "postura": "Blindar el Pacto de Estado contra la Violencia de Género y su financiación estable.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "Pacto de Estado",
+      "violencia de género",
+      "víctimas",
+      "financiación"
+     ]
+    },
+    {
+     "id": "SUMAR-igualdad-06",
+     "subtema": "Ministerio de Igualdad",
+     "cita": "Es imprescindible fortalecer el Ministerio de Igualdad para continuar con la labor emprendida hasta la fecha,",
+     "pagina": 112,
+     "postura": "Fortalecer el Ministerio de Igualdad y crear una Vicepresidencia de Feminismos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ministerio de Igualdad",
+      "Instituto de las Mujeres",
+      "políticas de igualdad",
+      "feminismo"
+     ]
+    },
+    {
+     "id": "SUMAR-igualdad-07",
+     "subtema": "Ley trans y LGTBI",
+     "cita": "Para Sumar, es una prioridad dar cumplimiento efectivo a las disposiciones contenidas en la Ley 4/2023 para la Igualdad Real y Efectiva de las Personas Trans y para la Garantía de los Derechos de las Personas LGTBI+,",
+     "pagina": 114,
+     "postura": "Aplicar y desarrollar la ley trans y de derechos LGTBI+.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "ley trans",
+      "LGTBI",
+      "Ley 4/2023",
+      "igualdad",
+      "discriminación"
+     ]
+    },
+    {
+     "id": "SUMAR-igualdad-08",
+     "subtema": "igualdad de trato",
+     "cita": "con el objetivo de dar cumplimiento efectivo a la Ley 15/2022 Integral para la Igual- dad de Trato y la No Discriminación, del 12 de julio, se procederá a la creación de la Autoridad Independiente para la Igualdad de Trato,",
+     "pagina": 113,
+     "postura": "Crear la Autoridad Independiente para la Igualdad de Trato.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "igualdad de trato",
+      "no discriminación",
+      "Ley 15/2022",
+      "autoridad independiente"
+     ]
+    },
+    {
+     "id": "SUMAR-igualdad-09",
+     "subtema": "reproducción asistida",
+     "cita": "se promoverá el acceso a técnicas de reproducción asistida financiadas por el sector público para mujeres hasta los 45 años de edad, asegurando la no discriminación de mujeres lesbianas o sin pareja.",
+     "pagina": 109,
+     "postura": "Financiar públicamente la reproducción asistida hasta los 45 años, incluidas mujeres lesbianas o sin pareja.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "reproducción asistida",
+      "sanidad pública",
+      "mujeres",
+      "lesbianas",
+      "fertilidad"
+     ]
+    },
+    {
+     "id": "SUMAR-igualdad-10",
+     "subtema": "discapacidad",
+     "cita": "Nuestro compromiso es retomar de inmediato el proceso de reforma del artículo 49 de la Constitución española, ya iniciado por el Gobierno de España y por el Congreso de los Diputados",
+     "pagina": 100,
+     "postura": "Reformar el artículo 49 de la Constitución sobre personas con discapacidad.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "artículo 49",
+      "discapacidad",
+      "reforma constitucional",
+      "inclusión"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "seguridad",
+   "sin_contenido": false,
+   "posicion_general": "Propone un enfoque preventivo de la seguridad con una ley de prevención y convivencia, reformar la «ley mordaza», desmilitarizar la Guardia Civil, prohibir las pelotas de goma, limitar las identificaciones policiales, mejorar las condiciones de los agentes y eliminar la prisión permanente revisable.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-seguridad-01",
+     "subtema": "prevención",
+     "cita": "Aprobación de una ley de prevención y convivencia. Respetando el marco competencial territorial, esta ley creará un marco de colaboración y coproducción entre los distintos niveles administrativos",
+     "pagina": 130,
+     "postura": "Aprobar una ley de prevención y convivencia con enfoque social y comunitario.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "seguridad ciudadana",
+      "prevención",
+      "convivencia",
+      "ley",
+      "políticas sociales"
+     ]
+    },
+    {
+     "id": "SUMAR-seguridad-02",
+     "subtema": "ley mordaza",
+     "cita": "También reformaremos, y derogaremos, aquellos aspectos de la normativa vigente que limita los derechos de reunión y libertad de expresión (la «ley mordaza» y el Código Penal)",
+     "pagina": 131,
+     "postura": "Derogar los aspectos de la «ley mordaza» y del Código Penal que limitan reunión y expresión.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "ley mordaza",
+      "Ley de Seguridad Ciudadana",
+      "derecho de reunión",
+      "libertad de expresión",
+      "Código Penal"
+     ]
+    },
+    {
+     "id": "SUMAR-seguridad-03",
+     "subtema": "Guardia Civil",
+     "cita": "Desmilitarización de la Guardia Civil, como reivindican muchos profesionales del cuerpo y respalda el Código Europeo de Ética Policial.",
+     "pagina": 131,
+     "postura": "Desmilitarizar la Guardia Civil.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "Guardia Civil",
+      "desmilitarización",
+      "régimen disciplinario",
+      "fuerzas y cuerpos de seguridad"
+     ]
+    },
+    {
+     "id": "SUMAR-seguridad-04",
+     "subtema": "uso de la fuerza",
+     "cita": "Propondremos una regulación completa del uso de la fuerza policial que incluirá la prohibición del uso de pelotas de goma y otros materiales antidisturbios altamente lesivos.",
+     "pagina": 132,
+     "postura": "Regular el uso de la fuerza policial y prohibir las pelotas de goma.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "pelotas de goma",
+      "material antidisturbios",
+      "uso de la fuerza",
+      "policía"
+     ]
+    },
+    {
+     "id": "SUMAR-seguridad-05",
+     "subtema": "identificaciones",
+     "cita": "Limitaremos el uso de las paradas de identificación policial y las prohibiremos a efectos de aplicar la Ley de Extranjería.",
+     "pagina": 132,
+     "postura": "Limitar las identificaciones policiales y prohibirlas para aplicar la Ley de Extranjería y por perfil racial.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "identificaciones policiales",
+      "perfil racial",
+      "Ley de Extranjería",
+      "ley mordaza"
+     ]
+    },
+    {
+     "id": "SUMAR-seguridad-06",
+     "subtema": "prisión permanente revisable",
+     "cita": "Se dotará a los órganos judiciales de informes de valoración de los factores que pueden tenerse en cuenta para imponer penas individualizadas que reduzcan la comisión de nuevos delitos. Se eliminará la prisión permanente revisable.",
+     "pagina": 133,
+     "postura": "Eliminar la prisión permanente revisable.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "prisión permanente revisable",
+      "Código Penal",
+      "penas",
+      "reinserción"
+     ]
+    },
+    {
+     "id": "SUMAR-seguridad-07",
+     "subtema": "encarcelamiento",
+     "cita": "Proponemos un sistema por el cual las víctimas estén más protegidas y se cometan menos delitos, pero con un menor coste en privación de libertad de las personas, acercando las tasas de encarcelamiento españolas a las de países como Finlandia, Países Bajos o Noruega.",
+     "pagina": 133,
+     "postura": "Reducir el encarcelamiento con un nuevo Código Penal que prime penas en la comunidad.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "encarcelamiento",
+      "Código Penal",
+      "penas alternativas",
+      "prisiones",
+      "reinserción"
+     ]
+    },
+    {
+     "id": "SUMAR-seguridad-08",
+     "subtema": "condiciones de los agentes",
+     "cita": "Convertiremos el bienestar del personal de las fuerzas y cuerpos de seguridad en una prioridad estratégica. Para ello, negociaremos con los agentes sociales mejoras en las retribuciones, las pensiones, la jornada laboral",
+     "pagina": 131,
+     "postura": "Mejorar retribuciones, pensiones y jornada de policías y guardias civiles.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "equiparación salarial",
+      "policía",
+      "Guardia Civil",
+      "retribuciones",
+      "jornada"
+     ]
+    },
+    {
+     "id": "SUMAR-seguridad-09",
+     "subtema": "modelo policial",
+     "cita": "Propondremos una comisión parlamentaria para reabrir el debate sobre el modelo policial español.",
+     "pagina": 131,
+     "postura": "Crear una comisión parlamentaria para reformar el modelo policial y la Ley de FCSE de 1986.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "modelo policial",
+      "comisión parlamentaria",
+      "Ley de Fuerzas y Cuerpos de Seguridad",
+      "policía"
+     ]
+    },
+    {
+     "id": "SUMAR-seguridad-10",
+     "subtema": "control policial",
+     "cita": "Ello pasa por la identificación clara y visible en los uniformes para posibilitar la depuración de responsabilidades.",
+     "pagina": 132,
+     "postura": "Identificación visible de los agentes en el uniforme y control externo de la policía.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "identificación policial",
+      "número de placa",
+      "control externo",
+      "policía",
+      "rendición de cuentas"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "inmigracion",
+   "sin_contenido": false,
+   "posicion_general": "Propone una ley integral contra el racismo, reformar la Ley de Extranjería con un procedimiento de regularización permanente, cerrar los CIE, acabar con las devoluciones en caliente y la externalización de fronteras, facilitar el asilo desde embajadas y garantizar la sanidad universal a migrantes en situación irregular.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-inmigracion-01",
+     "subtema": "racismo",
+     "cita": "Impulsaremos una ley integral contra el racismo, cuyo objetivo sea prevenir y, en su caso, denunciar, sancionar y reparar la discriminación racial, el racismo institucional y estructural",
+     "pagina": 104,
+     "postura": "Aprobar una ley integral contra el racismo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "racismo",
+      "ley integral",
+      "discriminación racial",
+      "xenofobia"
+     ]
+    },
+    {
+     "id": "SUMAR-inmigracion-02",
+     "subtema": "regularización",
+     "cita": "Reforma de la Ley Orgánica sobre Derechos y Libertades de los Extranjeros en España y su Inte- gración Social (LOEX) que prime los criterios de reconocimiento de derechos y que introduzca un procedimiento de regularización permanente.",
+     "pagina": 104,
+     "postura": "Reformar la Ley de Extranjería con un procedimiento de regularización permanente.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "regularización",
+      "Ley de Extranjería",
+      "inmigrantes irregulares",
+      "permiso de residencia",
+      "LOEX"
+     ]
+    },
+    {
+     "id": "SUMAR-inmigracion-03",
+     "subtema": "asilo en embajadas",
+     "cita": "se desarrollará el artículo 38 de la Ley de Asilo y se establecerá un procedimiento para atender los casos que se presenten fuera del territorio estatal.",
+     "pagina": 104,
+     "postura": "Permitir solicitar asilo en embajadas y consulados.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "asilo",
+      "embajadas",
+      "Ley de Asilo",
+      "protección internacional",
+      "refugiados"
+     ]
+    },
+    {
+     "id": "SUMAR-inmigracion-04",
+     "subtema": "menores no acompañados",
+     "cita": "abordando, en su caso, la modificación de los procedimientos de determinación de la edad, garantizando la puesta en marcha de métodos no invasivos y respetuosos con la integridad y derechos de la infancia.",
+     "pagina": 104,
+     "postura": "Cambiar la determinación de la edad de menores migrantes por métodos no invasivos.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "menores no acompañados",
+      "determinación de la edad",
+      "menores migrantes",
+      "infancia"
+     ]
+    },
+    {
+     "id": "SUMAR-inmigracion-05",
+     "subtema": "sanidad universal",
+     "cita": "Garantizar el acceso universal al Sistema Nacional de Salud eliminando las barreras administrativas y legales que impiden la cobertura sanitaria universal a solicitantes de asilo y refugio, ascendientes de personas migrantes llegados a España en procesos de reagrupación familiar, apátridas, migrantes en situación administrativa irregular,",
+     "pagina": 105,
+     "postura": "Garantizar la asistencia sanitaria a migrantes en situación irregular y solicitantes de asilo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "sanidad universal",
+      "migrantes irregulares",
+      "asistencia sanitaria",
+      "asilo",
+      "reagrupación familiar"
+     ]
+    },
+    {
+     "id": "SUMAR-inmigracion-06",
+     "subtema": "CIE",
+     "cita": "Cierre de los Centros de Internamiento para Extranjeros (CIEs) en todo el territorio nacional.",
+     "pagina": 105,
+     "postura": "Cerrar todos los Centros de Internamiento de Extranjeros.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "CIE",
+      "centros de internamiento",
+      "extranjeros",
+      "expulsiones"
+     ]
+    },
+    {
+     "id": "SUMAR-inmigracion-07",
+     "subtema": "devoluciones en caliente",
+     "cita": "Tipificaremos el delito de devolución sumaria en frontera y eliminaremos la disposición adicional de la Ley de Extranjería que legitima esta práctica,",
+     "pagina": 149,
+     "postura": "Derogar la cobertura legal de las devoluciones en caliente y tipificarlas como delito.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "devoluciones en caliente",
+      "Ceuta",
+      "Melilla",
+      "Ley de Extranjería",
+      "frontera"
+     ]
+    },
+    {
+     "id": "SUMAR-inmigracion-08",
+     "subtema": "externalización de fronteras",
+     "cita": "poniendo fin a los acuerdos bilaterales de externalización de fronteras con países que no garanti- zan el cumplimiento de los derechos humanos.",
+     "pagina": 149,
+     "postura": "Acabar con los acuerdos de externalización de fronteras con países que no respetan derechos humanos.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "externalización de fronteras",
+      "acuerdos migratorios",
+      "Marruecos",
+      "derechos humanos"
+     ]
+    },
+    {
+     "id": "SUMAR-inmigracion-09",
+     "subtema": "pacto europeo",
+     "cita": "Lideraremos una coalición de países para avanzar hacia un nuevo pacto de migración y asilo de la unión europea que facilite el establecimiento de corredores humanitarios; concrete un mecanismo de reasentamiento vinculante y permanente,",
+     "pagina": 149,
+     "postura": "Impulsar un pacto europeo con corredores humanitarios y reasentamiento vinculante.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Pacto de Migración y Asilo",
+      "Unión Europea",
+      "corredores humanitarios",
+      "reasentamiento",
+      "refugiados"
+     ]
+    },
+    {
+     "id": "SUMAR-inmigracion-10",
+     "subtema": "participación política",
+     "cita": "Promover la participación política de las personas migrantes en los diferentes procesos electorales.",
+     "pagina": 105,
+     "postura": "Ampliar la participación electoral de las personas migrantes.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "derecho de voto",
+      "migrantes",
+      "participación política",
+      "elecciones"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "pensiones",
+   "sin_contenido": false,
+   "posicion_general": "Propone mantener la revalorización de las pensiones con el IPC, subir por encima del IPC las mínimas y no contributivas hasta el umbral de la pobreza, reforzar los ingresos del sistema público y reducir la brecha de género, incluidas las pensiones de viudedad.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-pensiones-01",
+     "subtema": "revalorización IPC",
+     "cita": "la actualización automática de las pensiones de acuerdo con el crecimiento del IPC para asegurar el poder adquisitivo de las mismas. Este compromiso se mantendrá de forma absoluta,",
+     "pagina": 15,
+     "postura": "Mantener la revalorización automática de las pensiones con el IPC.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "revalorización",
+      "pensiones",
+      "IPC",
+      "poder adquisitivo"
+     ]
+    },
+    {
+     "id": "SUMAR-pensiones-02",
+     "subtema": "pensiones mínimas",
+     "cita": "se subirán por encima del IPC las pensiones mínimas y las pensiones no contributivas, hasta que su cuantía alcance, al menos, el umbral de la pobreza.",
+     "pagina": 15,
+     "postura": "Subir por encima del IPC las pensiones mínimas y no contributivas hasta el umbral de la pobreza.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "pensiones mínimas",
+      "pensiones no contributivas",
+      "umbral de la pobreza",
+      "subida"
+     ]
+    },
+    {
+     "id": "SUMAR-pensiones-03",
+     "subtema": "financiación del sistema",
+     "cita": "También se seguirá reforzando el sistema público de pensiones con más ingresos, derivados tanto de los nuevos mecanismos de financiación como del aumento de cotizantes y de mayores bases de cotización.",
+     "pagina": 15,
+     "postura": "Reforzar los ingresos del sistema público con más cotizantes y mayores bases de cotización.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "sistema público de pensiones",
+      "cotizaciones",
+      "bases de cotización",
+      "Seguridad Social",
+      "financiación"
+     ]
+    },
+    {
+     "id": "SUMAR-pensiones-04",
+     "subtema": "brecha de género",
+     "cita": "Se hace necesario seguir apostando por reforzar el complemento de las pensiones para la reducción de la brecha de género,",
+     "pagina": 108,
+     "postura": "Reforzar el complemento de pensiones para reducir la brecha de género.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "brecha de género",
+      "complemento de pensiones",
+      "mujeres",
+      "pensiones"
+     ]
+    },
+    {
+     "id": "SUMAR-pensiones-05",
+     "subtema": "viudedad",
+     "cita": "las pensiones de viudedad deben incrementarse para aquellas mujeres que no poseen cotizaciones propias y cuya única fuente de ingresos es, por lo tanto, la que perciben en caso de viudedad.",
+     "pagina": 108,
+     "postura": "Subir las pensiones de viudedad de mujeres sin cotizaciones propias.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "pensión de viudedad",
+      "mujeres",
+      "pensiones",
+      "subida"
+     ]
+    },
+    {
+     "id": "SUMAR-pensiones-06",
+     "subtema": "ingresos de mayores",
+     "cita": "Vamos a asegurar que los ingresos mínimos de las personas mayores sean suficientes para un buen envejecimiento, complementando las pensiones más bajas y en especial las no contributivas",
+     "pagina": 97,
+     "postura": "Complementar las pensiones más bajas, en especial las no contributivas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "personas mayores",
+      "pensiones no contributivas",
+      "complementos a mínimos",
+      "pobreza"
+     ]
+    },
+    {
+     "id": "SUMAR-pensiones-07",
+     "subtema": "autónomos",
+     "cita": "Trabajo autónomo con garantías y valor reconocido, con prestaciones sociales adecuadas (jubilación, subsidio para mayores de 52 años, cese de actividad, con especial atención al cese por causas económicas, etcétera)",
+     "pagina": 29,
+     "postura": "Mejorar la jubilación y prestaciones sociales de los trabajadores autónomos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "autónomos",
+      "jubilación",
+      "cese de actividad",
+      "subsidio mayores de 52",
+      "RETA"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "sanidad",
+   "sin_contenido": false,
+   "posicion_general": "Propone blindar el carácter público y universal del Sistema Nacional de Salud, aumentar el gasto sanitario medio punto de PIB al año, revertir privatizaciones, ampliar la cartera con salud bucodental y otras prestaciones, una ley de listas de espera, crear una farmacéutica pública, eliminar el copago e integrar MUFACE en el sistema público.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-sanidad-01",
+     "subtema": "universalidad",
+     "cita": "actualizaremos nuestro Sistema Nacional de Salud blindando su universalidad -revirtiendo las reformas legislativas que han limitado este aspecto- y su carácter público",
+     "pagina": 89,
+     "postura": "Blindar la universalidad y el carácter público del Sistema Nacional de Salud.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "sanidad universal",
+      "Sistema Nacional de Salud",
+      "universalidad",
+      "sanidad pública"
+     ]
+    },
+    {
+     "id": "SUMAR-sanidad-02",
+     "subtema": "gasto sanitario",
+     "cita": "El gasto sanitario público aumentará anualmente medio punto del PIB hasta igualar el porcentaje promedio de los diez países europeos con mayor participación de gasto sanitario público sobre el PIB.",
+     "pagina": 89,
+     "postura": "Subir el gasto sanitario público medio punto de PIB cada año.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "gasto sanitario",
+      "financiación sanitaria",
+      "PIB",
+      "atención primaria"
+     ]
+    },
+    {
+     "id": "SUMAR-sanidad-03",
+     "subtema": "privatización",
+     "cita": "Se blindará el carácter público del Sistema Nacional de Salud, impidiendo las formas de gestión privatizadas. Promoveremos un plan de desprivatización,",
+     "pagina": 89,
+     "postura": "Impedir la gestión privada de la sanidad y desprivatizar servicios.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "privatización",
+      "gestión privada",
+      "sanidad pública",
+      "desprivatización",
+      "Ley 15/97"
+     ]
+    },
+    {
+     "id": "SUMAR-sanidad-04",
+     "subtema": "cartera de servicios",
+     "cita": "Proponemos incorporar a los servicios sanitarios públicos nuevas prestaciones, como la salud bucodental, la nutrición, la salud óptica, la audioprótesis, la psicoterapia, la terapia ocupacional y la fisioterapia.",
+     "pagina": 89,
+     "postura": "Incluir salud bucodental, óptica, psicoterapia y fisioterapia en la sanidad pública.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "salud bucodental",
+      "cartera de servicios",
+      "dentista",
+      "salud visual",
+      "prestaciones"
+     ]
+    },
+    {
+     "id": "SUMAR-sanidad-05",
+     "subtema": "listas de espera",
+     "cita": "aprobaremos una ley de listas de espera que establezca tiempos máximos de espera y garantice un registro homogéneo, transparente y fiable de las listas de espera en todo el país.",
+     "pagina": 89,
+     "postura": "Aprobar una ley de listas de espera con tiempos máximos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "listas de espera",
+      "tiempos máximos",
+      "sanidad",
+      "ley"
+     ]
+    },
+    {
+     "id": "SUMAR-sanidad-06",
+     "subtema": "salud mental",
+     "cita": "Pondremos en marcha un Plan de Choque en Salud Mental que aborde los problemas relacionados con el sufrimiento psíquico desde una perspectiva comunitaria, interdisciplinar y sensible a los determinantes sociales de la salud mental.",
+     "pagina": 90,
+     "postura": "Aprobar un plan de choque y un pacto de Estado de salud mental con más psicólogos.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "salud mental",
+      "psicólogos",
+      "suicidio",
+      "plan de choque"
+     ]
+    },
+    {
+     "id": "SUMAR-sanidad-07",
+     "subtema": "farmacéutica pública",
+     "cita": "Se creará una empresa farmacéutica pública que investigue, fabrique y comercialice medicamentos, terapias esenciales y vacunas, guiándose por principios de interés público.",
+     "pagina": 91,
+     "postura": "Crear una empresa farmacéutica pública.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "farmacéutica pública",
+      "medicamentos",
+      "vacunas",
+      "industria farmacéutica"
+     ]
+    },
+    {
+     "id": "SUMAR-sanidad-08",
+     "subtema": "copago",
+     "cita": "Se avanzará en la eliminación progresiva del copago farmacéutico, priorizando a personas de rentas bajas",
+     "pagina": 91,
+     "postura": "Eliminar progresivamente el copago farmacéutico.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "copago farmacéutico",
+      "medicamentos",
+      "rentas bajas",
+      "farmacia"
+     ]
+    },
+    {
+     "id": "SUMAR-sanidad-09",
+     "subtema": "MUFACE",
+     "cita": "Inclusión, dentro de la cobertura sanitaria universal, de las personas que reciben actualmente prestación sanitaria bajo mutuas de prestación sanitaria privada (MUFACE-MUGEJU-ISFAS).",
+     "pagina": 92,
+     "postura": "Integrar a los mutualistas de MUFACE, MUGEJU e ISFAS en la sanidad pública.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "MUFACE",
+      "MUGEJU",
+      "ISFAS",
+      "mutualismo administrativo",
+      "funcionarios"
+     ]
+    },
+    {
+     "id": "SUMAR-sanidad-10",
+     "subtema": "cannabis",
+     "cita": "Regulación íntegra del cannabis y el modelo de asociaciones cannábicas basadas en el autoconsumo y sin ánimo de lucro.",
+     "pagina": 92,
+     "postura": "Regular el cannabis, despenalizar el autoconsumo y legalizar su uso medicinal.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "cannabis",
+      "cannabis medicinal",
+      "despenalización",
+      "drogas"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "energia",
+   "sin_contenido": false,
+   "posicion_general": "Propone avanzar hacia un sistema eléctrico 100% renovable, mantener el calendario de cierre nuclear con moratoria a nuevas centrales, reformar el mercado marginalista, crear una tarifa progresiva con IVA reducido para el consumo básico, impulsar el autoconsumo, recuperar las hidroeléctricas para una empresa pública y mantener los impuestos extraordinarios a energéticas.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-energia-01",
+     "subtema": "nuclear",
+     "cita": "Sumar se compromete a mantener el ca- lendario de cierre del parque nuclear español, aplicando una moratoria a cualquier nueva iniciativa nuclear,",
+     "pagina": 48,
+     "postura": "Mantener el cierre de las centrales nucleares y aplicar moratoria a nuevos proyectos.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "energía nuclear",
+      "centrales nucleares",
+      "cierre nuclear",
+      "moratoria",
+      "residuos radiactivos"
+     ]
+    },
+    {
+     "id": "SUMAR-energia-02",
+     "subtema": "renovables",
+     "cita": "A la crisis climática, se le ha unido la seguridad y la autonomía energética como razones que confirman la necesidad de avanzar, al mayor ritmo posible, hacia un sistema eléctrico 100% renovable.",
+     "pagina": 45,
+     "postura": "Avanzar al mayor ritmo posible hacia un sistema eléctrico 100% renovable.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "energías renovables",
+      "sistema eléctrico",
+      "transición energética",
+      "PNIEC"
+     ]
+    },
+    {
+     "id": "SUMAR-energia-03",
+     "subtema": "tarifa e IVA",
+     "cita": "Este sistema asegurará un consumo mínimo vital garantizado para los primeros 1.500 kWh/año (*), con un IVA superreducido del 4% y reducción de cargos regulados y peajes,",
+     "pagina": 45,
+     "postura": "Tarifa eléctrica progresiva con IVA del 4% para el consumo mínimo vital y tarifa social gratuita para vulnerables.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "IVA de la luz",
+      "tarifa eléctrica",
+      "bono social",
+      "consumo mínimo vital",
+      "pobreza energética"
+     ]
+    },
+    {
+     "id": "SUMAR-energia-04",
+     "subtema": "mercado marginalista",
+     "cita": "Reforma del mercado marginalista con el objetivo, a medio plazo, de eliminarlo y sacar, a corto plazo del mercado las energías inframarginales no gestionables",
+     "pagina": 47,
+     "postura": "Reformar y a medio plazo eliminar el mercado eléctrico marginalista.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "mercado eléctrico",
+      "sistema marginalista",
+      "precio de la luz",
+      "beneficios caídos del cielo"
+     ]
+    },
+    {
+     "id": "SUMAR-energia-05",
+     "subtema": "autoconsumo",
+     "cita": "Avanzar hacia la flexibilización de la instalación del autoconsumo, especialmente el colectivo, para lograr el objetivo de que el 10% de la energía eléctrica demandada en 2030 proceda de instalaciones de autoconsumo.",
+     "pagina": 46,
+     "postura": "Facilitar el autoconsumo, sobre todo colectivo, hasta el 10% de la demanda en 2030.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "autoconsumo",
+      "comunidades energéticas",
+      "placas solares",
+      "fotovoltaica"
+     ]
+    },
+    {
+     "id": "SUMAR-energia-06",
+     "subtema": "integración vertical",
+     "cita": "Impedir definitivamente la integración vertical de actividades de generación, distribución y comercialización en empresas del mismo grupo.",
+     "pagina": 47,
+     "postura": "Prohibir la integración vertical de generación, distribución y comercialización eléctrica.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "oligopolio eléctrico",
+      "integración vertical",
+      "distribución eléctrica",
+      "Ley del Sector Eléctrico"
+     ]
+    },
+    {
+     "id": "SUMAR-energia-07",
+     "subtema": "empresa pública",
+     "cita": "Se creará una empresa pública de energía que incluya la gestión de las centrales hi- droeléctricas, propiedad del Estado, según vayan finalizando las concesiones,",
+     "pagina": 13,
+     "postura": "Crear una empresa pública de energía que gestione las hidroeléctricas al caducar sus concesiones.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "empresa pública de energía",
+      "hidroeléctricas",
+      "concesiones",
+      "nacionalización"
+     ]
+    },
+    {
+     "id": "SUMAR-energia-08",
+     "subtema": "impuesto a energéticas",
+     "cita": "Mantendremos los impuestos extraordinarios sobre las empresas energéticas y financieras mientras se aprueba e implementa completamente la reforma integral del impuesto de sociedades.",
+     "pagina": 16,
+     "postura": "Mantener los impuestos extraordinarios a energéticas y bancos.",
+     "direccion": "mantener",
+     "palabras_clave": [
+      "impuesto energéticas",
+      "gravamen temporal",
+      "impuesto a la banca",
+      "beneficios extraordinarios"
+     ]
+    },
+    {
+     "id": "SUMAR-energia-09",
+     "subtema": "combustibles fósiles",
+     "cita": "Detención de las nuevas inversiones y subvenciones al gas natural y a otros combusti- bles fósiles.",
+     "pagina": 42,
+     "postura": "Detener inversiones y subvenciones al gas natural y otros combustibles fósiles.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "gas natural",
+      "combustibles fósiles",
+      "subvenciones",
+      "hidrocarburos"
+     ]
+    },
+    {
+     "id": "SUMAR-energia-10",
+     "subtema": "hidrógeno",
+     "cita": "Revisaremos la actual hoja de ruta del hidrógeno evitando procesos especulativos como el H2Med.",
+     "pagina": 48,
+     "postura": "Revisar la hoja de ruta del hidrógeno y evitar proyectos como el H2Med.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "hidrógeno verde",
+      "H2Med",
+      "hoja de ruta",
+      "interconexiones"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "educacion",
+   "sin_contenido": false,
+   "posicion_general": "Propone elevar el gasto educativo al 5% del PIB y luego al 7%, universalizar la educación gratuita de 0 a 3 años, hacer la concertada subsidiaria de la pública, sacar la religión del currículo, bajar ratios, ampliar la FP pública y avanzar hacia la gratuidad universitaria con el 1% del PIB para universidades.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-educacion-01",
+     "subtema": "0-3 años",
+     "cita": "Universalización de la cobertura pública gratuita de la etapa educativa de cero a tres años y su inclusión plena en el sistema educativo.",
+     "pagina": 154,
+     "postura": "Universalizar la educación pública y gratuita de 0 a 3 años.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "educación infantil",
+      "0-3 años",
+      "escuelas infantiles",
+      "gratuidad"
+     ]
+    },
+    {
+     "id": "SUMAR-educacion-02",
+     "subtema": "gasto educativo",
+     "cita": "es necesario alcanzar de manera inmediata el 5% del PIB en gasto educativo, y avanzar progresivamente hacia el 7%. Esta inversión se debe garantizar mediante una Ley de Financiación del Sistema Público Educativo.",
+     "pagina": 154,
+     "postura": "Gasto educativo del 5% del PIB de inmediato y 7% progresivamente, con ley de financiación.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "gasto educativo",
+      "financiación",
+      "PIB",
+      "educación pública"
+     ]
+    },
+    {
+     "id": "SUMAR-educacion-03",
+     "subtema": "concertada",
+     "cita": "será necesario revisar la normativa de conciertos educativos para que la red concertada sea realmente subsidiaria de la pública y, asimismo, acabar con la cesión de suelo público para la construcción de centros educativos en manos privadas.",
+     "pagina": 155,
+     "postura": "Hacer la concertada subsidiaria de la pública y no ceder suelo público a centros privados.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "educación concertada",
+      "conciertos educativos",
+      "suelo público",
+      "escuela pública"
+     ]
+    },
+    {
+     "id": "SUMAR-educacion-04",
+     "subtema": "segregación por sexo",
+     "cita": "Se suprimirán de forma inmediata los conciertos educativos con centros que discriminen por razón de sexo o utilicen mecanismos encubiertos para seleccionar a su alumnado por razones económicas, ideológicas u otras características culturales o personales.",
+     "pagina": 155,
+     "postura": "Retirar los conciertos a centros que segregan por sexo o seleccionan alumnado.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "educación diferenciada",
+      "segregación por sexo",
+      "conciertos educativos",
+      "cuotas"
+     ]
+    },
+    {
+     "id": "SUMAR-educacion-05",
+     "subtema": "religión",
+     "cita": "Ninguna religión ni simbología religiosa formarán parte del currículo ni del horario lectivo obligatorios.",
+     "pagina": 156,
+     "postura": "Sacar la religión del currículo y del horario lectivo; escuela laica.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "religión",
+      "asignatura de religión",
+      "laicidad",
+      "currículo",
+      "Acuerdos con la Santa Sede"
+     ]
+    },
+    {
+     "id": "SUMAR-educacion-06",
+     "subtema": "comedores",
+     "cita": "Ecocomedores escolares gratuitos de gestión directa en los centros públicos durante toda la etapa obligatoria y otros soportes básicos.",
+     "pagina": 155,
+     "postura": "Comedores escolares gratuitos en centros públicos en la etapa obligatoria.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "comedor escolar",
+      "gratuidad",
+      "becas comedor",
+      "alimentación"
+     ]
+    },
+    {
+     "id": "SUMAR-educacion-07",
+     "subtema": "ratios",
+     "cita": "Bajada de ratios en las aulas españolas y aumento de la dotación de medios humanos y materiales.",
+     "pagina": 157,
+     "postura": "Bajar las ratios y aumentar el profesorado.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "ratios",
+      "alumnos por aula",
+      "profesorado",
+      "docentes"
+     ]
+    },
+    {
+     "id": "SUMAR-educacion-08",
+     "subtema": "Formación Profesional",
+     "cita": "Red pública suficiente de centros de Formación Profesional que garantice la cobertura de estos estudios, comprometida con el trabajo decente, y que consiga revertir el peso actual de la oferta privada en estas enseñanzas",
+     "pagina": 154,
+     "postura": "Ampliar la red pública de FP y reducir el peso de la oferta privada.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Formación Profesional",
+      "FP pública",
+      "plazas",
+      "FP dual"
+     ]
+    },
+    {
+     "id": "SUMAR-educacion-09",
+     "subtema": "tasas universitarias",
+     "cita": "Una política de precios públicos que tienda a la reducción y, de manera progresiva, a la gratuidad. Se sigue el modelo de otras universidades europeas, comenzando, de forma inmediata, por el primer curso de los grados.",
+     "pagina": 160,
+     "postura": "Reducir las tasas universitarias hacia la gratuidad, empezando por primer curso.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "tasas universitarias",
+      "matrícula",
+      "gratuidad",
+      "universidad pública",
+      "becas"
+     ]
+    },
+    {
+     "id": "SUMAR-educacion-10",
+     "subtema": "financiación universitaria",
+     "cita": "Obligación, como mínimo, de cumplir la referencia de la Ley Orgánica del Sistema Universitario (LOSU) de destinar el 1% del PIB a financiación pública de las universidades públicas.",
+     "pagina": 164,
+     "postura": "Destinar al menos el 1% del PIB a las universidades públicas.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "financiación universitaria",
+      "LOSU",
+      "universidad pública",
+      "PIB"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "defensa",
+   "sin_contenido": false,
+   "posicion_general": "Propone desplazar las garantías de seguridad de la OTAN hacia una autonomía estratégica europea, auditar los Programas Especiales de Armamento, prohibir la venta de armas a países que vulneren derechos humanos, ratificar el tratado de prohibición de armas nucleares, suprimir la justicia militar y apoyar a Ucrania por la vía diplomática y humanitaria.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-defensa-01",
+     "subtema": "OTAN",
+     "cita": "Promoveremos el desplazamiento progresivo de las garantías de seguridad de la OTAN hacia una autonomía estratégica integral al servicio de la ciudadanía europea y no de la industria armamentística,",
+     "pagina": 139,
+     "postura": "Sustituir progresivamente la OTAN por una autonomía estratégica europea bajo control democrático.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "OTAN",
+      "autonomía estratégica",
+      "defensa europea",
+      "industria armamentística"
+     ]
+    },
+    {
+     "id": "SUMAR-defensa-02",
+     "subtema": "gasto en armamento",
+     "cita": "Promoveremos la revisión y auditoría de los Programas Especiales de Armamento y otros gastos asociados a planes de defensa con el fin de dotarlos de mayor transpa- rencia.",
+     "pagina": 139,
+     "postura": "Auditar los Programas Especiales de Armamento y el gasto en defensa.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Programas Especiales de Armamento",
+      "gasto militar",
+      "presupuesto de defensa",
+      "transparencia"
+     ]
+    },
+    {
+     "id": "SUMAR-defensa-03",
+     "subtema": "exportación de armas",
+     "cita": "Revisaremos en profundidad la política de exportación de armamento, tanto a nivel estatal como europeo, para prohibir la venta de armas a países que vulneren los dere- chos humanos,",
+     "pagina": 139,
+     "postura": "Prohibir la venta de armas a países que vulneren derechos humanos.",
+     "direccion": "en_contra",
+     "palabras_clave": [
+      "exportación de armas",
+      "venta de armas",
+      "comercio de armas",
+      "Arabia Saudí",
+      "Israel"
+     ]
+    },
+    {
+     "id": "SUMAR-defensa-04",
+     "subtema": "armas nucleares",
+     "cita": "Lideraremos los esfuerzos internacionales destinados a abolir las armas nucleares, impulsando la ratificación del Tratado sobre la Prohibición de Armas Nucleares",
+     "pagina": 138,
+     "postura": "Ratificar el Tratado sobre la Prohibición de Armas Nucleares.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "armas nucleares",
+      "TPAN",
+      "desarme",
+      "no proliferación"
+     ]
+    },
+    {
+     "id": "SUMAR-defensa-05",
+     "subtema": "seguridad humana",
+     "cita": "Adoptaremos, en el ámbito específico de la política de defensa, una Estrategia Nacio- nal de Seguridad Humana que fortalezca el compromiso con el derecho internacional humanitario.",
+     "pagina": 138,
+     "postura": "Adoptar una Estrategia Nacional de Seguridad Humana en la política de defensa.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "política de defensa",
+      "seguridad humana",
+      "derecho internacional humanitario",
+      "estrategia"
+     ]
+    },
+    {
+     "id": "SUMAR-defensa-06",
+     "subtema": "justicia militar",
+     "cita": "Supresión de la justicia militar e integración en la jurisdicción ordinaria. Proponemos la supresión de la Justicia Militar.",
+     "pagina": 129,
+     "postura": "Suprimir la jurisdicción militar e integrarla en la ordinaria.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "justicia militar",
+      "jurisdicción militar",
+      "tribunales militares",
+      "Fuerzas Armadas"
+     ]
+    },
+    {
+     "id": "SUMAR-defensa-07",
+     "subtema": "Ucrania",
+     "cita": "Continuaremos con la solidaridad integral con Ucrania y fortaleceremos la vía diplomá- tica para lograr, cuando las circunstancias lo permitan, una paz justa y duradera",
+     "pagina": 141,
+     "postura": "Mantener la solidaridad con Ucrania reforzando la vía diplomática y la ayuda humanitaria.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "Ucrania",
+      "Rusia",
+      "ayuda",
+      "diplomacia",
+      "paz"
+     ]
+    },
+    {
+     "id": "SUMAR-defensa-08",
+     "subtema": "política exterior y seguridad común",
+     "cita": "Apostaremos por abandonar el requisito de la unanimidad en materia de política ex- terior y de seguridad común.",
+     "pagina": 140,
+     "postura": "Eliminar la unanimidad en la política exterior y de seguridad común de la UE.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "PESC",
+      "unanimidad",
+      "Unión Europea",
+      "seguridad común"
+     ]
+    }
+   ]
+  },
+  {
+   "tema": "cultura",
+   "sin_contenido": false,
+   "posicion_general": "Propone elevar progresivamente el presupuesto de cultura al 1% de los PGE, aprobar una ley de derechos culturales, extender el Bono Cultural Joven de 16 a 30 años, desarrollar el Estatuto del Artista, una casilla cultural en el IRPF, oficialidad de las lenguas históricas y derogar la ley de protección de la tauromaquia.",
+   "posicionamientos": [
+    {
+     "id": "SUMAR-cultura-01",
+     "subtema": "presupuesto",
+     "cita": "Apostaremos por un incremento paulatino del presupuesto destinado a la cultura en la próxima legislatura hasta alcanzar un horizonte del 1% en los Presupuestos Generales del Estado,",
+     "pagina": 169,
+     "postura": "Elevar el presupuesto de cultura hasta el 1% de los PGE.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "presupuesto de cultura",
+      "Presupuestos Generales del Estado",
+      "financiación cultural",
+      "Ministerio de Cultura"
+     ]
+    },
+    {
+     "id": "SUMAR-cultura-02",
+     "subtema": "derechos culturales",
+     "cita": "Garantizaremos el derecho a la cultura de todas las personas y en todos los territorios a través de una ley de derechos culturales.",
+     "pagina": 167,
+     "postura": "Aprobar una ley de derechos culturales.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "derechos culturales",
+      "ley",
+      "acceso a la cultura",
+      "cultura"
+     ]
+    },
+    {
+     "id": "SUMAR-cultura-03",
+     "subtema": "Bono Cultural",
+     "cita": "Además, haremos la cultura más accesible mediante la extensión del Bono Cultural Joven a toda la población entre 16 y 30 años.",
+     "pagina": 167,
+     "postura": "Extender el Bono Cultural Joven a toda la población de 16 a 30 años.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Bono Cultural Joven",
+      "jóvenes",
+      "consumo cultural",
+      "ayudas"
+     ]
+    },
+    {
+     "id": "SUMAR-cultura-04",
+     "subtema": "propiedad intelectual",
+     "cita": "Asimismo, ampliaremos los límites impuestos a los derechos de propiedad intelectual para favorecer los usos educativos y culturales sin ánimo de lucro.",
+     "pagina": 167,
+     "postura": "Ampliar las excepciones a la propiedad intelectual para usos educativos y culturales.",
+     "direccion": "reducir_suprimir",
+     "palabras_clave": [
+      "propiedad intelectual",
+      "derechos de autor",
+      "usos educativos",
+      "excepciones"
+     ]
+    },
+    {
+     "id": "SUMAR-cultura-05",
+     "subtema": "mecenazgo e IRPF",
+     "cita": "Incorporaremos una casilla cultural en el modelo 100 de la declaración del Impuesto sobre la Renta de las Personas Físicas para financiar proyectos, actividades y servicios culturales.",
+     "pagina": 170,
+     "postura": "Crear una casilla cultural en el IRPF y reformar la Ley de mecenazgo.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "casilla cultural",
+      "IRPF",
+      "mecenazgo",
+      "Ley 49/2002",
+      "financiación cultural"
+     ]
+    },
+    {
+     "id": "SUMAR-cultura-06",
+     "subtema": "Estatuto del Artista",
+     "cita": "Nos comprometemos a seguir avanzando en la agenda legislativa que propone el Informe de la Subcomisión para la elaboración de un Estatuto del Artista y del Profesional de la Cultura",
+     "pagina": 170,
+     "postura": "Desarrollar el Estatuto del Artista en fiscalidad, seguridad social y negociación colectiva.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Estatuto del Artista",
+      "trabajadores de la cultura",
+      "precariedad",
+      "seguridad social"
+     ]
+    },
+    {
+     "id": "SUMAR-cultura-07",
+     "subtema": "lenguas",
+     "cita": "Impulsaremos que todas las lenguas históricas alcancen su oficialidad y el entendernos como un espacio común que reconoce la pluralidad como una riqueza a compartir por el conjunto del Estado,",
+     "pagina": 171,
+     "postura": "Oficialidad de todas las lenguas históricas y una Ley de Lenguas.",
+     "direccion": "a_favor",
+     "palabras_clave": [
+      "lenguas cooficiales",
+      "catalán",
+      "euskera",
+      "gallego",
+      "oficialidad",
+      "Ley de Lenguas"
+     ]
+    },
+    {
+     "id": "SUMAR-cultura-08",
+     "subtema": "tauromaquia",
+     "cita": "Derogación de la Ley 18/2013 de protección cultural y patrimonial de la tauromaquia. Protección de menores limitando su participación en espectáculos crueles con animales. Supresión de la finan- ciación pública de los espectáculos taurinos con muerte del animal.",
+     "pagina": 56,
+     "postura": "Derogar la ley que protege la tauromaquia y suprimir su financiación pública.",
+     "direccion": "derogar",
+     "palabras_clave": [
+      "tauromaquia",
+      "toros",
+      "Ley 18/2013",
+      "patrimonio cultural",
+      "financiación pública"
+     ]
+    },
+    {
+     "id": "SUMAR-cultura-09",
+     "subtema": "cine y audiovisual",
+     "cita": "Promoveremos proyectos y proposiciones de ley para retomar en la nueva legislatura la aprobación, siempre en diálogo y consenso con los sectores implicados, de importantes normativas como la Ley del cine y de la cultura audiovisual,",
+     "pagina": 169,
+     "postura": "Aprobar la Ley del cine y la de enseñanzas artísticas superiores.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Ley del cine",
+      "cultura audiovisual",
+      "enseñanzas artísticas",
+      "propiedad intelectual"
+     ]
+    },
+    {
+     "id": "SUMAR-cultura-10",
+     "subtema": "medios audiovisuales",
+     "cita": "Se pondrá en marcha del Consejo Estatal de Medios Audiovisuales (CEMA) como órgano regulador, supervisor y sancionador del sector.",
+     "pagina": 173,
+     "postura": "Crear el Consejo Estatal de Medios Audiovisuales y un Estatuto de la Información.",
+     "direccion": "crear_ampliar",
+     "palabras_clave": [
+      "Consejo Estatal de Medios Audiovisuales",
+      "CEMA",
+      "medios de comunicación",
+      "regulador audiovisual"
+     ]
+    }
+   ]
+  }
+ ]
+}

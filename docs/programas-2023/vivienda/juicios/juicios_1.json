@@ -1,0 +1,2704 @@
+[
+ {
+  "pid": "PP-02",
+  "relaciones": [
+   {
+    "id": "94-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "179-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "175-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "SUMAR-19",
+  "relaciones": [
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "197-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "135-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "173-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "69-2",
+    "relacion": "relacionada",
+    "motivo": "Regula cláusulas abusivas en hipotecas; no aborda portabilidad ni ofertas en la CNMC."
+   },
+   {
+    "id": "59-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "86-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "179-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "99-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-27",
+    "relacion": "relacionada",
+    "motivo": "Avocación de la ley sobre cláusulas hipotecarias; trámite, sin portabilidad."
+   },
+   {
+    "id": "92-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "SUMAR-26",
+  "relaciones": [
+   {
+    "id": "203-1",
+    "relacion": "relacionada",
+    "motivo": "RDL sobre función social y oferta asequible; el texto disponible no concreta esta medida."
+   },
+   {
+    "id": "46-24",
+    "relacion": "avanza",
+    "motivo": "Prorroga la suspensión de lanzamientos para vulnerables; no crea programa de alquiler social."
+   },
+   {
+    "id": "46-25",
+    "relacion": "relacionada",
+    "motivo": "Tramitar como proyecto de ley el RDL de suspensión de lanzamientos."
+   },
+   {
+    "id": "136-97",
+    "relacion": "relacionada",
+    "motivo": "Punto 9: recursos para ampliar parque público, sin programa para vulnerables."
+   },
+   {
+    "id": "136-96",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: amplía parque público con viviendas SAREB/SEPES, sin programa para vulnerables."
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-89",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: recursos para vivienda protegida, sin programa específico para inquilinos vulnerables."
+   }
+  ]
+ },
+ {
+  "pid": "SUMAR-29",
+  "relaciones": [
+   {
+    "id": "203-1",
+    "relacion": "relacionada",
+    "motivo": "RDL sobre función social y oferta asequible; el texto disponible no concreta esta medida."
+   },
+   {
+    "id": "118-12",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: marco fiscal para cooperativas en cesión de uso, no asociaciones de vivienda."
+   },
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "BNG-03",
+  "relaciones": [
+   {
+    "id": "134-2",
+    "relacion": "avanza",
+    "motivo": "Transfiere activos SAREB a Galicia para su gestión; no consta gratuidad ni destino IGVS."
+   },
+   {
+    "id": "136-97",
+    "relacion": "relacionada",
+    "motivo": "Punto 9: recursos a CCAA para ampliar parque público."
+   },
+   {
+    "id": "136-96",
+    "relacion": "cumple",
+    "motivo": "Punto 8: transferencia gratuita de viviendas SAREB a comunidades autónomas para parque público."
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-89",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-3",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "180-2",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   }
+  ]
+ },
+ {
+  "pid": "PSOE-18",
+  "relaciones": [
+   {
+    "id": "180-4",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "180-3",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "180-2",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "180-1",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PSOE-28",
+  "relaciones": [
+   {
+    "id": "70-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-1",
+    "relacion": "relacionada",
+    "motivo": "RDL sobre función social y oferta asequible; el texto disponible no concreta esta medida."
+   },
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "BNG-04",
+  "relaciones": [
+   {
+    "id": "94-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "179-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-3",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "180-2",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "180-1",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "180-4",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "134-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "avanza",
+    "motivo": "Punto 8: cesión gratuita de viviendas SEPES/SAREB a CCAA; no ADIF, INVIED ni Puertos."
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PSOE-15",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "relacionada",
+    "motivo": "Punto 9: recursos para parque público, sin referencia a fondos europeos."
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-89",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: recursos para vivienda protegida, sin referencia a fondos europeos."
+   },
+   {
+    "id": "175-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-1",
+    "relacion": "relacionada",
+    "motivo": "RDL sobre función social y oferta asequible; el texto disponible no concreta esta medida."
+   },
+   {
+    "id": "197-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PSOE-01",
+  "relaciones": [
+   {
+    "id": "203-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "175-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-24",
+    "relacion": "relacionada",
+    "motivo": "Prórroga de suspensión de lanzamientos a vulnerables; no modifica umbral del Código."
+   },
+   {
+    "id": "46-25",
+    "relacion": "relacionada",
+    "motivo": "Tramitación como proyecto de ley del RDL de suspensión de lanzamientos."
+   },
+   {
+    "id": "69-2",
+    "relacion": "relacionada",
+    "motivo": "Protección de deudores hipotecarios frente a cláusulas; no toca el umbral del Código."
+   },
+   {
+    "id": "154-27",
+    "relacion": "relacionada",
+    "motivo": "Avocación de la ley de cláusulas hipotecarias; no toca el umbral del Código."
+   },
+   {
+    "id": "94-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-7",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PSOE-11",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "avanza",
+    "motivo": "Punto 9: recursos para ampliar parque público vía tanteo, retracto y construcción."
+   },
+   {
+    "id": "136-96",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: transfiere viviendas SAREB/SEPES; no adquisición de suelo."
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-89",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: recursos para vivienda protegida, sin plan de adquisición de suelo."
+   },
+   {
+    "id": "118-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-1",
+    "relacion": "relacionada",
+    "motivo": "RDL sobre función social y oferta asequible; el texto disponible no concreta esta medida."
+   },
+   {
+    "id": "94-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "ERC-06",
+  "relaciones": [
+   {
+    "id": "203-2",
+    "relacion": "relacionada",
+    "motivo": "Refuerza estabilidad de contratos de vivienda habitual; no aborda alquiler de temporada."
+   },
+   {
+    "id": "59-1",
+    "relacion": "cumple",
+    "motivo": "Integra temporada en la LAU y presume vivienda habitual si no se justifica temporalidad."
+   },
+   {
+    "id": "86-1",
+    "relacion": "cumple",
+    "motivo": "Integra alquiler temporal en la LAU y presume vivienda habitual sin causa justificada."
+   },
+   {
+    "id": "151-14",
+    "relacion": "relacionada",
+    "motivo": "Avocación al Pleno de la ley de alquiler temporal; trámite procedimental."
+   },
+   {
+    "id": "46-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "179-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "175-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-9",
+    "relacion": "cumple",
+    "motivo": "Punto 5: incorporar alquiler de temporada y habitaciones a la regulación de la LAU."
+   },
+   {
+    "id": "93-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "SUMAR-02",
+  "relaciones": [
+   {
+    "id": "92-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "avanza",
+    "motivo": "Punto 5: suprime privilegios fiscales de SOCIMI, no los condiciona al valor social."
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-89",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PSOE-30",
+  "relaciones": [
+   {
+    "id": "94-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "VOX-15",
+  "relaciones": [
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-8",
+    "relacion": "avanza",
+    "motivo": "Punto 1.f: deducciones IRPF para jóvenes inquilinos, no para todos."
+   },
+   {
+    "id": "59-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "86-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "175-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-6",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "ERC-03",
+  "relaciones": [
+   {
+    "id": "135-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "59-1",
+    "relacion": "avanza",
+    "motivo": "Extiende garantías de la LAU a contratos de temporada, conteniendo precios."
+   },
+   {
+    "id": "86-1",
+    "relacion": "avanza",
+    "motivo": "Extiende garantías de la LAU a contratos temporales, conteniendo precios."
+   },
+   {
+    "id": "151-14",
+    "relacion": "relacionada",
+    "motivo": "Avocación al Pleno de la ley de alquiler temporal; trámite."
+   },
+   {
+    "id": "175-3",
+    "relacion": "avanza",
+    "motivo": "Limita la actualización anual de rentas al 2% y prorroga contratos."
+   },
+   {
+    "id": "180-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "92-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "BNG-08",
+  "relaciones": [
+   {
+    "id": "135-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "59-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-28",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 1.d: criterios de ayudas al alquiler; no bono joven en pisos compartidos."
+   },
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "86-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "175-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-6",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PP-05",
+  "relaciones": [
+   {
+    "id": "173-1",
+    "relacion": "cumple",
+    "motivo": "Medidas procesales para la seguridad jurídica de planes urbanísticos frente a anulaciones."
+   },
+   {
+    "id": "94-2",
+    "relacion": "cumple",
+    "motivo": "Modifica Ley de Suelo para evitar nulidad de planes por vicios menores."
+   },
+   {
+    "id": "179-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "175-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-37",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "197-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-25",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "SUMAR-10",
+  "relaciones": [
+   {
+    "id": "203-2",
+    "relacion": "avanza",
+    "motivo": "Prórroga sucesiva de contratos con indemnización al no renovar; no indefinidos."
+   },
+   {
+    "id": "59-1",
+    "relacion": "relacionada",
+    "motivo": "Regula contratos de temporada; no amplía duración mínima general."
+   },
+   {
+    "id": "86-1",
+    "relacion": "relacionada",
+    "motivo": "Regula contratos temporales; no amplía duración mínima general."
+   },
+   {
+    "id": "151-14",
+    "relacion": "relacionada",
+    "motivo": "Avocación de la ley de alquiler temporal; trámite."
+   },
+   {
+    "id": "175-3",
+    "relacion": "avanza",
+    "motivo": "Prórroga extraordinaria de hasta dos años de contratos vigentes."
+   },
+   {
+    "id": "128-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "92-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: temporada y habitaciones en la LAU; no duración mínima."
+   },
+   {
+    "id": "93-8",
+    "relacion": "cumple",
+    "motivo": "Punto 4: contratos de arrendamiento de vivienda indefinidos."
+   },
+   {
+    "id": "93-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-5",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "SUMAR-08",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "avanza",
+    "motivo": "Punto 9: financia a CCAA para ejercer tanteo y retracto; no modifica la ley."
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-89",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-4",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "180-3",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "180-2",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   }
+  ]
+ },
+ {
+  "pid": "SUMAR-14",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-89",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: agenda legislativa de vivienda sin las medidas prometidas."
+   },
+   {
+    "id": "197-2",
+    "relacion": "relacionada",
+    "motivo": "Reforma Ley 12/2023 para vetar fondos y capital extranjero; otras medidas."
+   },
+   {
+    "id": "151-2",
+    "relacion": "relacionada",
+    "motivo": "Iniciativa sobre la Ley 12/2023; contenido no disponible."
+   },
+   {
+    "id": "34-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PSOE-17",
+  "relaciones": [
+   {
+    "id": "94-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-1",
+    "relacion": "relacionada",
+    "motivo": "RDL sobre función social y oferta asequible; el texto disponible no concreta esta medida."
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-89",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "59-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "VOX-13",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "contradice",
+    "motivo": "Punto 5: elimina privilegios fiscales de SOCIMI arrendadoras."
+   },
+   {
+    "id": "136-92",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: recargos de IBI a grandes tenedores; fiscalidad de propietarios."
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: impuesto a la acumulación de viviendas; fiscalidad de propietarios."
+   },
+   {
+    "id": "136-89",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "59-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "86-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-14",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PNV-01",
+  "relaciones": [
+   {
+    "id": "94-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "69-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "avanza",
+    "motivo": "Punto 8: transferencia de viviendas SEPES/SAREB a CCAA y ayuntamientos."
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "SUMAR-04",
+  "relaciones": [
+   {
+    "id": "94-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-5",
+    "relacion": "relacionada",
+    "motivo": "PNL contra la especulación inmobiliaria; sin texto disponible."
+   },
+   {
+    "id": "203-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: impuesto a la acumulación de viviendas, no al suelo ocioso."
+   },
+   {
+    "id": "136-89",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: penalizar compra especulativa, sin impuesto sobre suelo."
+   }
+  ]
+ },
+ {
+  "pid": "PP-14",
+  "relaciones": [
+   {
+    "id": "46-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "92-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "128-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PP-03",
+  "relaciones": [
+   {
+    "id": "197-2",
+    "relacion": "contradice",
+    "motivo": "Reforma y amplía la Ley 12/2023 en lugar de derogarla."
+   },
+   {
+    "id": "151-2",
+    "relacion": "relacionada",
+    "motivo": "Iniciativa sobre la Ley 12/2023; contenido no disponible."
+   },
+   {
+    "id": "59-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "196-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PSOE-14",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: transferir viviendas SEPES a CCAA y ayuntamientos."
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-89",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-1",
+    "relacion": "relacionada",
+    "motivo": "RDL de oferta asequible que cita CASA 47; texto no concreta la medida."
+   },
+   {
+    "id": "94-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "VOX-05",
+  "relaciones": [
+   {
+    "id": "46-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-13",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PSOE-03",
+  "relaciones": [
+   {
+    "id": "134-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "175-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-3",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "SUMAR-06",
+  "relaciones": [
+   {
+    "id": "175-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-4",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "180-3",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "180-2",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "180-1",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "196-14",
+    "relacion": "relacionada",
+    "motivo": "Punto 1.h: suelo público para alquiler asequible o social."
+   }
+  ]
+ },
+ {
+  "pid": "ERC-01",
+  "relaciones": [
+   {
+    "id": "173-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "197-2",
+    "relacion": "relacionada",
+    "motivo": "Modifica la Ley 12/2023 en otro aspecto (veto a fondos)."
+   },
+   {
+    "id": "34-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-12",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "VOX-06",
+  "relaciones": [
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "SUMAR-36",
+  "relaciones": [
+   {
+    "id": "175-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "59-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "relacionada",
+    "motivo": "Punto 9: construcción de vivienda protegida, sin enfoque rural."
+   },
+   {
+    "id": "136-96",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: amplía parque público, sin enfoque rural."
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PSOE-25",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-89",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "161-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "161-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "161-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "JUNTS-03",
+  "relaciones": [
+   {
+    "id": "134-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "59-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "86-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "151-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "175-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "70-10",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PP-09",
+  "relaciones": [
+   {
+    "id": "99-1",
+    "relacion": "relacionada",
+    "motivo": "Ley contra la ocupación centrada en desalojo rápido; no consta subida de penas."
+   },
+   {
+    "id": "179-1",
+    "relacion": "relacionada",
+    "motivo": "Ley orgánica contra la ocupación; el texto disponible no concreta penas."
+   },
+   {
+    "id": "36-37",
+    "relacion": "cumple",
+    "motivo": "Punto 6: reforzar penas por usurpación hasta tres años de cárcel."
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PSOE-06",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "avanza",
+    "motivo": "Punto 9: recursos para construir vivienda protegida y ampliar parque público."
+   },
+   {
+    "id": "136-96",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: amplía parque público por transferencia, no construcción."
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-89",
+    "relacion": "avanza",
+    "motivo": "Punto 1: recursos para alcanzar la media europea de vivienda protegida."
+   },
+   {
+    "id": "180-3",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "180-2",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   },
+   {
+    "id": "180-1",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda y control; sin texto del punto votado."
+   }
+  ]
+ },
+ {
+  "pid": "PP-07",
+  "relaciones": [
+   {
+    "id": "99-1",
+    "relacion": "avanza",
+    "motivo": "Medida cautelar de desalojo con recuperación en máximo 48 horas."
+   },
+   {
+    "id": "179-1",
+    "relacion": "avanza",
+    "motivo": "Ley orgánica contra la ocupación ilegal; texto no fija plazo de 24 horas."
+   },
+   {
+    "id": "175-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-37",
+    "relacion": "cumple",
+    "motivo": "Punto 6: desalojo en máximo 24 horas sin título que legitime."
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "188-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PP-01",
+  "relaciones": [
+   {
+    "id": "93-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "99-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "175-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-8",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PSOE-08",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-89",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-8",
+    "relacion": "relacionada",
+    "motivo": "Moción sobre acceso a vivienda de jóvenes; no reserva del 30% del plan."
+   },
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-9",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "BILDU-03",
+  "relaciones": [
+   {
+    "id": "69-2",
+    "relacion": "relacionada",
+    "motivo": "Protección del deudor hipotecario frente a cláusulas; no Código de Buenas Prácticas."
+   },
+   {
+    "id": "154-27",
+    "relacion": "relacionada",
+    "motivo": "Avocación de la ley de cláusulas hipotecarias; trámite."
+   },
+   {
+    "id": "99-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "118-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-10",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-4",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "VOX-09",
+  "relaciones": [
+   {
+    "id": "134-2",
+    "relacion": "relacionada",
+    "motivo": "Transferencia de activos SAREB a Galicia, no plataforma para ayuntamientos."
+   },
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "avanza",
+    "motivo": "Punto 8: transferir viviendas SAREB a ayuntamientos y CCAA para parque público."
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-89",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "59-1",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "PSOE-07",
+  "relaciones": [
+   {
+    "id": "93-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-15",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-14",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-13",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-12",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-11",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "SUMAR-18",
+  "relaciones": [
+   {
+    "id": "46-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-89",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "SUMAR-32",
+  "relaciones": [
+   {
+    "id": "94-2",
+    "relacion": "relacionada",
+    "motivo": "Modifica Ley de Suelo sobre seguridad jurídica, no ciudad compacta ni dotaciones."
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-89",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-16",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-15",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "SUMAR-05",
+  "relaciones": [
+   {
+    "id": "94-2",
+    "relacion": "relacionada",
+    "motivo": "Modifica Ley de Suelo sobre nulidad de planes, no banco de suelo."
+   },
+   {
+    "id": "180-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "180-4",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "175-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "197-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "69-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "154-27",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "SUMAR-34",
+  "relaciones": [
+   {
+    "id": "94-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-24",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "134-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "46-25",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada"
+   }
+  ]
+ },
+ {
+  "pid": "ERC-05",
+  "relaciones": [
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "179-1",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "175-3",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-8",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-7",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-6",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "93-5",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-11",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-10",
+    "relacion": "relacionada",
+    "motivo": "Punto 2.7: índices de precios para Navarra y País Vasco."
+   },
+   {
+    "id": "34-9",
+    "relacion": "no_relacionada"
+   },
+   {
+    "id": "34-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 2.5: seguridad jurídica para que CCAA regulen pisos turísticos."
+   }
+  ]
+ }
+]

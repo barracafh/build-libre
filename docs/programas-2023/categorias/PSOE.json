@@ -1,0 +1,360 @@
+{
+ "party": "PSOE",
+ "pages": 272,
+ "language": "es",
+ "categories": [
+  {
+   "title": "Portada, índice e introducción: Un programa para la mejor España",
+   "pages": [
+    1,
+    16
+   ],
+   "words": 4726,
+   "topics": [],
+   "note": "Portada, índice y balance de gobierno con ejes del programa"
+  },
+  {
+   "title": "Bloque I: Una política económica al servicio de la ciudadanía (estabilidad, pleno empleo, empresas, UE)",
+   "pages": [
+    17,
+    35
+   ],
+   "words": 8039,
+   "topics": [
+    "empleo",
+    "impuestos",
+    "exteriores"
+   ],
+   "note": "Estabilidad macro, pacto pleno empleo, empresas, autónomos, familias, liderazgo europeo"
+  },
+  {
+   "title": "Una fiscalidad justa para un país moderno",
+   "pages": [
+    36,
+    39
+   ],
+   "words": 1754,
+   "topics": [
+    "impuestos"
+   ],
+   "note": "Reforma fiscal progresiva, lucha contra fraude, fiscalidad de grandes empresas"
+  },
+  {
+   "title": "Economía social, turismo sostenible, comercio y política industrial",
+   "pages": [
+    40,
+    49
+   ],
+   "words": 3936,
+   "topics": [
+    "empleo",
+    "energia"
+   ],
+   "note": "Economía social, turismo, comercio interior/exterior, reindustrialización"
+  },
+  {
+   "title": "La mejor España conectada y digital",
+   "pages": [
+    50,
+    60
+   ],
+   "words": 4499,
+   "topics": [
+    "tecnologia",
+    "empleo"
+   ],
+   "note": "Transformación digital, infraestructuras digitales, semiconductores, IA"
+  },
+  {
+   "title": "El sector agroalimentario. Protagonista de las oportunidades del desarrollo rural español",
+   "pages": [
+    61,
+    70
+   ],
+   "words": 3935,
+   "topics": [
+    "campo"
+   ],
+   "note": "Agricultura, ganadería, pesca, acuicultura y caza"
+  },
+  {
+   "title": "Bloque II: Una agenda verde. Energías renovables y reindustrialización verde",
+   "pages": [
+    71,
+    75
+   ],
+   "words": 1580,
+   "topics": [
+    "energia",
+    "clima"
+   ],
+   "note": "Renovables, transición justa, acceso a energía de consumidores vulnerables"
+  },
+  {
+   "title": "Mejores oportunidades, calidad de vida y equilibrio de ecosistemas en el medio rural y urbano",
+   "pages": [
+    76,
+    85
+   ],
+   "words": 3515,
+   "topics": [
+    "transporte",
+    "clima"
+   ],
+   "note": "Movilidad: ferrocarril, carreteras, aeropuertos, transporte sostenible y seguridad vial"
+  },
+  {
+   "title": "Lucha contra la contaminación, emergencia climática y conservación de la naturaleza",
+   "pages": [
+    86,
+    91
+   ],
+   "words": 2126,
+   "topics": [
+    "clima"
+   ],
+   "note": "Economía circular, compromisos climáticos, biodiversidad y gestión del agua"
+  },
+  {
+   "title": "Una agenda urbana y reducción de la brecha rural-urbana",
+   "pages": [
+    92,
+    97
+   ],
+   "words": 1901,
+   "topics": [
+    "territorial",
+    "vivienda",
+    "social"
+   ],
+   "note": "Agenda urbana, servicios rurales, reto demográfico y vivienda rural"
+  },
+  {
+   "title": "Bloque III: Un ascensor social. Educación y Formación Profesional",
+   "pages": [
+    98,
+    114
+   ],
+   "words": 6580,
+   "topics": [
+    "educacion"
+   ],
+   "note": "Educación equitativa, docentes, becas y formación profesional"
+  },
+  {
+   "title": "Ciencia, innovación y universidad",
+   "pages": [
+    115,
+    120
+   ],
+   "words": 2499,
+   "topics": [
+    "educacion",
+    "tecnologia"
+   ],
+   "note": "Universidad pública, investigación, ciencia e innovación"
+  },
+  {
+   "title": "Cultura para la vida, vivir dignamente de la cultura",
+   "pages": [
+    121,
+    127
+   ],
+   "words": 2813,
+   "topics": [
+    "cultura"
+   ],
+   "note": "Cultura como cuestión de Estado, industrias y derechos culturales"
+  },
+  {
+   "title": "Juventud",
+   "pages": [
+    128,
+    134
+   ],
+   "words": 2330,
+   "topics": [
+    "empleo",
+    "vivienda",
+    "social"
+   ],
+   "note": "Emancipación, empleo juvenil, vivienda y participación de los jóvenes"
+  },
+  {
+   "title": "Bloque IV: La mejor España, la España feminista",
+   "pages": [
+    135,
+    163
+   ],
+   "words": 12687,
+   "topics": [
+    "igualdad",
+    "empleo",
+    "seguridad"
+   ],
+   "note": "Igualdad laboral, cuidados, paridad, violencia machista, prostitución"
+  },
+  {
+   "title": "Bloque V: La España de la cohesión y del bienestar. Pensiones",
+   "pages": [
+    164,
+    171
+   ],
+   "words": 3149,
+   "topics": [
+    "pensiones"
+   ],
+   "note": "Revalorización y sostenibilidad del sistema público de pensiones"
+  },
+  {
+   "title": "Apoyo a las familias, inclusión y derechos de las personas con discapacidad",
+   "pages": [
+    172,
+    195
+   ],
+   "words": 10109,
+   "topics": [
+    "social",
+    "igualdad"
+   ],
+   "note": "Familias, infancia, dependencia, pobreza, ingreso mínimo vital, discapacidad"
+  },
+  {
+   "title": "Sanidad",
+   "pages": [
+    196,
+    205
+   ],
+   "words": 4172,
+   "topics": [
+    "sanidad"
+   ],
+   "note": "Sistema Nacional de Salud, atención primaria, salud mental, listas de espera"
+  },
+  {
+   "title": "Consumo",
+   "pages": [
+    206,
+    210
+   ],
+   "words": 2183,
+   "topics": [
+    "social"
+   ],
+   "note": "Protección de consumidores, consumidores vulnerables, juego y alimentación"
+  },
+  {
+   "title": "Diversidad; Deporte, motor de salud y bienestar",
+   "pages": [
+    211,
+    220
+   ],
+   "words": 4262,
+   "topics": [
+    "igualdad",
+    "cultura",
+    "sanidad"
+   ],
+   "note": "Derechos LGTBI, antirracismo, diversidad y política deportiva"
+  },
+  {
+   "title": "Vivienda",
+   "pages": [
+    221,
+    226
+   ],
+   "words": 2185,
+   "topics": [
+    "vivienda"
+   ],
+   "note": "Vivienda asequible, alquiler, parque público y acceso joven"
+  },
+  {
+   "title": "Bloque VI: La mejor España que convive integrada y avanza en derechos; nuevos derechos y libertades",
+   "pages": [
+    227,
+    236
+   ],
+   "words": 3847,
+   "topics": [
+    "territorial",
+    "democracia"
+   ],
+   "note": "Cohesión territorial, financiación autonómica y local, nuevos derechos"
+  },
+  {
+   "title": "Seguridad ciudadana",
+   "pages": [
+    237,
+    239
+   ],
+   "words": 1224,
+   "topics": [
+    "seguridad"
+   ],
+   "note": "Fuerzas y Cuerpos de Seguridad, ciberseguridad y seguridad pública"
+  },
+  {
+   "title": "Administración pública inteligente; transparencia y calidad democrática",
+   "pages": [
+    240,
+    246
+   ],
+   "words": 2806,
+   "topics": [
+    "democracia"
+   ],
+   "note": "Modernización administrativa, transparencia, buen gobierno y calidad democrática"
+  },
+  {
+   "title": "Modernización de la justicia; memoria democrática; laicidad",
+   "pages": [
+    247,
+    253
+   ],
+   "words": 2770,
+   "topics": [
+    "justicia",
+    "democracia"
+   ],
+   "note": "Eficiencia judicial, memoria democrática y Estado laico"
+  },
+  {
+   "title": "Migración y asilo",
+   "pages": [
+    254,
+    257
+   ],
+   "words": 1305,
+   "topics": [
+    "inmigracion"
+   ],
+   "note": "Migración ordenada, asilo, reglamento de extranjería, antirracismo"
+  },
+  {
+   "title": "Bloque VII: La España europea abierta al mundo",
+   "pages": [
+    258,
+    267
+   ],
+   "words": 3449,
+   "topics": [
+    "exteriores"
+   ],
+   "note": "UE, cooperación al desarrollo, multilateralismo, relaciones estratégicas"
+  },
+  {
+   "title": "Defensa",
+   "pages": [
+    268,
+    272
+   ],
+   "words": 1508,
+   "topics": [
+    "defensa",
+    "exteriores"
+   ],
+   "note": "Fuerzas Armadas, OTAN, Europa de la Defensa e industria"
+  }
+ ]
+}
