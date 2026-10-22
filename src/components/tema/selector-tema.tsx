@@ -12,7 +12,7 @@ export function SelectorTema({ actual, temas }: Props) {
       Tema
       <select
         value={actual}
-        onChange={(e) => router.push(`/iniciativas/${e.target.value}`)}
+        onChange={(e) => router.push(`/posturas/tema/${e.target.value}`)}
         className="min-h-11 rounded-xl border bg-card px-4 text-base font-normal"
       >
         {temas.map((t) => (

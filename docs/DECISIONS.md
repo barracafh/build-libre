@@ -147,6 +147,16 @@ reglas obligatorias.
 - **Riesgo abierto:** se mantienen las interpretaciones y síntesis de IA del PR, identificadas
   en su interfaz. El prototipo de estadísticas queda fuera del menú y de la portada.
 
+## 2026-10-22 21:51 +02:00 · Recorrido único por tema
+
+- **Estado:** vigente
+- **Contexto:** Iniciativas, Posiciones y Posturas repetían la consulta de votos por tema y grupo.
+  La portada de Posturas también ofrecía dos listas de los mismos temas.
+- **Decisión:** unir esas consultas en Temas (`/posturas`), con una sola vista de iniciativas por
+  tema y el detalle de grupo en `/posturas/grupo`; los enlaces anteriores redirigen allí.
+- **Motivo:** conservar cronología, filtros, medidas, intervenciones y fuentes sin tres recorridos
+  equivalentes. Programas y votos conserva el escáner; la selección de temas usa una única lista.
+
 ## Pendiente
 
 - Origen de los ficheros copiados a mano de upstream `data/` (commit `39a7426`): `data:fetch` borra

@@ -1,5 +1,4 @@
 import type { Metadata } from "next";
-import Link from "next/link";
 import { Card } from "@/components/ui/card";
 import { Fuentes } from "@/components/fuentes";
 import { FormularioTemas } from "@/components/posturas/formulario-temas";
@@ -7,7 +6,7 @@ import { FUENTES, instantanea, resumenes, votaciones } from "@/lib/datos";
 
 import { temas } from "@/lib/cuestiones";
 
-export const metadata: Metadata = { title: "Posturas" };
+export const metadata: Metadata = { title: "Temas" };
 
 const numero = new Intl.NumberFormat("es-ES", { useGrouping: "always" });
 const fechaLarga = new Intl.DateTimeFormat("es-ES", {
@@ -74,39 +73,9 @@ export default function Inicio() {
 
       <section aria-labelledby="elige-temas" className="mt-10">
         <h2 id="elige-temas" className="scroll-mt-4 text-xl lg:text-2xl">
-          Elige los temas que te importan
+          Elige un tema o compara varios
         </h2>
         <FormularioTemas />
-      </section>
-
-      <section aria-labelledby="temas" className="mt-10">
-        <h2 id="temas" className="text-xl lg:text-2xl">
-          Elige un tema
-        </h2>
-        <ul className="mt-3 grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
-          {lista.map((t) => (
-            <li key={t.slug}>
-              <Link
-                href={`/posturas/tema/${t.slug}`}
-                className="flex h-full min-h-11 items-center justify-between gap-4 rounded-xl bg-card p-4 ring-1 ring-foreground/10 transition-shadow hover:ring-muted-foreground focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-foreground"
-              >
-                <span className="min-w-0">
-                  <span className="block font-semibold">{t.nombre}</span>
-                  <span className="mt-1 block text-sm text-(--text-secondary) tabular-nums">
-                    {numero.format(t.votaciones)}{" "}
-                    {t.votaciones === 1 ? "votación" : "votaciones"} ·{" "}
-                    {numero.format(t.cuestiones)}{" "}
-                    {t.cuestiones === 1 ? "cuestión" : "cuestiones"}
-                  </span>
-                </span>
-                <span
-                  aria-hidden="true"
-                  className="size-2 shrink-0 rotate-45 border-t-2 border-r-2 border-foreground"
-                />
-              </Link>
-            </li>
-          ))}
-        </ul>
       </section>
 
       <div className="mt-10">

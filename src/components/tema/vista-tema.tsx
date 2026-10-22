@@ -1,6 +1,7 @@
 "use client";
 
 import { useState, type ReactNode } from "react";
+import Link from "next/link";
 
 import { ETIQUETA, VoteMark, type Marca } from "@/components/vote-mark";
 import type { Iniciativa, Partido } from "@/lib/datos";
@@ -14,10 +15,12 @@ export function VistaTema({
   iniciativas,
   partidos,
   fuentes,
+  temaSlug,
 }: {
   iniciativas: Iniciativa[];
   partidos: Partido[];
   fuentes?: ReactNode; // rendered between the chart and the tables
+  temaSlug?: string;
 }) {
   const [abiertas, setAbiertas] = useState<Set<string>>(new Set());
   const [filtro, setFiltro] = useState<Filtro | null>(null);
@@ -62,7 +65,7 @@ export function VistaTema({
         ))}
       </ul>
 
-      <section aria-labelledby="h-tiras" className="flex flex-col gap-3">
+      <section id="cronologia" aria-labelledby="h-tiras" className="flex flex-col gap-3">
         <h2 id="h-tiras" className="text-h2">
           Iniciativas de cada grupo, en el tiempo
         </h2>
@@ -76,7 +79,7 @@ export function VistaTema({
 
       {fuentes}
 
-      <section aria-labelledby="h-ficha" className="flex flex-col gap-3">
+      <section id="por-grupo" aria-labelledby="h-ficha" className="flex flex-col gap-3">
         <h2 id="h-ficha" className="text-h2">
           Los votos de un grupo, contados
         </h2>
@@ -88,6 +91,14 @@ export function VistaTema({
           filtrar={filtrar}
           abrir={abrir}
         />
+        {temaSlug && (
+          <Link
+            href={`/posturas/grupo?partido=${encodeURIComponent(grupo)}&tema=${encodeURIComponent(temaSlug)}`}
+            className="inline-flex min-h-11 items-center self-start underline underline-offset-2"
+          >
+            Razones e intervenciones de {partidos.find((p) => p.codigo === grupo)?.nombre}
+          </Link>
+        )}
       </section>
 
       <section id="matriz" aria-labelledby="h-matriz" className="flex scroll-mt-4 flex-col gap-3">
