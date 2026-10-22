@@ -32,17 +32,20 @@ export function PaginaTema({ slug }: { slug: string }) {
           tienen tema y no aparecen aquí.
         </p>
       </div>
-      <VistaTema iniciativas={iniciativas} partidos={d.partidos} />
-      <Fuentes
-        fuentes={[
-          { nombre: "Datos abiertos del Congreso de los Diputados", url: "https://www.congreso.es/es/datos-abiertos" },
-          { nombre: "Escaño Abierto: votaciones, temas y motivos resumidos por IA", url: "https://github.com/jorgegarcelan/escano-abierto" },
-        ]}
+      <VistaTema
+        iniciativas={iniciativas}
+        partidos={d.partidos}
+        fuentes={
+          <Fuentes
+            fuentes={[
+              { nombre: "Datos abiertos del Congreso de los Diputados", url: "https://www.congreso.es/es/datos-abiertos" },
+              { nombre: "Escaño Abierto: votaciones, temas y motivos resumidos por IA", url: "https://github.com/jorgegarcelan/escano-abierto" },
+            ]}
+          />
+        }
       />
       <p className="max-w-[72ch] text-sm text-muted-foreground">
-        Cada votación enlaza su registro oficial y cada sesión su Diario de Sesiones. Los motivos de cada
-        grupo son resúmenes generados por un modelo de lenguaje a partir del Diario. Instantánea del{" "}
-        {fecha(d.instantanea.fecha)}, commit {d.instantanea.commit.slice(0, 7)}.
+        Instantánea del {fecha(d.instantanea.fecha)}, commit {d.instantanea.commit.slice(0, 7)}.
       </p>
     </main>
   );
