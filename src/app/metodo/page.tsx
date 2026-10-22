@@ -98,6 +98,21 @@ export default function Metodo() {
         </p>
       </section>
 
+      <section id="posturas" aria-labelledby="posturas-titulo" className="mt-8 scroll-mt-4">
+        <h2 id="posturas-titulo" className="text-xl lg:text-2xl">
+          Posturas por medida
+        </h2>
+        <p className="mt-2">
+          Cada tema se resume en enunciados, medidas concretas como «Regular los precios del
+          alquiler». Cada iniciativa votada se asigna a una medida indicando qué significa votar sí:
+          a favor o en contra de esa medida. La postura de un grupo es «A favor» si todos sus votos
+          sobre la medida van a favor, «En contra» si todos van en contra, «Mixta» si hay de los dos
+          y «Se abstuvo» si solo se abstuvo. La asignación se guarda en{" "}
+          <span className="font-mono text-sm">src/datos/posturas/&lt;tema&gt;.json</span> y se puede
+          revisar; la postura sale de contar esos votos, sin inteligencia artificial.
+        </p>
+      </section>
+
       <section aria-labelledby="resumenes" className="mt-8">
         <h2 id="resumenes" className="text-xl lg:text-2xl">
           Resúmenes del debate

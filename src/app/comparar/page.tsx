@@ -1,6 +1,8 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { Fuentes } from "@/components/Fuentes";
+import { MapaPosturas } from "@/components/mapa-posturas";
+import { posturasDeTema } from "@/lib/posturas";
 import { FormularioTemas } from "@/components/formulario-temas";
 import { TarjetaPartido, resumenApoyo } from "@/components/tarjeta-partido";
 import { FUENTES, partidos } from "@/lib/datos";
@@ -81,6 +83,7 @@ export default async function Comparar({ searchParams }: Props) {
     cuestiones: cuestionesDeTema(t.slug),
     propuestas: propuestasDeTema(t.slug),
     apoyo: apoyoPorPartido(iniciativasDeTema(t.slug)),
+    posturas: posturasDeTema(t.slug),
   }));
 
   return (
@@ -105,6 +108,27 @@ export default async function Comparar({ searchParams }: Props) {
           Se muestran los cinco primeros temas.
         </p>
       )}
+
+      {datosTema
+        .filter((t) => t.posturas.length > 0)
+        .map((t) => (
+          <section
+            key={t.slug}
+            aria-labelledby={`posturas-${t.slug}`}
+            className="mt-8"
+          >
+            <h2 id={`posturas-${t.slug}`} className="text-xl lg:text-2xl">
+              Postura de cada grupo en {minuscula(t.nombre)}
+            </h2>
+            <MapaPosturas
+              compacto
+              temaSlug={t.slug}
+              temaNombre={t.nombre}
+              filas={t.posturas}
+              partidos={lista}
+            />
+          </section>
+        ))}
 
       <nav aria-label="Grupos" className="mt-6">
         <ul className="flex flex-wrap gap-x-4 gap-y-1">

@@ -8,6 +8,8 @@ import { conteoPorPartido, cuestionesDeTema, tema, temas, type Cuestion } from "
 import { propuestasDeTema } from "@/lib/propuestas";
 import { TarjetaPartido } from "@/components/tarjeta-partido";
 import { VoteMark } from "@/components/vote-mark";
+import { MapaPosturas } from "@/components/mapa-posturas";
+import { posturasDeTema } from "@/lib/posturas";
 
 type Props = { params: Promise<{ tema: string }> };
 
@@ -165,6 +167,12 @@ export default async function PaginaTema({ params }: Props) {
   const lista = partidos();
   const cuestiones = cuestionesDeTema(slug);
   const propuestas = propuestasDeTema(slug);
+  const posturas = posturasDeTema(slug);
+  const enlaces = [
+    ...(posturas.length ? [{ href: "#posturas", texto: "Posturas" }] : []),
+    { href: "#por-grupo", texto: "Por grupo" },
+    { href: "#por-cuestion", texto: "Por cuestión" },
+  ];
 
   return (
     <>
@@ -183,26 +191,38 @@ export default async function PaginaTema({ params }: Props) {
         emitidos del grupo. Grupos en orden alfabético.
       </p>
 
-      <nav aria-label="En esta página" className="mt-6">
+      <nav aria-label="En esta página" className="mt-4">
         <ul className="flex flex-wrap gap-x-6">
-          <li>
-            <a
-              href="#por-grupo"
-              className="inline-flex min-h-11 items-center underline underline-offset-2 hover:decoration-2"
-            >
-              Por grupo
-            </a>
-          </li>
-          <li>
-            <a
-              href="#por-cuestion"
-              className="inline-flex min-h-11 items-center underline underline-offset-2 hover:decoration-2"
-            >
-              Por cuestión
-            </a>
-          </li>
+          {enlaces.map((e) => (
+            <li key={e.href}>
+              <a
+                href={e.href}
+                className="inline-flex min-h-11 items-center underline underline-offset-2 hover:decoration-2"
+              >
+                {e.texto}
+              </a>
+            </li>
+          ))}
         </ul>
       </nav>
+
+      {posturas.length > 0 ? (
+        <section id="posturas" aria-labelledby="posturas-titulo" className="mt-6 scroll-mt-4">
+          <h2 id="posturas-titulo" className="text-xl lg:text-2xl">
+            Postura de cada grupo
+          </h2>
+          <MapaPosturas
+            temaSlug={slug}
+            temaNombre={t.nombre}
+            filas={posturas}
+            partidos={lista}
+          />
+        </section>
+      ) : (
+        <p className="mt-3 text-base text-(--text-secondary)">
+          Las posturas por medida de este tema están en preparación.
+        </p>
+      )}
 
       <section id="por-grupo" aria-labelledby="por-grupo-titulo" className="mt-8 scroll-mt-4">
         <h2 id="por-grupo-titulo" className="text-xl lg:text-2xl">
