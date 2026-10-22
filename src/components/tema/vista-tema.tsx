@@ -104,12 +104,12 @@ export function VistaTema({ iniciativas, partidos }: { iniciativas: Iniciativa[]
 
       <section aria-labelledby="h-tiras" className="flex flex-col gap-3">
         <h2 id="h-tiras" className="text-h2">
-          Todas las votaciones, en orden
+          Iniciativas de cada grupo, en el tiempo
         </h2>
         <p className="max-w-[72ch] text-(--text-secondary)">
-          Una marca por votación, por orden de fecha; los días con muchas votaciones ocupan más. Pasa por
-          encima para ver cuál es y pulsa para abrirla en la tabla. Si no cabe, el gráfico se desplaza en
-          horizontal.
+          Cada fila recoge las votaciones de las iniciativas que propuso ese grupo, con su voto, en la fecha
+          en que se votaron; las de un mismo día se apilan. Pasa por encima para ver cuál es y pulsa para
+          abrirla en la tabla. Si no cabe, el gráfico se desplaza en horizontal.
         </p>
         <Tiras iniciativas={iniciativas} partidos={partidos} abrir={abrir} />
       </section>
