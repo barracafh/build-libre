@@ -5,6 +5,7 @@ import { describe, it } from "node:test";
 import {
   datosTemas,
   decodificarVotos,
+  escaner,
   esEnmienda,
   partidos,
   posicionPartido,
@@ -135,5 +136,17 @@ describe("snapshot", () => {
     assert.equal(todas.reduce((s, r) => s + r.escanos, 0), 350);
     const siglas = todas[0].candidaturas.map((c) => c.siglas);
     assert.deepEqual(siglas, [...siglas].sort((a, b) => a.localeCompare(b, "es")));
+  });
+});
+
+describe("escaner", () => {
+  it("has the four parties in alphabetical order, and every quote links only existing votes", () => {
+    const d = escaner();
+    assert.deepEqual(d.partidos.map((p) => p.nombre), ["PP", "PSOE", "Sumar", "Vox"]);
+    for (const f of d.frases) for (const e of f.enlaces) assert.ok(d.votaciones[e.v], `${f.id} → ${e.v}`);
+  });
+
+  it("takes each vote's result from its totals, not from the upstream flag", () => {
+    for (const v of Object.values(escaner().votaciones)) if (!/conjunto/i.test(v.titulo)) assert.equal(v.aprobada, v.si > v.no);
   });
 });

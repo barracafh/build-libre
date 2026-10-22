@@ -1,0 +1,2277 @@
+[
+ {
+  "key": "P10-000",
+  "relaciones": [
+   {
+    "id": "156-2",
+    "relacion": "avanza",
+    "motivo": "El RDL bonifica abonos de transporte, aunque con carácter temporal"
+   },
+   {
+    "id": "156-3",
+    "relacion": "relacionada",
+    "motivo": "Tramitar como ley el RDL de bonificación de abonos; no fija permanencia"
+   },
+   {
+    "id": "89-1",
+    "relacion": "avanza",
+    "motivo": "El RDL incluye medidas de transporte que prorrogan ayudas a abonos, temporalmente"
+   },
+   {
+    "id": "106-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "91-12",
+    "relacion": "avanza",
+    "motivo": "El RDL prorroga medidas de transporte, presumiblemente bonificaciones temporales"
+   },
+   {
+    "id": "191-27",
+    "relacion": "relacionada",
+    "motivo": "Descuentos de transporte para jóvenes en verano, temporales"
+   },
+   {
+    "id": "124-11",
+    "relacion": "relacionada",
+    "motivo": "Descuentos de transporte para jóvenes en verano, temporales"
+   },
+   {
+    "id": "49-21",
+    "relacion": "relacionada",
+    "motivo": "Descuentos de transporte para jóvenes en verano, temporales"
+   }
+  ]
+ },
+ {
+  "key": "P10-001",
+  "relaciones": [
+   {
+    "id": "60-6",
+    "relacion": "avanza",
+    "motivo": "Impulsa la alta velocidad hasta Pamplona y el corredor navarro"
+   },
+   {
+    "id": "148-3",
+    "relacion": "avanza",
+    "motivo": "Mejoras ferroviarias en Extremadura y avance de la LAV Madrid-Badajoz"
+   },
+   {
+    "id": "188-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "188-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: plan de convergencia de acceso a infraestructuras de transporte"
+   },
+   {
+    "id": "188-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "188-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: compensaciones de Renfe por retrasos"
+   },
+   {
+    "id": "188-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: protocolo de análisis de incidencias ferroviarias"
+   },
+   {
+    "id": "188-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: plan de atención a pasajeros ante incidencias"
+   }
+  ]
+ },
+ {
+  "key": "P10-002",
+  "relaciones": [
+   {
+    "id": "188-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "188-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "188-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "188-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: compensaciones de Renfe por retrasos"
+   },
+   {
+    "id": "188-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: protocolo de incidencias en la red ferroviaria"
+   },
+   {
+    "id": "188-4",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: plan de atención a pasajeros ante incidencias"
+   },
+   {
+    "id": "188-3",
+    "relacion": "avanza",
+    "motivo": "Punto 2: segunda fase del plan de choque de infraestructura ferroviaria, no solo Cercanías"
+   },
+   {
+    "id": "188-2",
+    "relacion": "avanza",
+    "motivo": "Punto 1: plan de choque ferroviario contra limitaciones de velocidad, no específico de Cercanías"
+   }
+  ]
+ },
+ {
+  "key": "P10-003",
+  "relaciones": [
+   {
+    "id": "111-2",
+    "relacion": "avanza",
+    "motivo": "Impuesto a emisiones de jets privados y yates; no grava viajeros frecuentes"
+   },
+   {
+    "id": "201-2",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "106-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "63-2",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "119-2",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "134-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "134-6",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "134-5",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-004",
+  "relaciones": [
+   {
+    "id": "148-3",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "114-1",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "88-79",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "88-78",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "88-77",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "88-76",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "88-75",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "88-74",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-005",
+  "relaciones": [
+   {
+    "id": "106-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "88-79",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "88-78",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "88-77",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "88-76",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "88-75",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "88-74",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "88-73",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-006",
+  "relaciones": [
+   {
+    "id": "201-2",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "79-65",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "57-3",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "91-16",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "29-32",
+    "relacion": "relacionada",
+    "motivo": "Compromiso con movilidad baja en carbono; no aborda la prohibición de 2035"
+   }
+  ]
+ },
+ {
+  "key": "P10-007",
+  "relaciones": [
+   {
+    "id": "63-2",
+    "relacion": "relacionada",
+    "motivo": "Gestión de torres de control y participación canaria en aeropuertos; no ampliaciones"
+   },
+   {
+    "id": "134-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "134-6",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "134-5",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "134-4",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "134-3",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "11-3",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-008",
+  "relaciones": [
+   {
+    "id": "136-98",
+    "relacion": "relacionada",
+    "motivo": "Compensaciones por retrasos en alta velocidad; no reasigna inversión"
+   },
+   {
+    "id": "148-3",
+    "relacion": "relacionada",
+    "motivo": "Mezcla mejoras convencionales y alta velocidad en Extremadura"
+   },
+   {
+    "id": "60-6",
+    "relacion": "relacionada",
+    "motivo": "Prioriza inversión en alta velocidad en Navarra, sin abordar el reparto"
+   },
+   {
+    "id": "188-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "188-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: plan de convergencia en infraestructuras de transporte"
+   },
+   {
+    "id": "188-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "188-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: compensaciones de Renfe por retrasos"
+   },
+   {
+    "id": "188-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: protocolo de incidencias ferroviarias"
+   }
+  ]
+ },
+ {
+  "key": "P10-009",
+  "relaciones": [
+   {
+    "id": "161-4",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "148-3",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "63-2",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "106-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "156-2",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "191-27",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "124-11",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "49-21",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-010",
+  "relaciones": [
+   {
+    "id": "29-32",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "106-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "148-3",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-4",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "156-2",
+    "relacion": "relacionada",
+    "motivo": "Bonificación de abonos de transporte, sin tarjeta integrada"
+   },
+   {
+    "id": "191-27",
+    "relacion": "relacionada",
+    "motivo": "Abono juvenil de verano, sin tarjeta integrada"
+   },
+   {
+    "id": "124-11",
+    "relacion": "relacionada",
+    "motivo": "Abono juvenil de verano, sin tarjeta integrada"
+   },
+   {
+    "id": "49-21",
+    "relacion": "relacionada",
+    "motivo": "Abono juvenil de verano, sin tarjeta integrada"
+   }
+  ]
+ },
+ {
+  "key": "P10-011",
+  "relaciones": [
+   {
+    "id": "93-10",
+    "relacion": "relacionada",
+    "motivo": "Planes de vivienda protegida, orientados a propiedad y colaboración privada"
+   },
+   {
+    "id": "136-97",
+    "relacion": "avanza",
+    "motivo": "Punto 9: recursos para ampliar parque protegido al 5% y 9%"
+   },
+   {
+    "id": "136-96",
+    "relacion": "avanza",
+    "motivo": "Punto 8: transferir viviendas Sareb y Sepes al parque público"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-012",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "cumple",
+    "motivo": "Punto 6: considerar nula la inscripción de ocupantes ilegales en el padrón"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "134-8",
+    "relacion": "relacionada",
+    "motivo": "Pide acabar con normas que amparen la okupación, sin mencionar padrón"
+   },
+   {
+    "id": "179-1",
+    "relacion": "relacionada",
+    "motivo": "Ley contra la ocupación ilegal; el texto visible no trata el padrón"
+   }
+  ]
+ },
+ {
+  "key": "P10-013",
+  "relaciones": [
+   {
+    "id": "118-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-14",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-13",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-014",
+  "relaciones": [
+   {
+    "id": "173-1",
+    "relacion": "cumple",
+    "motivo": "Ley de seguridad jurídica frente a anulaciones de planes urbanísticos"
+   },
+   {
+    "id": "161-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: reducir trabas y plazos en producción de vivienda y suelo"
+   },
+   {
+    "id": "161-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-6",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-5",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-11",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-015",
+  "relaciones": [
+   {
+    "id": "118-12",
+    "relacion": "relacionada",
+    "motivo": "IVA del 21% e IBI a pisos turísticos; defiende competencia autonómica"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-92",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: recargo de IBI a viviendas turísticas, no homogeneiza normativa"
+   },
+   {
+    "id": "136-91",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: IVA del 21% a viviendas turísticas, no homogeneiza normativa"
+   }
+  ]
+ },
+ {
+  "key": "P10-016",
+  "relaciones": [
+   {
+    "id": "196-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-7",
+    "relacion": "contradice",
+    "motivo": "Punto 1.a: derogar la Ley de Vivienda en lugar de reforzarla"
+   },
+   {
+    "id": "196-14",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-13",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-11",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-10",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-017",
+  "relaciones": [
+   {
+    "id": "134-8",
+    "relacion": "contradice",
+    "motivo": "Pide derogar la Ley 12/2023 y normativas intervencionistas"
+   },
+   {
+    "id": "175-3",
+    "relacion": "avanza",
+    "motivo": "Prórroga de contratos y tope del 2% a actualizaciones de renta"
+   },
+   {
+    "id": "34-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 2.6: limitar compras de fondos e inversores extranjeros"
+   },
+   {
+    "id": "34-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 2.5: seguridad jurídica para regular pisos turísticos"
+   },
+   {
+    "id": "34-7",
+    "relacion": "avanza",
+    "motivo": "Punto 2.4: nuevo índice de actualización de rentas por debajo del IPC"
+   },
+   {
+    "id": "34-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 2.3: control del fraude en alquileres temporales y por habitaciones"
+   },
+   {
+    "id": "34-5",
+    "relacion": "avanza",
+    "motivo": "Punto 2.2: renta por habitaciones no superior al máximo de la vivienda"
+   },
+   {
+    "id": "34-4",
+    "relacion": "avanza",
+    "motivo": "Punto 2.1: someter alquileres de temporada a la regulación del habitual"
+   }
+  ]
+ },
+ {
+  "key": "P10-018",
+  "relaciones": [
+   {
+    "id": "196-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-14",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-13",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-11",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-10",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-019",
+  "relaciones": [
+   {
+    "id": "134-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "118-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-020",
+  "relaciones": [
+   {
+    "id": "93-10",
+    "relacion": "relacionada",
+    "motivo": "Punto 3.B regula el destino de viviendas ya descalificadas, no lo prohíbe"
+   },
+   {
+    "id": "188-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "180-3",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público y control; solo título disponible"
+   },
+   {
+    "id": "180-2",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público y control; solo título disponible"
+   },
+   {
+    "id": "180-1",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público y control; solo título disponible"
+   },
+   {
+    "id": "180-4",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público y control; solo título disponible"
+   },
+   {
+    "id": "93-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "93-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-021",
+  "relaciones": [
+   {
+    "id": "196-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-14",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-13",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-12",
+    "relacion": "relacionada",
+    "motivo": "Punto 1.f: avales a la fianza de alquiler para jóvenes, no hipotecas"
+   },
+   {
+    "id": "196-11",
+    "relacion": "avanza",
+    "motivo": "Punto 1.e: ampliar avales hasta 40 años, sin fijar porcentaje"
+   },
+   {
+    "id": "196-10",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-022",
+  "relaciones": [
+   {
+    "id": "161-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-6",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-5",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-11",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-10",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-023",
+  "relaciones": [
+   {
+    "id": "93-10",
+    "relacion": "avanza",
+    "motivo": "Punto 2.D: agilizar desarrollo de suelos urbanizables"
+   },
+   {
+    "id": "134-8",
+    "relacion": "avanza",
+    "motivo": "Punto 1.a: ampliar suelo disponible y suprimir trabas"
+   },
+   {
+    "id": "161-9",
+    "relacion": "avanza",
+    "motivo": "Punto 5: reducir trabas y plazos de producción de suelo"
+   },
+   {
+    "id": "161-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: movilizar suelo público estatal para alquiler asequible"
+   },
+   {
+    "id": "161-6",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 1: condiciones para construir un millón de viviendas"
+   },
+   {
+    "id": "161-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-024",
+  "relaciones": [
+   {
+    "id": "93-10",
+    "relacion": "avanza",
+    "motivo": "Planes de vivienda protegida y colaboración para ampliar parque social"
+   },
+   {
+    "id": "180-3",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda; solo título disponible"
+   },
+   {
+    "id": "180-2",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda; solo título disponible"
+   },
+   {
+    "id": "180-1",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda; solo título disponible"
+   },
+   {
+    "id": "180-4",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda; solo título disponible"
+   },
+   {
+    "id": "136-97",
+    "relacion": "avanza",
+    "motivo": "Punto 9: recursos para ampliar parque protegido"
+   },
+   {
+    "id": "136-96",
+    "relacion": "avanza",
+    "motivo": "Punto 8: transferir viviendas Sareb y Sepes al parque público"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-025",
+  "relaciones": [
+   {
+    "id": "196-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-14",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-13",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-12",
+    "relacion": "relacionada",
+    "motivo": "Punto 1.f: avales a la fianza de alquiler para jóvenes"
+   },
+   {
+    "id": "196-11",
+    "relacion": "avanza",
+    "motivo": "Punto 1.e: ampliar avales a jóvenes hasta 40 años, sin cuantía"
+   },
+   {
+    "id": "196-10",
+    "relacion": "relacionada",
+    "motivo": "Punto 1.d: rebaja del IVA de primera vivienda"
+   }
+  ]
+ },
+ {
+  "key": "P10-026",
+  "relaciones": [
+   {
+    "id": "93-10",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-96",
+    "relacion": "avanza",
+    "motivo": "Punto 8: transferir viviendas Sareb a CCAA y ayuntamientos para parque público"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-027",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-93",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: suprimir privilegios fiscales de SOCIMIs, no condicionarlos"
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-028",
+  "relaciones": [
+   {
+    "id": "93-10",
+    "relacion": "contradice",
+    "motivo": "Punto 2.E: ceder gratuitamente suelo público a promociones privadas"
+   },
+   {
+    "id": "161-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: poner suelo público estatal a disposición del mercado para alquiler"
+   },
+   {
+    "id": "161-6",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-5",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-11",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-029",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "cumple",
+    "motivo": "Punto 6: desalojo en máximo 24 horas sin título"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "179-1",
+    "relacion": "avanza",
+    "motivo": "Ley orgánica contra la ocupación ilegal; plazo no visible en el texto"
+   },
+   {
+    "id": "196-9",
+    "relacion": "cumple",
+    "motivo": "Punto 1.c: expulsar ocupantes ilegales en 24-48 horas"
+   }
+  ]
+ },
+ {
+  "key": "P10-030",
+  "relaciones": [
+   {
+    "id": "134-8",
+    "relacion": "avanza",
+    "motivo": "Punto 1.f: incentivos fiscales al alquiler de larga duración"
+   },
+   {
+    "id": "118-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "86-1",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "59-1",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "151-14",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-031",
+  "relaciones": [
+   {
+    "id": "161-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-6",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-5",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-11",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-10",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-032",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "avanza",
+    "motivo": "Punto 9: ampliar parque protegido al 5% y 9%"
+   },
+   {
+    "id": "136-96",
+    "relacion": "avanza",
+    "motivo": "Punto 8: transferir viviendas Sareb y Sepes al parque público"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-033",
+  "relaciones": [
+   {
+    "id": "134-8",
+    "relacion": "relacionada",
+    "motivo": "Pide acabar con normas que amparen la okupación, sin mencionar padrón"
+   },
+   {
+    "id": "36-37",
+    "relacion": "cumple",
+    "motivo": "Punto 6: considerar nula la inscripción de ocupantes ilegales en el padrón"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "188-12",
+    "relacion": "avanza",
+    "motivo": "Punto 7: impedir efectos del empadronamiento en inmuebles ocupados"
+   }
+  ]
+ },
+ {
+  "key": "P10-034",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "cumple",
+    "motivo": "Punto 6: devolver IBI y Patrimonio pagados durante la ocupación"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "179-1",
+    "relacion": "relacionada",
+    "motivo": "Ley contra la ocupación ilegal; el texto visible no trata impuestos"
+   },
+   {
+    "id": "99-1",
+    "relacion": "relacionada",
+    "motivo": "Ley contra la ocupación ilegal; el texto visible no trata impuestos"
+   }
+  ]
+ },
+ {
+  "key": "P10-035",
+  "relaciones": [
+   {
+    "id": "161-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-6",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-5",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-11",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-10",
+    "relacion": "avanza",
+    "motivo": "Punto 6: bajar el IVA de primera vivienda nueva del 10% al 4%"
+   }
+  ]
+ },
+ {
+  "key": "P10-036",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-94",
+    "relacion": "avanza",
+    "motivo": "Punto 6: extender topes de precio a alquileres temporales y habitaciones"
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-92",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: recargo de IBI a viviendas turísticas"
+   },
+   {
+    "id": "136-91",
+    "relacion": "relacionada",
+    "motivo": "Punto 3: IVA del 21% a viviendas turísticas"
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-037",
+  "relaciones": [
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-96",
+    "relacion": "relacionada",
+    "motivo": "Punto 8: transferir viviendas Sareb a CCAA y ayuntamientos, no al ministerio"
+   },
+   {
+    "id": "136-95",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-94",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-93",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-92",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-91",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-90",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-038",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "cumple",
+    "motivo": "Punto 6: desalojo en máximo 24 horas sin título"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "179-1",
+    "relacion": "avanza",
+    "motivo": "Ley orgánica contra la ocupación ilegal; plazo no visible en el texto"
+   },
+   {
+    "id": "99-1",
+    "relacion": "avanza",
+    "motivo": "Desalojo cautelar en máximo 48 horas, no 24"
+   }
+  ]
+ },
+ {
+  "key": "P10-039",
+  "relaciones": [
+   {
+    "id": "161-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 4: remanentes municipales para vivienda asequible"
+   },
+   {
+    "id": "161-7",
+    "relacion": "cumple",
+    "motivo": "Punto 3: movilizar suelo público estatal para alquiler asequible"
+   },
+   {
+    "id": "161-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 2: colaboración público-privada en promoción de vivienda"
+   },
+   {
+    "id": "161-5",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-11",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-10",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-040",
+  "relaciones": [
+   {
+    "id": "203-2",
+    "relacion": "relacionada",
+    "motivo": "RDL sobre estabilidad y prórroga de contratos de alquiler"
+   },
+   {
+    "id": "59-1",
+    "relacion": "avanza",
+    "motivo": "Regula alquileres de temporada y habitaciones con derechos de la LAU"
+   },
+   {
+    "id": "34-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "34-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "34-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 2.4: nuevo índice de actualización de rentas"
+   },
+   {
+    "id": "34-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 2.3: control del fraude en contratos temporales"
+   },
+   {
+    "id": "34-5",
+    "relacion": "avanza",
+    "motivo": "Punto 2.2: regula contratos de alquiler por habitaciones"
+   },
+   {
+    "id": "34-4",
+    "relacion": "avanza",
+    "motivo": "Punto 2.1: regula alquileres de temporada con obligaciones del habitual"
+   }
+  ]
+ },
+ {
+  "key": "P10-041",
+  "relaciones": [
+   {
+    "id": "93-10",
+    "relacion": "relacionada",
+    "motivo": "Planes de vivienda protegida, sin reserva de suelo"
+   },
+   {
+    "id": "173-1",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "134-8",
+    "relacion": "relacionada",
+    "motivo": "Más vivienda protegida, sin reserva de suelo"
+   },
+   {
+    "id": "180-3",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda; solo título disponible"
+   },
+   {
+    "id": "180-2",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda; solo título disponible"
+   },
+   {
+    "id": "180-1",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda; solo título disponible"
+   },
+   {
+    "id": "180-4",
+    "relacion": "relacionada",
+    "motivo": "PNL sobre parque público de vivienda; solo título disponible"
+   },
+   {
+    "id": "196-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-042",
+  "relaciones": [
+   {
+    "id": "93-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: incorporar alquiler de temporada a la LAU"
+   },
+   {
+    "id": "93-8",
+    "relacion": "cumple",
+    "motivo": "Punto 4: contratos de arrendamiento de vivienda indefinidos"
+   },
+   {
+    "id": "93-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "93-6",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "93-5",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "86-1",
+    "relacion": "relacionada",
+    "motivo": "Regula alquileres temporales; no amplía duración mínima"
+   },
+   {
+    "id": "59-1",
+    "relacion": "relacionada",
+    "motivo": "Regula alquileres de temporada; no amplía duración mínima"
+   },
+   {
+    "id": "151-14",
+    "relacion": "relacionada",
+    "motivo": "Avocación de la ley de alquileres temporales"
+   }
+  ]
+ },
+ {
+  "key": "P10-043",
+  "relaciones": [
+   {
+    "id": "86-1",
+    "relacion": "avanza",
+    "motivo": "Extiende límites de precio en zonas tensionadas a temporales y habitaciones"
+   },
+   {
+    "id": "151-14",
+    "relacion": "relacionada",
+    "motivo": "Avocación de la ley de alquileres temporales"
+   },
+   {
+    "id": "93-9",
+    "relacion": "relacionada",
+    "motivo": "Punto 5: incorporar alquiler de temporada a la LAU"
+   },
+   {
+    "id": "93-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "93-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "93-6",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "93-5",
+    "relacion": "avanza",
+    "motivo": "Punto 1: rebajar por ley los alquileres un 40%"
+   },
+   {
+    "id": "175-3",
+    "relacion": "avanza",
+    "motivo": "Tope general del 2% a actualizaciones de renta, sin declarar zonas"
+   }
+  ]
+ },
+ {
+  "key": "P10-044",
+  "relaciones": [
+   {
+    "id": "134-8",
+    "relacion": "cumple",
+    "motivo": "Pide derogar la Ley 12/2023 por el derecho a la vivienda"
+   },
+   {
+    "id": "175-3",
+    "relacion": "relacionada",
+    "motivo": "RDL de medidas de alquiler que no deroga la ley"
+   },
+   {
+    "id": "93-10",
+    "relacion": "cumple",
+    "motivo": "Punto 1: impulsar la derogación de la Ley 12/2023"
+   },
+   {
+    "id": "34-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "34-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "34-7",
+    "relacion": "relacionada",
+    "motivo": "Punto 2.4: índice de actualización de rentas, desarrollo de la regulación"
+   },
+   {
+    "id": "34-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 2.3: control del fraude en alquileres temporales"
+   },
+   {
+    "id": "34-5",
+    "relacion": "relacionada",
+    "motivo": "Punto 2.2: amplía regulación de rentas a habitaciones"
+   }
+  ]
+ },
+ {
+  "key": "P10-045",
+  "relaciones": [
+   {
+    "id": "134-8",
+    "relacion": "cumple",
+    "motivo": "Pide derogar la Ley 12/2023 por el derecho a la vivienda"
+   },
+   {
+    "id": "93-10",
+    "relacion": "cumple",
+    "motivo": "Punto 1: impulsar la derogación de la Ley 12/2023"
+   },
+   {
+    "id": "86-1",
+    "relacion": "relacionada",
+    "motivo": "Amplía la regulación de alquileres, no deroga la ley"
+   },
+   {
+    "id": "151-14",
+    "relacion": "relacionada",
+    "motivo": "Avocación de la ley de alquileres temporales"
+   },
+   {
+    "id": "175-3",
+    "relacion": "relacionada",
+    "motivo": "RDL de medidas de alquiler que no deroga la ley"
+   },
+   {
+    "id": "118-12",
+    "relacion": "relacionada",
+    "motivo": "Medidas fiscales y de alquiler temporal; no aborda la derogación"
+   },
+   {
+    "id": "136-97",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "136-96",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-046",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "cumple",
+    "motivo": "Punto 6: reforzar penas por usurpación hasta tres años"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "134-8",
+    "relacion": "relacionada",
+    "motivo": "Pide acabar con normas que amparen la okupación, sin penas concretas"
+   },
+   {
+    "id": "203-2",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ },
+ {
+  "key": "P10-047",
+  "relaciones": [
+   {
+    "id": "36-37",
+    "relacion": "cumple",
+    "motivo": "Punto 6: reformas penales y procesales contra la ocupación ilegal"
+   },
+   {
+    "id": "36-36",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-35",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-34",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-33",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "36-32",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "179-1",
+    "relacion": "cumple",
+    "motivo": "Ley orgánica contra la ocupación ilegal con reformas penales y civiles"
+   },
+   {
+    "id": "99-1",
+    "relacion": "cumple",
+    "motivo": "Reforma LECrim, Código Penal y vía civil para desalojos rápidos"
+   }
+  ]
+ },
+ {
+  "key": "P10-048",
+  "relaciones": [
+   {
+    "id": "161-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-6",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-5",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "161-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 7: bonificar IRPF a jóvenes, no la deducción por vivienda"
+   },
+   {
+    "id": "161-10",
+    "relacion": "relacionada",
+    "motivo": "Punto 6: rebaja del IVA de primera vivienda"
+   }
+  ]
+ },
+ {
+  "key": "P10-049",
+  "relaciones": [
+   {
+    "id": "34-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "34-8",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "34-7",
+    "relacion": "contradice",
+    "motivo": "Punto 2.4: índice de rentas por debajo del IPC para contener precios"
+   },
+   {
+    "id": "34-6",
+    "relacion": "relacionada",
+    "motivo": "Punto 2.3: control del fraude en alquileres temporales"
+   },
+   {
+    "id": "34-5",
+    "relacion": "contradice",
+    "motivo": "Punto 2.2: limita la renta de alquiler por habitaciones"
+   },
+   {
+    "id": "34-4",
+    "relacion": "contradice",
+    "motivo": "Punto 2.1: somete alquileres de temporada a la regulación del habitual"
+   },
+   {
+    "id": "34-3",
+    "relacion": "relacionada",
+    "motivo": "Punto 1 sobre derecho a la vivienda; texto no disponible"
+   },
+   {
+    "id": "34-11",
+    "relacion": "relacionada",
+    "motivo": "Punto 2.8: campaña sobre índices de precios de alquiler"
+   }
+  ]
+ },
+ {
+  "key": "P10-050",
+  "relaciones": [
+   {
+    "id": "134-8",
+    "relacion": "cumple",
+    "motivo": "Punto 1.c: más vivienda protegida en propiedad o alquiler con opción a compra"
+   },
+   {
+    "id": "93-10",
+    "relacion": "cumple",
+    "motivo": "Punto 2.B: planes públicos de vivienda protegida en propiedad u opción a compra"
+   },
+   {
+    "id": "196-9",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-8",
+    "relacion": "relacionada",
+    "motivo": "Punto 1.b: reforma de Ley de Suelo para vivienda asequible"
+   },
+   {
+    "id": "196-7",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-14",
+    "relacion": "relacionada",
+    "motivo": "Punto 1.h: suelo público para alquiler asequible o social"
+   },
+   {
+    "id": "196-13",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   },
+   {
+    "id": "196-12",
+    "relacion": "no_relacionada",
+    "motivo": ""
+   }
+  ]
+ }
+]

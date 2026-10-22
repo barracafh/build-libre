@@ -1,0 +1,87 @@
+{
+ "party": "UPN",
+ "pages": 6,
+ "language": "es",
+ "categories": [
+  {
+   "title": "Portada",
+   "pages": [
+    1,
+    1
+   ],
+   "words": 8,
+   "topics": [],
+   "note": "Portada del programa electoral"
+  },
+  {
+   "title": "Objetivos principales y específicos",
+   "pages": [
+    2,
+    2
+   ],
+   "words": 412,
+   "topics": [
+    "territorial",
+    "impuestos",
+    "democracia"
+   ],
+   "note": "Defensa del régimen foral navarro, bajada de impuestos, anticorrupción, ejes"
+  },
+  {
+   "title": "Objetivos (cont.), Libertades e Infraestructuras",
+   "pages": [
+    3,
+    3
+   ],
+   "words": 321,
+   "topics": [
+    "transporte",
+    "seguridad",
+    "democracia"
+   ],
+   "note": "Víctimas de ETA, derogar memoria democrática, Canal de Navarra, TAV, autovías"
+  },
+  {
+   "title": "Educación, A favor de la vida y Empleo",
+   "pages": [
+    4,
+    4
+   ],
+   "words": 313,
+   "topics": [
+    "educacion",
+    "social",
+    "empleo"
+   ],
+   "note": "Libertad educativa, dependencia y discapacidad, empleo juvenil, pensiones"
+  },
+  {
+   "title": "Economía, Mundo rural y Medioambiente, energías renovables y vías verdes",
+   "pages": [
+    5,
+    5
+   ],
+   "words": 301,
+   "topics": [
+    "campo",
+    "energia",
+    "empleo"
+   ],
+   "note": "Autónomos, exportación, agricultura y caza, despoblación, renovables"
+  },
+  {
+   "title": "Vivienda, Ciencia y Tecnología y Otras actuaciones turísticas, culturales y deportivas",
+   "pages": [
+    6,
+    6
+   ],
+   "words": 229,
+   "topics": [
+    "vivienda",
+    "tecnologia",
+    "cultura"
+   ],
+   "note": "Contra la ocupación, derogar Ley de Vivienda, I+D, patrimonio y turismo"
+  }
+ ]
+}

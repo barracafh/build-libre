@@ -1,0 +1,49 @@
+{
+  "tema": "sanidad",
+  "enunciados": [
+    { "slug": "salud-mental", "texto": "Reforzar la atención pública a la salud mental" },
+    { "slug": "salud-sexual", "texto": "Garantizar la educación sexual y la salud reproductiva" },
+    { "slug": "personal-sanitario", "texto": "Reforzar las plantillas y condiciones del personal sanitario" },
+    { "slug": "copago", "texto": "Reducir el copago de fármacos y productos ópticos" },
+    { "slug": "investigar-material-pandemia", "texto": "Investigar los contratos de material sanitario de la pandemia" },
+    { "slug": "convenios-oit", "texto": "Ratificar convenios de la OIT sobre salud laboral" },
+    { "slug": "politica-gobierno", "texto": "Respaldar la política sanitaria del Gobierno" }
+  ],
+  "asignaciones": [
+    { "iniciativa": "votacion-132-26", "enunciado": "salud-mental", "direccion": 1, "nota": "Informe de la subcomisión de salud mental con sus recomendaciones: aprobarlo es apoyarlas" },
+    { "iniciativa": "162/000327", "enunciado": "salud-mental", "direccion": 1, "nota": "PNL del PSOE, en transaccional con SUMAR y Junts, para proteger la salud mental de los jóvenes en el entorno digital", "revisar": true },
+    { "iniciativa": "162/000080", "enunciado": "salud-mental", "direccion": 1, "nota": "PNL del PSOE, en transaccional con PP y ERC, para un Pacto de Estado por la Salud Mental" },
+    { "iniciativa": "162/000597", "enunciado": "salud-sexual", "direccion": 1, "nota": "PNL de Podemos (Grupo Mixto), en transaccional con ERC, para aplicar la educación sexual integral de la Ley Orgánica 1/2023" },
+    { "iniciativa": "162/000333", "enunciado": "salud-sexual", "direccion": 1, "nota": "PNL del PSOE, en transaccional con SUMAR y ERC, para garantizar la salud sexual y reproductiva, incluido el aborto en la sanidad pública" },
+    { "iniciativa": "173/000191", "enunciado": "personal-sanitario", "direccion": 1, "nota": "Moción de CC (Grupo Mixto) para reformar el Estatuto Marco: clasificación, carrera y retribuciones del personal sanitario; Junts la rechazó por competencias", "revisar": true },
+    { "iniciativa": "120/000018", "enunciado": "personal-sanitario", "direccion": 1, "nota": "Ley de iniciativa popular que fija ratios mínimas de enfermeras por paciente" },
+    { "iniciativa": "162/000258", "enunciado": "personal-sanitario", "direccion": 1, "nota": "PNL del PP con soluciones urgentes a la falta de profesionales de atención primaria; también critica al Gobierno", "revisar": true },
+    { "iniciativa": "130/000042", "enunciado": "copago", "direccion": 1, "nota": "RDL 11/2026 que cambia la aportación de los usuarios a los fármacos con topes y progresividad; incluye la votación de tramitarlo como ley" },
+    { "iniciativa": "125/000009", "enunciado": "copago", "direccion": 1, "nota": "Ley del Parlamento de Andalucía para que los productos ópticos y de salud visual sean gratuitos" },
+    { "iniciativa": "156/000005", "enunciado": "investigar-material-pandemia", "direccion": 1, "nota": "Creación de una comisión de investigación sobre la compra de material sanitario por las administraciones durante la covid-19" },
+    { "iniciativa": "votacion-141-11", "enunciado": "convenios-oit", "direccion": 1, "nota": "Convenio de la OIT que reconoce el entorno de trabajo seguro y saludable como principio fundamental: Sí es autorizar su ratificación" },
+    { "iniciativa": "110/000008", "enunciado": "convenios-oit", "direccion": 1, "nota": "Convenio 167 de la OIT sobre seguridad y salud en la construcción: Sí es autorizar su ratificación", "revisar": true },
+    { "iniciativa": "votacion-177-1", "enunciado": "politica-gobierno", "direccion": -1, "nota": "PNL de VOX que atribuye al Gobierno el colapso del Sistema Nacional de Salud: Sí es estar en contra" },
+    { "iniciativa": "173/000158", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción de VOX sobre la asistencia sanitaria de los españoles, crítica con el Gobierno; varios grupos la rechazaron también por medidas sobre inmigrantes: Sí es estar en contra", "revisar": true },
+    { "iniciativa": "173/000040", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción de VOX sobre los planes sanitarios del Gobierno, con un modelo más centralizado: Sí es estar en contra" },
+    { "iniciativa": "173/000005", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción de VOX sobre la planificación sanitaria del Ministerio y los enfermos crónicos: Sí es estar en contra" }
+  ],
+  "sinEnunciado": [
+    { "iniciativa": "121/000007", "nota": "Ley de la Agencia Estatal de Salud Pública: agrupa el dictamen, enmiendas y la avocación, y todos los grupos votan distinto según el punto; no da una postura clara" },
+    { "iniciativa": "121/000054", "nota": "Enmiendas del Senado a la ley de la Agencia Estatal de Salud Pública; votar Sí era aceptar cambios concretos (por ejemplo, sobre veterinarios), no crear la agencia" },
+    { "iniciativa": "173/000017", "nota": "Moción del PP que pide responsabilidades a un ministro por la compra de material en la pandemia; no es una medida de investigación" },
+    { "iniciativa": "122/000297", "nota": "Reconocer a biólogos y trabajadores sociales como profesión sanitaria; no corresponde a ningún enunciado" },
+    { "iniciativa": "122/000233", "nota": "Enmiendas del Senado a la ley de cribado neonatal, votadas por puntos; no corresponde a ningún enunciado" },
+    { "iniciativa": "122/000275", "nota": "Ley de SUMAR sobre alimentos y bebidas saludables y su publicidad; no corresponde a ningún enunciado" },
+    { "iniciativa": "122/000141", "nota": "Ley del PP contra la violencia en el ámbito sanitario; protección penal, no plantillas ni condiciones" },
+    { "iniciativa": "122/000108", "nota": "Ley de VOX sobre tarjeta sanitaria única e historia clínica interoperable; no corresponde a ningún enunciado" },
+    { "iniciativa": "173/000073", "nota": "Moción de CC sobre la atención sanitaria a migrantes llegados a Canarias; no corresponde a ningún enunciado" },
+    { "iniciativa": "173/000119", "nota": "Moción sobre inspección fitosanitaria en puertos y aeropuertos canarios: plagas agrícolas, no sanidad" },
+    { "iniciativa": "votacion-132-1", "nota": "Voto particular de VOX al informe de salud mental; los datos no dicen qué proponía" },
+    { "iniciativa": "158/000001", "nota": "Creación de la subcomisión de salud mental: trámite, votado por unanimidad" },
+    { "iniciativa": "154/000002", "nota": "Prórroga del plazo de la subcomisión de salud mental: trámite" },
+    { "iniciativa": "158/000014", "nota": "Creación de una subcomisión de estudio sobre el sector veterinario: trámite" },
+    { "iniciativa": "votacion-146-58", "nota": "PNL conmemorativa de los 40 años de la Ley General de Sanidad y de Ernest Lluch; sin medida concreta" },
+    { "iniciativa": "162/000548", "nota": "PNL sobre el uso de la palabra cáncer en el lenguaje; sin medida sanitaria concreta" }
+  ]
+}

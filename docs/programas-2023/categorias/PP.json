@@ -1,0 +1,326 @@
+{
+ "party": "PP",
+ "pages": 112,
+ "language": "es",
+ "categories": [
+  {
+   "title": "Portada, índice e introducción",
+   "pages": [
+    1,
+    9
+   ],
+   "words": 1719,
+   "topics": [],
+   "note": "Portada, índice, carta de Feijóo y resumen de los cinco ejes"
+  },
+  {
+   "title": "Crecer de forma sostenible: economía del talento, la innovación y el conocimiento",
+   "pages": [
+    10,
+    18
+   ],
+   "words": 2549,
+   "topics": [
+    "empleo",
+    "tecnologia",
+    "impuestos"
+   ],
+   "note": "Diagnóstico económico, I+D, emprendimiento, talento y pymes"
+  },
+  {
+   "title": "Crear empleo de calidad para todos; Igualdad",
+   "pages": [
+    19,
+    21
+   ],
+   "words": 1211,
+   "topics": [
+    "empleo",
+    "pensiones",
+    "igualdad"
+   ],
+   "note": "Mercado laboral, Pacto de Toledo e igualdad entre mujeres y hombres"
+  },
+  {
+   "title": "Aprovechar las posibilidades de la inteligencia artificial",
+   "pages": [
+    22,
+    22
+   ],
+   "words": 381,
+   "topics": [
+    "tecnologia"
+   ],
+   "note": "Regulación y uso de la inteligencia artificial"
+  },
+  {
+   "title": "Controlar el déficit y la deuda y reducir la presión fiscal",
+   "pages": [
+    23,
+    24
+   ],
+   "words": 547,
+   "topics": [
+    "impuestos"
+   ],
+   "note": "Rebajas fiscales, estabilidad presupuestaria y deuda"
+  },
+  {
+   "title": "Reindustrializar nuestra economía haciendo un mejor uso de los fondos europeos",
+   "pages": [
+    25,
+    26
+   ],
+   "words": 760,
+   "topics": [
+    "empleo",
+    "tecnologia",
+    "exteriores"
+   ],
+   "note": "Política industrial y gestión de fondos Next Generation"
+  },
+  {
+   "title": "Un modelo más sostenible: fortalecer y proteger el sistema agroalimentario y el medio ambiente",
+   "pages": [
+    27,
+    31
+   ],
+   "words": 1946,
+   "topics": [
+    "campo",
+    "clima"
+   ],
+   "note": "Agricultura, ganadería, pesca, regadío y medio ambiente"
+  },
+  {
+   "title": "Combatir la despoblación y desarrollar la España rural",
+   "pages": [
+    32,
+    32
+   ],
+   "words": 416,
+   "topics": [
+    "territorial",
+    "campo"
+   ],
+   "note": "Reto demográfico y servicios en el medio rural"
+  },
+  {
+   "title": "Repensar nuestras infraestructuras y favorecer el acceso a la vivienda",
+   "pages": [
+    33,
+    34
+   ],
+   "words": 577,
+   "topics": [
+    "vivienda",
+    "transporte"
+   ],
+   "note": "Infraestructuras de transporte, suelo y vivienda asequible"
+  },
+  {
+   "title": "España una potencia mundial: el turismo",
+   "pages": [
+    35,
+    36
+   ],
+   "words": 447,
+   "topics": [
+    "empleo"
+   ],
+   "note": "Apoyo al sector turístico"
+  },
+  {
+   "title": "Pacto nacional del agua y energía limpia y barata para todos y para siempre",
+   "pages": [
+    37,
+    39
+   ],
+   "words": 1137,
+   "topics": [
+    "energia",
+    "clima",
+    "campo"
+   ],
+   "note": "Plan hidrológico, mix energético, nuclear y renovables"
+  },
+  {
+   "title": "Cuidar y prosperar: proteger y fortalecer el Sistema Nacional de Salud",
+   "pages": [
+    40,
+    49
+   ],
+   "words": 2951,
+   "topics": [
+    "sanidad"
+   ],
+   "note": "Introducción del eje y sanidad: listas de espera, profesionales, salud mental"
+  },
+  {
+   "title": "Una educación excelente y de calidad",
+   "pages": [
+    50,
+    52
+   ],
+   "words": 1212,
+   "topics": [
+    "educacion"
+   ],
+   "note": "Abandono escolar, calidad educativa, FP y universidad"
+  },
+  {
+   "title": "Apoyar la maternidad, la paternidad y la conciliación; infancia y adolescencia",
+   "pages": [
+    53,
+    57
+   ],
+   "words": 1075,
+   "topics": [
+    "social",
+    "igualdad",
+    "educacion"
+   ],
+   "note": "Natalidad, conciliación, familias y protección de menores"
+  },
+  {
+   "title": "Cuidar a los mayores y combatir la soledad no deseada; personas con discapacidad",
+   "pages": [
+    58,
+    61
+   ],
+   "words": 1500,
+   "topics": [
+    "social",
+    "pensiones"
+   ],
+   "note": "Mayores, dependencia, soledad y discapacidad"
+  },
+  {
+   "title": "Erradicación de la violencia de género y de toda la violencia contra la mujer; igualdad LGTBi",
+   "pages": [
+    62,
+    65
+   ],
+   "words": 845,
+   "topics": [
+    "igualdad",
+    "justicia"
+   ],
+   "note": "Violencia machista y derechos de las personas LGTBi"
+  },
+  {
+   "title": "Regenerar y respetar: instituciones, convivencia y poder legislativo",
+   "pages": [
+    66,
+    74
+   ],
+   "words": 2265,
+   "topics": [
+    "democracia",
+    "territorial"
+   ],
+   "note": "Independencia institucional, convivencia, Constitución y Parlamento"
+  },
+  {
+   "title": "Promover una justicia a la altura de nuestros compromisos europeos",
+   "pages": [
+    75,
+    76
+   ],
+   "words": 610,
+   "topics": [
+    "justicia"
+   ],
+   "note": "CGPJ, independencia judicial y modernización de la justicia"
+  },
+  {
+   "title": "Buen gobierno de los recursos públicos y lealtad institucional entre administraciones",
+   "pages": [
+    77,
+    79
+   ],
+   "words": 860,
+   "topics": [
+    "democracia",
+    "territorial"
+   ],
+   "note": "Gasto público eficiente y cooperación con comunidades autónomas"
+  },
+  {
+   "title": "Devolver la seguridad y tranquilidad a los ciudadanos; en defensa de la propiedad privada",
+   "pages": [
+    80,
+    83
+   ],
+   "words": 1298,
+   "topics": [
+    "seguridad",
+    "vivienda",
+    "justicia"
+   ],
+   "note": "Fuerzas de seguridad, terrorismo, seguridad ciudadana y okupación"
+  },
+  {
+   "title": "Servir: una Administración transparente, eficaz e inteligente",
+   "pages": [
+    84,
+    93
+   ],
+   "words": 2351,
+   "topics": [
+    "democracia",
+    "tecnologia"
+   ],
+   "note": "Reforma, digitalización y talento en la Administración"
+  },
+  {
+   "title": "Liderar e influir: Unión Europea, Iberoamérica y protagonismo en el mundo",
+   "pages": [
+    94,
+    102
+   ],
+   "words": 2274,
+   "topics": [
+    "exteriores",
+    "inmigracion"
+   ],
+   "note": "Política exterior, UE, Iberoamérica y otras regiones Incluye inmigración (pp. 99-102)."
+  },
+  {
+   "title": "Invertir en seguridad y defensa",
+   "pages": [
+    103,
+    103
+   ],
+   "words": 395,
+   "topics": [
+    "defensa"
+   ],
+   "note": "Gasto en defensa, OTAN y Fuerzas Armadas"
+  },
+  {
+   "title": "Relanzar la cooperación internacional y mejorar el servicio a los españoles en el exterior",
+   "pages": [
+    104,
+    105
+   ],
+   "words": 434,
+   "topics": [
+    "exteriores"
+   ],
+   "note": "Cooperación al desarrollo y servicio consular"
+  },
+  {
+   "title": "España, una potencia cultural en el mundo; país referente en el deporte",
+   "pages": [
+    106,
+    112
+   ],
+   "words": 1440,
+   "topics": [
+    "cultura"
+   ],
+   "note": "Cultura, patrimonio, español y deporte; cierre del programa"
+  }
+ ]
+}

@@ -1,0 +1,842 @@
+[
+ {
+  "partido": "PP",
+  "tema": "campo",
+  "posicion_general": "Propone revisar el plan estratégico de la PAC, flexibilizar el Pacto Verde y la estrategia De la Granja a la Mesa, reforzar a los productores en la cadena alimentaria y los seguros agrarios. Incluye relevo generacional, técnicas genómicas, modernización de regadíos y defensa de la flota pesquera en la UE.",
+  "frases": 8,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 2,
+  "sin_votacion": 4
+ },
+ {
+  "partido": "PP",
+  "tema": "clima",
+  "posicion_general": "Defiende una transición ecológica justa, con economía circular, agricultura del carbono y protección de humedales como Doñana y el Mar Menor. Propone un Pacto Nacional del Agua con Autoridad Nacional del Agua, inversiones contra inundaciones y depuración, nueva regulación de costas, más medios contra incendios y sacar al lobo del norte del Duero del LESPRE.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 3,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "PP",
+  "tema": "cultura",
+  "posicion_general": "Propone nuevas leyes de mecenazgo y de patrimonio cultural, agilizar el 2% cultural, reforzar el Instituto Cervantes y completar el Estatuto del Artista. Plantea subvenciones culturales más objetivas, apoyo al audiovisual y videojuegos, fomento de la lectura, un Centro Nacional de la Danza y una ley de profesiones del deporte.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 9
+ },
+ {
+  "partido": "PP",
+  "tema": "defensa",
+  "posicion_general": "Propone una Estrategia Nacional de Seguridad y Defensa, cumplir el compromiso de destinar el 2% del PIB a defensa, elevar las Fuerzas Armadas a 140.000 efectivos y crear una reserva voluntaria. Apoya la industria de defensa nacional, la autonomía estratégica europea complementaria de la OTAN y la ciberseguridad.",
+  "frases": 9,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "PP",
+  "tema": "democracia",
+  "posicion_general": "Propone reforzar la independencia de instituciones (Tribunal Constitucional, organismos reguladores, medios públicos), derogar la Ley de Memoria Democrática, limitar decretos ley y enmiendas intrusas, regular los lobbies y reducir ministerios. También plantea reformar la LOREG respecto a condenados por terrorismo y la Constitución para suprimir el término disminuidos.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 1,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "PP",
+  "tema": "educacion",
+  "posicion_general": "Propone reformar la LOMLOE y revisar la LOSU, educación 0-3 universal y gratuita, libertad de elección de centro incluida la concertada y la especial, y una EBAU común. Defiende neutralidad ideológica en las aulas, castellano y lengua cooficial vehiculares, ampliar becas, dualizar la FP y más horas de Educación Física.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 6,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 4
+ },
+ {
+  "partido": "PP",
+  "tema": "empleo",
+  "posicion_general": "Propone fijar el SMI en el diálogo social, reformar las políticas activas de empleo, crear cuentas individuales portables para los trabajadores y apoyar a autónomos con tarifa cero y aplazamiento de cuotas. Plantea reindustrializar hasta el 20% del PIB, reducir regulación y licencias y un PERTE turístico.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 0,
+  "en_contra_de_lo_que_defiende": 1,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 9
+ },
+ {
+  "partido": "PP",
+  "tema": "energia",
+  "posicion_general": "Propone extender la vida útil de las centrales nucleares con aval del CSN, eliminar la intervención del mercado mayorista eléctrico, agilizar permisos de renovables y crear un bono social único. Impulsa hidrógeno verde, biogás y biometano, y compensar costes de CO2 a la industria electrointensiva.",
+  "frases": 8,
+  "a_favor_de_lo_que_defiende": 4,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 4
+ },
+ {
+  "partido": "PP",
+  "tema": "exteriores",
+  "posicion_general": "Propone mantener sanciones a Rusia y apoyo militar a Ucrania, liderar el acuerdo UE-Mercosur, apoyar a la oposición democrática en Venezuela, Cuba y Nicaragua y la mediación de la ONU en el Sáhara. Defiende la solución de dos Estados, negociar Gibraltar con Reino Unido, un Instituto de Crédito al Desarrollo y auditar los fondos europeos.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 4,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "PP",
+  "tema": "igualdad",
+  "posicion_general": "Propone planes de igualdad con objetivos evaluables y reducir a la mitad la brecha de participación laboral femenina, cumplir y actualizar el Pacto de Estado contra la violencia de género, tipificar la violencia digital y una ley integral contra la trata. Plantea una nueva ley trans consensuada, con prudencia ante la transexualidad, y categorías deportivas por sexo biológico.",
+  "frases": 9,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 8
+ },
+ {
+  "partido": "PP",
+  "tema": "impuestos",
+  "posicion_general": "Propone reducir la presión fiscal: deflactar el IRPF, bajar temporalmente el IVA de algunos alimentos, suprimir el impuesto a las grandes fortunas y una reforma fiscal integral. Incluye un Estatuto del Contribuyente, incentivos para nuevos residentes y pymes, y mayor equilibrio presupuestario.",
+  "frases": 8,
+  "a_favor_de_lo_que_defiende": 3,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 5
+ },
+ {
+  "partido": "PP",
+  "tema": "inmigracion",
+  "posicion_general": "Propone agilizar retornos de inmigrantes irregulares y expulsiones de delincuentes mediante acuerdos con países de origen, reforzar el control fronterizo y la cooperación con FRONTEX y países africanos, e impulsar el Pacto Europeo de Migración y Asilo. Plantea atraer talento extranjero cualificado y acelerar la homologación de títulos.",
+  "frases": 8,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 2,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 4
+ },
+ {
+  "partido": "PP",
+  "tema": "justicia",
+  "posicion_general": "Propone que los jueces elijan a los 12 vocales judiciales del CGPJ, más autonomía del Ministerio Fiscal y un Fiscal General desvinculado del Ejecutivo, y reformar la ley de indulto. Plantea recuperar la sedición y la malversación previa a 2022, revisar el Código Penal, ampliar la prisión permanente revisable y sumar 1.000 jueces y fiscales.",
+  "frases": 9,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 1,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "PP",
+  "tema": "pensiones",
+  "posicion_general": "Propone asegurar la sostenibilidad del sistema y garantizar la revalorización de las pensiones en el marco del Pacto de Toledo, reforzar la contributividad y la transparencia sobre la pensión futura y estudiar la situación de los mutualistas. Plantea ampliar la jubilación activa de médicos y valorar la jubilación anticipada de policías.",
+  "frases": 6,
+  "a_favor_de_lo_que_defiende": 4,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 2
+ },
+ {
+  "partido": "PP",
+  "tema": "sanidad",
+  "posicion_general": "Propone un plan de choque en atención primaria con más plazas de MIR, una nueva Ley General de Sanidad, la Agencia Estatal de Salud Pública y un plan contra las agresiones a sanitarios. Plantea garantizar la objeción de conciencia, exigir consentimiento paterno para el aborto de menores, revisar la ley de eutanasia y apoyar a afectados por ELA.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 3,
+  "en_contra_de_lo_que_defiende": 1,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "PP",
+  "tema": "seguridad",
+  "posicion_general": "Propone culminar la equiparación salarial de Policía Nacional y Guardia Civil y declararlas profesión de riesgo, actualizar el Pacto Antiterrorista, investigar los crímenes de ETA sin resolver y endurecer el enaltecimiento del terrorismo. Incluye planes contra bandas juveniles y cibercriminalidad, reforma penal de la multirreincidencia y rechazo a pactos con Bildu.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 4,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "PP",
+  "tema": "social",
+  "posicion_general": "Plantea condicionar y mejorar el Ingreso Mínimo Vital, ampliar las ayudas a las familias (prestación por hijo, familia numerosa), evaluar la Ley de Dependencia y su financiación, y estrategias contra la pobreza infantil y la soledad no deseada. Incluye medidas de discapacidad como la atención temprana universal y la compatibilidad de pensiones con empleo.",
+  "frases": 9,
+  "a_favor_de_lo_que_defiende": 0,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 9
+ },
+ {
+  "partido": "PP",
+  "tema": "tecnologia",
+  "posicion_general": "Propone impulsar el reglamento europeo de IA, una Estrategia Nacional de IA con agencia supervisora y un sandbox regulatorio, transparencia de algoritmos públicos y refuerzo de la ciberseguridad. Incluye verificación de edad para menores en internet, 5G en vías de alta capacidad, conectividad rural y apoyo a scale-ups.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 9
+ },
+ {
+  "partido": "PP",
+  "tema": "territorial",
+  "posicion_general": "Propone reformar la financiación autonómica y local mediante negociación con todas las comunidades, eliminar ordenadamente el FLA, institucionalizar la Conferencia de Presidentes y apoyar a Ceuta, Melilla y las islas. Plantea castigar referendos no autorizados, cooficialidad vehicular equilibrada en educación, una ley de desarrollo rural y rebajas laborales en provincias despobladas.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 8
+ },
+ {
+  "partido": "PP",
+  "tema": "transporte",
+  "posicion_general": "Propone impulsar los corredores ferroviarios Mediterráneo, Atlántico y Central y la conexión con Extremadura, un plan de choque para Cercanías, transporte a demanda en pequeños municipios y una tarjeta de movilidad. Incluye actualizar los planes de Barajas y El Prat, modernizar carreteras y desplegar puntos de recarga.",
+  "frases": 8,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "PP",
+  "tema": "vivienda",
+  "posicion_general": "Propone derogar la ley de vivienda, un pacto de Estado con comunidades y ayuntamientos, avales para hipotecas de jóvenes hasta el 95% del precio, movilizar suelo público para alquiler asequible y promover vivienda social. Incluye un paquete antiokupación con desalojos en 24 horas, más penas por usurpación y nulidad del empadronamiento de ocupantes.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 7,
+  "en_contra_de_lo_que_defiende": 1,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 2
+ },
+ {
+  "partido": "PSOE",
+  "tema": "campo",
+  "posicion_general": "Propone aplicar la PAC 2023-2027 con evaluación en 2024, hacer cumplir la Ley de la Cadena Alimentaria, exigir reciprocidad a las importaciones, reforzar seguros agrarios y regadío eficiente, aprobar leyes de agricultura familiar y desperdicio alimentario, apoyar la ganadería extensiva y una pesca sostenible con reparto justo de cuotas.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 0,
+  "en_contra_de_lo_que_defiende": 2,
+  "abstencion_o_dividido": 1,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "PSOE",
+  "tema": "clima",
+  "posicion_general": "Propone revisar siempre al alza los objetivos climáticos de la Ley de Cambio Climático y el PNIEC, reconocer el derecho a un medio ambiente sano, proteger el 30% del territorio y del mar en 2030, reformar la Ley de Aguas, duplicar la desalación, extender las zonas de bajas emisiones y reforzar la prevención de incendios y la economía circular.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 9
+ },
+ {
+  "partido": "PSOE",
+  "tema": "cultura",
+  "posicion_general": "Propone un Pacto de Estado por la Cultura y una ley general de cultura, mantener el Bono Cultural Joven, completar el Estatuto del Artista, modernizar el mecenazgo, crear una Oficina de Derechos de Autor, reformar la Ley del cine y reforzar el apoyo al audiovisual. En deporte, desarrollar la nueva Ley del Deporte y un Estatuto del Deportista.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 0,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 1,
+  "sin_votacion": 9
+ },
+ {
+  "partido": "PSOE",
+  "tema": "defensa",
+  "posicion_general": "Propone reforzar el presupuesto de Defensa según los compromisos internacionales, impulsar la industria de defensa y los grandes programas de armamento, mantener el apoyo a Ucrania y las misiones internacionales, reforzar la defensa europea y la OTAN, y mejorar las condiciones del personal militar de tropa y marinería.",
+  "frases": 9,
+  "a_favor_de_lo_que_defiende": 3,
+  "en_contra_de_lo_que_defiende": 2,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 4
+ },
+ {
+  "partido": "PSOE",
+  "tema": "democracia",
+  "posicion_general": "Propone blindar como derechos fundamentales conquistas como el aborto, la eutanasia o el matrimonio igualitario, reformar el artículo 49 de la Constitución, aprobar leyes de lobbies y transparencia, suprimir aforamientos no ligados al cargo, debates electorales obligatorios, reforzar el pacto antitransfuguismo y desarrollar la Ley de Memoria Democrática y la laicidad.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 1,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "PSOE",
+  "tema": "educacion",
+  "posicion_general": "Defiende reforzar la educación pública e inclusiva: universalizar la escolarización de 0 a 18 años con plazas públicas gratuitas, bajar ratios, aprobar el Estatuto del Docente, ampliar becas y gratuidad de libros, matrícula universitaria gratuita para quien apruebe a la primera y expandir la Formación Profesional.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 3,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "PSOE",
+  "tema": "empleo",
+  "posicion_general": "Propone un Pacto por el Pleno Empleo para bajar el paro estructural al 8%, fijar el SMI en el 60% del salario medio, extender la reducción de jornada sin merma salarial y la semana de cuatro días, aprobar el Estatuto del Becario, eliminar la brecha salarial, apoyar la negociación colectiva y consolidar la protección de autónomos.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 2,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "PSOE",
+  "tema": "energia",
+  "posicion_general": "Propone seguir expandiendo las renovables con una ley de zonas idóneas, impulsar almacenamiento, hidrógeno renovable, autoconsumo y comunidades energéticas, reformar el mercado eléctrico europeo y desmantelar progresivamente las centrales nucleares. Plantea reforzar los bonos sociales contra la pobreza energética y apoyar la transición justa.",
+  "frases": 9,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 2,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "PSOE",
+  "tema": "exteriores",
+  "posicion_general": "Propone liderar la integración europea con reforma de las reglas fiscales y mayoría cualificada en política exterior, apoyar a Ucrania, alcanzar el 0,7% de AOD en 2030, ratificar los acuerdos UE-Mercosur, Chile y México, apoyar la mediación de la ONU en el Sáhara, la solución de dos Estados y un acuerdo sobre Gibraltar.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 3,
+  "en_contra_de_lo_que_defiende": 1,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "PSOE",
+  "tema": "igualdad",
+  "posicion_general": "Propone aprobar una ley de paridad en órganos de decisión, eliminar la brecha salarial, renovar el Pacto de Estado contra la violencia de género, abolir la prostitución y perseguir la gestación subrogada. Defiende garantizar el aborto en todas las comunidades y tipificar como delito las terapias de conversión.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 1,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "PSOE",
+  "tema": "impuestos",
+  "posicion_general": "Propone una fiscalidad progresiva sin subir con carácter general los impuestos, centrada en un Pacto de Estado contra el fraude, la tributación mínima de sociedades, la evaluación de los gravámenes a banca, energéticas y grandes fortunas, la fiscalidad verde y más incentivos fiscales a familias, autónomos y pymes.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 0,
+  "en_contra_de_lo_que_defiende": 4,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "PSOE",
+  "tema": "inmigracion",
+  "posicion_general": "Defiende una migración regular, segura y ordenada, con más vías legales y migración circular, un sistema de acogida reforzado y gestionado públicamente, una nueva ley de nacionalidad y la lucha contra el racismo. Propone reducir las llegadas irregulares desmantelando las mafias y apoyar un Pacto Europeo de Migración y Asilo.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 2,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "PSOE",
+  "tema": "justicia",
+  "posicion_general": "Propone desarrollar el Plan Justicia 2030 con leyes de eficiencia procesal, organizativa y digital, más jueces y fiscales, reforzar la justicia gratuita y el derecho de defensa, reformar la Ley de Enjuiciamiento Criminal, renovar el CGPJ con el sistema vigente y garantizar el desalojo de okupas en 48 horas.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 8
+ },
+ {
+  "partido": "PSOE",
+  "tema": "pensiones",
+  "posicion_general": "Propone blindar en la Constitución la revalorización de las pensiones con el IPC, seguir subiendo las mínimas y no contributivas, ampliar el complemento de brecha de género, nuevas fórmulas de jubilación parcial y anticipada, y reforzar los ingresos del sistema y el Fondo de Reserva hasta más de 20.000 millones en 2027.",
+  "frases": 9,
+  "a_favor_de_lo_que_defiende": 3,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "PSOE",
+  "tema": "sanidad",
+  "posicion_general": "Defiende una sanidad pública, gratuita y universal: aprobar la Ley de Equidad que impida nuevos copagos, fijar por ley tiempos máximos de espera, crear la Agencia Estatal de Salud Pública, reforzar salud mental y bucodental, reformar el copago farmacéutico y aumentar las plazas de Medicina. Defiende mantener la ley de eutanasia.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 2,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "PSOE",
+  "tema": "seguridad",
+  "posicion_general": "Propone seguir aumentando los efectivos de Policía Nacional y Guardia Civil, reforzar su presencia en el medio rural, combatir las mafias de la ocupación y el crimen organizado, actualizar la regulación de la seguridad privada y reforzar la protección frente a la violencia de género y los delitos de odio.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 0,
+  "en_contra_de_lo_que_defiende": 3,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "PSOE",
+  "tema": "social",
+  "posicion_general": "Propone una Ley de Familias, ampliar el permiso por nacimiento a 20 semanas y crear una prestación por crianza, consolidar el Ingreso Mínimo Vital, reforzar la dependencia y los servicios sociales, erradicar el sinhogarismo de calle en 2030 y ampliar la protección de consumidores y deudores hipotecarios.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 1,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "PSOE",
+  "tema": "tecnologia",
+  "posicion_general": "Propone crear la Agencia Española de Supervisión de la Inteligencia Artificial, integrar la Carta de Derechos Digitales en el ordenamiento, regular el acceso de menores a redes sociales, aprobar una Ley de Ciberseguridad, ampliar el Kit Digital, extender el 5G rural, impulsar los semiconductores y una Ley del Espacio.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 9
+ },
+ {
+  "partido": "PSOE",
+  "tema": "territorial",
+  "posicion_general": "Propone aprobar en un año un nuevo sistema de financiación autonómica con corresponsabilidad fiscal, una Ley de Cohesión Territorial basada en la cogobernanza, reformar el Senado, la Ley de Bases de Régimen Local y la financiación local, y frenar la despoblación con servicios a menos de 30 minutos y desconcentración de sedes estatales.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 1,
+  "sin_votacion": 8
+ },
+ {
+  "partido": "PSOE",
+  "tema": "transporte",
+  "posicion_general": "Propone aprobar una Ley de Movilidad Sostenible y un fondo estatal para el transporte público, gratuidad del transporte urbano hasta los 24 años, priorizar el ferrocarril (Cercanías, alta velocidad, corredores Atlántico y Mediterráneo, 10% de mercancías en 2030), extender la liberalización ferroviaria e invertir en seguridad vial y aeropuertos.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 9
+ },
+ {
+  "partido": "PSOE",
+  "tema": "vivienda",
+  "posicion_general": "Propone desarrollar la Ley de Vivienda para contener precios, ampliar el parque público de alquiler social hasta el 20%, blindar la vivienda protegida frente a su venta, movilizar viviendas vacías, rehabilitar más de 500.000 viviendas y reforzar ayudas a jóvenes. Plantea además reformar la ley para desalojar a ocupantes ilegales en 48 horas.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 1,
+  "abstencion_o_dividido": 3,
+  "sin_votacion": 4
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "campo",
+  "posicion_general": "Apuesta por la transición agroecológica y la agricultura familiar: PAC que priorice explotaciones familiares y elimine derechos históricos, intervención en el mercado de tierras, defensoría de la cadena alimentaria, freno al regadío, salida del glifosato y fin de jaulas. En pesca, defiende la artesanal, limita el arrastre en Natura 2000 y promueve compra pública de alimentos sostenibles.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 8
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "clima",
+  "posicion_general": "Propone elevar la ambición de la Ley de Cambio Climático (55% menos emisiones y 90% renovable en 2030, neutralidad en 2040), abandonar inversiones y publicidad de combustibles fósiles, sustituir calderas antiguas, reformar la Ley de Costas, gestión pública del agua, cierre de pozos ilegales, plan para el Mar Menor, proteger al lobo y cerrar incineradoras.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 9
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "cultura",
+  "posicion_general": "Propone elevar progresivamente el presupuesto de cultura al 1% de los PGE, aprobar una ley de derechos culturales, extender el Bono Cultural Joven de 16 a 30 años, desarrollar el Estatuto del Artista, una casilla cultural en el IRPF, oficialidad de las lenguas históricas y derogar la ley de protección de la tauromaquia.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 8
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "defensa",
+  "posicion_general": "Propone desplazar las garantías de seguridad de la OTAN hacia una autonomía estratégica europea, auditar los Programas Especiales de Armamento, prohibir la venta de armas a países que vulneren derechos humanos, ratificar el tratado de prohibición de armas nucleares, suprimir la justicia militar y apoyar a Ucrania por la vía diplomática y humanitaria.",
+  "frases": 8,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 1,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 5
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "democracia",
+  "posicion_general": "Propone ampliar la participación ciudadana y reformar reglas institucionales: revisar LOREG e ILP, ampliar el número de diputados, voto a los 16 años, circunscripción exterior y derogación parcial de la ley de seguridad ciudadana. En memoria democrática plantea desplegar la ley de 2022, reformar secretos oficiales, financiar exhumaciones, resignificar Cuelgamuros y una ley de bebés robados.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 8
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "educacion",
+  "posicion_general": "Propone elevar el gasto educativo al 5% del PIB y luego al 7%, universalizar la educación gratuita de 0 a 3 años, hacer la concertada subsidiaria de la pública, sacar la religión del currículo, bajar ratios, ampliar la FP pública y avanzar hacia la gratuidad universitaria con el 1% del PIB para universidades.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 0,
+  "en_contra_de_lo_que_defiende": 1,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 9
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "empleo",
+  "posicion_general": "Propone culminar un Estatuto del Trabajo del siglo XXI: jornada máxima de 37,5 horas en 2024 hacia 32, SMI por encima del IPC, más protección frente al despido y las deslocalizaciones, encarecer horas extra impagadas, reducir la temporalidad pública, derechos para autónomos dependientes, libertad sindical en la Guardia Civil y mejores prestaciones por incapacidad temporal.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 4,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 1,
+  "sin_votacion": 5
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "energia",
+  "posicion_general": "Propone avanzar hacia un sistema eléctrico 100% renovable, mantener el calendario de cierre nuclear con moratoria a nuevas centrales, reformar el mercado marginalista, crear una tarifa progresiva con IVA reducido para el consumo básico, impulsar el autoconsumo, recuperar las hidroeléctricas para una empresa pública y mantener los impuestos extraordinarios a energéticas.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 5,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 5
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "exteriores",
+  "posicion_general": "Propone una política exterior centrada en la paz, los derechos humanos y la justicia climática: revertir el giro sobre el Sáhara Occidental, avanzar al reconocimiento de Palestina, apoyo a Ucrania, vetar ventas de armas a violadores de derechos humanos y abolir armas nucleares. En la UE, autonomía estratégica, fin de la unanimidad y 0,7% en cooperación.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 8
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "igualdad",
+  "posicion_general": "Propone reforzar los planes de igualdad y las inspecciones laborales, garantizar el aborto en la sanidad pública, aprobar una ley integral contra la trata, blindar el Pacto de Estado contra la Violencia de Género, cumplir la ley trans y LGTBI+, reforzar el Ministerio de Igualdad y reformar el artículo 49 de la Constitución.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 3,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "impuestos",
+  "posicion_general": "Propone una reforma fiscal progresiva para que contribuyan más las grandes empresas, los grandes patrimonios y las rentas del capital: impuesto permanente a grandes fortunas, mínimo estatal en sucesiones, tipo mínimo efectivo en sociedades, más tramos en el IRPF, fin de privilegios de SICAV y SOCIMI, impuestos saludables y más medios contra el fraude.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 4,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "inmigracion",
+  "posicion_general": "Propone una ley integral contra el racismo, reformar la Ley de Extranjería con un procedimiento de regularización permanente, cerrar los CIE, acabar con las devoluciones en caliente y la externalización de fronteras, facilitar el asilo desde embajadas y garantizar la sanidad universal a migrantes en situación irregular.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 8
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "justicia",
+  "posicion_general": "Propone un plan de choque con más jueces y medios, una nueva oficina judicial y más justicia gratuita. Plantea atribuir la instrucción al fiscal, reducir competencias de la Audiencia Nacional, suprimir la justicia militar, desbloquear CGPJ y Tribunal Constitucional, nueva ley de indultos, recuperar la justicia universal y suprimir la prisión permanente revisable.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 4,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "pensiones",
+  "posicion_general": "Propone mantener la revalorización de las pensiones con el IPC, subir por encima del IPC las mínimas y no contributivas hasta el umbral de la pobreza, reforzar los ingresos del sistema público y reducir la brecha de género, incluidas las pensiones de viudedad.",
+  "frases": 7,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "sanidad",
+  "posicion_general": "Propone blindar el carácter público y universal del Sistema Nacional de Salud, aumentar el gasto sanitario medio punto de PIB al año, revertir privatizaciones, ampliar la cartera con salud bucodental y otras prestaciones, una ley de listas de espera, crear una farmacéutica pública, eliminar el copago e integrar MUFACE en el sistema público.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 3,
+  "en_contra_de_lo_que_defiende": 2,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 5
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "seguridad",
+  "posicion_general": "Propone un enfoque preventivo de la seguridad con una ley de prevención y convivencia, reformar la «ley mordaza», desmilitarizar la Guardia Civil, prohibir las pelotas de goma, limitar las identificaciones policiales, mejorar las condiciones de los agentes y eliminar la prisión permanente revisable.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 1,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "social",
+  "posicion_general": "Plantea reforzar el Estado de bienestar con un ingreso mínimo más amplio, una prestación universal por crianza, una «herencia universal» para jóvenes, más financiación estatal de la dependencia, derecho subjetivo a los servicios sociales, una ley de cuidados, permisos más largos y protección de consumidores y suministros básicos.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 1,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "tecnologia",
+  "posicion_general": "Propone elevar la inversión en I+D+i al 3% del PIB en 2027 y al 4% en 2030, un estatuto del personal investigador y un ministerio único de ciencia y universidades. En digitalización plantea neutralidad de la red, internet como servicio universal, transición al software libre, control público de los datos, auditoría algorítmica y límites a la concentración de medios.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 0,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 10
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "territorial",
+  "posicion_general": "Concibe España como realidad plurinacional y propone un nuevo pacto territorial, reforma inmediata de la financiación autonómica y local con suelo fiscal, reforma del CPFF, diálogo bilateral con Cataluña con acuerdo votado por su ciudadanía y promoción del plurilingüismo. Para la España vaciada plantea servicios a menos de 30 minutos e incentivos a empleados públicos rurales.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 8
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "transporte",
+  "posicion_general": "Defiende la movilidad sostenible como derecho, con una ley de movilidad y financiación estatal estable del transporte público, abonos rebajados permanentes y prioridad al ferrocarril convencional, Cercanías y mercancías frente a la alta velocidad. Propone limitar la aviación (jets privados, vuelos cortos, tasas al queroseno) y proteger el taxi frente a las VTC.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 3,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "SUMAR",
+  "tema": "vivienda",
+  "posicion_general": "Propone un parque público de alquiler de dos millones de viviendas con una inversión del 1% del PIB, regular los precios del alquiler en todas las zonas tensionadas, ampliar la Ley de Vivienda, limitar el alquiler turístico y de temporada, cambiar la fiscalidad de SOCIMIs y ayudar a hipotecados.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 5,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 5
+ },
+ {
+  "partido": "VOX",
+  "tema": "campo",
+  "posicion_general": "Propone proteger la producción nacional frente a importaciones mediante controles fronterizos, aranceles a Marruecos y preferencia comunitaria, una PAC centrada en la rentabilidad, aplicar la ley de cadena alimentaria, ampliar regadíos, defender la caza y sacar al lobo del régimen de protección especial.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 4,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 1,
+  "sin_votacion": 5
+ },
+ {
+  "partido": "VOX",
+  "tema": "clima",
+  "posicion_general": "Propone derogar la Ley de cambio climático, abandonar el Acuerdo de París, suprimir el mercado europeo de emisiones y suspender el Pacto Verde. Plantea detener la demolición de presas, un Plan Nacional del Agua con interconexión de cuencas, derogar la ley del Mar Menor y paralizar la reforma de la Ley de Costas.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 9
+ },
+ {
+  "partido": "VOX",
+  "tema": "cultura",
+  "posicion_general": "Propone apoyar fiscalmente la tauromaquia y conservar el toro de lidia, proteger fiestas y tradiciones populares, un plan nacional de patrimonio con nueva ley de mecenazgo, potenciar el Instituto Cervantes y las Humanidades y rebajar el IVA cultural del cine.",
+  "frases": 9,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 8
+ },
+ {
+  "partido": "VOX",
+  "tema": "defensa",
+  "posicion_general": "Propone aumentar la inversión en Defensa y la industria nacional del sector, mejorar sueldos y carrera militar, crear un servicio militar de reserva voluntaria, desplegar militares en Ceuta, Melilla y Canarias y exigir que la OTAN cubra explícitamente Ceuta y Melilla.",
+  "frases": 9,
+  "a_favor_de_lo_que_defiende": 3,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "VOX",
+  "tema": "democracia",
+  "posicion_general": "Propone ilegalizar partidos y organizaciones que persigan romper la unidad nacional, suprimir subvenciones a partidos, sindicatos y patronal, derogar la legislación de memoria democrática, despolitizar órganos reguladores, limitar el decreto ley, eliminar ayudas públicas a medios privados y usar consultas del artículo 92.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 1,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 8
+ },
+ {
+  "partido": "VOX",
+  "tema": "educacion",
+  "posicion_general": "Propone devolver al Estado las competencias educativas con una ley nacional y currículos comunes, prueba única de acceso a la universidad, garantizar la enseñanza en español, el consentimiento previo de los padres a contenidos afectivo-sexuales, cheque escolar, defensa de la educación diferenciada y prohibir pasar de curso con suspensos.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 8,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 2
+ },
+ {
+  "partido": "VOX",
+  "tema": "empleo",
+  "posicion_general": "Propone bonificar cotizaciones por contratación indefinida, derogar la reforma laboral, exonerar de cuota a autónomos con ingresos bajo el SMI, suprimir subvenciones y reducir liberados sindicales, prohibir acciones coactivas en huelgas, subir salarios reduciendo cargas empresariales y sancionar la contratación de inmigrantes irregulares.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 1,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "VOX",
+  "tema": "energia",
+  "posicion_general": "Propone soberanía energética con un mix que incluya nuclear, prolongar la vida de las centrales nucleares e instalar minirreactores, suprimir los impuestos de la factura eléctrica, reformar el sistema marginalista de precios, explotar recursos minerales nacionales, ampliar bombeos hidráulicos y proteger el suelo agrario frente a renovables.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 4,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "VOX",
+  "tema": "exteriores",
+  "posicion_general": "Defiende una Europa de naciones soberanas: nuevo tratado contra el federalismo, primacía de la Constitución, unanimidad en el Consejo y reforma de la euroorden. Exige recuperar Gibraltar, condiciona la cooperación al control migratorio, revisa la pertenencia a organismos internacionales y presiona a los regímenes de Venezuela, Cuba y Nicaragua.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 9
+ },
+ {
+  "partido": "VOX",
+  "tema": "igualdad",
+  "posicion_general": "Propone derogar la Ley Integral de Violencia de Género, la ley trans, la ley LGTBI y la ley del solo sí es sí, eliminar cuotas y legislación de género, suprimir el Ministerio de Igualdad, prohibir tratamientos de cambio de sexo en menores y combatir la brecha maternal.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 3,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "VOX",
+  "tema": "impuestos",
+  "posicion_general": "Propone una reforma fiscal con bajada generalizada de impuestos: IRPF con tipos del 15% y 25%, Sociedades al 15%, rebaja del IVA, supresión de Patrimonio, Sucesiones y Plusvalías, recaudación centralizada en la AEAT y presupuestos de base cero con reducción del gasto político.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 9
+ },
+ {
+  "partido": "VOX",
+  "tema": "inmigracion",
+  "posicion_general": "Propone la expulsión inmediata de quienes entren irregularmente y de extranjeros que cometan delitos graves, suprimir el arraigo y las ayudas a inmigrantes irregulares, repatriar a los menores no acompañados, un bloqueo naval, impedir el empadronamiento de irregulares y endurecer el acceso a la nacionalidad, con preferencia para iberoamericanos.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 4,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "VOX",
+  "tema": "justicia",
+  "posicion_general": "Propone que los jueces elijan a los vocales del CGPJ, integrar el Tribunal Constitucional en el Supremo, recuperar la sedición y endurecer la malversación, prohibir indultos por corrupción o secesión, mantener la instrucción en los jueces, eliminar los juzgados de violencia sobre la mujer y endurecer el régimen de presos de ETA.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 3,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "VOX",
+  "tema": "pensiones",
+  "posicion_general": "El programa dedica poco espacio a las pensiones: propone eximir del IRPF las pensiones contributivas, asegurar la sostenibilidad del sistema reduciendo el gasto político y autonómico y fomentar la natalidad como solución a largo plazo.",
+  "frases": 4,
+  "a_favor_de_lo_que_defiende": 0,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 4
+ },
+ {
+  "partido": "VOX",
+  "tema": "sanidad",
+  "posicion_general": "Propone recuperar para el Estado las competencias sanitarias con tarjeta única e historia clínica común, reducir listas de espera reforzando los conciertos privados, derogar las leyes del aborto y la eutanasia, garantizar la objeción de conciencia, ampliar la cartera a salud bucodental y limitar la atención a inmigrantes irregulares a urgencias.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 4,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "VOX",
+  "tema": "seguridad",
+  "posicion_general": "Propone equiparar salarios y jubilación de policías y guardias civiles, endurecer las penas por resistencia a la autoridad y por delitos violentos, hacer a los funcionarios de prisiones agentes de la autoridad, cerrar mezquitas radicales, proteger la legítima defensa y recentralizar las competencias de seguridad.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 4,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 6
+ },
+ {
+  "partido": "VOX",
+  "tema": "social",
+  "posicion_general": "Plantea reforzar dependencia, residencias y atención a la soledad, establecer la prioridad nacional en ayudas sociales y vivienda, crear un Ministerio de Familia con un plan de natalidad, proteger la vivienda familiar frente a embargos y limitar las casas de apuestas.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 9
+ },
+ {
+  "partido": "VOX",
+  "tema": "tecnologia",
+  "posicion_general": "Propone que las grandes tecnológicas tributen y paguen por los datos que obtienen en España mediante una pasarela de datos, retribuir a los ciudadanos por sus datos, legislar contra la censura de plataformas digitales, reforzar la ciberseguridad de telecomunicaciones y garantizar alternativas presenciales a la administración electrónica.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 8
+ },
+ {
+  "partido": "VOX",
+  "tema": "territorial",
+  "posicion_general": "Propone un Estado unitario y descentralizado administrativamente, con devolución inmediata al Estado de educación, sanidad, seguridad y justicia, supresión de los privilegios de los derechos históricos, suspensión de la autonomía de comunidades que atenten contra la unidad, supresión de las policías autonómicas y uso del español en todo el territorio.",
+  "frases": 9,
+  "a_favor_de_lo_que_defiende": 2,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "VOX",
+  "tema": "transporte",
+  "posicion_general": "Propone reforzar la red ferroviaria, especialmente la alta velocidad y las Cercanías, mejorar las infraestructuras de transporte en la España rural, frenar los peajes en autovías y rechazar las restricciones a los vehículos de combustión.",
+  "frases": 8,
+  "a_favor_de_lo_que_defiende": 1,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 7
+ },
+ {
+  "partido": "VOX",
+  "tema": "vivienda",
+  "posicion_general": "Propone endurecer la respuesta penal y procesal a la ocupación ilegal, liberar suelo, eliminar el IVA de la primera vivienda y recuperar la deducción por vivienda habitual, construir vivienda social en propiedad o alquiler con opción a compra, suprimir el control de rentas y derogar la Ley de vivienda.",
+  "frases": 10,
+  "a_favor_de_lo_que_defiende": 5,
+  "en_contra_de_lo_que_defiende": 0,
+  "abstencion_o_dividido": 0,
+  "sin_votacion": 5
+ }
+]

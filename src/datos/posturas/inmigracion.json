@@ -1,0 +1,42 @@
+{
+  "tema": "inmigracion",
+  "enunciados": [
+    { "slug": "regularizacion", "texto": "Regularizar a los migrantes en situación irregular" },
+    { "slug": "reparto-menores", "texto": "Repartir entre comunidades a los menores migrantes no acompañados" },
+    { "slug": "control-expulsiones", "texto": "Endurecer el control de fronteras y las expulsiones" },
+    { "slug": "competencias-cataluna", "texto": "Delegar en Cataluña competencias de inmigración" },
+    { "slug": "migracion-laboral", "texto": "Firmar acuerdos de migración laboral con otros países" },
+    { "slug": "politica-gobierno", "texto": "Respaldar la política migratoria del Gobierno" }
+  ],
+  "asignaciones": [
+    { "iniciativa": "162/000296", "enunciado": "regularizacion", "direccion": 1, "nota": "PNL de Podemos (Grupo Mixto), en los términos de una enmienda con BNG, Bildu, ERC y SUMAR, para impulsar la ILP de regularización extraordinaria" },
+    { "iniciativa": "120/000026", "enunciado": "regularizacion", "direccion": 1, "nota": "Toma en consideración de la ILP para una regularización extraordinaria de personas extranjeras" },
+    { "iniciativa": "120/000004", "enunciado": "regularizacion", "direccion": -1, "nota": "Texto alternativo de VOX a la ILP de regularización, que la sustituía: Sí es estar en contra" },
+    { "iniciativa": "173/000067", "enunciado": "regularizacion", "direccion": -1, "nota": "Moción de VOX contra la regularización de 900.000 inmigrantes: Sí es estar en contra" },
+    { "iniciativa": "122/000191", "enunciado": "regularizacion", "direccion": -1, "nota": "Ley de VOX que restringe la regularización por arraigo: Sí es estar en contra" },
+    { "iniciativa": "122/000123", "enunciado": "reparto-menores", "direccion": 1, "nota": "Reforma de la Ley de Extranjería de PSOE, SUMAR y Grupo Mixto para un reparto vinculante de menores migrantes entre comunidades" },
+    { "iniciativa": "130/000016", "enunciado": "reparto-menores", "direccion": 1, "nota": "RDL 2/2025 que reparte entre comunidades a los menores migrantes en contingencias migratorias; incluye la votación de tramitarlo como ley" },
+    { "iniciativa": "162/000830", "enunciado": "reparto-menores", "direccion": -1, "nota": "PNL de VOX que pide aplicar el acuerdo de retorno de menores con Marruecos y rechaza su reparto entre comunidades: Sí es estar en contra" },
+    { "iniciativa": "162/000684", "enunciado": "control-expulsiones", "direccion": 1, "nota": "PNL del PP para ejecutar las órdenes de expulsión de extranjeros sin derecho a permanecer en la UE" },
+    { "iniciativa": "122/000012", "enunciado": "control-expulsiones", "direccion": 1, "nota": "Ley de VOX que reforma la Ley de Defensa Nacional para que las Fuerzas Armadas actúen contra la inmigración irregular", "revisar": true },
+    { "iniciativa": "162/000814", "enunciado": "control-expulsiones", "direccion": 1, "nota": "PNL del PP para aplicar el Pacto Europeo de Migración y Asilo con énfasis en retornos y controles; el Gobierno apoya el Pacto pero votó en contra de esta PNL", "revisar": true },
+    { "iniciativa": "122/000172", "enunciado": "competencias-cataluna", "direccion": 1, "nota": "Ley orgánica de PSOE y Junts que delega en Cataluña competencias estatales de inmigración" },
+    { "iniciativa": "162/000421", "enunciado": "competencias-cataluna", "direccion": -1, "nota": "PNL del PP para que el Estado ejerza las competencias de inmigración de forma uniforme, sin delegarlas: Sí es estar en contra" },
+    { "iniciativa": "173/000085", "enunciado": "competencias-cataluna", "direccion": -1, "nota": "Moción del PP, votada por puntos, contra la cesión de competencias de inmigración y fronteras: Sí es estar en contra", "revisar": true },
+    { "iniciativa": "votacion-40-56", "enunciado": "migracion-laboral", "direccion": 1, "nota": "Acuerdo con Guatemala para regular los flujos migratorios laborales: Sí es autorizarlo" },
+    { "iniciativa": "173/000154", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción del PP sobre la política migratoria del Gobierno, contraria a la regularización: Sí es estar en contra" },
+    { "iniciativa": "173/000151", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción de VOX sobre la política migratoria del Gobierno: Sí es estar en contra" },
+    { "iniciativa": "votacion-132-15", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción de VOX sobre la política de inmigración del Gobierno: Sí es estar en contra" },
+    { "iniciativa": "173/000046", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción de VOX sobre fronteras y colaboración con otros países, con cierre de fronteras y deportaciones: Sí es estar en contra" },
+    { "iniciativa": "173/000045", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción del PP sobre la crisis migratoria y la protección de las fronteras: Sí es estar en contra" },
+    { "iniciativa": "173/000176", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción del PP, votada por puntos, sobre la gestión del Ministerio de Inclusión, Seguridad Social y Migraciones, no solo de migración: Sí es estar en contra", "revisar": true }
+  ],
+  "sinEnunciado": [
+    { "iniciativa": "162/000117", "nota": "PNL de VOX votada en 19 puntos con medidas distintas (fronteras, expulsiones, ayudas); no se puede atribuir a una sola" },
+    { "iniciativa": "122/000083", "nota": "Ley de multirreincidencia: sobre todo Código Penal; la reforma de la Ley de Extranjería es un punto secundario" },
+    { "iniciativa": "122/000039", "nota": "Ley de VOX sobre el padrón municipal en casos de ocupación e inmigración irregular; no corresponde a ningún enunciado" },
+    { "iniciativa": "173/000092", "nota": "Moción de VOX sobre el retorno de españoles que trabajan en el extranjero: emigración, no inmigración" },
+    { "iniciativa": "173/000073", "nota": "Moción de CC sobre la atención sanitaria a migrantes llegados a Canarias; no corresponde a ningún enunciado" },
+    { "iniciativa": "162/000115", "nota": "PNL de VOX sobre ataques a transportistas y agricultores en la frontera con Francia; no trata de inmigración" }
+  ]
+}

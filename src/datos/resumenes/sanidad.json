@@ -1,0 +1,38 @@
+{
+  "tema": "sanidad",
+  "generado": "2026-10-22T19:24:02.763Z",
+  "modelo": "glm5.3-flash",
+  "frases": [
+    {
+      "texto": "Se votó validar un real decreto-ley del Gobierno que cambia cuánto pagan los pacientes por los medicamentos que se recogen con receta fuera del hospital, y salió adelante.",
+      "iniciativas": [
+        "130/000042"
+      ]
+    },
+    {
+      "texto": "Se votaron las enmiendas del Senado a la ley que crea la Agencia Estatal de Salud Pública, y salió adelante.",
+      "iniciativas": [
+        "121/000054"
+      ]
+    },
+    {
+      "texto": "Se votó si se aceptaba a trámite una propuesta de ley que fija el número de enfermeras por paciente en los centros sanitarios, y salió adelante.",
+      "iniciativas": [
+        "120/000018"
+      ]
+    },
+    {
+      "texto": "Se votó una moción para reformar el Estatuto Marco, la norma que regula las condiciones de trabajo del personal sanitario, y no salió adelante.",
+      "iniciativas": [
+        "173/000191"
+      ]
+    },
+    {
+      "texto": "Se votó una proposición no de ley sobre soluciones a la falta de profesionales sanitarios en la atención primaria, y salió adelante.",
+      "iniciativas": [
+        "162/000258"
+      ]
+    }
+  ],
+  "descartadas": 0
+}

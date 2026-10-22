@@ -1,0 +1,125 @@
+{
+ "party": "BILDU",
+ "pages": 16,
+ "language": "es",
+ "categories": [
+  {
+   "title": "Portada e introducción (Compromiso de Euskal Herria Bildu)",
+   "pages": [
+    1,
+    2
+   ],
+   "words": 366,
+   "topics": [],
+   "note": "Portada y balance de logros de la legislatura anterior"
+  },
+  {
+   "title": "Derechos y bienestar social: Empleo y derechos laborales",
+   "pages": [
+    3,
+    4
+   ],
+   "words": 473,
+   "topics": [
+    "empleo",
+    "vivienda"
+   ],
+   "note": "Reforma laboral, SMI propio, marco vasco de relaciones laborales; inicio de vivienda"
+  },
+  {
+   "title": "Justicia social: vivienda, pensiones y contención de precios",
+   "pages": [
+    5,
+    5
+   ],
+   "words": 244,
+   "topics": [
+    "pensiones",
+    "vivienda",
+    "social"
+   ],
+   "note": "Pensiones mínimas, vivienda y medidas contra la carestía de la vida"
+  },
+  {
+   "title": "Servicios públicos",
+   "pages": [
+    6,
+    7
+   ],
+   "words": 423,
+   "topics": [
+    "sanidad",
+    "transporte",
+    "social"
+   ],
+   "note": "Sanidad, transportes y protección social (IMV, suministros básicos)"
+  },
+  {
+   "title": "Política fiscal y desarrollo económico",
+   "pages": [
+    8,
+    8
+   ],
+   "words": 266,
+   "topics": [
+    "impuestos",
+    "empleo"
+   ],
+   "note": "Impuestos a banca y grandes fortunas, haciendas forales, ley de industria"
+  },
+  {
+   "title": "Emergencia climática",
+   "pages": [
+    9,
+    9
+   ],
+   "words": 269,
+   "topics": [
+    "clima",
+    "energia"
+   ],
+   "note": "Descarbonización, renovables, mercado eléctrico y sequía"
+  },
+  {
+   "title": "Libertades: igualdad, feminismo, LGTBIQ+ y migración",
+   "pages": [
+    10,
+    11
+   ],
+   "words": 463,
+   "topics": [
+    "igualdad",
+    "inmigracion"
+   ],
+   "note": "Feminismo, derechos LGTBIQ+, antirracismo y derechos de migrantes"
+  },
+  {
+   "title": "Libertad de expresión y memoria inclusiva",
+   "pages": [
+    12,
+    13
+   ],
+   "words": 383,
+   "topics": [
+    "democracia",
+    "seguridad",
+    "justicia"
+   ],
+   "note": "Derogar Ley Mordaza, memoria democrática y víctimas de violencia policial"
+  },
+  {
+   "title": "Soberanía: derecho a decidir, euskera, autogobierno y Concierto",
+   "pages": [
+    14,
+    16
+   ],
+   "words": 647,
+   "topics": [
+    "territorial",
+    "democracia",
+    "cultura"
+   ],
+   "note": "Plurinacionalidad, euskera, transferencias, Concierto y Convenio económicos"
+  }
+ ]
+}

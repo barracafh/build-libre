@@ -106,6 +106,47 @@ reglas obligatorias.
   tests, commits y PR en inglés; sin capa de i18n.
 - **Motivo:** el código y la pantalla usan las mismas palabras (`votacion`, no `vote`).
 
+## 2026-10-22 21:17 +02:00 · Integración del prototipo de estadísticas
+
+- **Estado:** vigente
+- **Contexto:** `codex/jorge` aporta un panel shadcn con Recharts solicitado por su propietario;
+  `dev` añade portada, shell compartido y vista de temas.
+- **Decisión:** conservar ambas vistas; el prototipo pasa a `/estadisticas`, con datos simulados
+  explícitos y Recharts limitado a esa vista. Las vistas parlamentarias mantienen sus reglas.
+- **Motivo:** integrar el trabajo de ambas ramas sin sustituir la portada ni presentar muestras
+  ficticias como datos del Congreso. Los componentes del panel adoptan nombres kebab-case.
+
+## 2026-10-22 21:24 +02:00 · Integración de Escáner desde el PR 12
+
+- **Estado:** vigente
+- **Contexto:** el propietario de `codex/jorge` solicita incorporar el contenido del PR #12
+  como una nueva sección llamada Escáner.
+- **Decisión:** integrar `/escaner`, su instantánea, generador y pruebas; añadir su acceso en
+  `vistas.ts`, conservando Temas y Estadísticas.
+- **Motivo:** disponer de la vista existente en la misma aplicación para su revisión.
+- **Riesgo abierto:** se conservan las divergencias declaradas en el PR #12 (resúmenes de
+  programas con IA, colores de voto, orden por brecha y carga completa del conjunto de datos).
+
+## 2026-10-22 21:33 +02:00 · Posiciones como sección propia
+
+- **Estado:** vigente
+- **Contexto:** el usuario solicita incorporar la vista `/posiciones` de `origin/dev-adri`.
+- **Decisión:** añadir Posiciones al registro de vistas, con su tabla, detalle y síntesis existentes;
+  usar el encabezado y pie comunes y conservar el generador de la rama de origen.
+- **Motivo:** acceder desde la navegación principal y volver al listado desde cada detalle.
+- **Riesgo abierto:** se conserva el contenido generado por IA de la vista original, etiquetado
+  como tal; no es texto oficial.
+
+## 2026-10-22 21:40 +02:00 · Posturas sustituye la pestaña Estadísticas
+
+- **Estado:** vigente
+- **Contexto:** el usuario pide retirar la pestaña Estadísticas e incorporar la vista del PR #14.
+- **Decisión:** registrar Posturas en `/posturas`, con sus rutas de temas, comparación, votaciones,
+  programas y método bajo ese prefijo; reutilizar el shell y la capa de datos actuales.
+- **Motivo:** integrar el contenido del PR sin colisiones con `/tema` ni sustituir otras vistas.
+- **Riesgo abierto:** se mantienen las interpretaciones y síntesis de IA del PR, identificadas
+  en su interfaz. El prototipo de estadísticas queda fuera del menú y de la portada.
+
 ## Pendiente
 
 - Origen de los ficheros copiados a mano de upstream `data/` (commit `39a7426`): `data:fetch` borra

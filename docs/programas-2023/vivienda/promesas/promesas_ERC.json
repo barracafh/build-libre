@@ -1,0 +1,276 @@
+{
+  "party": "ERC",
+  "promesas": [
+    {
+      "id": "ERC-01",
+      "cita": "Desenvolupar les mesures contemplades en l'Art. 6 de la Llei 12/2023, de 24 de maig pel dret a l'habitatge, relatiu al Principi d'igualtat i no discriminació en l'habitatge.",
+      "pagina": 44,
+      "resumen": "Desarrollar el artículo 6 de la Ley 12/2023 sobre igualdad y no discriminación en el acceso a la vivienda.",
+      "objeto": "Artículo 6 de la Ley 12/2023",
+      "tipo": "ejecutiva",
+      "direccion": "crear_ampliar",
+      "competencia": "indirecta",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "ley vivienda",
+        "Ley 12/2023",
+        "discriminación vivienda",
+        "igualdad",
+        "desarrollo reglamentario"
+      ]
+    },
+    {
+      "id": "ERC-02",
+      "cita": "Aprovar una estratègia estatal d'erradicació d'assentaments de barraquisme i infra habitatge 2030",
+      "pagina": 44,
+      "resumen": "Aprobar una estrategia estatal 2030 de erradicación de asentamientos chabolistas e infravivienda.",
+      "objeto": "Estrategia estatal contra chabolismo e infravivienda",
+      "tipo": "ejecutiva",
+      "direccion": "crear_ampliar",
+      "competencia": "indirecta",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "chabolismo",
+        "infravivienda",
+        "asentamientos",
+        "estrategia estatal",
+        "vivienda digna"
+      ]
+    },
+    {
+      "id": "ERC-03",
+      "cita": "Defensar la limitació i impulsar la reducció dels preus del lloguer.",
+      "pagina": 52,
+      "resumen": "Mantener la limitación de los precios del alquiler y reducirlos.",
+      "objeto": "Regulación de precios del alquiler",
+      "tipo": "posicion",
+      "direccion": "mantener",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "control de alquiler",
+        "precios alquiler",
+        "limitación alquiler",
+        "emancipación juvenil",
+        "ley vivienda"
+      ]
+    },
+    {
+      "id": "ERC-04",
+      "cita": "Realització, per part dels jutges o jutgesses, de judicis de proporcionalitat abans de prendre la decisió d'autoritzar un desnonament o entrada en un domicili familiar en el qual resideixin menors d'edat",
+      "pagina": 60,
+      "resumen": "Exigir juicio de proporcionalidad judicial antes de autorizar desahucios de hogares con menores.",
+      "objeto": "Juicio de proporcionalidad en desahucios con menores",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "desahucios",
+        "menores",
+        "proporcionalidad",
+        "Ley de Enjuiciamiento Civil",
+        "lanzamiento"
+      ]
+    },
+    {
+      "id": "ERC-05",
+      "cita": "Fer possible que les comunitats autònomes que tinguin competències en matèria d’habitatge i dret civil, foral o especial, puguin regular íntegrament els contractes d’arrendaments urbans, incloent la regulació dels preus de lloguer",
+      "pagina": 114,
+      "resumen": "Permitir a las comunidades autónomas con derecho civil propio regular íntegramente el alquiler, incluidos precios, vía artículo 150.1 CE.",
+      "objeto": "Competencia autonómica sobre arrendamientos urbanos",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "arrendamientos urbanos",
+        "LAU",
+        "competencias vivienda",
+        "artículo 150.1",
+        "precios alquiler",
+        "derecho civil catalán"
+      ]
+    },
+    {
+      "id": "ERC-06",
+      "cita": "Regular els contractes d’arrendament d’habitatges de temporada perquè no siguin una manera d’esquivar la tutela dels contractes de residència habitual",
+      "pagina": 114,
+      "resumen": "Regular los alquileres de temporada para impedir que eludan la protección de los contratos de vivienda habitual.",
+      "objeto": "Contratos de alquiler de temporada",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "alquiler de temporada",
+        "LAU",
+        "arrendamientos urbanos",
+        "contratos temporales",
+        "ley vivienda"
+      ]
+    },
+    {
+      "id": "ERC-07",
+      "cita": "Atribuir a les administracions competents en matèria d’habitatge la facultat de demanar judicialment la recuperació de la possessió d’habitatges, altres que els propis, amb la finalitat de restablir-ne la funció social davant la inactivitat de la propietat, modificant per això l’art. 250.1.4 LEC.",
+      "pagina": 114,
+      "resumen": "Modificar el art. 250.1.4 LEC para que las administraciones puedan reclamar judicialmente la posesión de viviendas desocupadas.",
+      "objeto": "Artículo 250.1.4 de la LEC",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "Ley de Enjuiciamiento Civil",
+        "viviendas vacías",
+        "función social",
+        "posesión",
+        "vivienda"
+      ]
+    },
+    {
+      "id": "ERC-08",
+      "cita": "Dotació de fons estatals compensatoris. La nova llei estatal 12/2023, por el derecho a la vivienda, obliga les CCAA pressupostàriament",
+      "pagina": 114,
+      "resumen": "Dotar fondos estatales para compensar a las comunidades por los costes de la Ley 12/2023 (propietarios y acuerdos de intermediación).",
+      "objeto": "Fondos estatales compensatorios por Ley 12/2023",
+      "tipo": "presupuestaria",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "fondos compensación",
+        "ley vivienda",
+        "desahucios",
+        "presupuestos generales",
+        "comunidades autónomas"
+      ]
+    },
+    {
+      "id": "ERC-09",
+      "cita": "Garantia de la dació en pagament i cancel·lació de deutes vinculats a l’habitatge que sigui residència habitual amb una llei de segona oportunitat de tall europeu,",
+      "pagina": 115,
+      "resumen": "Garantizar la dación en pago y la cancelación de deudas de la vivienda habitual mediante una ley de segunda oportunidad.",
+      "objeto": "Dación en pago y ley de segunda oportunidad",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "dación en pago",
+        "segunda oportunidad",
+        "hipotecas",
+        "deuda hipotecaria",
+        "vivienda habitual"
+      ]
+    },
+    {
+      "id": "ERC-10",
+      "cita": "establir la inembargabilitat de l’habitatge habitual de fiadors, avalistes i hipotecants no deutors.",
+      "pagina": 115,
+      "resumen": "Declarar inembargable la vivienda habitual de fiadores, avalistas e hipotecantes no deudores.",
+      "objeto": "Inembargabilidad de vivienda de avalistas",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "inembargabilidad",
+        "avalistas",
+        "vivienda habitual",
+        "hipotecas",
+        "embargo"
+      ]
+    },
+    {
+      "id": "ERC-11",
+      "cita": "Modificació de la llei hipotecària amb topalls a l’endeutament d’acord amb la directiva de la UE i que garanteixi els drets dels consumidors.",
+      "pagina": 115,
+      "resumen": "Reformar la ley hipotecaria con límites al endeudamiento conforme a la directiva europea.",
+      "objeto": "Ley hipotecaria y límites de endeudamiento",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "media",
+      "palabras_clave": [
+        "ley hipotecaria",
+        "crédito inmobiliario",
+        "endeudamiento",
+        "consumidores",
+        "hipotecas"
+      ]
+    },
+    {
+      "id": "ERC-12",
+      "cita": "Regulació i control de les titulitzacions, transmissions i cessions dels actius hipotecaris",
+      "pagina": 115,
+      "resumen": "Regular y controlar la titulización, transmisión y cesión de activos hipotecarios.",
+      "objeto": "Titulización y cesión de activos hipotecarios",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "baja",
+      "palabras_clave": [
+        "titulización",
+        "activos hipotecarios",
+        "cesión de créditos",
+        "hipotecas",
+        "fondos buitre"
+      ]
+    },
+    {
+      "id": "ERC-13",
+      "cita": "Proposició de llei de per a recuperar els pisos de la Sareb.",
+      "pagina": 115,
+      "resumen": "Presentar una proposición de ley para recuperar las viviendas de la SAREB.",
+      "objeto": "Viviendas de la SAREB",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "SAREB",
+        "proposición de ley",
+        "vivienda pública",
+        "banco malo",
+        "parque público"
+      ]
+    },
+    {
+      "id": "ERC-14",
+      "cita": "Restablir la deducció en l’IRPF de les rendes de lloguer de l’habitatge habitual als arrendataris, la qual va ser suprimida amb efectes de l’1 de gener de 2015.",
+      "pagina": 115,
+      "resumen": "Restablecer la deducción estatal en el IRPF por alquiler de vivienda habitual para inquilinos.",
+      "objeto": "Deducción IRPF por alquiler de vivienda habitual",
+      "tipo": "legislativa",
+      "direccion": "crear_ampliar",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "deducción alquiler",
+        "IRPF",
+        "inquilinos",
+        "vivienda habitual",
+        "renta"
+      ]
+    },
+    {
+      "id": "ERC-15",
+      "cita": "Suprimir l’obtenció del visat de residència per compra d’immobles o habitatges per inversions der valor igual o superior a 500.000 euros, previst a la llei 14/2013.",
+      "pagina": 115,
+      "resumen": "Suprimir la 'golden visa' por compra de inmuebles de 500.000 euros o más prevista en la Ley 14/2013.",
+      "objeto": "Visado de residencia por compra de vivienda",
+      "tipo": "legislativa",
+      "direccion": "reducir_suprimir",
+      "competencia": "directa",
+      "verificabilidad": "alta",
+      "palabras_clave": [
+        "golden visa",
+        "visado de residencia",
+        "Ley 14/2013",
+        "inversión inmobiliaria",
+        "compra vivienda"
+      ]
+    }
+  ]
+}

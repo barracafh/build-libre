@@ -1,0 +1,251 @@
+{
+ "party": "BNG",
+ "pages": 68,
+ "language": "gl",
+ "categories": [
+  {
+   "title": "Portada e Introdución (Portada e introducción)",
+   "pages": [
+    1,
+    8
+   ],
+   "words": 2157,
+   "topics": [
+    "territorial"
+   ],
+   "note": "Índice, balance del acuerdo de investidura y contexto político."
+  },
+  {
+   "title": "1. Soberanía política para garantir maior benestar social (Soberanía política para garantizar mayor bienestar social)",
+   "pages": [
+    9,
+    13
+   ],
+   "words": 1468,
+   "topics": [
+    "territorial",
+    "democracia"
+   ],
+   "note": "Autodeterminación de Galicia, competencias, financiación y reconocimiento nacional."
+  },
+  {
+   "title": "2. Máis dereitos para unha maior xustiza social: pobreza, vivenda e clase traballadora (Más derechos para mayor justicia social: pobreza, vivienda y clase trabajadora)",
+   "pages": [
+    14,
+    16
+   ],
+   "words": 806,
+   "topics": [
+    "social",
+    "vivienda",
+    "empleo"
+   ],
+   "note": "Lucha contra la pobreza, derecho a vivienda y derechos laborales."
+  },
+  {
+   "title": "2. Máis dereitos para unha maior xustiza social: pensións, maiores e dependentes, ningunha persoa é ilegal (Más derechos: pensiones, mayores y dependientes, ninguna persona es ilegal)",
+   "pages": [
+    17,
+    20
+   ],
+   "words": 1008,
+   "topics": [
+    "pensiones",
+    "social",
+    "inmigracion"
+   ],
+   "note": "Pensiones públicas, dependencia, mayores y derechos de migrantes."
+  },
+  {
+   "title": "3. Políticas feministas para avanzar nos dereitos das mulleres (Políticas feministas para avanzar en los derechos de las mujeres)",
+   "pages": [
+    21,
+    24
+   ],
+   "words": 1030,
+   "topics": [
+    "igualdad"
+   ],
+   "note": "Violencia machista e igualdad real entre mujeres y hombres."
+  },
+  {
+   "title": "4. A defensa dos dereitos das persoas LGBT (La defensa de los derechos de las personas LGBT)",
+   "pages": [
+    25,
+    26
+   ],
+   "words": 436,
+   "topics": [
+    "igualdad"
+   ],
+   "note": "Derechos y no discriminación de personas LGBT."
+  },
+  {
+   "title": "5. Na defensa da democracia e das liberdades públicas (En defensa de la democracia y las libertades públicas)",
+   "pages": [
+    27,
+    30
+   ],
+   "words": 1230,
+   "topics": [
+    "democracia",
+    "justicia",
+    "seguridad"
+   ],
+   "note": "Libertades públicas, ley mordaza, monarquía, memoria y justicia."
+  },
+  {
+   "title": "6. Por uns servizos públicos de calidade: Educación (Por unos servicios públicos de calidad: Educación)",
+   "pages": [
+    31,
+    33
+   ],
+   "words": 977,
+   "topics": [
+    "educacion"
+   ],
+   "note": "Educación pública, competencias educativas y universidades."
+  },
+  {
+   "title": "6. Por uns servizos públicos de calidade: Sanidade (Por unos servicios públicos de calidad: Sanidad)",
+   "pages": [
+    34,
+    38
+   ],
+   "words": 1304,
+   "topics": [
+    "sanidad"
+   ],
+   "note": "Sanidad pública, financiación, personal sanitario y medicamentos."
+  },
+  {
+   "title": "7. A economía ao servizo das maiorías sociais: fiscalidade e crise industrial (La economía al servicio de las mayorías: fiscalidad y crisis industrial)",
+   "pages": [
+    39,
+    42
+   ],
+   "words": 1119,
+   "topics": [
+    "impuestos",
+    "empleo"
+   ],
+   "note": "Reforma fiscal progresiva, reindustrialización, naval y Alcoa."
+  },
+  {
+   "title": "7. A economía ao servizo das maiorías sociais: agro e pesca (La economía al servicio de las mayorías: agro y pesca)",
+   "pages": [
+    43,
+    44
+   ],
+   "words": 571,
+   "topics": [
+    "campo"
+   ],
+   "note": "Sector lácteo, agroganadería, sector pesquero y marisquero."
+  },
+  {
+   "title": "7. A economía ao servizo das maiorías sociais: ciencia, innovación e fondos europeos (Ciencia, innovación y fondos europeos)",
+   "pages": [
+    45,
+    47
+   ],
+   "words": 781,
+   "topics": [
+    "tecnologia",
+    "territorial"
+   ],
+   "note": "Inversión en ciencia, carrera investigadora y gestión gallega de fondos europeos."
+  },
+  {
+   "title": "8. Por unha transición enerxética xusta (Por una transición energética justa)",
+   "pages": [
+    48,
+    51
+   ],
+   "words": 1055,
+   "topics": [
+    "energia",
+    "clima"
+   ],
+   "note": "Transición justa, tarifa eléctrica propia, renovables y centrales térmicas."
+  },
+  {
+   "title": "9. Infraestruturas públicas e ordenación territorial (Infraestructuras públicas y ordenación territorial)",
+   "pages": [
+    52,
+    55
+   ],
+   "words": 1033,
+   "topics": [
+    "transporte",
+    "territorial"
+   ],
+   "note": "Ferrocarril, AP-9, puertos y ordenación del territorio gallego."
+  },
+  {
+   "title": "10. Pola protección do medio e pola biodiversidade (Por la protección del medio y la biodiversidad)",
+   "pages": [
+    56,
+    59
+   ],
+   "words": 1018,
+   "topics": [
+    "clima",
+    "campo"
+   ],
+   "note": "Protección ambiental, biodiversidad, rías, montes e incendios."
+  },
+  {
+   "title": "11. Lingua e cultura (Lengua y cultura)",
+   "pages": [
+    60,
+    61
+   ],
+   "words": 524,
+   "topics": [
+    "cultura",
+    "territorial"
+   ],
+   "note": "Oficialidad del gallego y apoyo a la cultura gallega."
+  },
+  {
+   "title": "12. Políticas para a mocidade (Políticas para la juventud)",
+   "pages": [
+    62,
+    64
+   ],
+   "words": 618,
+   "topics": [
+    "empleo",
+    "vivienda",
+    "social"
+   ],
+   "note": "Empleo, emancipación y vivienda para la juventud."
+  },
+  {
+   "title": "13. Galiza, na vangarda deportiva (Galicia, en la vanguardia deportiva)",
+   "pages": [
+    65,
+    65
+   ],
+   "words": 161,
+   "topics": [
+    "cultura"
+   ],
+   "note": "Deporte y selecciones deportivas gallegas."
+  },
+  {
+   "title": "14. Pola paz mundial e pola convivencia dos pobos e das nacións (Por la paz mundial y la convivencia de los pueblos y naciones)",
+   "pages": [
+    66,
+    68
+   ],
+   "words": 691,
+   "topics": [
+    "exteriores",
+    "defensa"
+   ],
+   "note": "Paz, OTAN, gasto militar, Palestina y Sáhara."
+  }
+ ]
+}

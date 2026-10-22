@@ -1,0 +1,45 @@
+{
+  "tema": "vivienda",
+  "enunciados": [
+    { "slug": "regular-alquiler", "texto": "Regular los precios y la duración de los contratos de alquiler" },
+    { "slug": "limitar-compra", "texto": "Limitar la compra de vivienda por fondos de inversión y no residentes" },
+    { "slug": "parque-publico", "texto": "Ampliar y proteger el parque público de vivienda" },
+    { "slug": "incentivos-oferta", "texto": "Dar incentivos fiscales y agilizar el urbanismo para construir más vivienda" },
+    { "slug": "ocupacion", "texto": "Endurecer la respuesta a la ocupación de viviendas" },
+    { "slug": "suspension-desahucios", "texto": "Prorrogar la suspensión de desahucios de hogares vulnerables" },
+    { "slug": "politica-gobierno", "texto": "Respaldar la política de vivienda del Gobierno" }
+  ],
+  "asignaciones": [
+    { "iniciativa": "130/000056", "enunciado": "regular-alquiler", "direccion": 1, "nota": "RDL 27/2026 que refuerza la estabilidad de los contratos de alquiler de vivienda habitual (alquiler indefinido): convalidarlo es apoyar la regulación" },
+    { "iniciativa": "130/000039", "enunciado": "regular-alquiler", "direccion": 1, "nota": "RDL 8/2026 que prorroga contratos y limita las subidas del alquiler: convalidarlo es apoyar la regulación" },
+    { "iniciativa": "122/000119", "enunciado": "regular-alquiler", "direccion": 1, "nota": "Toma en consideración de la ley de SUMAR que regula el alquiler de temporada y por habitaciones" },
+    { "iniciativa": "122/000136", "enunciado": "regular-alquiler", "direccion": 1, "nota": "Ley sobre alquiler de temporada y por habitaciones; Sí en la toma en consideración apoya regularlo", "revisar": true },
+    { "iniciativa": "162/000167", "enunciado": "regular-alquiler", "direccion": 1, "nota": "PNL de EH Bildu por puntos: emergencia habitacional y regulación del alquiler de temporada y por habitaciones", "revisar": true },
+    { "iniciativa": "162/000580", "enunciado": "regular-alquiler", "direccion": 1, "nota": "PNL de ERC por puntos: topes al alquiler, fiscalidad a multipropietarios y compra pública; Sí es apoyar más intervención", "revisar": true },
+    { "iniciativa": "173/000076", "enunciado": "regular-alquiler", "direccion": 1, "nota": "Moción de Podemos (Grupo Mixto) por puntos que pide bajar alquileres y prohibir pisos turísticos", "revisar": true },
+    { "iniciativa": "122/000251", "enunciado": "limitar-compra", "direccion": 1, "nota": "Ley de SUMAR que prohíbe a fondos y personas jurídicas comprar vivienda residencial" },
+    { "iniciativa": "votacion-180-5", "enunciado": "limitar-compra", "direccion": 1, "nota": "PNL de SUMAR para prohibir la compra especulativa de vivienda, votada con una transaccional de PSOE y SUMAR", "revisar": true },
+    { "iniciativa": "votacion-180-4", "enunciado": "parque-publico", "direccion": 1, "nota": "PNL del PSOE para mantener la vivienda protegida como pública y controlar su adjudicación" },
+    { "iniciativa": "122/000253", "enunciado": "incentivos-oferta", "direccion": 1, "nota": "Ley del PP que agiliza licencias y da seguridad jurídica al urbanismo para construir más" },
+    { "iniciativa": "122/000146", "enunciado": "incentivos-oferta", "direccion": 1, "nota": "Ley que permite usar la Reserva para Inversiones en Canarias (incentivo fiscal) en vivienda de alquiler", "revisar": true },
+    { "iniciativa": "122/000254", "enunciado": "ocupacion", "direccion": 1, "nota": "Ley orgánica del PP contra la ocupación que endurece penas y agiliza desalojos" },
+    { "iniciativa": "122/000150", "enunciado": "ocupacion", "direccion": 1, "nota": "Ley orgánica de Junts para recuperar con rapidez inmuebles ocupados" },
+    { "iniciativa": "173/000024", "enunciado": "ocupacion", "direccion": 1, "nota": "Moción del PP sobre inseguridad y ocupación en Cataluña; varios grupos la rechazaron también por competencias de los Mossos", "revisar": true },
+    { "iniciativa": "130/000004", "enunciado": "suspension-desahucios", "direccion": 1, "nota": "RDL 1/2024 que prorroga la suspensión de lanzamientos para hogares vulnerables; incluye la votación de tramitarlo como ley" },
+    { "iniciativa": "130/000055", "enunciado": "politica-gobierno", "direccion": 1, "nota": "RDL 26/2026 del Gobierno sobre la función social de la vivienda y la oferta asequible: convalidarlo es respaldar su política" },
+    { "iniciativa": "173/000186", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción del PP que critica la política de vivienda del Gobierno y propone la suya: Sí es estar en contra" },
+    { "iniciativa": "votacion-180-11", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción del PP sobre las políticas de vivienda del Gobierno (más oferta, menos trámites): Sí es estar en contra" },
+    { "iniciativa": "173/000150", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción del PP sobre el fracaso de la política de vivienda, con plan de construcción y rebajas fiscales: Sí es estar en contra" },
+    { "iniciativa": "172/000096", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción del PP sobre el fracaso de la política de vivienda, con avales y colaboración público-privada: Sí es estar en contra" },
+    { "iniciativa": "votacion-132-19", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción del PP sobre la emergencia de la vivienda y la falta de respuesta del Gobierno: Sí es estar en contra" },
+    { "iniciativa": "173/000120", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción de VOX sobre el acceso de los jóvenes a la vivienda, crítica con el Gobierno: Sí es estar en contra", "revisar": true },
+    { "iniciativa": "173/000077", "enunciado": "politica-gobierno", "direccion": -1, "nota": "Moción de VOX sobre el acceso a la vivienda, crítica con el Gobierno: Sí es estar en contra", "revisar": true }
+  ],
+  "sinEnunciado": [
+    { "iniciativa": "173/000105", "nota": "Moción de ERC votada de una vez que mezcla regulación del alquiler, fiscalidad sobre la especulación y otras medidas; no se puede atribuir a una sola" },
+    { "iniciativa": "173/000179", "nota": "Moción de VOX sobre prioridad de los españoles para comprar, alquilar o recibir vivienda social; no corresponde a ningún enunciado" },
+    { "iniciativa": "122/000124", "nota": "Cláusulas de préstamos hipotecarios; no corresponde a ningún enunciado y una de sus dos votaciones es de trámite (avocación)" },
+    { "iniciativa": "votacion-151-2", "nota": "Reforma de SUMAR de la Ley 12/2023 de noviembre de 2025; los datos no dicen qué cambiaba" },
+    { "iniciativa": "votacion-128-10", "nota": "Votación en bloque de enmiendas del Senado a la ley canaria, que incluían materias ajenas a la vivienda" }
+  ]
+}
