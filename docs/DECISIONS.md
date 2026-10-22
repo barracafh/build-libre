@@ -32,7 +32,7 @@ reglas obligatorias.
 
 ## 2026-10-22 19:37 +02:00 · Sin programas electorales; sí lo defendido en el pleno
 
-- **Estado:** vigente
+- **Estado:** sustituida por «Posturas por medida y promesas del programa de 2023»
 - **Contexto:** se quería enfrentar el programa de 2023 con los votos, pero `data/promesas/` solo
   trae 704 promesas de 4 partidos, sin fuente ni cruce con expedientes; `SETUP.md` los excluye.
 - **Decisión:** sin programas. Por tema, lo que cada grupo defendió en el pleno (`propuestas.json`
@@ -54,5 +54,20 @@ reglas obligatorias.
   prohibido); resumen por grupo con IA (no verificable).
 - **Riesgo abierto:** revisar que ninguna frase de plantilla califique («apoya», «rechaza») y
   decidir si el pie de `/comparar` necesita avisar de que no recomienda voto.
+
+## 2026-10-22 20:33 +02:00 · Posturas por medida y promesas del programa de 2023
+
+- **Estado:** vigente
+- **Contexto:** contar votos a favor o en contra no dice la postura: votar contra una ley de
+  ocupación y a favor de una de vivienda es la misma línea. Se quiere ver en minutos la postura.
+- **Decisión:** cada iniciativa se asigna a una medida del tema con la dirección del «sí»
+  (`src/datos/posturas/`); la postura de cada grupo sale de sus votos y se enfrenta, con etiqueta
+  por regla, a las promesas de 2023 extraídas de los PDF (`scripts/promesas.ts`, cita y página).
+- **Motivo:** es la única vista que resume sin perder la dirección; cada etiqueta lleva debajo
+  las votaciones enlazadas.
+- **Alternativas:** solo conteos por iniciativa (no resume la línea); resumen libre con IA (no
+  verificable).
+- **Riesgo abierto:** comparar con programas y etiquetar «cumple/contradice» choca con la regla 1
+  de AGENTS.md y el «fuera de alcance» de SETUP.md; el equipo asume el veto y decide qué se enseña.
 
 ## Pendiente
