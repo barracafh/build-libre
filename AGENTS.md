@@ -1,10 +1,13 @@
 # AGENTS.md
 
 This project is a consultative website for the Spanish general election of 29 November 2026. Its
-goal is to let anyone check, topic by topic and down to the official source, what each party voted
-in the Congreso during the XV legislature. It informs; it never tells anyone how to vote. It is
-being built for a hackathon competition, the Build night (BARRACA x SOTI, 22 October 2026, track
-`libre`), so it follows the organizer's rules.
+goal is to show, for a fixed list of predefined topics, the position of each party, backed by the
+facts that confirm it: the votes and sessions of the Congreso in the XV legislature, each linked to
+its official source. A visitor picks a topic, sees each party's position, and opens the votes and
+sessions behind it. The position is the list of the party's votes on that topic, with no summary
+label; any figure is a plain count. It informs; it never tells anyone how to vote. It is being
+built for a hackathon competition, the Build night (BARRACA x SOTI, 22 October 2026, track `libre`),
+so it follows the organizer's rules.
 
 Read these first:
 
@@ -54,6 +57,7 @@ This is a one-night hackathon project, not a production system: keep the process
   change. Say it in the chat before touching `package.json`, `bun.lock` or `ficha.json`.
 - Before every push to `main`: `bun install --frozen-lockfile`, `bun run lint`,
   `bun run typecheck`, `bun run test`, `bun run build`. If the build fails, nothing is published.
+- For GitHub, use push over HTTPS method.
 
 ## Project rules
 
