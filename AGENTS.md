@@ -18,6 +18,7 @@ Read these first:
 - [docs/DECISIONS.md](docs/DECISIONS.md): choices the team can revisit (mobile first, static
   export, stack, scope).
 - [DESIGN.md](DESIGN.md): visual and interaction rules.
+- [context/*](context/*): ignore files inside this folder.
 
 The rules below apply them here.
 

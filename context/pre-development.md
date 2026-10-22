@@ -103,29 +103,38 @@ Pendiente de confirmar:
 
 ## Funcionalidades del track
 
-Ocho funcionalidades al mismo nivel (la 8 se añade al final de la lista). La principal es la 1.
+Funcionalidad principal (núcleo, sobre la que se trabaja con más fuerza) y funcionalidades aparte. Las aparte solo se hacen si el núcleo está verificado. Estado: si hay tiempo → 2, 3, 4, 6 y 7. Fuera del hackatón → 5 y 8.
 
-### 1. Cuadrícula de posiciones por tema (PRINCIPAL)
+### 1. Cuadrícula tema × partido (PRINCIPAL)
 
-Funcionalidad principal. Vive en el apartado Temas, junto a las tarjetas de cada tema.
+- Filas: los 21 temas (campo `tm`): vivienda, sanidad, educación, pensiones, empleo, impuestos, energía, clima, campo, igualdad, inmigración, seguridad, justicia, defensa, política exterior, territorio, transporte, cultura, derechos sociales, tecnología, democracia.
+- Columnas: un partido por columna, en orden alfabético. Sin Grupo Mixto.
+- Celda: texto resumen de la posición del partido sobre ese tema. Lo genera una IA a partir de datos reales del Congreso (votaciones del tema y razones de voto). Se muestra etiquetado como generado y enlaza a las votaciones de origen.
+- Sin filtros previos: todos los temas y partidos visibles desde la entrada.
+- Móvil a 320 px sin scroll horizontal. Votos con icono y texto, nunca solo color.
 
-- Filas: temas.
-- Columnas: partidos o grupos, en orden alfabético.
-- Cada celda resume en texto cuál es la posición del partido sobre ese tema.
-- Fuentes de cada celda:
-  - Las votaciones del tema: la posición de cada partido es el sentido mayoritario de sus diputados (ver regla de posición más abajo).
-  - Las declaraciones en el Congreso de diputados de ese grupo sobre el tema.
-- Es la pieza central del servicio: responde a "qué ha hecho cada partido sobre lo que me importa".
+#### Vista de votaciones de la celda (sección 1)
 
-#### Vista de cruce (celda partido × tema)
+- Al pulsar una celda (partido × tema) se abre una vista con tantas cards como votaciones del tema haya en la XV.
+- Cada card muestra el nombre de la votación y, debajo, el sentido del voto mayoritario del partido en esa votación.
+- Cada card enlaza a la votación oficial en congreso.es.
 
-- Se abre al pulsar una celda de la cuadrícula.
-- Muestra todas las votaciones del tema en la legislatura XV (única legislatura incluida) y la posición del partido en cada una: a favor, en contra o abstención, con el porcentaje de mayoría.
-- Cada votación indica si es de Pleno o de Comisión.
-- Debajo: intervenciones de diputados del partido en las sesiones donde se votó alguna votación relevante del tema, con cita textual y resumen. Cada intervención enlaza a su sesión.
-- Si una votación no tiene intervenciones asociadas: "Sin intervenciones registradas". No se rellena.
-- Citas: selección por IA (decidido). Literal de la transcripción, verificado por coincidencia exacta. Nunca inventadas ni interpretadas.
-- Vínculo: intervención → sesión → votaciones de esa sesión. Las intervenciones están asociadas a sesión, no a votación. Relevancia: criterio de Temas de Reforma Digital (campo `tm`).
+#### Vista de citas (sección 2, debajo de las votaciones)
+
+- Cards con citas textuales de intervinientes del partido en las sesiones donde se produjeron las votaciones de la sección 1.
+- Cada cita representa una justificación del sentido del voto del partido del orador en esa votación.
+- Cada card muestra la cita, el orador, la fecha y un enlace a la sesión.
+- Si no hay intervenciones: «Sin intervenciones registradas».
+- Solo se muestran citas literales verificadas (regla 6 de `AGENTS.md`). Ver P3 en la sección de preguntas abiertas.
+
+#### Reglas de la funcionalidad principal
+
+- Posición del partido: sentido del voto mayoritario entre sus diputados que votan.
+- El texto de celda es neutral: sin calificativos («rebelde», «leal», «mejor», «peor») y sin juzgar el voto.
+
+### Funcionalidades aparte (fuera del núcleo)
+
+Descripciones originales, sin cambios. Solo se empiezan si el núcleo está verificado.
 
 ### 2. Tarjeta por tema (vistazo)
 
