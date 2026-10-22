@@ -2,8 +2,10 @@
 
 Qué construir para que una persona elija un tema (p. ej. Vivienda) y vea cómo votó cada grupo en
 el Pleno, con cada dato enlazado a su fuente oficial. Parte del borrador validado el 22 de octubre
-(enlace en «Referencia visual»). Contexto de datos y decisiones previas:
-[2026-10-22-1911-handoff-datos-tema.md](2026-10-22-1911-handoff-datos-tema.md).
+(enlace en «Referencia visual»). Decisiones previas en [DECISIONS.md](DECISIONS.md).
+
+> **Histórico.** Es la especificación inicial. Lo construido y vigente está en
+> [dani-vista-iniciativas.md](dani-vista-iniciativas.md).
 
 Reglas que mandan sobre esta especificación, en este orden: [COMPETITION.md](COMPETITION.md),
 [AGENTS.md](../AGENTS.md), [DESIGN.md](../DESIGN.md).
