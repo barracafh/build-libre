@@ -61,6 +61,51 @@ reglas obligatorias.
   recuentos usan solo campos oficiales. Detalle en `docs/2026-10-22-1921-spec-vista-tema.md`.
 - **Alternativas:** totales Sí/No por tema; mezclan propuestas de sentido opuesto.
 
+## 2026-10-22 20:02 +02:00 · Prioridad de los documentos
+
+- **Estado:** vigente
+- **Contexto:** `AGENTS.md` decía que las reglas del concurso ganan siempre; el equipo quiere que
+  manden sus propias reglas.
+- **Decisión:** ante un conflicto gana `AGENTS.md`, luego `COMPETITION.md` y `SETUP.md`, luego
+  `DESIGN.md` y estas decisiones.
+- **Riesgo abierto:** la organización sigue juzgando con `COMPETITION.md`; lo que nos apartemos de
+  él puede costar la candidatura.
+
+## 2026-10-22 20:02 +02:00 · Colores de partido en las visualizaciones
+
+- **Estado:** vigente
+- **Contexto:** `COMPETITION.md` prohíbe añadir colores y la organización no ha aprobado los de
+  partido.
+- **Decisión:** las visualizaciones usan el color de `partidos.json` para identificar al partido,
+  nunca el voto, con su nombre al lado y un borde de 1 px; reglas en `DESIGN.md`.
+- **Riesgo abierto:** va contra una regla del concurso; conviene avisar a la organización antes de
+  la demo.
+
+## 2026-10-22 20:02 +02:00 · Estructura común del frontend
+
+- **Estado:** vigente
+- **Contexto:** varias personas hacen vistas distintas que tienen que verse como una sola web.
+- **Decisión:** un shell con menú desde `src/config/vistas.ts`, una ruta por vista, componentes
+  compartidos en `src/components/`, datos solo por `src/lib/datos.ts` y sin librería de gráficos.
+- **Motivo:** cada persona integra su vista sin tocar lo común; detalle en «Frontend structure» de
+  `AGENTS.md`.
+
+## 2026-10-22 20:02 +02:00 · Flujo de ramas sin roles
+
+- **Estado:** vigente
+- **Contexto:** sin roles, cada persona lleva su vista; hay que evitar que una rama rompa lo común.
+- **Decisión:** lo de una vista entra en `dev` cuando está hecha; lo compartido, por PR revisada
+  por otra persona; cualquiera pasa `dev` a `main` tras avisar y pasar los checks.
+- **Alternativas:** trabajar todos sobre `main`, como sugiere `COMPETITION.md`; cada push publica.
+
+## 2026-10-22 20:02 +02:00 · Idioma del código
+
+- **Estado:** vigente
+- **Contexto:** el código mezclaba nombres en español e inglés.
+- **Decisión:** rutas, textos, identificadores y ficheros del dominio en español; comentarios,
+  tests, commits y PR en inglés; sin capa de i18n.
+- **Motivo:** el código y la pantalla usan las mismas palabras (`votacion`, no `vote`).
+
 ## Pendiente
 
 - Origen de los ficheros copiados a mano de upstream `data/` (commit `39a7426`): `data:fetch` borra

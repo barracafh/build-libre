@@ -1,15 +1,22 @@
 # AGENTS.md
 
 This project is a consultative website for the Spanish general election of 29 November 2026. Its
-goal is to let anyone check, topic by topic and down to the official source, what each party voted
-in the Congreso during the XV legislature. It informs; it never tells anyone how to vote. It is
-being built for a hackathon competition, the Build night (BARRACA x SOTI, 22 October 2026, track
-`libre`), so it follows the organizer's rules.
+goal is to show, for a fixed list of predefined topics, the position of each party, backed by the
+facts that confirm it: the votes and sessions of the Congreso in the XV legislature, each linked to
+its official source. A visitor picks a topic, sees each party's position, and opens the votes and
+sessions behind it. The position is the list of the party's votes on that topic, with no summary
+label; any figure is a plain count. It informs; it never tells anyone how to vote. It is being
+built for a hackathon competition, the Build night (BARRACA x SOTI, 22 October 2026, track `libre`),
+so it follows the organizer's rules.
+
+On any conflict this file wins, then `docs/COMPETITION.md` and `SETUP.md`, then `DESIGN.md` and
+`docs/DECISIONS.md`. Where this file departs from the organizer's rules (party colours), the
+organizers still judge the entry against theirs: the risk is recorded in `docs/DECISIONS.md`.
 
 Read these first:
 
 - [docs/COMPETITION.md](docs/COMPETITION.md): the competition's mandatory rules (the `build-libre`
-  template's `AGENTS.md`, verbatim). They win on any conflict.
+  template's `AGENTS.md`, verbatim).
 - [SETUP.md](SETUP.md): the track's brief: challenge, expected demo and out-of-scope list. Also
   mandatory.
 - [docs/DECISIONS.md](docs/DECISIONS.md): choices the team can revisit (mobile first, static
@@ -44,16 +51,51 @@ SETUP.md, comun/, datos/, .buildnight/   organizer material, do not edit
 
 This is a one-night hackathon project, not a production system: keep the process light.
 
-- Work on your own branch from `dev` (`<name>/<task>`) and merge into `dev` when it builds. No PR
-  or announcement needed; `git pull --rebase origin dev` before merging.
-- `dev` goes into `main` when there is something worth showing. Every push to `main` is published
-  and branches get no preview, so run the checks below first.
+- Each person owns a view; there are no other roles. Work on your own branch from `dev`
+  (`<name>/<view>`); `git pull --rebase origin dev` before merging.
+- Changes only inside your view's folders (`src/app/<view>/`, `src/components/<view>/`) and its
+  line in `src/config/vistas.ts` merge into `dev` once the view is done (below). No PR needed.
+- Shared code (the shell, `src/components/` outside a view folder, `src/lib/`, `data/`, `scripts/`,
+  this file, `DESIGN.md`) goes through a PR into `dev` that someone else reviews. Say it in the chat.
+- Anyone can take `dev` into `main` when there is something worth showing: say it in the chat
+  first and run the checks below. Every push to `main` is published.
 - Commit small and often, Conventional Commits in English (`feat:`, `fix:`, `docs:`). No
   `push --force` on `dev` or `main`.
 - Resolve conflicts on your branch, keeping both sides' work. If unsure, ask who wrote the other
   change. Say it in the chat before touching `package.json`, `bun.lock` or `ficha.json`.
-- Before every push to `main`: `bun install --frozen-lockfile`, `bun run lint`,
-  `bun run typecheck`, `bun run test`, `bun run build`. If the build fails, nothing is published.
+- Before every push to `main`: `bun install --frozen-lockfile`, `bun run lint` (once the script
+  exists), `bun run typecheck`, `bun run test`, `bun run build`. If the build fails, nothing is
+  published. If new Tailwind classes are missing from a build, delete `.next/cache` and rebuild.
+- For GitHub, push over HTTPS.
+
+### Frontend structure
+
+One app, one shell, one route per view. Stack fixed by the contest: Next.js (App Router), React,
+TypeScript, Tailwind with Sol, shadcn/ui on Base UI, Bun.
+
+- **Shell** (`src/app/layout.tsx`): notice, top bar, footer with «Avísanos» and credits. The menu
+  and the home cards come from `src/config/vistas.ts`; a new view adds one line there.
+- **Views:** `src/app/<view>/` and `src/components/<view>/`. `/tema/[slug]/` is the example.
+- **Shared components** in `src/components/` (kebab-case files): `vote-mark`, `scroll-table`,
+  `partido`, `card-link`, `fuentes`, `boton-aviso`. A piece moves here only when a second view
+  needs it.
+- **Data** only through `src/lib/datos.ts`, read at build time in Server Components; client
+  components get plain props. Heavy derivations go to a generated, committed file with a test
+  (as `data/temas.json` from `scripts/temas.ts`).
+- **Charts:** no chart library; SVG and CSS by hand, with the vote marks of `DESIGN.md`.
+- **Language:** Spanish for routes, UI text, identifiers and file names of the domain; English for
+  comments, tests, commits and PRs. No i18n layer.
+
+### Definition of done for a view
+
+1. `bun run typecheck`, `bun run test` and `bun run build` pass.
+2. Checked at 360 px and 1440 px; no horizontal page scroll at 320 px (wide tables and charts
+   scroll in their own box).
+3. Keyboard, visible focus, 44 px targets, AA contrast, a text or table alternative for each chart.
+4. The page keeps the notice, «Avísanos» and `<Fuentes />` with the page that backs each figure.
+5. Neutrality rules below hold; AI text is labelled as generated.
+6. Data comes from `src/lib/datos.ts`; a new function there has a test.
+7. Follows `DESIGN.md`.
 
 ## Project rules
 
