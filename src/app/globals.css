@@ -42,6 +42,13 @@
   }
 }
 
+/* Sol's --input and --ring are below 3:1 on white: controls and focus use darker greys of Sol
+   (DESIGN.md · Colour). */
+@theme inline {
+  --color-input: var(--muted-foreground);
+  --color-ring: var(--foreground);
+}
+
 /* Vote tones (DESIGN.md · Vote tones and marks): Sol's neutral greys, never a hue. */
 :root {
   --vote-yes: var(--foreground);
