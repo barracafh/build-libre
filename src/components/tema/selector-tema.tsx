@@ -13,7 +13,7 @@ export function SelectorTema({ actual, temas }: Props) {
       <select
         value={actual}
         onChange={(e) => router.push(`/iniciativas/${e.target.value}`)}
-        className="min-h-11 rounded-xl border bg-card px-4 text-base font-normal focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none"
+        className="min-h-11 rounded-xl border bg-card px-4 text-base font-normal"
       >
         {temas.map((t) => (
           <option key={t.slug} value={t.slug}>

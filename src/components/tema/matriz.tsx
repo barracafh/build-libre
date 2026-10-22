@@ -44,7 +44,7 @@ export function Matriz({ iniciativas, partidos, abiertas, alternar }: Props) {
                       type="button"
                       aria-expanded={abierta}
                       onClick={() => alternar(i.clave)}
-                      className="line-clamp-3 text-left font-semibold underline-offset-2 hover:underline focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none"
+                      className="line-clamp-3 min-h-11 text-left font-semibold underline-offset-2 hover:underline"
                     >
                       <span aria-hidden="true" className="mr-1 font-normal text-muted-foreground">
                         {abierta ? "▾" : "▸"}
@@ -192,7 +192,7 @@ function Detalle({ iniciativa: i, partidos }: { iniciativa: Iniciativa; partidos
           </ul>
         </details>
       )}
-      <h3 className="text-[17px] font-semibold">Motivos de cada grupo</h3>
+      <h3 className="text-h3">Motivos de cada grupo</h3>
       <ul className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
         {partidos.map((p) => {
           const conMotivo = i.votaciones.filter((v) => v.motivos[p.codigo]);

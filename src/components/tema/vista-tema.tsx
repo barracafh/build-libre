@@ -49,13 +49,13 @@ export function VistaTema({ iniciativas, partidos }: { iniciativas: Iniciativa[]
         {(["S", "N", "A", "D", "X", "0"] as Marca[]).map((m) => (
           <li key={m} className="inline-flex items-center gap-1.5">
             <VoteMark voto={m} />
-            {m === "D" ? "Grupo dividido" : ETIQUETA[m]}
+            {ETIQUETA[m]}
           </li>
         ))}
       </ul>
 
       <section id="matriz" aria-labelledby="h-matriz" className="flex scroll-mt-4 flex-col gap-3">
-        <h2 id="h-matriz" tabIndex={-1} className="text-xl lg:text-2xl">
+        <h2 id="h-matriz" tabIndex={-1} className="text-h2">
           Cómo votó cada grupo en cada iniciativa
         </h2>
         <p className="max-w-[72ch] text-(--text-secondary)">
@@ -78,7 +78,7 @@ export function VistaTema({ iniciativas, partidos }: { iniciativas: Iniciativa[]
                   document.getElementById("h-matriz")?.focus();
                   setFiltro(null);
                 }}
-                className="min-h-11 rounded-full border border-(--muted-foreground) bg-background px-4 focus-visible:ring-3 focus-visible:ring-ring/50 focus-visible:outline-none"
+                className="min-h-11 rounded-full border border-(--muted-foreground) bg-background px-4"
               >
                 Quitar filtro ×
               </button>
@@ -89,7 +89,7 @@ export function VistaTema({ iniciativas, partidos }: { iniciativas: Iniciativa[]
       </section>
 
       <section aria-labelledby="h-ficha" className="flex flex-col gap-3">
-        <h2 id="h-ficha" className="text-xl lg:text-2xl">
+        <h2 id="h-ficha" className="text-h2">
           Los votos de un grupo, contados
         </h2>
         <FichaGrupo
@@ -103,12 +103,13 @@ export function VistaTema({ iniciativas, partidos }: { iniciativas: Iniciativa[]
       </section>
 
       <section aria-labelledby="h-tiras" className="flex flex-col gap-3">
-        <h2 id="h-tiras" className="text-xl lg:text-2xl">
+        <h2 id="h-tiras" className="text-h2">
           Todas las votaciones, en orden
         </h2>
         <p className="max-w-[72ch] text-(--text-secondary)">
           Una marca por votación, por orden de fecha; los días con muchas votaciones ocupan más. Pasa por
-          encima para ver cuál es y pulsa para abrirla en la tabla.
+          encima para ver cuál es y pulsa para abrirla en la tabla. Si no cabe, el gráfico se desplaza en
+          horizontal.
         </p>
         <Tiras iniciativas={iniciativas} partidos={partidos} abrir={abrir} />
       </section>

@@ -7,7 +7,7 @@ export function ScrollTable({ label, children }: { label: string; children: Reac
       role="region"
       aria-label={label}
       tabIndex={0}
-      className="overflow-x-auto rounded-lg border bg-card outline-none focus-visible:ring-3 focus-visible:ring-ring/50"
+      className="overflow-x-auto rounded-lg border bg-card"
     >
       {children}
     </div>

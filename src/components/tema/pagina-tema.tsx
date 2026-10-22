@@ -20,7 +20,7 @@ export function PaginaTema({ slug }: { slug: string }) {
         <p className="font-mono text-xs tracking-[0.06em] text-muted-foreground uppercase">
           Tema · Pleno del Congreso · XV legislatura
         </p>
-        <h1 className="text-[28px] leading-tight lg:text-4xl">{tema.nombre}</h1>
+        <h1 className="text-h1">{tema.nombre}</h1>
         <p className="max-w-[72ch] text-(--text-secondary)">
           {tema.recuento.iniciativas} iniciativas y {tema.recuento.votaciones} votaciones
           {fechas.length > 0 && `, del ${fecha(fechas[0])} al ${fecha(fechas.at(-1)!)}`}.
