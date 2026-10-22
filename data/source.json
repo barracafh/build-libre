@@ -1,0 +1,805 @@
+{
+  "name": "Escaño Abierto",
+  "repository": "https://github.com/jorgegarcelan/escano-abierto",
+  "commit": "365e56d6de9f4ad5da9c9a022f4c7ccf6c07a031",
+  "fetched": "2026-10-19",
+  "license": {
+    "code": "MIT",
+    "data": "CC BY 4.0"
+  },
+  "months": {
+    "first": "2023-08",
+    "last": "2026-10",
+    "missing": [
+      "2023-10"
+    ]
+  },
+  "files": [
+    {
+      "path": "data/votaciones/2023-08.json",
+      "upstream": "site/datos/2023-08.json",
+      "records": 0
+    },
+    {
+      "path": "data/sesiones/2023-08.json",
+      "upstream": "site/datos/2023-08.json",
+      "records": 1
+    },
+    {
+      "path": "data/intervenciones/2023-08.json",
+      "upstream": "site/datos/2023-08.json",
+      "records": 15
+    },
+    {
+      "path": "data/items/2023-08.json",
+      "upstream": "site/datos/2023-08.json",
+      "records": 5
+    },
+    {
+      "path": "data/votaciones/2023-09.json",
+      "upstream": "site/datos/2023-09.json",
+      "records": 8
+    },
+    {
+      "path": "data/sesiones/2023-09.json",
+      "upstream": "site/datos/2023-09.json",
+      "records": 5
+    },
+    {
+      "path": "data/intervenciones/2023-09.json",
+      "upstream": "site/datos/2023-09.json",
+      "records": 103
+    },
+    {
+      "path": "data/items/2023-09.json",
+      "upstream": "site/datos/2023-09.json",
+      "records": 5
+    },
+    {
+      "path": "data/votaciones/2023-11.json",
+      "upstream": "site/datos/2023-11.json",
+      "records": 6
+    },
+    {
+      "path": "data/sesiones/2023-11.json",
+      "upstream": "site/datos/2023-11.json",
+      "records": 5
+    },
+    {
+      "path": "data/intervenciones/2023-11.json",
+      "upstream": "site/datos/2023-11.json",
+      "records": 70
+    },
+    {
+      "path": "data/items/2023-11.json",
+      "upstream": "site/datos/2023-11.json",
+      "records": 6
+    },
+    {
+      "path": "data/votaciones/2023-12.json",
+      "upstream": "site/datos/2023-12.json",
+      "records": 22
+    },
+    {
+      "path": "data/sesiones/2023-12.json",
+      "upstream": "site/datos/2023-12.json",
+      "records": 35
+    },
+    {
+      "path": "data/intervenciones/2023-12.json",
+      "upstream": "site/datos/2023-12.json",
+      "records": 569
+    },
+    {
+      "path": "data/items/2023-12.json",
+      "upstream": "site/datos/2023-12.json",
+      "records": 53
+    },
+    {
+      "path": "data/votaciones/2024-01.json",
+      "upstream": "site/datos/2024-01.json",
+      "records": 22
+    },
+    {
+      "path": "data/sesiones/2024-01.json",
+      "upstream": "site/datos/2024-01.json",
+      "records": 26
+    },
+    {
+      "path": "data/intervenciones/2024-01.json",
+      "upstream": "site/datos/2024-01.json",
+      "records": 682
+    },
+    {
+      "path": "data/items/2024-01.json",
+      "upstream": "site/datos/2024-01.json",
+      "records": 23
+    },
+    {
+      "path": "data/votaciones/2024-02.json",
+      "upstream": "site/datos/2024-02.json",
+      "records": 48
+    },
+    {
+      "path": "data/sesiones/2024-02.json",
+      "upstream": "site/datos/2024-02.json",
+      "records": 21
+    },
+    {
+      "path": "data/intervenciones/2024-02.json",
+      "upstream": "site/datos/2024-02.json",
+      "records": 728
+    },
+    {
+      "path": "data/items/2024-02.json",
+      "upstream": "site/datos/2024-02.json",
+      "records": 116
+    },
+    {
+      "path": "data/votaciones/2024-03.json",
+      "upstream": "site/datos/2024-03.json",
+      "records": 76
+    },
+    {
+      "path": "data/sesiones/2024-03.json",
+      "upstream": "site/datos/2024-03.json",
+      "records": 28
+    },
+    {
+      "path": "data/intervenciones/2024-03.json",
+      "upstream": "site/datos/2024-03.json",
+      "records": 848
+    },
+    {
+      "path": "data/items/2024-03.json",
+      "upstream": "site/datos/2024-03.json",
+      "records": 122
+    },
+    {
+      "path": "data/votaciones/2024-04.json",
+      "upstream": "site/datos/2024-04.json",
+      "records": 57
+    },
+    {
+      "path": "data/sesiones/2024-04.json",
+      "upstream": "site/datos/2024-04.json",
+      "records": 19
+    },
+    {
+      "path": "data/intervenciones/2024-04.json",
+      "upstream": "site/datos/2024-04.json",
+      "records": 699
+    },
+    {
+      "path": "data/items/2024-04.json",
+      "upstream": "site/datos/2024-04.json",
+      "records": 111
+    },
+    {
+      "path": "data/votaciones/2024-05.json",
+      "upstream": "site/datos/2024-05.json",
+      "records": 102
+    },
+    {
+      "path": "data/sesiones/2024-05.json",
+      "upstream": "site/datos/2024-05.json",
+      "records": 23
+    },
+    {
+      "path": "data/intervenciones/2024-05.json",
+      "upstream": "site/datos/2024-05.json",
+      "records": 847
+    },
+    {
+      "path": "data/items/2024-05.json",
+      "upstream": "site/datos/2024-05.json",
+      "records": 151
+    },
+    {
+      "path": "data/votaciones/2024-06.json",
+      "upstream": "site/datos/2024-06.json",
+      "records": 102
+    },
+    {
+      "path": "data/sesiones/2024-06.json",
+      "upstream": "site/datos/2024-06.json",
+      "records": 38
+    },
+    {
+      "path": "data/intervenciones/2024-06.json",
+      "upstream": "site/datos/2024-06.json",
+      "records": 1265
+    },
+    {
+      "path": "data/items/2024-06.json",
+      "upstream": "site/datos/2024-06.json",
+      "records": 204
+    },
+    {
+      "path": "data/votaciones/2024-07.json",
+      "upstream": "site/datos/2024-07.json",
+      "records": 91
+    },
+    {
+      "path": "data/sesiones/2024-07.json",
+      "upstream": "site/datos/2024-07.json",
+      "records": 7
+    },
+    {
+      "path": "data/intervenciones/2024-07.json",
+      "upstream": "site/datos/2024-07.json",
+      "records": 254
+    },
+    {
+      "path": "data/items/2024-07.json",
+      "upstream": "site/datos/2024-07.json",
+      "records": 16
+    },
+    {
+      "path": "data/votaciones/2024-08.json",
+      "upstream": "site/datos/2024-08.json",
+      "records": 0
+    },
+    {
+      "path": "data/sesiones/2024-08.json",
+      "upstream": "site/datos/2024-08.json",
+      "records": 2
+    },
+    {
+      "path": "data/intervenciones/2024-08.json",
+      "upstream": "site/datos/2024-08.json",
+      "records": 77
+    },
+    {
+      "path": "data/items/2024-08.json",
+      "upstream": "site/datos/2024-08.json",
+      "records": 6
+    },
+    {
+      "path": "data/votaciones/2024-09.json",
+      "upstream": "site/datos/2024-09.json",
+      "records": 35
+    },
+    {
+      "path": "data/sesiones/2024-09.json",
+      "upstream": "site/datos/2024-09.json",
+      "records": 26
+    },
+    {
+      "path": "data/intervenciones/2024-09.json",
+      "upstream": "site/datos/2024-09.json",
+      "records": 941
+    },
+    {
+      "path": "data/items/2024-09.json",
+      "upstream": "site/datos/2024-09.json",
+      "records": 146
+    },
+    {
+      "path": "data/votaciones/2024-10.json",
+      "upstream": "site/datos/2024-10.json",
+      "records": 77
+    },
+    {
+      "path": "data/sesiones/2024-10.json",
+      "upstream": "site/datos/2024-10.json",
+      "records": 41
+    },
+    {
+      "path": "data/intervenciones/2024-10.json",
+      "upstream": "site/datos/2024-10.json",
+      "records": 1294
+    },
+    {
+      "path": "data/items/2024-10.json",
+      "upstream": "site/datos/2024-10.json",
+      "records": 184
+    },
+    {
+      "path": "data/votaciones/2024-11.json",
+      "upstream": "site/datos/2024-11.json",
+      "records": 131
+    },
+    {
+      "path": "data/sesiones/2024-11.json",
+      "upstream": "site/datos/2024-11.json",
+      "records": 33
+    },
+    {
+      "path": "data/intervenciones/2024-11.json",
+      "upstream": "site/datos/2024-11.json",
+      "records": 1125
+    },
+    {
+      "path": "data/items/2024-11.json",
+      "upstream": "site/datos/2024-11.json",
+      "records": 138
+    },
+    {
+      "path": "data/votaciones/2024-12.json",
+      "upstream": "site/datos/2024-12.json",
+      "records": 125
+    },
+    {
+      "path": "data/sesiones/2024-12.json",
+      "upstream": "site/datos/2024-12.json",
+      "records": 34
+    },
+    {
+      "path": "data/intervenciones/2024-12.json",
+      "upstream": "site/datos/2024-12.json",
+      "records": 1213
+    },
+    {
+      "path": "data/items/2024-12.json",
+      "upstream": "site/datos/2024-12.json",
+      "records": 233
+    },
+    {
+      "path": "data/votaciones/2025-01.json",
+      "upstream": "site/datos/2025-01.json",
+      "records": 5
+    },
+    {
+      "path": "data/sesiones/2025-01.json",
+      "upstream": "site/datos/2025-01.json",
+      "records": 2
+    },
+    {
+      "path": "data/intervenciones/2025-01.json",
+      "upstream": "site/datos/2025-01.json",
+      "records": 71
+    },
+    {
+      "path": "data/items/2025-01.json",
+      "upstream": "site/datos/2025-01.json",
+      "records": 7
+    },
+    {
+      "path": "data/votaciones/2025-02.json",
+      "upstream": "site/datos/2025-02.json",
+      "records": 61
+    },
+    {
+      "path": "data/sesiones/2025-02.json",
+      "upstream": "site/datos/2025-02.json",
+      "records": 28
+    },
+    {
+      "path": "data/intervenciones/2025-02.json",
+      "upstream": "site/datos/2025-02.json",
+      "records": 1106
+    },
+    {
+      "path": "data/items/2025-02.json",
+      "upstream": "site/datos/2025-02.json",
+      "records": 170
+    },
+    {
+      "path": "data/votaciones/2025-03.json",
+      "upstream": "site/datos/2025-03.json",
+      "records": 106
+    },
+    {
+      "path": "data/sesiones/2025-03.json",
+      "upstream": "site/datos/2025-03.json",
+      "records": 30
+    },
+    {
+      "path": "data/intervenciones/2025-03.json",
+      "upstream": "site/datos/2025-03.json",
+      "records": 1143
+    },
+    {
+      "path": "data/items/2025-03.json",
+      "upstream": "site/datos/2025-03.json",
+      "records": 183
+    },
+    {
+      "path": "data/votaciones/2025-04.json",
+      "upstream": "site/datos/2025-04.json",
+      "records": 24
+    },
+    {
+      "path": "data/sesiones/2025-04.json",
+      "upstream": "site/datos/2025-04.json",
+      "records": 12
+    },
+    {
+      "path": "data/intervenciones/2025-04.json",
+      "upstream": "site/datos/2025-04.json",
+      "records": 384
+    },
+    {
+      "path": "data/items/2025-04.json",
+      "upstream": "site/datos/2025-04.json",
+      "records": 41
+    },
+    {
+      "path": "data/votaciones/2025-05.json",
+      "upstream": "site/datos/2025-05.json",
+      "records": 54
+    },
+    {
+      "path": "data/sesiones/2025-05.json",
+      "upstream": "site/datos/2025-05.json",
+      "records": 45
+    },
+    {
+      "path": "data/intervenciones/2025-05.json",
+      "upstream": "site/datos/2025-05.json",
+      "records": 1613
+    },
+    {
+      "path": "data/items/2025-05.json",
+      "upstream": "site/datos/2025-05.json",
+      "records": 270
+    },
+    {
+      "path": "data/votaciones/2025-06.json",
+      "upstream": "site/datos/2025-06.json",
+      "records": 54
+    },
+    {
+      "path": "data/sesiones/2025-06.json",
+      "upstream": "site/datos/2025-06.json",
+      "records": 42
+    },
+    {
+      "path": "data/intervenciones/2025-06.json",
+      "upstream": "site/datos/2025-06.json",
+      "records": 1279
+    },
+    {
+      "path": "data/items/2025-06.json",
+      "upstream": "site/datos/2025-06.json",
+      "records": 194
+    },
+    {
+      "path": "data/votaciones/2025-07.json",
+      "upstream": "site/datos/2025-07.json",
+      "records": 21
+    },
+    {
+      "path": "data/sesiones/2025-07.json",
+      "upstream": "site/datos/2025-07.json",
+      "records": 7
+    },
+    {
+      "path": "data/intervenciones/2025-07.json",
+      "upstream": "site/datos/2025-07.json",
+      "records": 247
+    },
+    {
+      "path": "data/items/2025-07.json",
+      "upstream": "site/datos/2025-07.json",
+      "records": 19
+    },
+    {
+      "path": "data/votaciones/2025-08.json",
+      "upstream": "site/datos/2025-08.json",
+      "records": 0
+    },
+    {
+      "path": "data/sesiones/2025-08.json",
+      "upstream": "site/datos/2025-08.json",
+      "records": 1
+    },
+    {
+      "path": "data/intervenciones/2025-08.json",
+      "upstream": "site/datos/2025-08.json",
+      "records": 52
+    },
+    {
+      "path": "data/items/2025-08.json",
+      "upstream": "site/datos/2025-08.json",
+      "records": 6
+    },
+    {
+      "path": "data/votaciones/2025-09.json",
+      "upstream": "site/datos/2025-09.json",
+      "records": 56
+    },
+    {
+      "path": "data/sesiones/2025-09.json",
+      "upstream": "site/datos/2025-09.json",
+      "records": 26
+    },
+    {
+      "path": "data/intervenciones/2025-09.json",
+      "upstream": "site/datos/2025-09.json",
+      "records": 878
+    },
+    {
+      "path": "data/items/2025-09.json",
+      "upstream": "site/datos/2025-09.json",
+      "records": 112
+    },
+    {
+      "path": "data/votaciones/2025-10.json",
+      "upstream": "site/datos/2025-10.json",
+      "records": 182
+    },
+    {
+      "path": "data/sesiones/2025-10.json",
+      "upstream": "site/datos/2025-10.json",
+      "records": 39
+    },
+    {
+      "path": "data/intervenciones/2025-10.json",
+      "upstream": "site/datos/2025-10.json",
+      "records": 1601
+    },
+    {
+      "path": "data/items/2025-10.json",
+      "upstream": "site/datos/2025-10.json",
+      "records": 271
+    },
+    {
+      "path": "data/votaciones/2025-11.json",
+      "upstream": "site/datos/2025-11.json",
+      "records": 144
+    },
+    {
+      "path": "data/sesiones/2025-11.json",
+      "upstream": "site/datos/2025-11.json",
+      "records": 40
+    },
+    {
+      "path": "data/intervenciones/2025-11.json",
+      "upstream": "site/datos/2025-11.json",
+      "records": 1393
+    },
+    {
+      "path": "data/items/2025-11.json",
+      "upstream": "site/datos/2025-11.json",
+      "records": 238
+    },
+    {
+      "path": "data/votaciones/2025-12.json",
+      "upstream": "site/datos/2025-12.json",
+      "records": 34
+    },
+    {
+      "path": "data/sesiones/2025-12.json",
+      "upstream": "site/datos/2025-12.json",
+      "records": 18
+    },
+    {
+      "path": "data/intervenciones/2025-12.json",
+      "upstream": "site/datos/2025-12.json",
+      "records": 619
+    },
+    {
+      "path": "data/items/2025-12.json",
+      "upstream": "site/datos/2025-12.json",
+      "records": 91
+    },
+    {
+      "path": "data/votaciones/2026-01.json",
+      "upstream": "site/datos/2026-01.json",
+      "records": 3
+    },
+    {
+      "path": "data/sesiones/2026-01.json",
+      "upstream": "site/datos/2026-01.json",
+      "records": 3
+    },
+    {
+      "path": "data/intervenciones/2026-01.json",
+      "upstream": "site/datos/2026-01.json",
+      "records": 66
+    },
+    {
+      "path": "data/items/2026-01.json",
+      "upstream": "site/datos/2026-01.json",
+      "records": 4
+    },
+    {
+      "path": "data/votaciones/2026-02.json",
+      "upstream": "site/datos/2026-02.json",
+      "records": 70
+    },
+    {
+      "path": "data/sesiones/2026-02.json",
+      "upstream": "site/datos/2026-02.json",
+      "records": 27
+    },
+    {
+      "path": "data/intervenciones/2026-02.json",
+      "upstream": "site/datos/2026-02.json",
+      "records": 1006
+    },
+    {
+      "path": "data/items/2026-02.json",
+      "upstream": "site/datos/2026-02.json",
+      "records": 161
+    },
+    {
+      "path": "data/votaciones/2026-03.json",
+      "upstream": "site/datos/2026-03.json",
+      "records": 81
+    },
+    {
+      "path": "data/sesiones/2026-03.json",
+      "upstream": "site/datos/2026-03.json",
+      "records": 30
+    },
+    {
+      "path": "data/intervenciones/2026-03.json",
+      "upstream": "site/datos/2026-03.json",
+      "records": 975
+    },
+    {
+      "path": "data/items/2026-03.json",
+      "upstream": "site/datos/2026-03.json",
+      "records": 149
+    },
+    {
+      "path": "data/votaciones/2026-04.json",
+      "upstream": "site/datos/2026-04.json",
+      "records": 54
+    },
+    {
+      "path": "data/sesiones/2026-04.json",
+      "upstream": "site/datos/2026-04.json",
+      "records": 32
+    },
+    {
+      "path": "data/intervenciones/2026-04.json",
+      "upstream": "site/datos/2026-04.json",
+      "records": 1150
+    },
+    {
+      "path": "data/items/2026-04.json",
+      "upstream": "site/datos/2026-04.json",
+      "records": 180
+    },
+    {
+      "path": "data/votaciones/2026-05.json",
+      "upstream": "site/datos/2026-05.json",
+      "records": 34
+    },
+    {
+      "path": "data/sesiones/2026-05.json",
+      "upstream": "site/datos/2026-05.json",
+      "records": 26
+    },
+    {
+      "path": "data/intervenciones/2026-05.json",
+      "upstream": "site/datos/2026-05.json",
+      "records": 861
+    },
+    {
+      "path": "data/items/2026-05.json",
+      "upstream": "site/datos/2026-05.json",
+      "records": 137
+    },
+    {
+      "path": "data/votaciones/2026-06.json",
+      "upstream": "site/datos/2026-06.json",
+      "records": 103
+    },
+    {
+      "path": "data/sesiones/2026-06.json",
+      "upstream": "site/datos/2026-06.json",
+      "records": 34
+    },
+    {
+      "path": "data/intervenciones/2026-06.json",
+      "upstream": "site/datos/2026-06.json",
+      "records": 1238
+    },
+    {
+      "path": "data/items/2026-06.json",
+      "upstream": "site/datos/2026-06.json",
+      "records": 185
+    },
+    {
+      "path": "data/votaciones/2026-07.json",
+      "upstream": "site/datos/2026-07.json",
+      "records": 76
+    },
+    {
+      "path": "data/sesiones/2026-07.json",
+      "upstream": "site/datos/2026-07.json",
+      "records": 8
+    },
+    {
+      "path": "data/intervenciones/2026-07.json",
+      "upstream": "site/datos/2026-07.json",
+      "records": 254
+    },
+    {
+      "path": "data/items/2026-07.json",
+      "upstream": "site/datos/2026-07.json",
+      "records": 16
+    },
+    {
+      "path": "data/votaciones/2026-08.json",
+      "upstream": "site/datos/2026-08.json",
+      "records": 0
+    },
+    {
+      "path": "data/sesiones/2026-08.json",
+      "upstream": "site/datos/2026-08.json",
+      "records": 8
+    },
+    {
+      "path": "data/intervenciones/2026-08.json",
+      "upstream": "site/datos/2026-08.json",
+      "records": 194
+    },
+    {
+      "path": "data/items/2026-08.json",
+      "upstream": "site/datos/2026-08.json",
+      "records": 8
+    },
+    {
+      "path": "data/votaciones/2026-09.json",
+      "upstream": "site/datos/2026-09.json",
+      "records": 119
+    },
+    {
+      "path": "data/sesiones/2026-09.json",
+      "upstream": "site/datos/2026-09.json",
+      "records": 29
+    },
+    {
+      "path": "data/intervenciones/2026-09.json",
+      "upstream": "site/datos/2026-09.json",
+      "records": 1298
+    },
+    {
+      "path": "data/items/2026-09.json",
+      "upstream": "site/datos/2026-09.json",
+      "records": 207
+    },
+    {
+      "path": "data/votaciones/2026-10.json",
+      "upstream": "site/datos/2026-10.json",
+      "records": 2
+    },
+    {
+      "path": "data/sesiones/2026-10.json",
+      "upstream": "site/datos/2026-10.json",
+      "records": 1
+    },
+    {
+      "path": "data/intervenciones/2026-10.json",
+      "upstream": "site/datos/2026-10.json",
+      "records": 42
+    },
+    {
+      "path": "data/items/2026-10.json",
+      "upstream": "site/datos/2026-10.json",
+      "records": 2
+    },
+    {
+      "path": "data/elecciones/resultados-2023.json",
+      "upstream": "data/elecciones/historico-202307.json + data/elecciones/provincias/NN.json (key 202307)",
+      "records": 52
+    },
+    {
+      "path": "data/elecciones/escanos-2026.json",
+      "upstream": "site/datos/elecciones/elecciones.json",
+      "records": 52
+    },
+    {
+      "path": "data/diputados.json",
+      "upstream": "data/diputados.json"
+    },
+    {
+      "path": "data/hemiciclo.json",
+      "upstream": "data/hemiciclo.json"
+    },
+    {
+      "path": "data/indice.json",
+      "upstream": "site/datos/indice.json"
+    },
+    {
+      "path": "data/elecciones/territorios.json",
+      "upstream": "data/geografia/territorios.json"
+    }
+  ]
+}

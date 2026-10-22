@@ -1,7 +1,10 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
+import Link from "next/link";
 import type { ReactNode } from "react";
 import ficha from "../../ficha.json";
+import { SiteFooter } from "@/components/site-footer";
+import { SiteNav } from "@/components/site-nav";
 import "./globals.css";
 
 const geist = Geist({ subsets: ["latin"], variable: "--font-geist" });
@@ -35,7 +38,18 @@ export default function RootLayout({ children }: { children: ReactNode }) {
         >
           Herramienta experimental. No es un servicio oficial.
         </p>
-        {children}
+        <header className="border-b">
+          <div className="mx-auto flex h-[57px] max-w-6xl items-center gap-4 px-4 sm:px-6">
+            <Link href="/" className="shrink-0 text-[15px] font-semibold">
+              {ficha.nombre}
+            </Link>
+            <SiteNav />
+          </div>
+        </header>
+        <div id="contenido" tabIndex={-1} className="outline-none">
+          {children}
+        </div>
+        <SiteFooter />
       </body>
     </html>
   );
